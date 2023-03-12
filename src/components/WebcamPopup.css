@@ -11,3 +11,7 @@
 .popupThumbnail {
   display: inline-block;
 }
+
+.popupIframe {
+  height: 100%;
+}
