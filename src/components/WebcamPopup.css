@@ -1,0 +1,13 @@
+
+.popupContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.popupThumbnailContainer {
+  overflow-x: auto;
+}
+
+.popupThumbnail {
+  display: inline-block;
+}
