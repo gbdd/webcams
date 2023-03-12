@@ -46,3 +46,5 @@ export const iconMountain = new L.Icon({
   iconAnchor: [12, 12],
   className: 'mapMarker'
 });
+
+export const PRODUCT_SHORTNAME:string = 'BddWbcms';

@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { MapContainer } from 'react-leaflet';
 import './App.css';
 import axios from 'axios';
 import { WebcamMap } from './components/WebcamMap';
@@ -22,7 +23,9 @@ function App() {
 
   return (
     <div className="App">
-      <WebcamMap webcams={myWebcams}></WebcamMap>
+      <MapContainer center={[ 45.57439550729501, 6.143455853878999 ]} zoom={10} scrollWheelZoom={true}>
+        <WebcamMap webcams={myWebcams}></WebcamMap>
+      </MapContainer>
     </div>
   );
 }
