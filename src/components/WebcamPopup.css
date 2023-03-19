@@ -15,3 +15,7 @@
 .popupIframe {
   height: 100%;
 }
+
+.leaflet-popup-close-button {
+  display: none; 
+}
