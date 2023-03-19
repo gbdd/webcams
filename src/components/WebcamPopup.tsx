@@ -2,6 +2,7 @@ import React, { FC, ReactElement, useState, useRef, useEffect } from 'react';
 import './WebcamPopup.css';
 import {  Popup, useMap, useMapEvents } from 'react-leaflet';
 import { livecam } from '../tools/consts';
+import { IS_MOBILE } from '../tools/UIConstants';
 
 type PopupProps = {
   lc: livecam,
@@ -17,7 +18,9 @@ export const WebcamPopup: FC<PopupProps> = ({lc}): ReactElement => {
 
   useEffect(
     () => {
-      if (typeof lc.iframesrc !== 'undefined') {
+      if ((typeof lc.iframesrc !== 'undefined')
+       || (!IS_MOBILE && (typeof lc.iframesrcdesktop !== "undefined")))
+      {
         setMaxWidth(map.getSize().x);
         setMaxHeight(map.getSize().y);
       }
@@ -28,7 +31,8 @@ export const WebcamPopup: FC<PopupProps> = ({lc}): ReactElement => {
   const thumbRef = useRef<HTMLImageElement>(null);
   
   const setPopupContentSize = (_mapWidth:number, _mapHeight:number) => {
-    if (typeof lc.iframesrc !== 'undefined') {
+    if ((typeof lc.iframesrc !== 'undefined')
+     || (!IS_MOBILE && (typeof lc.iframesrcdesktop !== "undefined"))) {
       if (typeof _mapWidth !== 'undefined') {
         setContentWidth(_mapWidth * 80 / 100);
         setContentHeight(_mapHeight * 80 / 100);
@@ -79,34 +83,27 @@ export const WebcamPopup: FC<PopupProps> = ({lc}): ReactElement => {
     }
   }// startScrolling
 
+  let iframesrc = lc.iframesrc;
+  if (!IS_MOBILE && (typeof lc.iframesrcdesktop !== "undefined")) {
+    iframesrc = lc.iframesrcdesktop;
+  }
 
   return (
     <React.Fragment>
-    { (typeof lc.iframesrc !== "undefined") && (
+    { (typeof iframesrc !== "undefined") && (
       <Popup className="markerPopup" maxWidth={maxWidth} maxHeight={maxHeight}>
         <div  className="popupContent" style={{width: contentWidth, height: contentHeight}}>
         <a href={lc.url} target="_blank" rel="noreferrer">{lc.name}</a>
-          { (lc.iframesrc !== undefined) && (
-            <iframe className="popupIframe" src={lc.iframesrc} title={lc.name} allowFullScreen allow='autoplay'></iframe>
+          { (iframesrc !== undefined) && (
+            <iframe className="popupIframe" src={iframesrc} title={lc.name} allowFullScreen allow='autoplay'></iframe>
           )}
-          { ((lc.thumburl !== undefined) && (typeof lc.iframesrc === 'undefined')) && (
-            <div ref={thumbContainer} className="popupThumbnailContainer">
-              <a href={lc.url} target="_blank" rel="noreferrer">
-                <img ref={thumbRef} className="popupThumbnail" src={lc.thumburl} alt={lc.name} onLoad={onImgLoad} width={imgWidth}></img>
-              </a>
-            </div>
-          )}
-
         </div>
       </Popup>
     )}
-    { (typeof lc.iframesrc === "undefined") && (
-    <Popup className="markerPopup">
+    { (typeof iframesrc === "undefined") && (
+    <Popup className="markerPopup" closeButton={false} closeOnEscapeKey={true}>
       <div  className="popupContent">
       <a href={lc.url} target="_blank" rel="noreferrer">{lc.name}</a>
-        { (lc.iframesrc !== undefined) && (
-          <iframe className="popupIframe" src={lc.iframesrc} title={lc.name} allowFullScreen allow='autoplay'></iframe>
-        )}
         { ((lc.thumburl !== undefined) && (typeof lc.iframesrc === 'undefined')) && (
           <div ref={thumbContainer} className="popupThumbnailContainer">
             <a href={lc.url} target="_blank" rel="noreferrer">

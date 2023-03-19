@@ -9,6 +9,7 @@ export interface livecam {
   url: string,
   thumburl: string,
   iframesrc: string,
+  iframesrcdesktop: string,
 }
 
 export const iconCity = new L.Icon({
