@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="App">
-      <MapContainer center={[ 45.57439550729501, 6.143455853878999 ]} zoom={10} scrollWheelZoom={true}>
+      <MapContainer center={[ 45.57439550729501, 6.143455853878999 ]} zoom={10} scrollWheelZoom={true} zoomControl={false}>
         <WebcamMap webcams={myWebcams}></WebcamMap>
       </MapContainer>
     </div>
