@@ -218,7 +218,8 @@
     },
     {
       "name" : "Larche",
-      "url" : "https://www.viewsurf.com/univers/montagne/vue/11294-france-provence-alpes-cote-dazur-larche-village",
+      "url" : "https://pv.viewsurf.com/1930/Larche",
+      "iframesrc" : "https://pv.viewsurf.com/1930/Larche",
       "type": "mountain",
       "description": "",
       "longitude": 6.8483432,
@@ -247,6 +248,7 @@
     {
       "name" : "Barcelonnette",
       "url" : "https://www.viewsurf.com/univers/montagne/vue/7110-783015168-france-provence-alpes-cote-dazur-la-condamine-chatelard-panoramique-hd",
+      "iframesrc" : "https://pv.viewsurf.com/1602/Barcelonnette",
       "type": "mountain",
       "description": "",
       "longitude": 6.6414011,
@@ -338,8 +340,27 @@
       "latitude": 47.5479471
     },
     {
+      "name" : "Le Bono",
+      "url" : "https://www.youtube.com/watch?v=tbsKBoJzmmY",
+      "iframesrc" : "https://www.youtube.com/embed/tbsKBoJzmmY",
+      "type": "sea",
+      "description": "",
+      "longitude": -2.9528037726875214,
+      "latitude": 47.64003062399074
+    },
+    {
+      "name" : "Les Sables d'Olonne",
+      "url" : "https://pv.viewsurf.com/id/1070/a/media/c/4912",
+      "iframesrc" : "https://pv.viewsurf.com/id/1070/a/media/c/4912",
+      "type": "sea",
+      "description": "",
+      "longitude": -1.7616176133944814,
+      "latitude": 46.48149185667304
+    },
+    {
       "name" : "Ile d'Yeu - Port Joinville",
-      "url" : "https://www.viewsurf.com/univers/plage/vue/17600-france-pays-de-la-loire-lile-dyeu-le-port",
+      "url" : "https://pv.viewsurf.com/id/1000/a/media/c/4730",
+      "iframesrc" : "https://pv.viewsurf.com/id/1000/a/media/c/4730",
       "type": "sea",
       "description": "",
       "longitude": -2.3475794,
@@ -355,8 +376,18 @@
       "latitude": 47.492538
     },
     {
+      "name" : "Arzon - Port du Crouesty",
+      "url" : "https://pv.viewsurf.com/1642/Port-du-Crouesty",
+      "iframesrc" : "https://pv.viewsurf.com/1642/Port-du-Crouesty",
+      "type": "sea",
+      "description": "",
+      "longitude": -2.895077839803171,
+      "latitude": 47.543777617637055
+    },
+    {
       "name" : "Arradon",
-      "url" : "https://www.viewsurf.com/univers/plage/vue/19226-france-bretagne-arradon-live",
+      "url" : "https://pv.viewsurf.com/2124/Port-d-Arradon-Mairie",
+      "iframesrc" : "https://pv.viewsurf.com/2124/Port-d-Arradon-Mairie",
       "type": "sea",
       "description": "",
       "longitude": -2.8276164,
@@ -364,7 +395,8 @@
     },
     {
       "name" : "Ile aux Moines",
-      "url" : "https://www.viewsurf.com/univers/plage/vue/17610-france-bretagne-ile-aux-moines-live",
+      "url" : "https://pv.viewsurf.com/1640/Port-Blanc-Ile-aux-moines",
+      "iframesrc" : "https://pv.viewsurf.com/1640/Port-Blanc-Ile-aux-moines",
       "type": "sea",
       "description": "",
       "longitude": -2.8520722,
