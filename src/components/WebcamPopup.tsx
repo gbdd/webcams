@@ -3,12 +3,14 @@ import './WebcamPopup.css';
 import {  Popup, useMap, useMapEvents } from 'react-leaflet';
 import { livecam } from '../tools/consts';
 import { IS_MOBILE } from '../tools/UIConstants';
+import { StarToggle } from './StarToggle';
 
 type PopupProps = {
   lc: livecam,
+  setPreferred: Function,
 }
 
-export const WebcamPopup: FC<PopupProps> = ({lc}): ReactElement => {
+export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement => {
   const map = useMap();
   const [imgWidth, setImgWidth] = useState<number>();
   const [maxWidth, setMaxWidth] = useState<number>();
@@ -26,7 +28,8 @@ export const WebcamPopup: FC<PopupProps> = ({lc}): ReactElement => {
       }
       setPopupContentSize(map.getSize().x, map.getSize().y);
     }
-  , [map]);
+  , [map, lc.iframesrc, lc.iframesrcdesktop]);
+
   const thumbContainer = useRef<HTMLDivElement>(null);
   const thumbRef = useRef<HTMLImageElement>(null);
   
@@ -83,6 +86,19 @@ export const WebcamPopup: FC<PopupProps> = ({lc}): ReactElement => {
     }
   }// startScrolling
 
+  const handleOnCheck = (_checked:boolean) => {
+    setPreferred(lc, _checked);
+  }
+
+  const isPreferred = ():boolean => {
+    let pref:boolean = false
+    if ((typeof lc.preferred !== "undefined")
+     && (lc.preferred !== null)) {
+      pref = lc.preferred;
+    }
+    return pref;
+  }
+
   let iframesrc = lc.iframesrc;
   if (!IS_MOBILE && (typeof lc.iframesrcdesktop !== "undefined")) {
     iframesrc = lc.iframesrcdesktop;
@@ -93,7 +109,14 @@ export const WebcamPopup: FC<PopupProps> = ({lc}): ReactElement => {
     { (typeof iframesrc !== "undefined") && (
       <Popup className="markerPopup" maxWidth={maxWidth} maxHeight={maxHeight}>
         <div  className="popupContent" style={{width: contentWidth, height: contentHeight}}>
-        <a href={lc.url} target="_blank" rel="noreferrer">{lc.name}</a>
+        <div className="popupHeader">
+          <div className='popupHeaderTitle'>
+            <a href={lc.url} target="_blank" rel="noreferrer">{lc.name}</a>
+          </div>
+          <div className='popupHeaderToolbar'>
+            <StarToggle checked={isPreferred()} onChecked={handleOnCheck}></StarToggle>
+          </div>
+        </div>
           { (iframesrc !== undefined) && (
             <iframe className="popupIframe" src={iframesrc} title={lc.name} allowFullScreen allow='autoplay'></iframe>
           )}
@@ -103,7 +126,14 @@ export const WebcamPopup: FC<PopupProps> = ({lc}): ReactElement => {
     { (typeof iframesrc === "undefined") && (
     <Popup className="markerPopup" closeButton={false} closeOnEscapeKey={true}>
       <div  className="popupContent">
-      <a href={lc.url} target="_blank" rel="noreferrer">{lc.name}</a>
+      <div className="popupHeader">
+        <div className='popupHeaderTitle'>
+          <a href={lc.url} target="_blank" rel="noreferrer">{lc.name}</a>
+        </div>
+        <div className='popupHeaderToolbar'>
+          <StarToggle checked={isPreferred()} onChecked={handleOnCheck}></StarToggle>
+        </div>
+      </div>
         { ((lc.thumburl !== undefined) && (typeof lc.iframesrc === 'undefined')) && (
           <div ref={thumbContainer} className="popupThumbnailContainer">
             <a href={lc.url} target="_blank" rel="noreferrer">

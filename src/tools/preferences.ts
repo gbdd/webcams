@@ -9,6 +9,8 @@ import { PRODUCT_SHORTNAME } from './consts';
 export const PREFERENCES = {
   MAP_LAST_ZOOM: 'mapLastZoom',
   MAP_LAST_CENTER: 'mapLastCenter',
+  PREF_LOCATION: 'prefLocations',
+  ONLY_PREFS: 'onlyPrefs',
 };
 
 const getAppPreferenceKey = ():string => {

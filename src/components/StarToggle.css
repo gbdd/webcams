@@ -1,0 +1,9 @@
+.StarToggleContainer {
+  cursor: pointer;
+  color: #FFD700;
+  font-size: medium;
+}
+.StarToggleContainer:hover {
+  font-size: large;
+  color: #fcd21c;
+}

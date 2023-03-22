@@ -15,10 +15,10 @@ import { WebcamPopup } from './WebcamPopup';
 
 type WebcamMarkerProps = {
   lc: livecam,
+  setPreferred: Function,
 }
 
-export const WebcamMarker: FC<WebcamMarkerProps> = ({lc}): ReactElement => {
-
+export const WebcamMarker: FC<WebcamMarkerProps> = ({lc, setPreferred}): ReactElement => {
 
   const getIcon = (lc:livecam):(L.Icon | undefined) => {
     if (lc.type === 'mountain') {
@@ -42,7 +42,7 @@ export const WebcamMarker: FC<WebcamMarkerProps> = ({lc}): ReactElement => {
           {lc.name}
         </Tooltip>
       )}
-      <WebcamPopup lc={lc}></WebcamPopup>
+      <WebcamPopup lc={lc} setPreferred={setPreferred}></WebcamPopup>
     </Marker>
   );
 }

@@ -3,17 +3,26 @@
   flex-direction: column;
 }
 
-.test {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  right: 32px;
-  bottom: 32px;
-}
-.leaflet-container {
+.Header {
+  position: fixed;
+  z-index: 500;
+  background-color: #6d695e;
+  color: white;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: 100vh;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
-.mapMarker {
-  background: transparent;
+
+.HeaderTitle {
+  flex: 1;
+  margin: 10px;
+}
+
+.HeaderToolbar {
+  flex: 0;
+  margin-right: 10px;
 }

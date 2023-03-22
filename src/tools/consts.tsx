@@ -1,5 +1,10 @@
 import L from 'leaflet';
 
+export type PrefLoc = {
+  lat: number,
+  lng: number,
+}
+
 export interface livecam {
   latitude: number,
   longitude: number,
@@ -10,6 +15,7 @@ export interface livecam {
   thumburl: string,
   iframesrc: string,
   iframesrcdesktop: string,
+  preferred?: boolean,
 }
 
 export const iconCity = new L.Icon({

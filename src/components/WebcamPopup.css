@@ -19,3 +19,24 @@
 .leaflet-popup-close-button {
   display: none; 
 }
+
+.leaflet-popup-content-wrapper {
+  background-color: #6d695e;
+}
+.leaflet-popup-tip {
+  background-color: #6d695e;
+}
+
+.popupHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.popupHeaderTitle {
+  flex: 1;
+}
+
+.popupHeaderToolbar {
+  flex: 0;
+}

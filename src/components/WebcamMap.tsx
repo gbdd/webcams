@@ -10,19 +10,25 @@ import {
 } from '../tools/preferences';
 import {
   livecam,
+  PrefLoc,
 } from '../tools/consts';
 import { WebcamMarker } from './WebcamMarker';
 
 type WebcamMapProps = {
   webcams: livecam[],
+  onPopupOpened: Function,
+  onPrefCamsChanged: Function,
+  onlyPreferred: boolean,
 }
 
-export const WebcamMap: FC<WebcamMapProps> = ({webcams}): ReactElement => {
+export const WebcamMap: FC<WebcamMapProps> = ({webcams, onPopupOpened, onlyPreferred, onPrefCamsChanged}): ReactElement => {
   const map = useMap();
+
   useEffect(
     () => {
       const lastZoom = getPreference(PREFERENCES.MAP_LAST_ZOOM, 10);
       const lastCenter = getPreference(PREFERENCES.MAP_LAST_CENTER, {lat: 45.57439550729501, lng: 6.143455853878999 });
+
       map.setView(new L.LatLng(lastCenter.lat, lastCenter.lng), lastZoom);
     }
   , [map]);
@@ -44,6 +50,7 @@ export const WebcamMap: FC<WebcamMapProps> = ({webcams}): ReactElement => {
     popupopen: (evt) => {
       setPopupOpened(true);
       setCenterBeforePopup(map.getCenter());
+      onPopupOpened(true);
     },
     popupclose: (evt) => {
       if (popupOpened) {
@@ -53,6 +60,7 @@ export const WebcamMap: FC<WebcamMapProps> = ({webcams}): ReactElement => {
         }
       }
       setCenterBeforePopup(null);
+      onPopupOpened(false);
     },
   })
 
@@ -63,6 +71,11 @@ export const WebcamMap: FC<WebcamMapProps> = ({webcams}): ReactElement => {
     color: 'transparent',
   };
 
+  const handleSetPreferred = (_lc:livecam, _preferred:boolean) => {
+    _lc.preferred = _preferred;
+    onPrefCamsChanged();
+  }
+
   return (
     <React.Fragment>
       <TileLayer
@@ -72,7 +85,11 @@ export const WebcamMap: FC<WebcamMapProps> = ({webcams}): ReactElement => {
         {webcams.map((lc, idxlc) => {
           const key:string = `${lc.latitude},${lc.longitude}`;
           return (
-            <WebcamMarker lc={lc} key={key}></WebcamMarker>
+            <React.Fragment key={key}>
+              { (!onlyPreferred || lc.preferred) && (
+                <WebcamMarker lc={lc} setPreferred={handleSetPreferred}></WebcamMarker>
+              )}
+            </React.Fragment>
           );
         })}
       </MarkerClusterGroup>
