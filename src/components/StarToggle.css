@@ -1,9 +1,30 @@
 .StarToggleContainer {
   cursor: pointer;
   color: #FFD700;
-  font-size: medium;
+  font-size: large;
 }
 .StarToggleContainer:hover {
   font-size: large;
   color: #fcd21c;
+}
+
+
+input {
+  height: 0;
+  width: 0;
+  opacity: 0;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.form-group label {
+  display: flex;
+  color: #FFD700;
+  align-items: center;
+  cursor: pointer;
+  font-size: large;
 }

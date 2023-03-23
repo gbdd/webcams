@@ -25,4 +25,11 @@
 .HeaderToolbar {
   flex: 0;
   margin-right: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.prefNumber {
+  margin-right: 5px;
+  color: #FFD700;
 }

@@ -31,6 +31,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
+  margin-bottom: 5px;
 }
 
 .popupHeaderTitle {
@@ -39,4 +40,8 @@
 
 .popupHeaderToolbar {
   flex: 0;
+}
+
+.popupHeaderTitle a {
+  color: white;
 }

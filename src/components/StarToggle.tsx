@@ -22,14 +22,17 @@ export const StarToggle: FC<StarToggleProps> = ({checked, onChecked}): ReactElem
   }
 
   return (
-    <div className="StarToggleContainer" onClick={handleOnClick}>
-      { internalChecked && (
-        <i className="fa-solid fa-star"></i>
-      )}
-      { !internalChecked && (
-        <i className="fa-regular fa-star"></i>
-      )}
-    </div>
+      <div className="form-group">
+        <input type="checkbox" id="html" onClick={handleOnClick}/>
+        <label htmlFor="html">
+        { internalChecked && (
+          <i className="fa-solid fa-star"></i>
+        )}
+        { !internalChecked && (
+          <i className="fa-regular fa-star"></i>
+        )}
+        </label>
+      </div>
   );
 }
 

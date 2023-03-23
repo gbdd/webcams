@@ -16,6 +16,7 @@ function App() {
   const [myWebcams, setMyWebcams] = useState<livecam[]>([]);
   const [displayHeader, setDisplayHeader] = useState<boolean>(true);
   const [displayPreferedWebcam, setDisplayPreferedWebcam] = useState<boolean>(false);
+  const [nbPreferredWebcams, setNbPreferredWebcams] = useState<number>(0);
 
   useEffect(() => {
     axios.get('./livecams.json')
@@ -41,17 +42,18 @@ function App() {
   , [myWebcams]);
 
   const mergePreferredCams = (_preferredCams:PrefLoc[]) => {
-    let thereAreSome:boolean = false;
+    let nbPrefs:number = 0;
     _preferredCams.forEach(prefLoc => {
       const foundWc = myWebcams.find(wc => ((wc.latitude === prefLoc.lat) && (wc.longitude === prefLoc.lng)));
       if (foundWc !== undefined) {
         foundWc.preferred = true;
-        thereAreSome = true;
+        nbPrefs += 1;
       }
     })
-    if (thereAreSome) {
+    if (nbPrefs > 0) {
       setDisplayPreferedWebcam(getPreference(PREFERENCES.ONLY_PREFS, false));
     }
+    setNbPreferredWebcams(nbPrefs);
   }
   const handlePrefCamChanged = () => {
     savePreferredCams();
@@ -65,10 +67,20 @@ function App() {
     });
     setPreference(PREFERENCES.PREF_LOCATION, prefLocs);
   }
-
+  const computeNbPrefWebcams = () => {
+    let nbPrefs:number = 0;
+    myWebcams.forEach(wc => {
+      if (wc.preferred) {
+        nbPrefs += 1;
+      }
+    });
+    setNbPreferredWebcams(nbPrefs);
+  }
 
   const handlePopupOpened = (_opened:boolean) => {
     setDisplayHeader(!_opened);
+
+    computeNbPrefWebcams();
   }
 
   const handleOnChecked = (_checked:boolean) => {
@@ -81,9 +93,10 @@ function App() {
       {displayHeader && (
         <div className="Header">
           <div className="HeaderTitle">
-            Webcams
+            Map Of Webcams
           </div>
           <div className="HeaderToolbar">
+            <div className="prefNumber">{nbPreferredWebcams}/{myWebcams.length}</div>
             <StarToggle checked={displayPreferedWebcam} onChecked={handleOnChecked}></StarToggle>
           </div>
         </div>
