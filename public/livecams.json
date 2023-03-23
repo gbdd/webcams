@@ -556,6 +556,66 @@
       "description": "",
       "longitude": 6.032675464525221,
       "latitude": 45.2533501343851
+    },
+    {
+      "name" : "La Rochelle",
+      "url" : "https://www.skaping.com/larochelle-tourisme",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=RQGVz-6mz7B-kTLyR-cRFpk&quality=thumb",
+      "iframesrc" : "https://www.skaping.com/larochelle-tourisme",
+      "type": "city",
+      "description": "",
+      "longitude": -1.149835215764929,
+      "latitude": 46.15709848480495
+    },
+    {
+      "name" : "Les Sables d'Olonne - Port Olonna",
+      "url" : "https://www.skaping.com/sables-d-olonne/port-olona/panoramique",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=BImji-NzShL-AhUvo-cN7Xk&quality=thumb",
+      "iframesrc" : "https://www.skaping.com/sables-d-olonne/port-olona/panoramique",
+      "type": "sea",
+      "description": "",
+      "longitude": -1.7884837553488202,
+      "latitude": 46.501640775836684
+    },
+    {
+      "name" : "La Baule",
+      "url" : "https://www.skaping.com/la-baule/plage/video",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=mW9rL-XA9oj-6dGAG-2f05x&quality=thumb",
+      "iframesrc" : "https://www.skaping.com/la-baule/plage/video",
+      "type": "sea",
+      "description": "",
+      "longitude": -2.3975107218967406,
+      "latitude": 47.2816372058371
+    },
+    {
+      "name" : "Quiberon",
+      "url" : "https://www.skaping.com/quiberon/video-panoramique",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=3x7f5-pwbOX-AD7BJ-QwXEf&quality=thumb",
+      "iframesrc" : "https://www.skaping.com/quiberon/video-panoramique",
+      "type": "sea",
+      "description": "",
+      "longitude": -3.1133328175372927,
+      "latitude": 47.47630606915675
+    },
+    {
+      "name" : "Saint Jacques",
+      "url" : "https://www.skaping.com/sarzeau/port-saint-jacques",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=vEVFD-hcVbn-2mJOf-1UFFM&quality=thumb",
+      "iframesrc" : "https://www.skaping.com/sarzeau/port-saint-jacques",
+      "type": "sea",
+      "description": "",
+      "longitude": -2.7920182047955584,
+      "latitude": 47.48618778275265
+    },
+    {
+      "name" : "Belle Ile - La Pointe des Poulains",
+      "url" : "https://www.skaping.com/belle-ile/pointe-des-poulains/video",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=mDQpN-U6SwH-8zdOV-5fyzz&quality=thumb",
+      "iframesrc" : "https://www.skaping.com/belle-ile/pointe-des-poulains/video",
+      "type": "sea",
+      "description": "",
+      "longitude": -3.2473764527500975,
+      "latitude": 47.38460587882258
     }
   ]
 }
