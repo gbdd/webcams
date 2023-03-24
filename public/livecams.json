@@ -31,6 +31,26 @@
       "latitude": 45.3249894
     },
     {
+      "name" : "Bessans - Carreley",
+      "url" : "https://m.webcam-hd.com/bessans/carreley",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_bessans_carreley.jpg",
+      "iframesrc" : "https://m.webcam-hd.com/bessans/carreley",
+      "type": "mountain",
+      "description": "",
+      "longitude": 7.002064189541645,
+      "latitude": 45.322488712305876
+    },
+    {
+      "name" : "Bessans - La Bessanaise",
+      "url" : "https://m.webcam-hd.com/bessans/bessannaise",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_bessans_la-bessannaise.jpg",
+      "iframesrc" : "https://m.webcam-hd.com/bessans/bessannaise",
+      "type": "mountain",
+      "description": "",
+      "longitude": 7.011486549800344,
+      "latitude": 45.328700371824155
+    },
+    {
       "name" : "Praloup - station",
       "url" : "https://www.skaping.com/pra-loup/station",
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=HX39i-d66ZL-okjQn-Qs2WZ&quality=thumb",
@@ -538,6 +558,26 @@
       "latitude": 45.198936837724695
     },
     {
+      "name" : "Grenoble - Hotel de ville",
+      "url" : "https://www.skaping.com/grenoble/hotel-de-ville",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=ZD7jm-EAKl7-SWJ1K-a3J8L&quality=thumb",
+      "iframesrc" : "https://www.skaping.com/grenoble/hotel-de-ville",
+      "type": "city",
+      "description": "",
+      "longitude": 5.736282485266358,
+      "latitude": 45.186184333138726
+    },
+    {
+      "name" : "Grenoble - Les Vouillants",
+      "url" : "https://www.skaping.com/grenoble/les-vouillants",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=LDNJy-PVncu-yRLyk-tnTU7&quality=thumb",
+      "iframesrc" : "https://www.skaping.com/grenoble/les-vouillants",
+      "type": "city",
+      "description": "",
+      "longitude": 5.674293832395072,
+      "latitude": 45.17440731546165
+    },
+    {
       "name" : "Champagny",
       "url" : "https://app.webcam-hd.com/webcam-station-champagny/champagny-le-haut",
       "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_champagny_champagny-le-haut.jpg",
@@ -616,6 +656,53 @@
       "description": "",
       "longitude": -3.2473764527500975,
       "latitude": 47.38460587882258
+    },
+    {
+      "name" : "Pointe du Raz",
+      "url" : "https://www.youtube.com/watch?v=yiidUwe-QeQ",
+      "iframesrc" : "https://www.youtube.com/embed/yiidUwe-QeQ?autoplay=1&mute=1&enablejsapi=1",
+      "type": "sea",
+      "description": "",
+      "longitude": -4.731820576615801,
+      "latitude": 48.03879629639819
+    },
+    {
+      "name" : "Puy Saint Vincent - 2400",
+      "url" : "https://www.youtube.com/watch?v=Fj7LGXb8V44",
+      "iframesrc" : "https://www.youtube.com/embed/Fj7LGXb8V44?autoplay=1&mute=1&enablejsapi=1",
+      "type": "mountain",
+      "description": "",
+      "longitude": 6.476867329199346,
+      "latitude": 44.80357742350111
+    },
+    {
+      "name" : "Puy Saint Vincent - La Pendine",
+      "url" : "https://www.youtube.com/watch?v=7Nmix_ai0WU",
+      "iframesrc" : "https://www.youtube.com/embed/7Nmix_ai0WU?autoplay=1&mute=1&enablejsapi=1",
+      "type": "mountain",
+      "description": "",
+      "longitude": 6.455913134852377,
+      "latitude": 44.80283180148993
+    },
+    {
+      "name" : "Col de Porte",
+      "url" : "https://www.skaping.com/col-de-porte/biathlon",
+      "iframesrc" : "https://www.skaping.com/col-de-porte/biathlon",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=MmM98-hVwuM-72GHE-N3Tgt&quality=thumb",
+      "type": "mountain",
+      "description": "",
+      "longitude": 5.770164464878606,
+      "latitude": 45.29506951362608
+    },
+    {
+      "name" : "Namche Bazaar - Everest",
+      "url" : "https://himalayas.panomax.com/hotel-everest-view",
+      "thumburl": "https://live-image.panomax.com/cams/4623/recent_reduced.jpg",
+      "iframesrcdesktop" : "https://himalayas.panomax.com/hotel-everest-view",
+      "type": "mountain",
+      "description": "",
+      "longitude": 86.70867665301711,
+      "latitude": 27.804038615909008
     }
   ]
 }
