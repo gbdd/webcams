@@ -6,9 +6,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=CN4ci-k987j-ELwvp-33ZFx&quality=thumb",
       "iframesrc" : "https://www.skaping.com/crest-voland/lachat",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.5212078,
-      "latitude": 45.7878434
+      "lng": 6.5212078,
+      "lat": 45.7878434
     },
     {
       "name" : "Col du Galibier",
@@ -16,9 +15,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=nmhpc-emfZH-99hV8-B8wwM&quality=thumb",
       "iframesrc" : "https://www.skaping.com/valloire/galibier",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.420358,
-      "latitude": 45.0610395
+      "lng": 6.420358,
+      "lat": 45.0610395
     },
     {
       "name" : "Bessans",
@@ -26,9 +24,8 @@
       "thumburl": "https://www.trinum.com/ibox/ftpcam/small_bessans_relais.jpg",
       "iframesrc" : "https://m.webcam-hd.com/bessans/relais",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.9882152,
-      "latitude": 45.3249894
+      "lng": 6.9882152,
+      "lat": 45.3249894
     },
     {
       "name" : "Bessans - Carreley",
@@ -36,9 +33,8 @@
       "thumburl": "https://www.trinum.com/ibox/ftpcam/small_bessans_carreley.jpg",
       "iframesrc" : "https://m.webcam-hd.com/bessans/carreley",
       "type": "mountain",
-      "description": "",
-      "longitude": 7.002064189541645,
-      "latitude": 45.322488712305876
+      "lng": 7.002064189541645,
+      "lat": 45.322488712305876
     },
     {
       "name" : "Bessans - La Bessanaise",
@@ -46,9 +42,8 @@
       "thumburl": "https://www.trinum.com/ibox/ftpcam/small_bessans_la-bessannaise.jpg",
       "iframesrc" : "https://m.webcam-hd.com/bessans/bessannaise",
       "type": "mountain",
-      "description": "",
-      "longitude": 7.011486549800344,
-      "latitude": 45.328700371824155
+      "lng": 7.011486549800344,
+      "lat": 45.328700371824155
     },
     {
       "name" : "Praloup - station",
@@ -56,9 +51,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=HX39i-d66ZL-okjQn-Qs2WZ&quality=thumb",
       "iframesrc" : "https://www.skaping.com/pra-loup/station",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.5985432,
-      "latitude": 44.3668784
+      "lng": 6.5985432,
+      "lat": 44.3668784
     },
     {
       "name" : "Praloup - Costebelle",
@@ -66,18 +60,16 @@
       "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_pra-loup_costebelle.jpg",
       "iframesrc" : "https://app.webcam-hd.com/pra-loup/costebelle",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.5865776,
-      "latitude": 44.3599861
+      "lng": 6.5865776,
+      "lat": 44.3599861
     },
     {
       "name" : "Col Bayard",
       "url" : "https://pv.viewsurf.com/?id=244",
       "iframesrc" : "https://pv.viewsurf.com/?id=244",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.0840031,
-      "latitude": 44.6201598
+      "lng": 6.0840031,
+      "lat": 44.6201598
     },
     {
       "name" : "Le Collet d'Allevard - Les Plagnes",
@@ -85,9 +77,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=zil2x-qc86R-t4ihV-JyJW7&quality=thumb",
       "iframesrc" : "https://www.skaping.com/collet-d-allevard/sommet",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.1467023,
-      "latitude": 45.3862577
+      "lng": 6.1467023,
+      "lat": 45.3862577
     },
     {
       "name" : "Col du Lautaret",
@@ -95,9 +86,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=i7ZZy-UaAxw-BETx9-NslVP&quality=thumb",
       "iframesrc" : "https://www.skaping.com/serrechevalier/coldulautaret",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.4056519,
-      "latitude": 45.0350868
+      "lng": 6.4056519,
+      "lat": 45.0350868
     },
     {
       "name" : "Le Revard - Pistes de luge",
@@ -105,9 +95,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=E8kwB-imxce-qviiG-QFjDx&quality=thumb",
       "iframesrc" : "https://www.skaping.com/grandlac/revardinfoneige",
       "type": "mountain",
-      "description": "",
-      "longitude": 5.9789882,
-      "latitude": 45.6800558
+      "lng": 5.9789882,
+      "lat": 45.6800558
     },
     {
       "name" : "La Sambuy",
@@ -115,9 +104,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=igESl-UDKJP-5ATS5-0H6VY&quality=thumb",
       "iframesrc" : "https://www.skaping.com/sambuy",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.2719751,
-      "latitude": 45.6980359
+      "lng": 6.2719751,
+      "lat": 45.6980359
     },
     {
       "name" : "Le Peguieou",
@@ -125,27 +113,24 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=4xXw7-7uXmX-LVjiN-1yeQG&quality=thumb",
       "iframesrc" : "https://www.skaping.com/pra-loup/peguieou",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.5776691,
-      "latitude": 44.3484504
+      "lng": 6.5776691,
+      "lat": 44.3484504
     },
     {
       "name" : "Sainte Anne",
       "url" : "https://pv.viewsurf.com/1920/Sainte-Anne",
       "iframesrc" : "https://pv.viewsurf.com/1920/Sainte-Anne",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.7164897,
-      "latitude": 44.4634853
+      "lng": 6.7164897,
+      "lat": 44.4634853
     },
     {
       "name" : "Saint Sorlin d'Arves",
       "url" : "https://pv.viewsurf.com/?id=58",
       "iframesrc" : "https://pv.viewsurf.com/?id=58",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.2181202,
-      "latitude": 45.2080941
+      "lng": 6.2181202,
+      "lat": 45.2080941
     },
     {
       "name" : "Pralognan - Front de Neige",
@@ -153,9 +138,8 @@
       "thumburl": "https://www.trinum.com/ibox/ftpcam/small_pralognan_village.jpg",
       "iframesrc" : "https://m.webcam-hd.com/pralognan/village",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.7229879,
-      "latitude": 45.3812627
+      "lng": 6.7229879,
+      "lat": 45.3812627
     },
     {
       "name" : "St François Longchamp",
@@ -163,9 +147,8 @@
       "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_st_francois_village.jpg",
       "iframesrc" : "https://m.webcam-hd.com/st_francois_longchamp/st_francois_village",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.3639403,
-      "latitude": 45.4180148
+      "lng": 6.3639403,
+      "lat": 45.4180148
     },
     {
       "name" : "La Feclaz - stade biathlon",
@@ -173,9 +156,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=xLhbF-lUfOs-ltf7i-m7wJG&quality=thumb",
       "iframesrc" : "https://www.skaping.com/la-feclaz/stade-de-biathlon",
       "type": "mountain",
-      "description": "",
-      "longitude": 5.9847963,
-      "latitude": 45.6497298
+      "lng": 5.9847963,
+      "lat": 45.6497298
     },
     {
       "name" : "Margeriaz - tunnel débutants",
@@ -183,9 +165,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=PAXUw-UVVfS-U0tBe-5h2Bi&quality=thumb",
       "iframesrc" : "https://www.skaping.com/les-aillons/margeriaz",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.0611158,
-      "latitude": 45.6440078
+      "lng": 6.0611158,
+      "lat": 45.6440078
     },
     {
       "name" : "Margeriaz - Crête",
@@ -193,9 +174,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=a5vkV-SWOQc-GGjmG-t1dNI&quality=thumb",
       "iframesrc" : "https://www.skaping.com/aillons-margeriaz/roc-de-margeriaz",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.0333158,
-      "latitude": 45.6323599
+      "lng": 6.0333158,
+      "lat": 45.6323599
     },
     {
       "name" : "Semnoz",
@@ -203,18 +183,16 @@
       "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_semnoz_somnoz-sommet-tmx.jpg",
       "iframesrc" : "https://app.webcam-hd.com/semnoz/sommet_tmx",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.1042549,
-      "latitude": 45.7969083
+      "lng": 6.1042549,
+      "lat": 45.7969083
     },
     {
       "name" : "Bonneval sur Arc",
       "url" : "https://broadcast.viewsurf.com/7c939fabfe29bbdb9f2762b3b3392e2e/capture/13302/playEmbed",
       "iframesrc": "https://broadcast.viewsurf.com/7c939fabfe29bbdb9f2762b3b3392e2e/capture/13302/playEmbed",
       "type": "mountain",
-      "description": "",
-      "longitude": 7.0529237,
-      "latitude": 45.3740678
+      "lng": 7.0529237,
+      "lat": 45.3740678
     },
     {
       "name" : "Aussois - arrivée télésiège de l'Armoise",
@@ -222,9 +200,8 @@
       "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_aussois_armoise.jpg",
       "iframesrc" : "https://app.webcam-hd.com/aussois/sommet-armoise",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.7377614,
-      "latitude": 45.2626822
+      "lng": 6.7377614,
+      "lat": 45.2626822
     },
     {
       "name" : "Serre-Ponçon",
@@ -232,18 +209,16 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=X502c-RmkJx-jL66Y-IkfvQ&quality=thumb",
       "iframesrc" : "https://www.skaping.com/ubaye/le-sauze-du-lac",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.3124023,
-      "latitude": 44.4784772
+      "lng": 6.3124023,
+      "lat": 44.4784772
     },
     {
       "name" : "Larche",
       "url" : "https://pv.viewsurf.com/1930/Larche",
       "iframesrc" : "https://pv.viewsurf.com/1930/Larche",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.8483432,
-      "latitude": 44.450096
+      "lng": 6.8483432,
+      "lat": 44.450096
     },
     {
       "name" : "Chamrousse",
@@ -251,9 +226,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=RLGFu-tmlsC-VsxyL-tsFiV&quality=thumb",
       "iframesrc" : "https://www.skaping.com/chamrousse/les-cretes",
       "type": "mountain",
-      "description": "",
-      "longitude": 5.8978332,
-      "latitude": 45.1185281
+      "lng": 5.8978332,
+      "lat": 45.1185281
     },
     {
       "name" : "Refuge du Prariond",
@@ -261,18 +235,16 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=nm7zX-hmfER-kDVAy-DO2Vs&quality=thumb",
       "iframesrc" : "https://www.skaping.com/valdisere/refuge-du-prariond",
       "type": "mountain",
-      "description": "",
-      "longitude": 7.0709267,
-      "latitude": 45.4555886
+      "lng": 7.0709267,
+      "lat": 45.4555886
     },
     {
       "name" : "Barcelonnette",
-      "url" : "https://www.viewsurf.com/univers/montagne/vue/7110-783015168-france-provence-alpes-cote-dazur-la-condamine-chatelard-panoramique-hd",
-      "iframesrc" : "https://pv.viewsurf.com/1602/Barcelonnette",
+      "url" : "https://pv.viewsurf.com/1602/Barcelonnette?i=NjI1Mjp1bmRlZmluZWQ",
+      "iframesrc" : "https://pv.viewsurf.com/1602/Barcelonnette?i=NjI1Mjp1bmRlZmluZWQ",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.6414011,
-      "latitude": 44.3985942
+      "lng": 6.6414011,
+      "lat": 44.3985942
     },
     {
       "name" : "Chamonix",
@@ -280,9 +252,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=Jx1wQ-9PbDd-DLYYN-FhJkI&quality=thumb",
       "iframesrc" : "https://www.skaping.com/chamonix-mont-blanc",
       "type": "city",
-      "description": "",
-      "longitude": 6.8721559,
-      "latitude": 45.9259579
+      "lng": 6.8721559,
+      "lat": 45.9259579
     },
     {
       "name" : "Aiguille du midi",
@@ -290,9 +261,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=BNh8i-EJ0gB-AFtl7-cARSB&quality=thumb",
       "iframesrc" : "https://www.skaping.com/chamonix/aiguille-du-midi",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.8872132,
-      "latitude": 45.8789997
+      "lng": 6.8872132,
+      "lat": 45.8789997
     },
     {
       "name" : "Praz sur Arly - Ban Rouge",
@@ -300,9 +270,8 @@
       "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_val-d-arly_ban-rouge.jpg",
       "iframesrc" : "https://m.webcam-hd.com/val-d-arly/ban-rouge",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.5829515,
-      "latitude": 45.8028024
+      "lng": 6.5829515,
+      "lat": 45.8028024
     },
     {
       "name" : "Notre Dame de Bellecombe - Plan des fours",
@@ -310,9 +279,8 @@
       "thumburl": "https://www.trinum.com/ibox/ftpcam/small_val-d-arly_plan-des-fours.jpg",
       "iframesrc" : "https://m.webcam-hd.com/val-d-arly/plan-des-fours",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.5889686,
-      "latitude": 45.7811699
+      "lng": 6.5889686,
+      "lat": 45.7811699
     },
     {
       "name" : "Belvédèredu Revard",
@@ -320,18 +288,16 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=Q5rbB-UKxD7-TCToP-855mL&quality=thumb",
       "iframesrc" : "https://www.skaping.com/grandlac/revard",
       "type": "mountain",
-      "description": "",
-      "longitude": 5.9744221,
-      "latitude": 45.6819914
+      "lng": 5.9744221,
+      "lat": 45.6819914
     },
     {
       "name" : "Vannes - le port",
       "url" : "https://www.youtube.com/watch?v=98w_URlftXA",
       "iframesrc" : "https://www.youtube.com/embed/98w_URlftXA?autoplay=1&mute=1&enablejsapi=1",
       "type": "city",
-      "description": "",
-      "longitude": -2.7587077,
-      "latitude": 47.6514481
+      "lng": -2.7587077,
+      "lat": 47.6514481
     },
     {
       "name" : "Saint Malo - mairie",
@@ -339,88 +305,78 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=CNGkm-ycf3x-YLDgn-c3uyp&quality=thumb",
       "iframesrc" : "https://www.skaping.com/saint-malo/intra-muros",
       "type": "sea",
-      "description": "",
-      "longitude": -2.0223479,
-      "latitude": 48.65157
+      "lng": -2.0223479,
+      "lat": 48.65157
     },
     {
       "name" : "Dinard - Plage de l'écluse",
-      "url" : "https://pv.viewsurf.com/1314/Dinard?i=NTQ1Njp1bmRlZmluZWQ",
-      "iframesrc" : "https://pv.viewsurf.com/1314/Dinard?i=NTQ1Njp1bmRlZmluZWQ",
+      "url" : "https://pv.viewsurf.com/1314/Dinard?i=NTQzMDp1bmRlZmluZWQ",
+      "iframesrc" : "https://pv.viewsurf.com/1314/Dinard?i=NTQzMDp1bmRlZmluZWQ",
       "type": "sea",
-      "description": "",
-      "longitude": -2.0528155, "latitude": 48.6355534
+      "lng": -2.0528155, "lat": 48.6355534
     },
     {
       "name" : "Port Navalo",
       "url" : "https://www.viewsurf.com/univers/plage/vue/7870-france-bretagne-arzon-port-navalo-panoramique-hd",
       "type": "sea",
-      "description": "",
-      "longitude": -2.9181018,
-      "latitude": 47.5479471
+      "lng": -2.9181018,
+      "lat": 47.5479471
     },
     {
       "name" : "Le Bono",
       "url" : "https://www.youtube.com/watch?v=tbsKBoJzmmY",
       "iframesrc" : "https://www.youtube.com/embed/tbsKBoJzmmY",
       "type": "sea",
-      "description": "",
-      "longitude": -2.9528037726875214,
-      "latitude": 47.64003062399074
+      "lng": -2.9528037726875214,
+      "lat": 47.64003062399074
     },
     {
       "name" : "Les Sables d'Olonne",
       "url" : "https://pv.viewsurf.com/id/1070/a/media/c/4912",
       "iframesrc" : "https://pv.viewsurf.com/id/1070/a/media/c/4912",
       "type": "sea",
-      "description": "",
-      "longitude": -1.7616176133944814,
-      "latitude": 46.48149185667304
+      "lng": -1.7616176133944814,
+      "lat": 46.48149185667304
     },
     {
       "name" : "Ile d'Yeu - Port Joinville",
       "url" : "https://pv.viewsurf.com/id/1000/a/media/c/4730",
       "iframesrc" : "https://pv.viewsurf.com/id/1000/a/media/c/4730",
       "type": "sea",
-      "description": "",
-      "longitude": -2.3475794,
-      "latitude": 46.7255086
+      "lng": -2.3475794,
+      "lat": 46.7255086
     },
     {
       "name" : "Saint Gildas de Rhuys - Port aux moines",
       "url" : "https://pv.viewsurf.com/626/Saint-Gildas-de-Rhuys-Capitainerie",
       "iframesrc" : "https://pv.viewsurf.com/626/Saint-Gildas-de-Rhuys-Capitainerie",
       "type": "sea",
-      "description": "",
-      "longitude": -2.8338126,
-      "latitude": 47.492538
+      "lng": -2.8338126,
+      "lat": 47.492538
     },
     {
       "name" : "Arzon - Port du Crouesty",
       "url" : "https://pv.viewsurf.com/1642/Port-du-Crouesty",
       "iframesrc" : "https://pv.viewsurf.com/1642/Port-du-Crouesty",
       "type": "sea",
-      "description": "",
-      "longitude": -2.895077839803171,
-      "latitude": 47.543777617637055
+      "lng": -2.895077839803171,
+      "lat": 47.543777617637055
     },
     {
       "name" : "Arradon",
       "url" : "https://pv.viewsurf.com/2124/Port-d-Arradon-Mairie",
       "iframesrc" : "https://pv.viewsurf.com/2124/Port-d-Arradon-Mairie",
       "type": "sea",
-      "description": "",
-      "longitude": -2.8276164,
-      "latitude": 47.6161576
+      "lng": -2.8276164,
+      "lat": 47.6161576
     },
     {
       "name" : "Ile aux Moines",
       "url" : "https://pv.viewsurf.com/1640/Port-Blanc-Ile-aux-moines",
       "iframesrc" : "https://pv.viewsurf.com/1640/Port-Blanc-Ile-aux-moines",
       "type": "sea",
-      "description": "",
-      "longitude": -2.8520722,
-      "latitude": 47.6010788
+      "lng": -2.8520722,
+      "lat": 47.6010788
     },
     {
       "name" : "Chambéry - Palais de Justice",
@@ -428,18 +384,16 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=VNsTH-4K5Un-Z26OR-u5Xyj&quality=thumb",
       "iframesrc" : "https://www.skaping.com/chambery/palais-de-justice/",
       "type": "city",
-      "description": "",
-      "longitude": 5.918897,
-      "latitude": 45.5678288
+      "lng": 5.918897,
+      "lat": 45.5678288
     },
     {
       "name" : "Tour Montparnasse",
       "url" : "https://pv.viewsurf.com/434/Paris-Montparnasse",
       "iframesrc" : "https://pv.viewsurf.com/434/Paris-Montparnasse",
       "type": "city",
-      "description": "",
-      "longitude": 2.3220217,
-      "latitude": 48.8425337
+      "lng": 2.3220217,
+      "lat": 48.8425337
     },
     {
       "name" : "Angers",
@@ -447,25 +401,22 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=zqqwp-gYe3N-U4hFn-DcJDo&quality=thumb",
       "iframesrc" : "https://www.skaping.com/angers/panorama",
       "type": "city",
-      "description": "",
-      "longitude": -0.5633394,
-      "latitude": 47.4685447
+      "lng": -0.5633394,
+      "lat": 47.4685447
     },
     {
       "name" : "Tepoztlan",
       "url" : "https://www.windy.com/id/-Kamera-web/Meksiko/Morelos/San-Pedro-Apatlaco/Hotel-Tepoztlan/webcams/1569939607?18.730,-112.236,5",
       "type": "city",
-      "description": "",
-      "longitude": -99.0902782,
-      "latitude": 18.9928425
+      "lng": -99.0902782,
+      "lat": 18.9928425
     },
     {
       "name" : "Péage Saint-Michel de Maurienne",
       "url" : "https://gieat.viewsurf.com/?id=5471",
       "type": "road",
-      "description": "",
-      "longitude": 6.4622216,
-      "latitude": 45.2180133
+      "lng": 6.4622216,
+      "lat": 45.2180133
     },
     {
       "name" : "Lac d'Aiguebelette",
@@ -473,9 +424,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=NDjZ1-GJ4ZO-DqtuE-KcJvM&quality=thumb",
       "iframesrc" : "https://www.skaping.com/lac-d-aiguebelette/st-alban",
       "type": "lake",
-      "description": "",
-      "longitude": 5.7841237,
-      "latitude": 45.5514897
+      "lng": 5.7841237,
+      "lat": 45.5514897
     },
     {
       "name" : "Annecy - Lac",
@@ -483,9 +433,8 @@
       "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_annecy.jpg",
       "iframesrc" : "https://m.webcam-hd.com/annecy-tourisme-imperial/annecy-lac",
       "type": "lake",
-      "description": "",
-      "longitude": 6.144772,
-      "latitude": 45.9036851
+      "lng": 6.144772,
+      "lat": 45.9036851
     },
     {
       "name" : "Doussard - Lac",
@@ -493,9 +442,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=DHfDR-sJvu7-t7HTB-jizJ2&quality=thumb",
       "iframesrc" : "https://www.skaping.com/sources-du-lac-annecy/douss-plage/",
       "type": "lake",
-      "description": "",
-      "longitude": 6.2189259,
-      "latitude": 45.7930755
+      "lng": 6.2189259,
+      "lat": 45.7930755
     },
     {
       "name" : "Plage du Bourget du Lac",
@@ -503,9 +451,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=mHzL3-kRsBo-sSomP-2fKSx&quality=thumb",
       "iframesrc" : "https://www.skaping.com/grandlac/bourgetdulac",
       "type": "lake",
-      "description": "",
-      "longitude": 5.8621151,
-      "latitude": 45.6561257
+      "lng": 5.8621151,
+      "lat": 45.6561257
     },
     {
       "name" : "Belvédère de la Chambotte",
@@ -513,9 +460,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=emFwy-p4EXh-bb35Z-TskHm&quality=thumb",
       "iframesrc" : "https://www.skaping.com/grandlac/chambotte",
       "type": "lake",
-      "description": "",
-      "longitude": 5.8749014,
-      "latitude": 45.7728244
+      "lng": 5.8749014,
+      "lat": 45.7728244
     },
     {
       "name" : "Les Houches, Le Prarion",
@@ -523,9 +469,8 @@
       "thumburl": "https://live-image.panomax.com/cams/720/recent_reduced.jpg",
       "iframesrcdesktop" : "https://chamonix.panomax.com/houches",
       "type": "mountain",
-      "description": "Vue depuis le haut de la télécabine du Prarion",
-      "longitude": 6.753303,
-      "latitude": 45.886261
+      "lng": 6.753303,
+      "lat": 45.886261
     },
     {
       "name" : "Pointe Helbronner",
@@ -533,9 +478,8 @@
       "thumburl": "https://live-image.panomax.com/cams/1437/recent_reduced.jpg",
       "iframesrcdesktop" : "https://montblanc.panomax.com",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.933915,
-      "latitude": 45.845103 
+      "lng": 6.933915,
+      "lat": 45.845103 
     },
     {
       "name" : "Le Brévent",
@@ -543,9 +487,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=xaWrY-m5fOs-XSrlx-8hsL4&quality=thumb",
       "iframesrc" : "https://www.skaping.com/chamonix/brevent",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.837479083375889,
-      "latitude": 45.933625048205464
+      "lng": 6.837479083375889,
+      "lat": 45.933625048205464
     },
     {
       "name" : "Grenoble - la Bastille",
@@ -553,9 +496,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=GdP46-rpcxB-2E6ZU-cGCg6&quality=thumb",
       "iframesrc" : "https://www.skaping.com/grenoble/bastille",
       "type": "city",
-      "description": "",
-      "longitude": 5.724570749603273,
-      "latitude": 45.198936837724695
+      "lng": 5.724570749603273,
+      "lat": 45.198936837724695
     },
     {
       "name" : "Grenoble - Hotel de ville",
@@ -563,9 +505,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=ZD7jm-EAKl7-SWJ1K-a3J8L&quality=thumb",
       "iframesrc" : "https://www.skaping.com/grenoble/hotel-de-ville",
       "type": "city",
-      "description": "",
-      "longitude": 5.736282485266358,
-      "latitude": 45.186184333138726
+      "lng": 5.736282485266358,
+      "lat": 45.186184333138726
     },
     {
       "name" : "Grenoble - Les Vouillants",
@@ -573,9 +514,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=LDNJy-PVncu-yRLyk-tnTU7&quality=thumb",
       "iframesrc" : "https://www.skaping.com/grenoble/les-vouillants",
       "type": "city",
-      "description": "",
-      "longitude": 5.674293832395072,
-      "latitude": 45.17440731546165
+      "lng": 5.674293832395072,
+      "lat": 45.17440731546165
     },
     {
       "name" : "Champagny",
@@ -583,9 +523,8 @@
       "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_champagny_champagny-le-haut.jpg",
       "iframesrc" : "https://app.webcam-hd.com/webcam-station-champagny/champagny-le-haut",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.744328480222955,
-      "latitude": 45.45868078796785
+      "lng": 6.744328480222955,
+      "lat": 45.45868078796785
     },
     {
       "name" : "Les 7 Laux - l'Oursière",
@@ -593,9 +532,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=BHgGi-A7kjr-AwmH2-cTL5U&quality=thumb",
       "iframesrc" : "https://www.skaping.com/les7laux/pleynet/oursiere",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.032675464525221,
-      "latitude": 45.2533501343851
+      "lng": 6.032675464525221,
+      "lat": 45.2533501343851
     },
     {
       "name" : "La Rochelle",
@@ -603,9 +541,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=RQGVz-6mz7B-kTLyR-cRFpk&quality=thumb",
       "iframesrc" : "https://www.skaping.com/larochelle-tourisme",
       "type": "city",
-      "description": "",
-      "longitude": -1.149835215764929,
-      "latitude": 46.15709848480495
+      "lng": -1.149835215764929,
+      "lat": 46.15709848480495
     },
     {
       "name" : "Les Sables d'Olonne - Port Olonna",
@@ -613,9 +550,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=BImji-NzShL-AhUvo-cN7Xk&quality=thumb",
       "iframesrc" : "https://www.skaping.com/sables-d-olonne/port-olona/panoramique",
       "type": "sea",
-      "description": "",
-      "longitude": -1.7884837553488202,
-      "latitude": 46.501640775836684
+      "lng": -1.7884837553488202,
+      "lat": 46.501640775836684
     },
     {
       "name" : "La Baule",
@@ -623,9 +559,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=mW9rL-XA9oj-6dGAG-2f05x&quality=thumb",
       "iframesrc" : "https://www.skaping.com/la-baule/plage/video",
       "type": "sea",
-      "description": "",
-      "longitude": -2.3975107218967406,
-      "latitude": 47.2816372058371
+      "lng": -2.3975107218967406,
+      "lat": 47.2816372058371
     },
     {
       "name" : "Quiberon",
@@ -633,9 +568,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=3x7f5-pwbOX-AD7BJ-QwXEf&quality=thumb",
       "iframesrc" : "https://www.skaping.com/quiberon/video-panoramique",
       "type": "sea",
-      "description": "",
-      "longitude": -3.1133328175372927,
-      "latitude": 47.47630606915675
+      "lng": -3.1133328175372927,
+      "lat": 47.47630606915675
     },
     {
       "name" : "Saint Jacques",
@@ -643,9 +577,8 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=vEVFD-hcVbn-2mJOf-1UFFM&quality=thumb",
       "iframesrc" : "https://www.skaping.com/sarzeau/port-saint-jacques",
       "type": "sea",
-      "description": "",
-      "longitude": -2.7920182047955584,
-      "latitude": 47.48618778275265
+      "lng": -2.7920182047955584,
+      "lat": 47.48618778275265
     },
     {
       "name" : "Belle Ile - La Pointe des Poulains",
@@ -653,36 +586,32 @@
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=mDQpN-U6SwH-8zdOV-5fyzz&quality=thumb",
       "iframesrc" : "https://www.skaping.com/belle-ile/pointe-des-poulains/video",
       "type": "sea",
-      "description": "",
-      "longitude": -3.2473764527500975,
-      "latitude": 47.38460587882258
+      "lng": -3.2473764527500975,
+      "lat": 47.38460587882258
     },
     {
       "name" : "Pointe du Raz",
       "url" : "https://www.youtube.com/watch?v=yiidUwe-QeQ",
       "iframesrc" : "https://www.youtube.com/embed/yiidUwe-QeQ?autoplay=1&mute=1&enablejsapi=1",
       "type": "sea",
-      "description": "",
-      "longitude": -4.731820576615801,
-      "latitude": 48.03879629639819
+      "lng": -4.731820576615801,
+      "lat": 48.03879629639819
     },
     {
       "name" : "Puy Saint Vincent - 2400",
       "url" : "https://www.youtube.com/watch?v=Fj7LGXb8V44",
       "iframesrc" : "https://www.youtube.com/embed/Fj7LGXb8V44?autoplay=1&mute=1&enablejsapi=1",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.476867329199346,
-      "latitude": 44.80357742350111
+      "lng": 6.476867329199346,
+      "lat": 44.80357742350111
     },
     {
       "name" : "Puy Saint Vincent - La Pendine",
       "url" : "https://www.youtube.com/watch?v=7Nmix_ai0WU",
       "iframesrc" : "https://www.youtube.com/embed/7Nmix_ai0WU?autoplay=1&mute=1&enablejsapi=1",
       "type": "mountain",
-      "description": "",
-      "longitude": 6.455913134852377,
-      "latitude": 44.80283180148993
+      "lng": 6.455913134852377,
+      "lat": 44.80283180148993
     },
     {
       "name" : "Col de Porte",
@@ -690,9 +619,8 @@
       "iframesrc" : "https://www.skaping.com/col-de-porte/biathlon",
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=MmM98-hVwuM-72GHE-N3Tgt&quality=thumb",
       "type": "mountain",
-      "description": "",
-      "longitude": 5.770164464878606,
-      "latitude": 45.29506951362608
+      "lng": 5.770164464878606,
+      "lat": 45.29506951362608
     },
     {
       "name" : "Namche Bazaar - Everest",
@@ -700,9 +628,214 @@
       "thumburl": "https://live-image.panomax.com/cams/4623/recent_reduced.jpg",
       "iframesrcdesktop" : "https://himalayas.panomax.com/hotel-everest-view",
       "type": "mountain",
-      "description": "",
-      "longitude": 86.70867665301711,
-      "latitude": 27.804038615909008
+      "lng": 86.70867665301711,
+      "lat": 27.804038615909008
+    },
+
+
+    {
+      "name" : "Monts Jura - Monthoisey",
+      "url" : "https://www.skaping.com/montsjura/monthoisey",
+      "iframesrc" : "https://www.skaping.com/montsjura/monthoisey",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=1WBWM-keevQ-9GxDp-BfpvW&quality=thumb",
+      "type": "mountain",
+      "lng": 5.961670367396017,
+      "lat": 46.28737860855757
+    },
+    {
+      "name" : "Plage d'Excenevex",
+      "url" : "https://www.skaping.com/excenevex/plage",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=wurwR-jvsKT-tnVGj-cH3i6&quality=thumb",
+      "iframesrc" : "https://www.skaping.com/excenevex/plage",
+      "type": "lake",
+      "lng": 6.358134771248812,
+      "lat": 46.3506335074673
+    },
+    {
+      "name" : "Evian - Palais Lumière",
+      "url" : "https://www.skaping.com/evian/palais-lumiere",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=dNPLb-pWfc6-ZhUOB-LfM7P&quality=thumb",
+      "iframesrc" : "https://www.skaping.com/evian/palais-lumiere",
+      "type": "lake",
+      "lng": 6.591644680595229,
+      "lat": 46.40131211984234
+    },
+    {
+      "name" : "Evian - Capitainerie",
+      "url" : "https://www.skaping.com/evian/capitainerie",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=bHW5h-A5fac-VptDU-5BTqq&quality=thumb",
+      "iframesrc" : "https://www.skaping.com/evian/capitainerie",
+      "type": "lake",
+      "lng": 6.605340186238555,
+      "lat": 46.40268091134861
+    },
+    {
+      "name" : "Torgon - Plan de Croix",
+      "url" : "https://www.skaping.com/portes-du-soleil/chatel/torgon/plan-de-croix",
+      "iframesrc" : "https://www.skaping.com/portes-du-soleil/chatel/torgon/plan-de-croix",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=4wW2f-xxLQ1-1VjmB-jIoQm&quality=thumb",
+      "type": "mountain",
+      "lng": 6.850281067580412,
+      "lat": 46.30589555088229
+    },
+    {
+      "name" : "Chatel - Lac de Vonnes",
+      "url" : "https://www.skaping.com/chatel/lac-de-vonnes",
+      "iframesrc" : "https://www.skaping.com/chatel/lac-de-vonnes",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=EBZ9O-Aw377-GbriG-1LWTl&quality=thumb",
+      "type": "mountain",
+      "lng": 6.843529569829907,
+      "lat": 46.25538033674461
+    },
+    {
+      "name" : "Lac de Montriond",
+      "url" : "https://www.skaping.com/montriond/lac",
+      "iframesrc" : "https://www.skaping.com/montriond/lac",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=GJJVR-xsghn-qZxTe-cZpf6&quality=thumb",
+      "type": "lake",
+      "lng": 6.72171913034909,
+      "lat": 46.20929848575938
+    },
+    {
+      "name" : "Montriond - Domaine skiable",
+      "url" : "https://www.skaping.com/montriond/ardent",
+      "iframesrc" : "https://www.skaping.com/montriond/ardent",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=koKS-p238-kmgo-OfVT-vmlU&quality=thumb",
+      "type": "mountain",
+      "lng": 6.77888129291912,
+      "lat": 46.20874542150733
+    },
+    {
+      "name" : "Montriond - Rochassons",
+      "url" : "https://www.skaping.com/chatel/rochassons",
+      "iframesrc" : "https://www.skaping.com/chatel/rochassons",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=Xggw7-CgTDP-kLtBU-3uSGZ&quality=thumb",
+      "type": "mountain",
+      "lng": 6.7914903392170505,
+      "lat": 46.211814894355825
+    },
+    {
+      "name" : "Avoriaz - Centre station",
+      "url" : "https://www.skaping.com/avoriaz/station",
+      "iframesrc" : "https://www.skaping.com/avoriaz/station",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=AmWlD-tWsDB-hROmx-YGYKa&quality=thumb",
+      "type": "city",
+      "lng": 6.773442621949461,
+      "lat": 46.192482546209135
+    },
+    {
+      "name" : "Avoriaz - Station",
+      "url" : "https://www.skaping.com/avoriaz/amara",
+      "iframesrc" : "https://www.skaping.com/avoriaz/amara",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=wsIwk-XZGPm-t6ahd-2lkVL&quality=thumb",
+      "type": "city",
+      "lng": 6.7687188287063265,
+      "lat": 46.19359753227405
+    },
+    {
+      "name" : "Avoriaz - Station",
+      "url" : "https://www.skaping.com/avoriaz/pistes",
+      "iframesrc" : "https://www.skaping.com/avoriaz/pistes",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=EaS2-F076-lZVs-xPZN-Q3dO&quality=thumb",
+      "type": "city",
+      "lng": 6.778585451662804,
+      "lat": 46.192242885972895
+    },
+    {
+      "name" : "Avoriaz - Arare",
+      "url" : "https://www.skaping.com/portes-du-soleil/avoriaz/arare",
+      "iframesrc" : "https://www.skaping.com/portes-du-soleil/avoriaz/arare",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=EaS2-F076-lZVs-xPZN-Q3dO&quality=thumb",
+      "type": "mountain",
+      "lng": 6.777842581614351,
+      "lat": 46.179400519959856
+    },
+    {
+      "name" : "Portes du Soleil - Grand-Conche",
+      "url" : "https://portesdusoleil.roundshot.com/",
+      "iframesrc" : "https://portesdusoleil.roundshot.com/",
+      "thumburl": "https://www.morzine-avoriaz.com/templates/WEBOT/cache/min-PRESTATAIRE-WEBCAMS-WVUEPANO-grand-conche.jpg",
+      "type": "mountain",
+      "lng": 6.814464849502239,
+      "lat": 46.182898234372445
+    },
+    {
+      "name" : "Morzine - Le Pleney",
+      "url" : "https://app.webcam-hd.com/morzine/sommet-du-pleney",
+      "iframesrc" : "https://app.webcam-hd.com/morzine/sommet-du-pleney",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_motiv-oxygene_sommet-ts-tete.jpg",
+      "type": "mountain",
+      "lng": 6.692800447288067,
+      "lat": 46.168474601900144
+    },
+    {
+      "name" : "Morzine - Chamossière",
+      "url" : "https://app.webcam-hd.com/morzine/chamossiere",
+      "iframesrc" : "https://app.webcam-hd.com/morzine/chamossiere",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_motiv-oxygene_morzine-avoriaz.jpg",
+      "type": "mountain",
+      "lng": 6.725509541893674,
+      "lat": 46.13418029718564
+    },
+    {
+      "name" : "Seattle - Space Needle",
+      "url" : "https://spaceneedle.roundshot.com/",
+      "iframesrc" : "https://spaceneedle.roundshot.com/",
+      "type": "city",
+      "lng": -122.34931792659462,
+      "lat": 47.62046999248434
+    },
+    {
+      "name" : "Le Grau du Roi",
+      "url" : "https://grauduroi.roundshot.com/plage/",
+      "iframesrc" : "https://grauduroi.roundshot.com/plage/",
+      "type": "sea",
+      "lng": 4.125209100884766,
+      "lat": 43.51794986816466
+    },
+    {
+      "name" : "Le Grau du Roi",
+      "url" : "https://grauduroi.roundshot.com/imperial/",
+      "iframesrc" : "https://grauduroi.roundshot.com/imperial/",
+      "type": "sea",
+      "lng": 4.134522953267595,
+      "lat": 43.53564142436749
+    },
+    {
+      "name" : "Samoëns - Col de Joux",
+      "url" : "https://www.skaping.com/samoens/col-de-joux-plane",
+      "iframesrc" : "https://www.skaping.com/samoens/col-de-joux-plane",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=ceFTh-AWb2E-mmx9S-UwlJv&quality=thumb",
+      "type": "mountain",
+      "lng": 6.704693842999625,
+      "lat": 46.131206240440164
+    },
+    {
+      "name" : "Morzine - Porte du Soleil",
+      "url" : "https://www.skaping.com/portes-du-soleil/morzine",
+      "iframesrc" : "https://www.skaping.com/portes-du-soleil/morzine",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=htG8g-HSUy6-ttacQ-tFD1V&quality=thumb",
+      "type": "mountain",
+      "lng": 6.713390783054117,
+      "lat": 46.15038238093593
+    },
+    {
+      "name" : "Salers",
+      "url" : "https://pv.viewsurf.com/2106/Salers",
+      "iframesrc" : "https://pv.viewsurf.com/2106/Salers",
+      "type": "city",
+      "lng": 2.4937857773147334,
+      "lat": 45.13798062393411
+    },
+    {
+      "name" : "Queenstown",
+      "url" : "https://queenstown.roundshot.com/",
+      "iframesrc" : "https://queenstown.roundshot.com/",
+      "type": "city",
+      "lng": 168.68107168270743,
+      "lat": -45.030749295875346
     }
+
+  
   ]
 }

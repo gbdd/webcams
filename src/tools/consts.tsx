@@ -6,10 +6,9 @@ export type PrefLoc = {
 }
 
 export interface livecam {
-  latitude: number,
-  longitude: number,
+  lat: number,
+  lng: number,
   name: string,
-  description: string,
   type: string,
   url: string,
   thumburl: string,

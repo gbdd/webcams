@@ -111,7 +111,7 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
         <div  className="popupContent" style={{width: contentWidth, height: contentHeight}}>
         <div className="popupHeader">
           <div className='popupHeaderTitle'>
-            <a href={lc.url} target="_blank" rel="noreferrer">Ouvrir dans un autre onglet</a>
+            <a href={lc.url} target="_blank" rel="noreferrer">Ouvrir dans un nouvel onglet</a>
           </div>
           <div className='popupHeaderToolbar'>
             <StarToggle checked={isPreferred()} onChecked={handleOnCheck}></StarToggle>

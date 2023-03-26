@@ -10,7 +10,6 @@ import {
 } from '../tools/preferences';
 import {
   livecam,
-  PrefLoc,
 } from '../tools/consts';
 import { WebcamMarker } from './WebcamMarker';
 
@@ -19,14 +18,23 @@ type WebcamMapProps = {
   onPopupOpened: Function,
   onPrefCamsChanged: Function,
   onlyPreferred: boolean,
+  displayTools: boolean,
 }
 
-export const WebcamMap: FC<WebcamMapProps> = ({webcams, onPopupOpened, onlyPreferred, onPrefCamsChanged}): ReactElement => {
+const defaultZoom: number = 10;
+
+export const WebcamMap: FC<WebcamMapProps> = ({
+  webcams, 
+  onPopupOpened, 
+  onlyPreferred, 
+  onPrefCamsChanged, 
+  displayTools
+}): ReactElement => {
   const map = useMap();
 
   useEffect(
     () => {
-      const lastZoom = getPreference(PREFERENCES.MAP_LAST_ZOOM, 10);
+      const lastZoom = getPreference(PREFERENCES.MAP_LAST_ZOOM, defaultZoom);
       const lastCenter = getPreference(PREFERENCES.MAP_LAST_CENTER, {lat: 45.57439550729501, lng: 6.143455853878999 });
 
       map.setView(new L.LatLng(lastCenter.lat, lastCenter.lng), lastZoom);
@@ -34,6 +42,7 @@ export const WebcamMap: FC<WebcamMapProps> = ({webcams, onPopupOpened, onlyPrefe
   , [map]);
 
   const [popupOpened, setPopupOpened] = useState<boolean>(false);
+  const [locSearchInProgress, setLocSearchInProgress] = useState<boolean>(false);
   const [centerBeforePopup, setCenterBeforePopup] = useState<(L.LatLng | null)>(null);
 
   useMapEvents({
@@ -43,6 +52,9 @@ export const WebcamMap: FC<WebcamMapProps> = ({webcams, onPopupOpened, onlyPrefe
       }
     },
     moveend: (evt) => {
+      // cancel loc search if any
+      setLocSearchInProgress(false);
+
       if (!popupOpened && evt?.target?._lastCenter) {
         setPreference(PREFERENCES.MAP_LAST_CENTER, evt.target._lastCenter);
       }
@@ -62,6 +74,18 @@ export const WebcamMap: FC<WebcamMapProps> = ({webcams, onPopupOpened, onlyPrefe
       setCenterBeforePopup(null);
       onPopupOpened(false);
     },
+    locationfound: (evt) => {
+      if (locSearchInProgress) {
+        setLocSearchInProgress(false);
+        map.setView(evt.latlng, defaultZoom, {
+          animate: true,
+        });
+      }
+
+    },
+    locationerror: (evt) => {
+      setLocSearchInProgress(false);
+    }
   })
 
   // TOPO LAYER  url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
@@ -76,6 +100,14 @@ export const WebcamMap: FC<WebcamMapProps> = ({webcams, onPopupOpened, onlyPrefe
     onPrefCamsChanged();
   }
 
+  const handleOnTargetClick = (evt:React.MouseEvent<HTMLElement>) => {
+    evt.stopPropagation();
+    evt.preventDefault();
+    console.log('BDDKROLL handleOnTargetClick');
+    setLocSearchInProgress(true);
+    map.locate();
+  }
+
   return (
     <React.Fragment>
       <TileLayer
@@ -83,7 +115,7 @@ export const WebcamMap: FC<WebcamMapProps> = ({webcams, onPopupOpened, onlyPrefe
       />
       <MarkerClusterGroup polygonOptions={clusterPolygonOptions}>
         {webcams.map((lc, idxlc) => {
-          const key:string = `${lc.latitude},${lc.longitude}`;
+          const key:string = `${lc.lat},${lc.lng}`;
           return (
             <React.Fragment key={key}>
               { (!onlyPreferred || lc.preferred) && (
@@ -93,6 +125,13 @@ export const WebcamMap: FC<WebcamMapProps> = ({webcams, onPopupOpened, onlyPrefe
           );
         })}
       </MarkerClusterGroup>
+      {displayTools && (
+        <div className='Footer'>
+          <button className="targetButton" onClick={handleOnTargetClick}>
+            <i className="bigIcon fa-sharp fa-regular fa-circle-dot"></i>
+          </button>
+        </div>
+      )}
     </React.Fragment>
   );
 }

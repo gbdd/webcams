@@ -44,7 +44,7 @@ function App() {
   const mergePreferredCams = (_preferredCams:PrefLoc[]) => {
     let nbPrefs:number = 0;
     _preferredCams.forEach(prefLoc => {
-      const foundWc = myWebcams.find(wc => ((wc.latitude === prefLoc.lat) && (wc.longitude === prefLoc.lng)));
+      const foundWc = myWebcams.find(wc => ((wc.lat === prefLoc.lat) && (wc.lng === prefLoc.lng)));
       if (foundWc !== undefined) {
         foundWc.preferred = true;
         nbPrefs += 1;
@@ -62,7 +62,7 @@ function App() {
     const prefLocs:PrefLoc[] = [];
     myWebcams.forEach(wc => {
       if (wc.preferred) {
-        prefLocs.push({lat: wc.latitude, lng: wc.longitude});
+        prefLocs.push({lat: wc.lat, lng: wc.lng});
       }
     });
     setPreference(PREFERENCES.PREF_LOCATION, prefLocs);
@@ -109,7 +109,8 @@ function App() {
           webcams={myWebcams} 
           onPopupOpened={handlePopupOpened}
           onlyPreferred={displayPreferedWebcam}
-          onPrefCamsChanged={handlePrefCamChanged}/>
+          onPrefCamsChanged={handlePrefCamChanged}
+          displayTools={displayHeader}/>
       </MapContainer>
     </div>
   );

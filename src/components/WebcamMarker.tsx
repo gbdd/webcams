@@ -36,7 +36,7 @@ export const WebcamMarker: FC<WebcamMarkerProps> = ({lc, setPreferred}): ReactEl
   }
 
   return (
-    <Marker position={[ lc.latitude, lc.longitude]} icon={getIcon(lc)}>
+    <Marker position={[ lc.lat, lc.lng]} icon={getIcon(lc)}>
       { !IS_MOBILE && (
         <Tooltip>
           {lc.name}
