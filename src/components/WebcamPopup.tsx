@@ -100,8 +100,25 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
   }
 
   let iframesrc = lc.iframesrc;
+  if (iframesrc === "s") {
+    iframesrc = lc.url;
+  }
   if (!IS_MOBILE && (typeof lc.iframesrcdesktop !== "undefined")) {
     iframesrc = lc.iframesrcdesktop;
+  }
+
+
+  const renderPopupHeader = () => {
+    return (
+      <div className="popupHeader">
+        <div className='popupHeaderTitle'>
+          <a href={lc.url} target="_blank" rel="noreferrer">{lc.name}&nbsp;<i className="fa-solid fa-house"></i></a>
+        </div>
+        <div className='popupHeaderToolbar'>
+          <StarToggle checked={isPreferred()} onChecked={handleOnCheck}></StarToggle>
+        </div>
+      </div>
+    )
   }
 
   return (
@@ -109,14 +126,7 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
     { (typeof iframesrc !== "undefined") && (
       <Popup className="markerPopup" maxWidth={maxWidth} maxHeight={maxHeight}>
         <div  className="popupContent" style={{width: contentWidth, height: contentHeight}}>
-        <div className="popupHeader">
-          <div className='popupHeaderTitle'>
-            <a href={lc.url} target="_blank" rel="noreferrer">Ouvrir dans un nouvel onglet</a>
-          </div>
-          <div className='popupHeaderToolbar'>
-            <StarToggle checked={isPreferred()} onChecked={handleOnCheck}></StarToggle>
-          </div>
-        </div>
+          {renderPopupHeader()}
           { (iframesrc !== undefined) && (
             <iframe className="popupIframe" src={iframesrc} title={lc.name} allowFullScreen allow='autoplay'></iframe>
           )}
@@ -126,14 +136,7 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
     { (typeof iframesrc === "undefined") && (
     <Popup className="markerPopup" closeButton={false} closeOnEscapeKey={true}>
       <div  className="popupContent">
-      <div className="popupHeader">
-        <div className='popupHeaderTitle'>
-          <a href={lc.url} target="_blank" rel="noreferrer">Ouvrir dans un autre onglet</a>
-        </div>
-        <div className='popupHeaderToolbar'>
-          <StarToggle checked={isPreferred()} onChecked={handleOnCheck}></StarToggle>
-        </div>
-      </div>
+        {renderPopupHeader()}
         { ((lc.thumburl !== undefined) && (typeof lc.iframesrc === 'undefined')) && (
           <div ref={thumbContainer} className="popupThumbnailContainer">
             <a href={lc.url} target="_blank" rel="noreferrer">

@@ -12,6 +12,7 @@ import {
   livecam,
 } from '../tools/consts';
 import { WebcamMarker } from './WebcamMarker';
+import { IS_MOBILE } from '../tools/UIConstants';
 
 type WebcamMapProps = {
   webcams: livecam[],
@@ -126,8 +127,8 @@ export const WebcamMap: FC<WebcamMapProps> = ({
         })}
       </MarkerClusterGroup>
       {displayTools && (
-        <div className='Footer'>
-          <button className="targetButton" onClick={handleOnTargetClick}>
+        <div className={IS_MOBILE ? 'FooterMobile' : 'Footer'}>
+          <button className={IS_MOBILE ? 'targetButtonMobile' : 'targetButton'} onClick={handleOnTargetClick}>
             <i className="bigIcon fa-sharp fa-regular fa-circle-dot"></i>
           </button>
         </div>

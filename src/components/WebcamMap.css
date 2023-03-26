@@ -9,9 +9,15 @@
   right: 0;
   background-color: transparent;
   z-index: 500;
+}
+.FooterMobile {
+  position: fixed;
+  bottom: 0px;
+  right: 0;
+  background-color: transparent;
+  z-index: 500;
 
 }
-
 .targetButton{
   font-size: 24px;
   color: #000;
@@ -19,4 +25,13 @@
   cursor: pointer;
   border: 0;
   margin-right: 5px;
+}
+.targetButtonMobile{
+  font-size: 24px;
+  color: #000;
+  background-color: transparent;
+  cursor: pointer;
+  border: 0;
+  margin-right: 5px;
+  margin-bottom: 5px;
 }
