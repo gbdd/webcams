@@ -52,5 +52,12 @@ export const iconMountain = new L.Icon({
   iconAnchor: [12, 12],
   className: 'mapMarker'
 });
+export const iconCountry = new L.Icon({
+  iconUrl: require('../assets/icon-country.png'),
+  iconSize: new L.Point(24, 24),
+  shadowSize: [0, 0],
+  iconAnchor: [12, 12],
+  className: 'mapMarker'
+});
 
 export const PRODUCT_SHORTNAME:string = 'BddWbcms';

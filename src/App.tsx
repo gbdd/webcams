@@ -92,8 +92,10 @@ function App() {
     <div className="App">
       {displayHeader && (
         <div className="Header">
-          <div className="HeaderTitle">
-            Map Of Webcams
+          <div className="HeaderLeft">
+            <div className="HeaderTitle">
+              Map Of Webcams
+            </div>
           </div>
           <div className="HeaderToolbar">
             <div className="prefNumber">{nbPreferredWebcams}/{myWebcams.length}</div>

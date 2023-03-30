@@ -536,6 +536,15 @@
       "lat": 45.2533501343851
     },
     {
+      "name" : "Les 7 Laux - Sommet des Bouquetins",
+      "url" : "https://www.skaping.com/les7laux/prapoutel/sommetdesbouquetins",
+      "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=xoFDb-sVfOs-bWZ2j-ttUa1&quality=thumb",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.0016060357993,
+      "lat": 45.25126804775459
+    },
+    {
       "name" : "La Rochelle",
       "url" : "https://www.skaping.com/larochelle-tourisme",
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=RQGVz-6mz7B-kTLyR-cRFpk&quality=thumb",
@@ -1002,6 +1011,523 @@
       "type": "mountain",
       "lng": -0.1473277426849542,
       "lat": 42.85192081970268
+    }
+
+
+
+
+    ,
+    {
+      "name" : "Crest Voland - Le Village",
+      "url" : "https://www.skaping.com/crest-voland/lalogere",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.5030978455952395,
+      "lat": 45.79273958276287
+    },
+    {
+      "name" : "Les Saisies - Le Manant",
+      "url" : "https://www.skaping.com/les-saisies/le-manant",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.523478733873729,
+      "lat": 45.74831645418351
+    },
+    {
+      "name" : "Giez",
+      "url" : "https://www.skaping.com/sources-du-lac-annecy/giez",
+      "iframesrc" : "s",
+      "type": "country",
+      "lng": 6.2447170507287435,
+      "lat": 45.754614402265986
+    },
+    {
+      "name" : "Belvédère d'Ontex",
+      "url" : "https://www.skaping.com/grand-lac/ontex-belvedere",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 5.831687013247881,
+      "lat": 45.74903404744502
+    },
+    {
+      "name" : "Aix les Bains - Grand Port",
+      "url" : "https://www.skaping.com/grandlac/grandport",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 5.885909785842686,
+      "lat": 45.70354201947918
+    },
+    {
+      "name" : "Lac d'Aiguebelette - Péage",
+      "url" : "https://www.skaping.com/lac-aiguebelette/peage",
+      "iframesrc" : "s",
+      "type": "road",
+      "lng": 5.800780646317594,
+      "lat": 45.574277241505186
+    },
+    {
+      "name" : "La Féclaz - Orionde",
+      "url" : "https://www.skaping.com/la-feclaz/orionde",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.970736804279295,
+      "lat": 45.64660369121462
+    },
+    {
+      "name" : "Le Revard - Foyer du ski de fond",
+      "url" : "https://www.skaping.com/aix-les-bains/foyer-du-ski-de-fond-de-crolles",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.998660930323292,
+      "lat": 45.6785763962967
+    },
+    {
+      "name" : "Aillon le Jeune",
+      "url" : "https://www.skaping.com/aillons-margeriaz/1000",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.101975215563486,
+      "lat": 45.608129129607335
+    },
+    {
+      "name" : "Les Houches",
+      "url" : "https://www.skaping.com/blue-ice",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.790566825542503,
+      "lat": 45.89153076392698
+    },
+    {
+      "name" : "Chamonix - La Flégère - bas",
+      "url" : "https://www.skaping.com/chamonix-flegere-G1",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.88663766934894,
+      "lat": 45.95995403780225
+    },
+    {
+      "name" : "Chamonix - La Flégère - haut",
+      "url" : "https://www.skaping.com/chamonix/flegere",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.873184834593239,
+      "lat": 45.968481711415016
+    },
+    {
+      "name" : "Chamonix - Plateau de Lognan",
+      "url" : "https://www.skaping.com/chamonix/plateau-de-lognan",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.9429430314245595,
+      "lat": 45.96804536678988
+    },
+    {
+      "name" : "Le Grand-Bornand - Chinaillon",
+      "url" : "https://www.skaping.com/le-grand-bornand/chinaillon/",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.454743223130427,
+      "lat": 45.97615095467333
+    },
+    {
+      "name" : "Le Grand Bornand - Le Maroly",
+      "url" : "https://www.skaping.com/le-grand-bornand/terresrouges",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.496953536886258,
+      "lat": 45.967141681429034
+    },
+    {
+      "name" : "Le Grand-Bornand - Mont Lachat",
+      "url" : "https://www.skaping.com/le-grand-bornand/mont-lachat",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.476150009932859,
+      "lat": 45.9596403329362
+    },
+    {
+      "name" : "Le Grand-Bornand - La Taverne",
+      "url" : "https://www.skaping.com/le-grand-bornand/taverne",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.457188132747532,
+      "lat": 45.956174271829624
+    },
+    {
+      "name" : "Le Grand-Bornand",
+      "url" : "https://www.skaping.com/le-grand-bornand/village",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.4277681402185145,
+      "lat": 45.94183880274695
+    },
+    {
+      "name" : "Le Grand-Bornand - Auberge Nordique",
+      "url" : "https://www.skaping.com/le-grand-bornand/auberge-nordique",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.500538618734247,
+      "lat": 45.94324219853766
+    },
+    {
+      "name" : "La Clusaz - Espace Nordique des Confins",
+      "url" : "https://www.skaping.com/la-clusaz/espace-nordique",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.478378416589469,
+      "lat": 45.92013779625613
+    },
+    {
+      "name" : "Manigod - Croix Fry",
+      "url" : "https://www.skaping.com/manigod/croix-fry",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.401315732572278,
+      "lat": 45.87553017164208
+    },
+    {
+      "name" : "Manigod - Cabeau",
+      "url" : "https://www.skaping.com/manigod/cabeau",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.408357351111673,
+      "lat": 45.86685404168796
+    },
+    {
+      "name" : "Manigod - Merdassier",
+      "url" : "https://www.skaping.com/manigod/merdassier",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.41721665144322,
+      "lat": 45.86279244062527
+    },
+    {
+      "name" : "La Giettaz - Sommet Tête du Torraz",
+      "url" : "https://www.skaping.com/la-giettaz/sommet",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.5326542396508245,
+      "lat": 45.86188361672701
+    },
+    {
+      "name" : "Combloux - Sommet",
+      "url" : "https://www.skaping.com/combloux/sommet",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.588416901674792,
+      "lat": 45.87895028714578
+    },
+    {
+      "name" : "Megève Jaillet - Croix de sur les Prés",
+      "url" : "https://www.skaping.com/jaillet/sommet",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.598037869408377,
+      "lat": 45.87086521519104
+    },
+    {
+      "name" : "La Plagne - Bellecote",
+      "url" : "https://www.skaping.com/la-plagne/live3200/alt2",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.770820286895782,
+      "lat": 45.48976404118581
+    },
+    {
+      "name" : "Val d'Isère - La Daille",
+      "url" : "https://www.skaping.com/valdisere/la-daille",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.9642910420372015,
+      "lat": 45.461126647387495
+    },
+    {
+      "name" : "Val d'Isère - Borsat",
+      "url" : "https://www.skaping.com/valdisere/borsat",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.925483918402684,
+      "lat": 45.43283095710831
+    },
+    {
+      "name" : "Val d'Isère - Vallée du Manchet",
+      "url" : "https://www.skaping.com/valdisere/vallee-du-manchet",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.972271893656215,
+      "lat": 45.43073246736249
+    },
+    {
+      "name" : "Val d'Isère - Solaise",
+      "url" : "https://www.skaping.com/valdisere/solaise",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.993160698685369,
+      "lat": 45.43165396113676
+    },
+    {
+      "name" : "Saint François Longchamp - Le Frêne",
+      "url" : "https://www.skaping.com/saint-francois-longchamp/le-frene",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.395767600833354,
+      "lat": 45.430385944277354
+    },
+    {
+      "name" : "Valmorel - Col du Mottet",
+      "url" : "https://www.skaping.com/valmorel/col-du-mottet",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.432954181820823,
+      "lat": 45.429037810600484
+    },
+    {
+      "name" : "Saint-Martin-de-Belleville",
+      "url" : "https://www.skaping.com/saintmartindebelleville/village",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.504784898532756,
+      "lat": 45.379285475647855
+    },
+    {
+      "name" : "Courchevel - La Tania",
+      "url" : "https://www.skaping.com/courchevel/bouc-blanc",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.608362438961157,
+      "lat": 45.41776276435196
+    },
+    {
+      "name" : "Courchevel - La Croisette",
+      "url" : "https://www.skaping.com/courchevel/la-croisette/video",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.632721104669298,
+      "lat": 45.41507245520462
+    },
+    {
+      "name" : "Courchevel - Chenus",
+      "url" : "https://www.skaping.com/courchevel/chenus",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.614596671098968,
+      "lat": 45.405919192447996
+    },
+    {
+      "name" : "Courchevel - Saulire",
+      "url" : "https://www.skaping.com/courchevel/saulire",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.615098449634086,
+      "lat": 45.38227111317255
+    },
+    {
+      "name" : "Méribel - Mont Vallon",
+      "url" : "https://www.skaping.com/meribel/mont-vallon",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.610013001433824,
+      "lat": 45.32850084623248
+    },
+    {
+      "name" : "Val Thorens - 3 Vallées",
+      "url" : "https://www.skaping.com/valthorens/3vallees",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.582369761314787,
+      "lat": 45.31248162546052
+    },
+    {
+      "name" : "Val Thorens - Le lac blanc",
+      "url" : "https://www.skaping.com/valthorens/stade",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.60664104313771,
+      "lat": 45.29685950768065
+    },
+    {
+      "name" : "Val Thorens - Sommet 2 lacs",
+      "url" : "https://www.skaping.com/valthorens/2lacs",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.5737986923530505,
+      "lat": 45.2863338037672
+    },
+    {
+      "name" : "Val Thorens - Boismint",
+      "url" : "https://www.skaping.com/valthorens/boismint",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.550077279549487,
+      "lat": 45.282253361033625
+    },
+    {
+      "name" : "Les Menuires - La Croisette",
+      "url" : "https://www.skaping.com/lesmenuires/croisette",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.541463292449509,
+      "lat": 45.32375870561377
+    },
+    {
+      "name" : "Les Menuires - La Masse",
+      "url" : "https://www.skaping.com/les-menuires/la-masse",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.509418395553881,
+      "lat": 45.296747005242636
+    },
+    {
+      "name" : "Les Sybelles - L'Ouillon",
+      "url" : "https://www.skaping.com/les-sybelles/ouillon",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.2147049180183895,
+      "lat": 45.241869739306686
+    },
+    {
+      "name" : "Les Sybelles - Pierre du Turc",
+      "url" : "https://www.skaping.com/latoussuire/pierre-du-turc",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.223508088901683,
+      "lat": 45.250206646456526
+    },
+    {
+      "name" : "La Toussuire - Chaput",
+      "url" : "https://www.skaping.com/latoussuire/chaput",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.243708893087993,
+      "lat": 45.26635650035253
+    },
+    {
+      "name" : "Valloire - Poingt Ravier",
+      "url" : "https://www.skaping.com/valloire/poingt_ravier",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.424060288668814,
+      "lat": 45.16839725566276
+    },
+    {
+      "name" : "Valloire - Crey du quart",
+      "url" : "https://www.skaping.com/valloire/crey-du-quart",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.4704812980542625,
+      "lat": 45.158966602580115
+    },
+    {
+      "name" : "Valmeinier - La Sandonière",
+      "url" : "https://www.skaping.com/Valmeinier/sandoniere",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.526345038603054,
+      "lat": 45.17436311754811
+    },
+    {
+      "name" : "Valfréjus - Punta Bagna",
+      "url" : "https://www.skaping.com/valfrejus/puntabagna-location-valfrejus",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.670597548582063,
+      "lat": 45.144284655021075
+    },
+    {
+      "name" : "Valfréjus - Arrondaz",
+      "url" : "https://www.skaping.com/valfrejus/arrondaz",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.6651049021865045,
+      "lat": 45.15700593702944
+    },
+    {
+      "name" : "Chamrousse - Casserousse",
+      "url" : "https://www.skaping.com/chamrousse/panorama-casserousse",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.886894294226241,
+      "lat": 45.128449927644624
+    },
+    {
+      "name" : "Chamrousse - La Croix de Chamrousse",
+      "url" : "https://www.skaping.com/chamrousse/la-croix",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.903985746719709,
+      "lat": 45.12566757324734
+    },
+    {
+      "name" : "Col de Porte - Chamechaude",
+      "url" : "https://www.skaping.com/grenoble/col-de-porte",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.767344640962669,
+      "lat": 45.29015442316766
+    },
+    {
+      "name" : "Auris - Signal de l'Homme",
+      "url" : "https://www.skaping.com/alpedhuez/auris",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.085162772583963,
+      "lat": 45.06766119984293
+    },
+    {
+      "name" : "Alpe d'Huez - 2100",
+      "url" : "https://www.skaping.com/alpedhuez/2100m",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.084147383811935,
+      "lat": 45.10517910012389
+    },
+    {
+      "name" : "Alpe d'Huez - 2700",
+      "url" : "https://www.skaping.com/alpedhuez/2700m",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.103855090582594,
+      "lat": 45.117908633170465
+    },
+    {
+      "name" : "Alpe d'Huez - 3060",
+      "url" : "https://www.skaping.com/alpedhuez/3060m",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.119934811961049,
+      "lat": 45.113961089900364
+    },
+    {
+      "name" : "Alpe d'Huez - Pic Blanc",
+      "url" : "https://www.skaping.com/alpedhuez/pic-blanc",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.1272242108268635,
+      "lat": 45.125012374344614
+    },
+    {
+      "name" : "Courchevel - Le Signal",
+      "url" : "https://courchevel.roundshot.com/signal/",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.660446790868109,
+      "lat": 45.38523133987157
+    },
+    {
+      "name" : "Les Menuires - Roc des 3 marches",
+      "url" : "https://lesmenuires.roundshot.com/",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.570838381744992,
+      "lat": 45.33776536857716
+    },
+    {
+      "name" : "Les Menuires - Mont de la Chambre",
+      "url" : "https://lesmenuires.roundshot.com/montdelachambre/",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.577508786899909,
+      "lat": 45.318331460581916
     }
   ]
 }

@@ -6,7 +6,7 @@
 .Header {
   position: fixed;
   z-index: 500;
-  background-color: #6d695e;
+  background-color: transparent;
   color: white;
   top: 0;
   left: 0;
@@ -17,9 +17,17 @@
   align-items: center;
 }
 
-.HeaderTitle {
+.HeaderLeft {
   flex: 1;
+  display: flex;
+}
+.HeaderTitle {
+  flex: 0;
   margin: 10px;
+  white-space: nowrap;
+  background-color: #6d695e;
+  border-radius: 50px;
+  padding: 10px 15px 10px 15px;
 }
 
 .HeaderToolbar {
@@ -27,6 +35,10 @@
   margin-right: 10px;
   display: flex;
   flex-direction: row;
+  background-color: #6d695e;
+  border-radius: 50px;
+  padding: 10px 15px 10px 15px;
+
 }
 
 .prefNumber {

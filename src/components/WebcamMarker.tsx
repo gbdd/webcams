@@ -6,6 +6,7 @@ import L from 'leaflet';
 import {
   livecam,
   iconCity,
+  iconCountry,
   iconLake,
   iconMountain,
   iconRoad,
@@ -23,6 +24,8 @@ export const WebcamMarker: FC<WebcamMarkerProps> = ({lc, setPreferred}): ReactEl
   const getIcon = (lc:livecam):(L.Icon | undefined) => {
     if (lc.type === 'mountain') {
       return iconMountain;
+    } else if (lc.type === 'country') {
+      return iconCountry; // XXX TODO !!
     } else if (lc.type === 'lake') {
       return iconLake;
     } else if (lc.type === 'road') {

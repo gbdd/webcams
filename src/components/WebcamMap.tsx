@@ -127,10 +127,10 @@ export const WebcamMap: FC<WebcamMapProps> = ({
         })}
       </MarkerClusterGroup>
       {displayTools && (
-        <div className={IS_MOBILE ? 'FooterMobile' : 'Footer'}>
-          <button className={IS_MOBILE ? 'targetButtonMobile' : 'targetButton'} onClick={handleOnTargetClick}>
+        <div className="Footer" onClick={handleOnTargetClick}>
+          <div className="targetButton" >
             <i className="bigIcon fa-sharp fa-regular fa-circle-dot"></i>
-          </button>
+          </div>
         </div>
       )}
     </React.Fragment>
