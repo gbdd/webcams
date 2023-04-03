@@ -1680,8 +1680,16 @@
       "type": "mountain",
       "lng": 6.60418509381385,
       "lat": 44.36099221614787
+    },
+    {
+      "name" : "Saint Jean de Maurienne",
+      "url" : "https://my.tikee.io/time_lapses/37024/photo_gallery/3be9e32f-3148-4e7c-b9bc-b8e31ceed8e0",
+      "last" : "https://my.tikee.io/time_lapses/37024/last_img/3be9e32f-3148-4e7c-b9bc-b8e31ceed8e0",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.341065281983477,
+      "lat": 45.281313821424725
     }
-
 
   ]
 }
