@@ -208,7 +208,7 @@
       "url" : "https://www.skaping.com/ubaye/le-sauze-du-lac",
       "thumburl": "https://api.skaping.com/media/getLatest?format=jpg&api_key=X502c-RmkJx-jL66Y-IkfvQ&quality=thumb",
       "iframesrc" : "s",
-      "type": "mountain",
+      "type": "lake",
       "lng": 6.3124023,
       "lat": 44.4784772
     },
@@ -926,7 +926,7 @@
     },
     {
       "name" : "Penmarch - Plage de Pors Carn",
-      "url" : "http://pv.viewsurf.com/id/604/a/media/c/3624?i=MzYyNjp1bmRlZmluZWQ",
+      "url" : "https://pv.viewsurf.com/id/604/a/media/c/3624?i=MzYyNjp1bmRlZmluZWQ",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -4.362459308951165,
@@ -1528,6 +1528,79 @@
       "type": "mountain",
       "lng": 6.577508786899909,
       "lat": 45.318331460581916
+    },
+    {
+      "name" : "les 2 Alpes - Vallée Blanche",
+      "url" : "https://www.skaping.com/les2alpes/vallee-blanche",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.105659937356589,
+      "lat": 45.00909048096655
+    },
+    {
+      "name" : "les 2 Alpes - Grande Aiguille",
+      "url" : "https://www.skaping.com/les2alpes/grande-aiguille",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.142866021953374,
+      "lat": 45.017506924420914
+    },
+    {
+      "name" : "les 2 Alpes - Super Diable",
+      "url" : "https://www.skaping.com/les2alpes/super-diable",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.146855284124714,
+      "lat": 44.99700590456411
+    },
+    {
+      "name" : "les 2 Alpes - Bellecombe",
+      "url" : "https://www.skaping.com/les2alpes/bellecombe",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.162045152246182,
+      "lat": 44.992131597498656
+    },
+    {
+      "name" : "les 2 Alpes - 2600",
+      "url" : "https://www.skaping.com/les2alpes/2600m",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.171957674093856,
+      "lat": 44.996596451855794
+    },
+    {
+      "name" : "les 2 Alpes - La Fée",
+      "url" : "https://www.skaping.com/les2alpes/la-fee",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.168311085200046,
+      "lat": 45.00375450085584
+    },
+    {
+      "name" : "les 2 Alpes - 3200",
+      "url" : "https://www.skaping.com/les2alpes/3200m",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.204724733218291,
+      "lat": 44.997579431764635
+    },
+    {
+      "name" : "La Grave - 3200",
+      "url" : "https://www.skaping.com/lagrave/3200m",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.26391298463372,
+      "lat": 45.00951388915456
+    },
+    {
+      "name" : "La Grave - 2400",
+      "url" : "https://www.skaping.com/lagrave/2400m",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.289389109003892,
+      "lat": 45.02613673303242
     }
+
   ]
 }

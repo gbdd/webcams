@@ -36,7 +36,6 @@ function App() {
     const preferredLocs:PrefLoc[] = getPreference(PREFERENCES.PREF_LOCATION, []);
     if (preferredLocs.length > 0) {
       mergePreferredCams(preferredLocs);
-      // setDisplayPreferedWebcam(getPreference(PREFERENCES.ONLY_PREFS, false));
     }
   }
   , [myWebcams]);
@@ -51,7 +50,8 @@ function App() {
       }
     })
     if (nbPrefs > 0) {
-      setDisplayPreferedWebcam(getPreference(PREFERENCES.ONLY_PREFS, false));
+      // setDisplayPreferedWebcam(getPreference(PREFERENCES.ONLY_PREFS, false));
+      setDisplayPreferedWebcam(true);
     }
     setNbPreferredWebcams(nbPrefs);
   }
