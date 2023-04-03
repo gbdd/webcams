@@ -1600,7 +1600,88 @@
       "type": "mountain",
       "lng": 6.289389109003892,
       "lat": 45.02613673303242
+    },
+    {
+      "name" : "La Grave",
+      "url" : "https://www.skaping.com/la-grave/hotel-castillan",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.303928539970656,
+      "lat": 45.04546448416718
+    },
+    {
+      "name" : "Villar d'Arène - Domaine nordique du Pays de la Meije",
+      "url" : "https://www.skaping.com/villar-d-arene/arsine",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.362557748081671,
+      "lat": 45.03078307873221
+    },
+    {
+      "name" : "Serre-Chevalier - Monetier (2176m)",
+      "url" : "https://www.skaping.com/serrechevalier/monetier",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.500622955314204,
+      "lat": 44.949581451748536
+    },
+    {
+      "name" : "Serre-Chevalier - Cucumelle",
+      "url" : "https://www.skaping.com/serre-chevalier/cucumelle",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.510206947334567,
+      "lat": 44.93161277267842
+    },
+    {
+      "name" : "Orcières - Plateau de Rocherousse",
+      "url" : "https://www.skaping.com/orcieres/plateau-de-rocherousse",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.334464674847487,
+      "lat": 44.71740059415379
+    },
+    {
+      "name" : "Orcières - La Favue",
+      "url" : "https://www.skaping.com/orcieres/la-favue/panorama",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.308324832264099,
+      "lat": 44.708364770660744
+    },
+    {
+      "name" : "Embrun - Plan d'eau",
+      "url" : "https://www.skaping.com/lac-serre-poncon/plage-embrun",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.476918152091749,
+      "lat": 44.55061279216387
+    },
+    {
+      "name" : "Chorges - Baie Saint Michel",
+      "url" : "https://www.skaping.com/lac-serre-poncon/chorges",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.326591489923407,
+      "lat": 44.52544026734552
+    },
+    {
+      "name" : "Les Orres - Pousterle",
+      "url" : "https://www.skaping.com/les-orres/pousterle",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.571212469678507,
+      "lat": 44.46802142504441
+    },
+    {
+      "name" : "Pra Loup - Clos du Serre",
+      "url" : "https://www.skaping.com/pra-loup/molanes",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.60418509381385,
+      "lat": 44.36099221614787
     }
+
 
   ]
 }
