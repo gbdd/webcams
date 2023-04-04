@@ -90,6 +90,10 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
     setPreferred(lc, _checked);
   }
 
+  const handleOnClose = () => {
+    map.closePopup();
+  }
+
   const isPreferred = ():boolean => {
     let pref:boolean = false
     if ((typeof lc.preferred !== "undefined")
@@ -116,6 +120,9 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
         </div>
         <div className='popupHeaderToolbar'>
           <StarToggle checked={isPreferred()} onChecked={handleOnCheck}></StarToggle>
+          <div className='closeButton' onClick={handleOnClose}>
+            <i className="fa-solid fa-xmark"></i>
+          </div>
         </div>
       </div>
     )
@@ -134,7 +141,7 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
       </Popup>
     )}
     { (typeof iframesrc === "undefined") && (
-    <Popup className="markerPopup" closeButton={false} closeOnEscapeKey={true}>
+    <Popup className="markerPopup">
       <div  className="popupContent">
         {renderPopupHeader()}
         { ((lc.thumburl !== undefined) && (typeof lc.iframesrc === 'undefined')) && (

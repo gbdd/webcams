@@ -41,8 +41,19 @@
 
 .popupHeaderToolbar {
   flex: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: -10px;
 }
 
 .popupHeaderTitle a {
   color: white;
+}
+
+.closeButton {
+  font-size: larger;
+  margin-left: 20px;
+  cursor: pointer;
+  color: #888376;
 }
