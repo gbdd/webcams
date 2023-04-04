@@ -317,7 +317,8 @@
     },
     {
       "name" : "Port Navalo",
-      "url" : "https://www.viewsurf.com/univers/plage/vue/7870-france-bretagne-arzon-port-navalo-panoramique-hd",
+      "url" : "https://pv.viewsurf.com/628/Port-Navalo?i=MzcxMjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
       "type": "sea",
       "lng": -2.9181018,
       "lat": 47.5479471
@@ -1683,9 +1684,9 @@
     },
     {
       "name" : "Saint Jean de Maurienne",
-      "url" : "https://my.tikee.io/time_lapses/37024/photo_gallery/3be9e32f-3148-4e7c-b9bc-b8e31ceed8e0?lang=fr&primary_color=6d695e&secondary_color=57544b",
+      "url" : "https://my.tikee.io/time_lapses/37024/photo_gallery/3be9e32f-3148-4e7c-b9bc-b8e31ceed8e0?lang=fr&primary_color=6d695e&secondary_color=57544b&hide_downloads=true",
       "iframesrc" : "s",
-      "type": "mountain",
+      "type": "city",
       "lng": 6.341065281983477,
       "lat": 45.281313821424725
     },
@@ -1752,9 +1753,16 @@
       "type": "sea",
       "lng": 7.509426775179549,
       "lat": 43.777154011631644
+    },
+    {
+      "name" : "Refuge Vallot",
+      "url" : "https://my.tikee.io/time_lapses/24129/photo_gallery/15d8bf79-b02c-43bd-800b-6e904072475f?lang=fr&primary_color=6d695e&secondary_color=57544b&hide_downloads=true",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.852238788748073,
+      "lat": 45.839439194846705
     }
 
   ]
 }
-
 
