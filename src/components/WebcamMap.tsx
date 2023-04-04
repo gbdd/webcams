@@ -104,7 +104,6 @@ export const WebcamMap: FC<WebcamMapProps> = ({
   const handleOnTargetClick = (evt:React.MouseEvent<HTMLElement>) => {
     evt.stopPropagation();
     evt.preventDefault();
-    console.log('BDDKROLL handleOnTargetClick');
     setLocSearchInProgress(true);
     map.locate();
   }
