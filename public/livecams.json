@@ -1684,12 +1684,77 @@
     {
       "name" : "Saint Jean de Maurienne",
       "url" : "https://my.tikee.io/time_lapses/37024/photo_gallery/3be9e32f-3148-4e7c-b9bc-b8e31ceed8e0?lang=fr&primary_color=6d695e&secondary_color=57544b",
-      "last" : "https://my.tikee.io/time_lapses/37024/last_img/3be9e32f-3148-4e7c-b9bc-b8e31ceed8e0",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 6.341065281983477,
       "lat": 45.281313821424725
+    },
+    {
+      "name" : "Risoul - Pointe de Razis",
+      "url" : "https://www.skaping.com/risoul/pointe-du-razis",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.646909426300236,
+      "lat": 44.595216663688646
+    },
+    {
+      "name" : "Vars - Pic de Chabrières",
+      "url" : "https://www.skaping.com/vars/speed-master",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.64342683236018,
+      "lat": 44.57088849740879
+    },
+    {
+      "name" : "Vars - Col de Crevoux",
+      "url" : "https://www.skaping.com/vars/col-de-crevoux",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.651506602990243,
+      "lat": 44.5586170778086
+    },
+    {
+      "name" : "Vars - Chabrières",
+      "url" : "https://www.skaping.com/vars/chabrieres",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.663645519353111,
+      "lat": 44.56821979031963
+    },
+    {
+      "name" : "Vars - Peynier",
+      "url" : "https://www.skaping.com/vars/peynier",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.699155347196442,
+      "lat": 44.57551301817934
+    },
+    {
+      "name" : "Gréolières - Front de neige",
+      "url" : "https://www.skaping.com/greolieres/front-de-neige/photo",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.96767498688516,
+      "lat": 43.82978431626115
+    },
+    {
+      "name" : "Gréolières",
+      "url" : "https://www.skaping.com/greolieres/huskies",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.972401557995749,
+      "lat": 43.82217157772503
+    },
+    {
+      "name" : "Menton - Plage des Sablettes",
+      "url" : "https://www.skaping.com/menton/plagedessablettes",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 7.509426775179549,
+      "lat": 43.777154011631644
     }
 
   ]
 }
+
+
