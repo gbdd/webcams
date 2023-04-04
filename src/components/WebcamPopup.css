@@ -14,6 +14,7 @@
 
 .popupIframe {
   height: 100%;
+  border: none;
 }
 
 .leaflet-popup-close-button {
