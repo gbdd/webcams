@@ -1,7 +1,10 @@
 import React, { FC, ReactElement, useState, useRef, useEffect } from 'react';
 import './WebcamPopup.css';
 import {  Popup, useMap, useMapEvents } from 'react-leaflet';
-import { livecam } from '../tools/consts';
+import {
+  livecam,
+  WC_COLORS,
+} from '../tools/consts';
 import { IS_MOBILE } from '../tools/UIConstants';
 import { StarToggle } from './StarToggle';
 
@@ -17,6 +20,7 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
   const [maxHeight, setMaxHeight] = useState<number>();
   const [contentWidth, setContentWidth] = useState<number>();
   const [contentHeight, setContentHeight] = useState<number>();
+
 
   useEffect(
     () => {
@@ -103,14 +107,32 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
     return pref;
   }
 
-  let iframesrc = lc.iframesrc;
-  if (iframesrc === "s") {
-    iframesrc = lc.url;
-  }
-  if (!IS_MOBILE && (typeof lc.iframesrcdesktop !== "undefined")) {
-    iframesrc = lc.iframesrcdesktop;
+  const isTikeeLc = ():boolean => {
+    let isTikee:boolean = false;
+    if ((typeof lc.iframesrc !== 'undefined')
+     && (lc.iframesrc.includes('my.tikee.io'))) {
+      isTikee = true;
+    }
+    return isTikee;
   }
 
+  const getIframeSrc = ():string => {
+    let ifsrc = lc.iframesrc;
+    if (ifsrc === "s") {
+      ifsrc = lc.url;
+    }
+    if (!IS_MOBILE && (typeof lc.iframesrcdesktop !== 'undefined')) {
+      ifsrc = lc.iframesrcdesktop;
+    }
+    if (isTikeeLc()) {
+      const prim_c = WC_COLORS.BACKGROUND;
+      const sec_c = WC_COLORS.BACKGROUND_LIGHTER;
+      ifsrc = ifsrc.concat(`?lang=fr&primary_color=${prim_c}&secondary_color=${sec_c}&hide_downloads=true`);
+    }
+    return ifsrc;
+  }
+
+  let iframesrc = getIframeSrc();
 
   const renderPopupHeader = () => {
     return (
@@ -132,7 +154,7 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
     <React.Fragment>
     { (typeof iframesrc !== "undefined") && (
       <Popup className="markerPopup" maxWidth={maxWidth} maxHeight={maxHeight}>
-        <div  className="popupContent" style={{width: contentWidth, height: contentHeight}}>
+        <div className="popupContent" style={{width: contentWidth, height: contentHeight}}>
           {renderPopupHeader()}
           { (iframesrc !== undefined) && (
             <iframe className="popupIframe" src={iframesrc} title={lc.name} allowFullScreen allow='autoplay'></iframe>
@@ -142,7 +164,7 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
     )}
     { (typeof iframesrc === "undefined") && (
     <Popup className="markerPopup">
-      <div  className="popupContent">
+      <div className="popupContent">
         {renderPopupHeader()}
         { ((lc.thumburl !== undefined) && (typeof lc.iframesrc === 'undefined')) && (
           <div ref={thumbContainer} className="popupThumbnailContainer">

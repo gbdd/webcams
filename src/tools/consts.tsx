@@ -61,3 +61,10 @@ export const iconCountry = new L.Icon({
 });
 
 export const PRODUCT_SHORTNAME:string = 'BddWbcms';
+
+
+export const WC_COLORS = {
+  BACKGROUND: '59554a',
+  BACKGROUND_LIGHTER: '6f6a5d',
+  BACKGROUND_DARKER: '47443b',
+}

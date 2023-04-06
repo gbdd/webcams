@@ -1685,7 +1685,7 @@
     {
       "name" : "Saint Jean de Maurienne",
       "url" : "https://my.tikee.io/projects/132973/timelapse",
-      "iframesrc" : "https://my.tikee.io/time_lapses/37024/photo_gallery/3be9e32f-3148-4e7c-b9bc-b8e31ceed8e0?lang=fr&primary_color=6d695e&secondary_color=57544b&hide_downloads=true",
+      "iframesrc" : "https://my.tikee.io/time_lapses/37024/photo_gallery/3be9e32f-3148-4e7c-b9bc-b8e31ceed8e0",
       "type": "city",
       "lng": 6.341065281983477,
       "lat": 45.281313821424725
@@ -1756,7 +1756,7 @@
     },
     {
       "name" : "Refuge Vallot",
-      "iframesrc" : "https://my.tikee.io/time_lapses/24129/photo_gallery/15d8bf79-b02c-43bd-800b-6e904072475f?lang=fr&primary_color=6d695e&secondary_color=57544b&hide_downloads=true",
+      "iframesrc" : "https://my.tikee.io/time_lapses/24129/photo_gallery/15d8bf79-b02c-43bd-800b-6e904072475f",
       "url" : "https://my.tikee.io/projects/105993/timelapse",
       "type": "mountain",
       "lng": 6.852238788748073,
