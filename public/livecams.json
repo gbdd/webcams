@@ -1006,7 +1006,7 @@
       "lat": 42.851056807821955
     },
     {
-      "name" : "Cauterets - Plateau du CLot",
+      "name" : "Cauterets - Plateau du Clot",
       "url" : "https://pv.viewsurf.com/354/Cauterets-Pont-d-Espagne?i=NzIwODp1bmRlZmluZWQ",
       "iframesrc" : "s",
       "type": "mountain",
@@ -1897,6 +1897,430 @@
       "type": "sea",
       "lng": 3.2960536261234528,
       "lat": 43.24686553788816
+    },
+    {
+      "name" : "Narbonne - Plage",
+      "url" : "https://www.skaping.com/narbonne/plage",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 3.1811792954394957,
+      "lat": 43.16912942510745
+    },
+    {
+      "name" : "Gruissan - Village",
+      "url" : "https://www.skaping.com/gruissan/village/video",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 3.0917624833363266,
+      "lat": 43.10987776066607
+    },
+    {
+      "name" : "Gruissan - Capitainerie",
+      "url" : "https://www.skaping.com/gruissan/capitainerie/video",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 3.0992236697376794,
+      "lat": 43.10756805835863
+    },
+    {
+      "name" : "Gruissan - Plage des chalets",
+      "url" : "https://www.skaping.com/gruissan/plagedeschalets/video",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 3.112115118989433,
+      "lat": 43.095716731456804
+    },
+    {
+      "name" : "Port la Nouvelle",
+      "url" : "https://www.skaping.com/port-la-nouvelle/",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 3.0651534232940714,
+      "lat": 43.01379659134446
+    },
+    {
+      "name" : "Cambre d'Aze - Le Pla",
+      "url" : "https://www.skaping.com/cambredaze/pla",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 2.1181973775231597,
+      "lat": 42.47266184648166
+    },
+    {
+      "name" : "Cambre d'Aze - Eyne",
+      "url" : "https://www.skaping.com/cambredaze/eyne",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 2.1048954096868213,
+      "lat": 42.47276290349749
+    },
+    {
+      "name" : "Peyragudes - Les Agudes",
+      "url" : "https://www.skaping.com/peyragudes/les-agudes",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.4774973587727258,
+      "lat": 42.7871808664634
+    },
+    {
+      "name" : "Peyragudes - Cap De Pales",
+      "url" : "https://www.skaping.com/peyragudes/cap-de-pales",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.45601580391796914,
+      "lat": 42.77599955022517
+    },
+    {
+      "name" : "Peyragudes - Peyresourde",
+      "url" : "https://www.skaping.com/peyragudes/peyresourde",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.44829371717466376,
+      "lat": 42.78972635334286
+    },
+    {
+      "name" : "Loudenvielle - Tour de Génos",
+      "url" : "https://www.skaping.com/loudenvielle/tour-de-genos",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.40497125238539056,
+      "lat": 42.8095853335955
+    },
+    {
+      "name" : "Saint Lary",
+      "url" : "https://www.skaping.com/saint-lary/village",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 0.3224433020118703,
+      "lat": 42.816759958746154
+    },
+    {
+      "name" : "Lac d'Orédon",
+      "url" : "https://www.skaping.com/neouvielle/lac-oredon",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 0.16898077060789565,
+      "lat": 42.827215748854485
+    },
+    {
+      "name" : "La Mongie - Village",
+      "url" : "https://www.skaping.com/grandtourmalet/lamongievillage",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.1763763668207803,
+      "lat": 42.91029527785529
+    },
+    {
+      "name" : "La Mongie - Sapins",
+      "url" : "https://www.skaping.com/grandtourmalet/sapins",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.17460233307074371,
+      "lat": 42.902901739130456
+    },
+    {
+      "name" : "La Mongie - Pourteilh",
+      "url" : "https://www.skaping.com/grandtourmalet/lamongiepourteilh/video",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.16398833506936164,
+      "lat": 42.89523968104883
+    },
+    {
+      "name" : "La Mongie - Tourmalet",
+      "url" : "https://www.skaping.com/grandtourmalet/lamongietourmalet",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.16307070929624787,
+      "lat": 42.90589747561011
+    },
+    {
+      "name" : "Col du Tourmalet",
+      "url" : "https://www.skaping.com/grandtourmalet/coldutourmalet",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.14740488399410667,
+      "lat": 42.90841469816493
+    },
+    {
+      "name" : "Barèges - Tourmalet",
+      "url" : "https://www.skaping.com/grandtourmalet/baregestourmalet",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.13029750757725886,
+      "lat": 42.905621574065336
+    },
+    {
+      "name" : "Barèges - Tournaboup",
+      "url" : "https://www.skaping.com/grandtourmalet/baregestournaboup/video",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.10320004075103813,
+      "lat": 42.90353965730016
+    },
+    {
+      "name" : "Barèges - La Laquette",
+      "url" : "https://www.skaping.com/grandtourmalet/laquette",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.09151888457802648,
+      "lat": 42.89581568189349
+    },
+    {
+      "name" : "Barèges - Lienz",
+      "url" : "https://www.skaping.com/grandtourmalet/baregeslienz/video",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.07872258719590502,
+      "lat": 42.8947854201246
+    },
+    {
+      "name" : "Cauterets - Village",
+      "url" : "https://www.skaping.com/cauterets/village",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": -0.11352802211933098,
+      "lat": 42.89093724531981
+    },
+    {
+      "name" : "Cauterets - Cirque du Lys",
+      "url" : "https://www.skaping.com/cauterets/cirque-du-lys/panorama",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": -0.15559314718297548,
+      "lat": 42.88241891430248
+    },
+    {
+      "name" : "Chalets d'Iraty",
+      "url" : "https://www.skaping.com/chalets-iraty/",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": -1.025992451992481,
+      "lat": 43.04037086931046
+    },
+    {
+      "name" : "Hendaye - Chateau Abbadia",
+      "url" : "https://www.skaping.com/chateau-abbadia",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.7494160729022439,
+      "lat": 43.377512897851844
+    },
+    {
+      "name" : "Anglet - Chambre d'Amour",
+      "url" : "https://www.skaping.com/anglet/chambre-d-amour",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.5431728108635645,
+      "lat": 43.499571250551135
+    },
+    {
+      "name" : "Millau - Pouncho d'Agast",
+      "url" : "https://www.skaping.com/millau/pouncho/panoramique",
+      "iframesrc" : "s",
+      "type": "country",
+      "lng": 3.1012828653563593,
+      "lat": 44.11004990441274
+    },
+    {
+      "name" : "Rivedoux - Plage sud",
+      "url" : "https://www.skaping.com/rivedoux-plage-sud/video",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.264823729637126,
+      "lat": 46.15742599835339
+    },
+    {
+      "name" : "Rivedoux - Plage nord",
+      "url" : "https://www.skaping.com/rivedoux-plage-nord/video",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.2723426502552866,
+      "lat": 46.15941868010935
+    },
+    {
+      "name" : "La Roche sur Yon - Moulin de Rambourg",
+      "url" : "https://www.skaping.com/la-roche-sur-yon/moulin-de-rambourg",
+      "iframesrc" : "s",
+      "type": "country",
+      "lng": -1.3949155862803706,
+      "lat": 46.60640241902664
+    },
+    {
+      "name" : "La Roche sur Yon - Place Napoleon",
+      "url" : "https://www.skaping.com/la-roche-sur-yon/place-napoleon/video",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": -1.4252424965014876,
+      "lat": 46.67072140886269
+    },
+    {
+      "name" : "La Roche sur Yon - Moulin Papon",
+      "url" : "https://www.skaping.com/la-roche-sur-yon/moulin-papon",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": -1.4123231090218769,
+      "lat": 46.695020292608575
+    },
+    {
+      "name" : "Saint Jean de Monts - Front de mer ",
+      "url" : "https://www.skaping.com/saint-jean-de-monts/front-de-mer/videopano",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.0675806519422903,
+      "lat": 46.78157162492804
+    },
+    {
+      "name" : "Saint Jean de Monts - Estacade",
+      "url" : "https://www.skaping.com/saint-jean-de-monts/base-nautique/estacadezoom",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.0843007420581254,
+      "lat": 46.78868614560666
+    },
+    {
+      "name" : "Notre Dame de Monts - Plage",
+      "url" : "https://www.skaping.com/notre-dame-de-monts/plage/video",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.1446535174595676,
+      "lat": 46.82963652911877
+    },
+    {
+      "name" : "Notre Dame de Monts - Kulmino",
+      "url" : "https://www.skaping.com/notre-dame-de-monts/kulmino",
+      "iframesrc" : "s",
+      "type": "country",
+      "lng": -2.0996253075280125,
+      "lat": 46.83880218792386
+    },
+    {
+      "name" : "La Barre de Monts - Plage de la Grande Côte",
+      "url" : "https://www.skaping.com/la-barre-de-monts/grande-cote",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.154835512038676,
+      "lat": 46.88492152380691
+    },
+    {
+      "name" : "Fromentine",
+      "url" : "https://www.skaping.com/la-barre-de-monts/centre-nautique-360/test",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.1438309744254735,
+      "lat": 46.890248066054156
+    },
+    {
+      "name" : "Noirmoutier - Le Port de l'Herbaudière",
+      "url" : "https://www.skaping.com/noirmoutier/port-herbaudiere/video",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.3002131503773207,
+      "lat": 47.02578754964671
+    },
+    {
+      "name" : "Port du Bec",
+      "url" : "https://www.skaping.com/port-du-bec",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.071345418889563,
+      "lat": 46.9355881271982
+    },
+    {
+      "name" : "Ile de Groix - Port Tudy",
+      "url" : "https://www.skaping.com/lorient/ile-de-groix",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -3.4485238854338047,
+      "lat": 47.643925834801614
+    },
+    {
+      "name" : "Lorient - Port de pêche de Keroman",
+      "url" : "https://www.skaping.com/lorient/rade/port-keroman",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -3.366817230365425,
+      "lat": 47.72783922738794
+    },
+    {
+      "name" : "Lorient - Le Peristyle",
+      "url" : "https://www.skaping.com/lorient/maison-de-l-agglomeration",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -3.3510858002791157,
+      "lat": 47.74404952616406
+    },
+    {
+      "name" : "Guidel - Plage du Loch",
+      "url" : "https://www.skaping.com/lorient/guidel-fort-du-loch",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -3.509550265387095,
+      "lat": 47.751402089052704
+    },
+    {
+      "name" : "Port la Forêt",
+      "url" : "https://www.skaping.com/port-la-foret/video",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -3.9739206008539507,
+      "lat": 47.89906710261433
+    },
+    {
+      "name" : "Loctudy - Langoz",
+      "url" : "https://www.skaping.com/loctudy/langoz/video",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -4.161894397840538,
+      "lat": 47.82936637837158
+    },
+    {
+      "name" : "Loctudy - Les Perdrix",
+      "url" : "https://www.skaping.com/loctudy/les-perdrix/video",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -4.169653093901774,
+      "lat": 47.8357910235426
+    },
+    {
+      "name" : "Loctudy - Port de Plaisance",
+      "url" : "https://www.skaping.com/loctudy/port-de-plaisance/video",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -4.1765866842809265,
+      "lat": 47.837091413036724
+    },
+    {
+      "name" : "Quimper - Quai de l'Odet",
+      "url" : "https://www.skaping.com/quimper/quai-odet/video",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": -4.106210622168945,
+      "lat": 47.99374398536035
+    },
+    {
+      "name" : "Roscoff - Le Port",
+      "url" : "https://www.skaping.com/port-de-roscoff/panorama",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -3.968180050014507,
+      "lat": 48.71746170929193
+    },
+    {
+      "name" : "Trébeurden - Pors Termen",
+      "url" : "https://www.skaping.com/trebeurden/pors-termen/plage",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -3.584016611717458,
+      "lat": 48.77309432297463
+    },
+    {
+      "name" : "Saint-Lunaire - Pointe du décollé",
+      "url" : "https://www.skaping.com/saint-lunaire/pointe-du-decolle",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.1126335223100137,
+      "lat": 48.64433045088897
     }
   ]
 }
