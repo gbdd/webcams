@@ -2489,6 +2489,102 @@
       "type": "country",
       "lng": 1.607430919544394,
       "lat": 50.522055670688296
+    },
+    {
+      "name" : "La Bresse - Front de Neige",
+      "url" : "https://www.skaping.com/labresse/front-de-neige",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.971120491060619,
+      "lat": 48.03707650942661
+    },
+    {
+      "name" : "La Bresse - Haut de Vologne",
+      "url" : "https://www.skaping.com/la-bresse/haut-de-vologne",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.988143740631859,
+      "lat": 48.03409458117613
+    },
+    {
+      "name" : "La Bresse - Sommet Chitelet",
+      "url" : "https://www.skaping.com/la-bresse/hohneck",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.99859815234716,
+      "lat": 48.032768032943444
+    },
+    {
+      "name" : "Mulhouse - Place de la réunion",
+      "url" : "https://www.skaping.com/mulhouse/reunion",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 7.337910986395406,
+      "lat": 47.74688721192169
+    },
+    {
+      "name" : "Crans Montana - Plaine Morte",
+      "url" : "https://www.skaping.com/crans-montana/plaine-morte",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 7.48888656603176,
+      "lat": 46.370178384167964
+    },
+    {
+      "name" : "Crans Montana - Aminona",
+      "url" : "https://www.skaping.com/crans-montana/la-tsa",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 7.519808302118497,
+      "lat": 46.353481827542595
+    },
+    {
+      "name" : "Crans Montana - Les Violettes",
+      "url" : "https://www.skaping.com/crans-montana/les-violettes",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 7.498803184270965,
+      "lat": 46.34257404364072
+    },
+    {
+      "name" : "Crans Montana - Cry d'Er",
+      "url" : "https://www.skaping.com/crans-montana/cryder",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 7.481985961635521,
+      "lat": 46.331171337808954
+    },
+    {
+      "name" : "Maligne Lake",
+      "url" : "https://www.skaping.com/malignelake",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": -117.64005942714664,
+      "lat": 52.72939128502459
+    },
+    {
+      "name" : "Columbia Icefield Skywalk",
+      "url" : "https://www.skaping.com/columbiaicefieldskywalk",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": -117.28063183632459,
+      "lat": 52.26128855937666
+    },
+    {
+      "name" : "Columbia Icefields",
+      "url" : "https://www.skaping.com/columbiaicefield",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": -117.22466316699773,
+      "lat": 52.22031946697846
+    },
+    {
+      "name" : "Saint-Philibert",
+      "url" : "https://pv.viewsurf.com/1684/Saint-Philibert-Base-Nautique",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -3.0040791215795077,
+      "lat": 47.56741432786876
     }
   ]
 }
