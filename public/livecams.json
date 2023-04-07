@@ -2321,6 +2321,174 @@
       "type": "sea",
       "lng": -2.1126335223100137,
       "lat": 48.64433045088897
+    },
+    {
+      "name" : "Evron",
+      "url" : "https://www.skaping.com/evron/ville",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": -0.40354703714089557,
+      "lat": 48.155850060884546
+    },
+    {
+      "name" : "Trouville",
+      "url" : "https://www.skaping.com/trouville/video",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 0.07927966933699586,
+      "lat": 49.36566485784436
+    },
+    {
+      "name" : "Beauvais - Place Jeanne Hachette",
+      "url" : "https://www.skaping.com/beauvais/place-jeanne-hachette/video",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 2.082136933234541,
+      "lat": 49.42962794227672
+    },
+    {
+      "name" : "Chaumont-sur-Loire",
+      "url" : "https://www.skaping.com/blois-chambord/chaumont-sur-loire",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 1.189138953278916,
+      "lat": 47.48662645224776
+    },
+    {
+      "name" : "Blois - Jardin Augustin Thierry",
+      "url" : "https://www.skaping.com/blois-chambord/jardin-augustin-thierry",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 1.33068865147088,
+      "lat": 47.58652392803868
+    },
+    {
+      "name" : "Blois - Pont Jacques Gabriel",
+      "url" : "https://www.skaping.com/blois-chambord/pont-jacques-gabriel",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 1.338880341763204,
+      "lat": 47.58402927278219
+    },
+    {
+      "name" : "Blois - Observatoire Loire",
+      "url" : "https://www.skaping.com/blois-chambord/observatoire-loire-photo",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 1.3602561084716447,
+      "lat": 47.59868729442807
+    },
+    {
+      "name" : "Château de Chambord",
+      "url" : "https://www.skaping.com/blois-chambord/chateau-de-chambord",
+      "iframesrc" : "s",
+      "type": "country",
+      "lng": 1.5156436568869591,
+      "lat": 47.61851863572437
+    },
+    {
+      "name" : "Muides-sur-Loire",
+      "url" : "https://www.skaping.com/blois-chambord/muides-sur-loire",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 1.5267089702361014,
+      "lat": 47.67473791805476
+    },
+    {
+      "name" : "Orléans - Parc Floral",
+      "url" : "https://www.skaping.com/orleans/parc-floral",
+      "iframesrc" : "s",
+      "type": "country",
+      "lng": 1.9352556321216137,
+      "lat": 47.85229429594887
+    },
+    {
+      "name" : "Orléans - Quais de Loire",
+      "url" : "https://www.skaping.com/orleans/quais-de-loire/video",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 1.909176960342074,
+      "lat": 47.897830876251916
+    },
+    {
+      "name" : "Orléans - Depuis le beffroi",
+      "url" : "https://www.skaping.com/orleans/beffroi",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 1.9057496200584165,
+      "lat": 47.900781141342335
+    },
+    {
+      "name" : "Orléans - Hotel Groslot",
+      "url" : "https://www.skaping.com/orleans/hotel-groslot",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 1.9089345020746438,
+      "lat": 47.90248562720056
+    },
+    {
+      "name" : "Berck sur Mer - Baie d'Authie",
+      "url" : "https://www.skaping.com/berck-sur-mer/baie-d-authie",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 1.5607821779048139,
+      "lat": 50.39457401460765
+    },
+    {
+      "name" : "Berck sur Mer - Poste de secours",
+      "url" : "https://www.skaping.com/berck-sur-mer/poste-de-secours",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 1.5586731971874899,
+      "lat": 50.405320187219864
+    },
+    {
+      "name" : "Berck sur Mer - Hopale",
+      "url" : "https://www.skaping.com/berck-sur-mer/hopale",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 1.5635422828438343,
+      "lat": 50.416960318891284
+    },
+    {
+      "name" : "Le Touquet - Centre Nautique de la Manche",
+      "url" : "https://www.skaping.com/le-touquet/base-sud/new",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 1.5786636841549813,
+      "lat": 50.51690979715036
+    },
+    {
+      "name" : "Le Touquet - Plage",
+      "url" : "https://www.skaping.com/le-touquet/poste-central/vue-sud",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 1.579110938557919,
+      "lat": 50.523015999073955
+    },
+    {
+      "name" : "Le Touquet - Centre Nautique de la Baie de Canche",
+      "url" : "https://www.skaping.com/le-touquet/base-nord/new",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 1.5941942725132576,
+      "lat": 50.53673207679636
+    },
+    {
+      "name" : "Le Touquet - Les Jardins du Palais",
+      "url" : "https://www.skaping.com/le-touquet/lycee-hotelier/new",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 1.5961413766336823,
+      "lat": 50.51770320126555
+    },
+    {
+      "name" : "Le Touquet - Centre équestre",
+      "url" : "https://www.skaping.com/le-touquet/centre-equestre",
+      "iframesrc" : "s",
+      "type": "country",
+      "lng": 1.607430919544394,
+      "lat": 50.522055670688296
     }
   ]
 }
