@@ -2585,6 +2585,20 @@
       "type": "sea",
       "lng": -3.0040791215795077,
       "lat": 47.56741432786876
+    },
+    {
+      "name" : "Gullfoss",
+      "url" : "https://livefromiceland.is/webcams/gullfoss",
+      "type": "country",
+      "lng": -20.125953490954288,
+      "lat": 64.32490043819796
+    },
+    {
+      "name" : "Jökulsarlon - Glacier lagoon",
+      "url" : "https://livefromiceland.is/webcams/jokulsarlon",
+      "type": "lake",
+      "lng": -16.1803768227904,
+      "lat": 64.04809134696416
     }
   ]
 }
