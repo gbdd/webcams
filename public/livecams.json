@@ -20,7 +20,7 @@
     },
     {
       "name" : "Bessans",
-      "url" : "https://m.webcam-hd.com/bessans/relais",
+      "url" : "https://app.webcam-hd.com/bessans/relais",
       "thumburl": "https://www.trinum.com/ibox/ftpcam/small_bessans_relais.jpg",
       "iframesrc" : "s",
       "type": "mountain",
@@ -29,7 +29,7 @@
     },
     {
       "name" : "Bessans - Carreley",
-      "url" : "https://m.webcam-hd.com/bessans/carreley",
+      "url" : "https://app.webcam-hd.com/bessans/carreley",
       "thumburl": "https://www.trinum.com/ibox/ftpcam/small_bessans_carreley.jpg",
       "iframesrc" : "s",
       "type": "mountain",
@@ -38,7 +38,7 @@
     },
     {
       "name" : "Bessans - La Bessanaise",
-      "url" : "https://m.webcam-hd.com/bessans/bessannaise",
+      "url" : "https://app.webcam-hd.com/bessans/bessannaise",
       "thumburl": "https://www.trinum.com/ibox/ftpcam/small_bessans_la-bessannaise.jpg",
       "iframesrc" : "s",
       "type": "mountain",
@@ -134,7 +134,7 @@
     },
     {
       "name" : "Pralognan - Front de Neige",
-      "url" : "https://m.webcam-hd.com/pralognan/village",
+      "url" : "https://app.webcam-hd.com/pralognan/village",
       "thumburl": "https://www.trinum.com/ibox/ftpcam/small_pralognan_village.jpg",
       "iframesrc" : "s",
       "type": "mountain",
@@ -143,7 +143,7 @@
     },
     {
       "name" : "St François Longchamp",
-      "url" : "https://m.webcam-hd.com/st_francois_longchamp/st_francois_village",
+      "url" : "https://app.webcam-hd.com/st_francois_longchamp/st_francois_village",
       "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_st_francois_village.jpg",
       "iframesrc" : "s",
       "type": "mountain",
@@ -266,7 +266,7 @@
     },
     {
       "name" : "Praz sur Arly - Ban Rouge",
-      "url" : "https://m.webcam-hd.com/val-d-arly/ban-rouge",
+      "url" : "https://app.webcam-hd.com/val-d-arly/ban-rouge",
       "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_val-d-arly_ban-rouge.jpg",
       "iframesrc" : "s",
       "type": "mountain",
@@ -275,7 +275,7 @@
     },
     {
       "name" : "Notre Dame de Bellecombe - Plan des fours",
-      "url" : "https://m.webcam-hd.com/val-d-arly/plan-des-fours",
+      "url" : "https://app.webcam-hd.com/val-d-arly/plan-des-fours",
       "thumburl": "https://www.trinum.com/ibox/ftpcam/small_val-d-arly_plan-des-fours.jpg",
       "iframesrc" : "s",
       "type": "mountain",
@@ -2599,6 +2599,80 @@
       "type": "lake",
       "lng": -16.1803768227904,
       "lat": 64.04809134696416
+    },
+    {
+      "name" : "Baie de Talloires",
+      "url" : "https://app.webcam-hd.com/pere-bise/auberge",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_pere-bise_auberge.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.211335130101093,
+      "lat": 45.83992088076591
+    },
+    {
+      "name" : "Angon",
+      "url" : "https://app.webcam-hd.com/hotel-grillons/vue-lac-annecy",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_hotel-grillons_vue-lac-annecy.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.224653689421341,
+      "lat": 45.82523371001735
+    },
+    {
+      "name" : "Megève - Place du village",
+      "url" : "https://app.webcam-hd.com/megeve/place-du-village",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_megeve_village.jpg",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.617772963118453,
+      "lat": 45.856909749390134
+    },
+    {
+      "name" : "Lac d'Annecy depuis le col de la Forclaz",
+      "url" : "https://www.chaletlapricaz.com/webcam-lac-annecy/",
+      "type": "lake",
+      "lng": 6.244556006979169,
+      "lat": 45.80971897195492
+    },
+    {
+      "name" : "Cabourg - Pavillon Charles Bertrand",
+      "url" : "https://www.youtube.com/watch?v=2trl7concx0",
+      "iframesrc": "https://www.youtube.com/embed/2trl7concx0?autoplay=1&mute=1&enablejsapi=1",
+      "type": "city",
+      "lng": -0.11551308941364935,
+      "lat": 49.29263503933757
+    },
+    {
+      "name" : "Ile de Sein",
+      "url" : "https://www.youtube.com/watch?v=Fu9TuM5vE_w",
+      "iframesrc": "https://www.youtube.com/embed/Fu9TuM5vE_w?autoplay=1&mute=1&enablejsapi=1",
+      "type": "sea",
+      "lng": -4.8495853435903,
+      "lat": 48.03777716862698
+    },
+    {
+      "name" : "Baie des Trépassés",
+      "url" : "https://www.youtube.com/watch?v=hCDODosUFiA",
+      "iframesrc": "https://www.youtube.com/embed/hCDODosUFiA?autoplay=1&mute=1&enablejsapi=1",
+      "type": "sea",
+      "lng": -4.704757610309107,
+      "lat": 48.04803525012833
+    },
+    {
+      "name" : "Carantec",
+      "url" : "https://www.youtube.com/watch?v=JnqnZZNrLx8",
+      "iframesrc": "https://www.youtube.com/embed/JnqnZZNrLx8?autoplay=1&mute=1&enablejsapi=1",
+      "type": "sea",
+      "lng": -3.9142626155887976,
+      "lat": 48.66888721147114
+    },
+    {
+      "name" : "Pelvoux-Vallouise",
+      "url" : "https://www.youtube.com/watch?v=ewlNFfQ8UKQ",
+      "iframesrc": "https://www.youtube.com/embed/ewlNFfQ8UKQ?autoplay=1&mute=1&enablejsapi=1",
+      "type": "mountain",
+      "lng": 6.4863630685062255,
+      "lat": 44.86526323090565
     }
   ]
 }
