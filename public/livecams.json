@@ -2673,6 +2673,22 @@
       "type": "mountain",
       "lng": 6.4863630685062255,
       "lat": 44.86526323090565
+    },
+    {
+      "name" : "Reims - Tour des argonautes",
+      "url" : "https://reims.roundshot.com/",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 4.035539329942621,
+      "lat": 49.226808050664715
+    },
+    {
+      "name" : "Saint Lary - Merlans",
+      "url" : "https://saintlary.roundshot.com/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 0.2204495117145913,
+      "lat": 42.8277885405628
     }
   ]
 }
