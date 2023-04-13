@@ -1419,6 +1419,38 @@
       "lat": 45.158966602580115
     },
     {
+      "name" : "Valloire - Crey du quart - Plan de la Sea",
+      "url" : "https://valloire.roundshot.com/",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.45144705912782,
+      "lat": 45.16138625148073
+    },
+    {
+      "name" : "Valloire - Sétaz",
+      "url" : "https://valloire.roundshot.com/setaz/",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.435006972714768,
+      "lat": 45.15087271780842
+    },
+    {
+      "name" : "Valmeinier - Crey du quart - Moneul",
+      "url" : "https://valmeinier.roundshot.com/moneul-creyduquart/",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.470633210805312,
+      "lat": 45.16234717146354
+    },
+    {
+      "name" : "Valmeinier - Les Jeux",
+      "url" : "https://valmeinier.roundshot.com/lesjeux/",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.515516822360819,
+      "lat": 45.17834215928603
+    },
+    {
       "name" : "Valmeinier - La Sandonière",
       "url" : "https://www.skaping.com/Valmeinier/sandoniere",
       "iframesrc" : "s",
@@ -2689,7 +2721,167 @@
       "type": "mountain",
       "lng": 0.2204495117145913,
       "lat": 42.8277885405628
+    },
+    {
+      "name" : "Ascona Locarno",
+      "url" : "https://ascona-locarno.roundshot.com/",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.785298069163101,
+      "lat": 46.16706580305922
+    },
+    {
+      "name" : "Falera - Berghaus Nagens",
+      "url" : "https://laax.roundshot.com/berghaus-nagens/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.233566483662107,
+      "lat": 46.86187639135578
+    },
+    {
+      "name" : "Caumasee",
+      "url" : "https://laax.roundshot.com/caumasee/",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 9.295753829668666,
+      "lat": 46.82157765449667
+    },
+    {
+      "name" : "Verbier - Fontanets",
+      "url" : "https://verbier.roundshot.com/fontanets/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.2648163126198355,
+      "lat": 46.087437372266734
+    },
+    {
+      "name" : "Verbier - Mont-Fort",
+      "url" : "https://verbier.roundshot.com/montfort/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.318332425835002,
+      "lat": 46.080019963584895
+    },
+    {
+      "name" : "Säntis der Berg",
+      "url" : "https://saentis.roundshot.com/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.342940723903233,
+      "lat": 47.24934774939747
+    },
+    {
+      "name" : "Adelboden - TschentenAlp",
+      "url" : "https://tschentenalp.roundshot.com/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.544702059928447,
+      "lat": 46.498322014908986
+    },
+    {
+      "name" : "Grindelwald - Mittellegihütte",
+      "url" : "https://grindelwald.roundshot.com/mittellegihuette/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.022550929745277,
+      "lat": 46.58338088757022
+    },
+    {
+      "name" : "Grindelwald - Mönchsjochhütte",
+      "url" : "https://moenchsjochhuette.roundshot.com/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.00580811692034,
+      "lat": 46.55477817188867
+    },
+    {
+      "name" : "Merligen - Thunersee",
+      "url" : "https://beatuswellness.roundshot.com/",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 7.737555557074108,
+      "lat": 46.69623416088819
+    },
+    {
+      "name" : "Interlaken - Harder Kulm",
+      "url" : "https://jungfrau.roundshot.com/interlaken-harderkulm/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.851723436827017,
+      "lat": 46.697372656663
+    },
+    {
+      "name" : "Luzern",
+      "url" : "https://luzerntourismus.roundshot.com/",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.308598079167426,
+      "lat": 47.05083564923232
+    },
+    {
+      "name" : "Jungfraujoch",
+      "url" : "https://jungfrau.roundshot.com/top-of-europe-jungfraujoch/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.971443533853924,
+      "lat": 46.54544316949626
+    },
+    {
+      "name" : "Bregaglia - L'Äla",
+      "url" : "https://bregagliaturismo.roundshot.com/aela/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.709429812128697,
+      "lat": 46.394993842290695
+    },
+    {
+      "name" : "Bregaglia - Albigna",
+      "url" : "https://bregagliaturismo.roundshot.com/albigna/",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 9.643050819854405,
+      "lat": 46.33661820840539
+    },
+    {
+      "name" : "Bregaglia - Soglio",
+      "url" : "https://bregagliaturismo.roundshot.com/soglio/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.538743918600911,
+      "lat": 46.342727604981114
+    },
+    {
+      "name" : "Bandol - Office de tourisme",
+      "url" : "https://bandol.roundshot.com/office-de-tourisme/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 5.753208427407384,
+      "lat": 43.134706733313685
+    },
+    {
+      "name" : "Bandol - Capitainerie",
+      "url" : "https://bandol.roundshot.com/port/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 5.757419040175473,
+      "lat": 43.134142643375895
+    },
+    {
+      "name" : "La Grande Motte - Port de plaisance",
+      "url" : "https://grandemotte.roundshot.com/portdeplaisance/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 4.081862174509247,
+      "lat": 43.55652138701091
+    },
+    {
+      "name" : "Rome",
+      "url" : "https://roma.panomax.com/palazzonaiadi",
+      "thumburl": "https://live-image.panomax.com/cams/5984/recent_reduced.jpg",
+      "iframesrcdesktop" : "https://roma.panomax.com/palazzonaiadi",
+      "type": "city",
+      "lng": 12.49594765791349,
+      "lat": 41.90203031880042
     }
   ]
 }
-
