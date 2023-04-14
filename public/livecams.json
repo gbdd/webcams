@@ -2986,6 +2986,14 @@
       "type": "sea",
       "lng": -16.77703456141094,
       "lat": 28.120423063889998
+    },
+    {
+      "name" : "Namibia waterhole",
+      "url" : "https://www.youtube.com/watch?v=ydYDqZQpim8",
+      "iframesrc" : "https://www.youtube.com/embed/ydYDqZQpim8?autoplay=1",
+      "type": "country",
+      "lng": 15.887410,
+      "lat": -24.074923
     }
   ]
 }
