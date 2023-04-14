@@ -2909,7 +2909,7 @@
     },
     {
       "name" : "Kvívík",
-      "url" : "http://fensalir.net/My%20Faroese%20Domicile/",
+      "url" : "https://fensalir.net/My%20Faroese%20Domicile/",
       "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=59562c1c13e32&autoplay=1",
       "type": "sea",
       "lng": -7.075163847403256,
@@ -2917,16 +2917,16 @@
     },
     {
       "name" : "Font de Sa Cala",
-      "url" : "http://g0.ipcamlive.com/player/player.php?alias=fontdesacala",
-      "iframesrc" : "http://g0.ipcamlive.com/player/player.php?alias=fontdesacala&autoplay=1",
+      "url" : "https://g0.ipcamlive.com/player/player.php?alias=fontdesacala",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=fontdesacala&autoplay=1",
       "type": "sea",
       "lng": 3.451254172659315,
       "lat": 39.681148134422365
     },
     {
       "name" : "Cala Agulla",
-      "url" : "http://g0.ipcamlive.com/player/player.php?alias=calaagulla",
-      "iframesrc" : "http://g0.ipcamlive.com/player/player.php?alias=calaagulla&autoplay=1",
+      "url" : "https://g0.ipcamlive.com/player/player.php?alias=calaagulla",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=calaagulla&autoplay=1",
       "type": "sea",
       "lng": 3.456742525673191,
       "lat": 39.720143109803246
@@ -2966,7 +2966,7 @@
     {
       "name" : "Ulfborg",
       "url" : "https://www.klitferie.com",
-      "iframesrc" : "http://g0.ipcamlive.com/player/player.php?alias=5e009c2e9e94b&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=5e009c2e9e94b&autoplay=1",
       "type": "country",
       "lng": 8.13206153477599,
       "lat": 56.255635541969674
