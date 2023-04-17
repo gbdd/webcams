@@ -23,8 +23,11 @@ input {
 
 .form-group label {
   display: flex;
-  color: #FFD700;
   align-items: center;
   cursor: pointer;
   font-size: large;
+}
+
+.redHeart {
+  color: #FF0000;
 }

@@ -294,7 +294,7 @@
     {
       "name" : "Vannes - le port",
       "url" : "https://www.youtube.com/watch?v=98w_URlftXA",
-      "iframesrc" : "https://www.youtube.com/embed/98w_URlftXA?autoplay=1&mute=1&enablejsapi=1",
+      "iframesrc" : "https://www.youtube.com/embed/98w_URlftXA",
       "type": "city",
       "lng": -2.7587077,
       "lat": 47.6514481
@@ -602,7 +602,7 @@
     {
       "name" : "Pointe du Raz",
       "url" : "https://www.youtube.com/watch?v=yiidUwe-QeQ",
-      "iframesrc" : "https://www.youtube.com/embed/yiidUwe-QeQ?autoplay=1&mute=1&enablejsapi=1",
+      "iframesrc" : "https://www.youtube.com/embed/yiidUwe-QeQ",
       "type": "sea",
       "lng": -4.731820576615801,
       "lat": 48.03879629639819
@@ -610,7 +610,7 @@
     {
       "name" : "Puy Saint Vincent - 2400",
       "url" : "https://www.youtube.com/watch?v=Fj7LGXb8V44",
-      "iframesrc" : "https://www.youtube.com/embed/Fj7LGXb8V44?autoplay=1&mute=1&enablejsapi=1",
+      "iframesrc" : "https://www.youtube.com/embed/Fj7LGXb8V44",
       "type": "mountain",
       "lng": 6.476867329199346,
       "lat": 44.80357742350111
@@ -618,7 +618,7 @@
     {
       "name" : "Puy Saint Vincent - La Pendine",
       "url" : "https://www.youtube.com/watch?v=7Nmix_ai0WU",
-      "iframesrc" : "https://www.youtube.com/embed/7Nmix_ai0WU?autoplay=1&mute=1&enablejsapi=1",
+      "iframesrc" : "https://www.youtube.com/embed/7Nmix_ai0WU",
       "type": "mountain",
       "lng": 6.455913134852377,
       "lat": 44.80283180148993
@@ -2669,7 +2669,7 @@
     {
       "name" : "Cabourg - Pavillon Charles Bertrand",
       "url" : "https://www.youtube.com/watch?v=2trl7concx0",
-      "iframesrc": "https://www.youtube.com/embed/2trl7concx0?autoplay=1&mute=1&enablejsapi=1",
+      "iframesrc": "https://www.youtube.com/embed/2trl7concx0",
       "type": "city",
       "lng": -0.11551308941364935,
       "lat": 49.29263503933757
@@ -2677,7 +2677,7 @@
     {
       "name" : "Ile de Sein",
       "url" : "https://www.youtube.com/watch?v=Fu9TuM5vE_w",
-      "iframesrc": "https://www.youtube.com/embed/Fu9TuM5vE_w?autoplay=1&mute=1&enablejsapi=1",
+      "iframesrc": "https://www.youtube.com/embed/Fu9TuM5vE_w",
       "type": "sea",
       "lng": -4.8495853435903,
       "lat": 48.03777716862698
@@ -2685,7 +2685,7 @@
     {
       "name" : "Baie des Trépassés",
       "url" : "https://www.youtube.com/watch?v=hCDODosUFiA",
-      "iframesrc": "https://www.youtube.com/embed/hCDODosUFiA?autoplay=1&mute=1&enablejsapi=1",
+      "iframesrc": "https://www.youtube.com/embed/hCDODosUFiA",
       "type": "sea",
       "lng": -4.704757610309107,
       "lat": 48.04803525012833
@@ -2693,7 +2693,7 @@
     {
       "name" : "Carantec",
       "url" : "https://www.youtube.com/watch?v=JnqnZZNrLx8",
-      "iframesrc": "https://www.youtube.com/embed/JnqnZZNrLx8?autoplay=1&mute=1&enablejsapi=1",
+      "iframesrc": "https://www.youtube.com/embed/JnqnZZNrLx8",
       "type": "sea",
       "lng": -3.9142626155887976,
       "lat": 48.66888721147114
@@ -2701,7 +2701,7 @@
     {
       "name" : "Pelvoux-Vallouise",
       "url" : "https://www.youtube.com/watch?v=ewlNFfQ8UKQ",
-      "iframesrc": "https://www.youtube.com/embed/ewlNFfQ8UKQ?autoplay=1&mute=1&enablejsapi=1",
+      "iframesrc": "https://www.youtube.com/embed/ewlNFfQ8UKQ",
       "type": "mountain",
       "lng": 6.4863630685062255,
       "lat": 44.86526323090565
@@ -2886,7 +2886,7 @@
     {
       "name" : "Gravelines - Vue du Phare",
       "url" : "https://www.ville-gravelines.fr/decouvrir-gravelines/gravelines-en-images/les-webcams/webcam-panoramique-phare",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=gravelinesphare&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=gravelinesphare",
       "type": "sea",
       "lng": 2.109234090183037,
       "lat": 51.00385619934438
@@ -2894,7 +2894,7 @@
     {
       "name" : "Forteresse de Klis",
       "url" : "https://www.livecamcroatia.com/en/camera/klis-fortress",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=klistvrdava&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=klistvrdava",
       "type": "sea",
       "lng": 16.52397647625922,
       "lat": 43.560074926457226
@@ -2902,7 +2902,7 @@
     {
       "name" : "Svolvær havn",
       "url" : "https://www.lofoten.com/webkamera-i-lofoten/svolvaer-havn/",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=svolvarhavnnotsteal&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=svolvarhavnnotsteal",
       "type": "sea",
       "lng": 14.56594134153209,
       "lat": 68.23163475069589
@@ -2910,7 +2910,7 @@
     {
       "name" : "Kvívík",
       "url" : "https://fensalir.net/My%20Faroese%20Domicile/",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=59562c1c13e32&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=59562c1c13e32",
       "type": "sea",
       "lng": -7.075163847403256,
       "lat": 62.1187711139529
@@ -2918,7 +2918,7 @@
     {
       "name" : "Font de Sa Cala",
       "url" : "https://g0.ipcamlive.com/player/player.php?alias=fontdesacala",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=fontdesacala&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=fontdesacala",
       "type": "sea",
       "lng": 3.451254172659315,
       "lat": 39.681148134422365
@@ -2926,7 +2926,7 @@
     {
       "name" : "Cala Agulla",
       "url" : "https://g0.ipcamlive.com/player/player.php?alias=calaagulla",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=calaagulla&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=calaagulla",
       "type": "sea",
       "lng": 3.456742525673191,
       "lat": 39.720143109803246
@@ -2934,7 +2934,7 @@
     {
       "name" : "Cres",
       "url" : "https://camp-kovacine.com/",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=kovacine&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=kovacine",
       "type": "sea",
       "lng": 14.39120598854589,
       "lat": 44.95988946185868
@@ -2942,7 +2942,7 @@
     {
       "name" : "Dubrovnik",
       "url" : "https://villaragusadubrovnik.com/",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=oldtown001&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=oldtown001",
       "type": "sea",
       "lng": 18.119925664226546,
       "lat": 42.641528604695075
@@ -2950,7 +2950,7 @@
     {
       "name" : "Vestmannaeyjar",
       "url" : "https://www.geisli.is/",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=vestmannaeyjar&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=vestmannaeyjar",
       "type": "sea",
       "lng": -20.27708490207199,
       "lat": 63.44651237209057
@@ -2958,7 +2958,7 @@
     {
       "name" : "Vestmannaeyjar",
       "url" : "https://www.geisli.is/",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=heimaklettur&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=heimaklettur",
       "type": "sea",
       "lng": -20.267006702226578,
       "lat": 63.44317036789799
@@ -2966,7 +2966,7 @@
     {
       "name" : "Ulfborg",
       "url" : "https://www.klitferie.com",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=5e009c2e9e94b&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=5e009c2e9e94b",
       "type": "country",
       "lng": 8.13206153477599,
       "lat": 56.255635541969674
@@ -2974,7 +2974,7 @@
     {
       "name" : "Leirvik",
       "url" : "https://g0.ipcamlive.com/player/player.php?alias=leirvik",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=leirvik&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=leirvik",
       "type": "sea",
       "lng": -6.71357668643305,
       "lat": 62.20596464387753
@@ -2982,7 +2982,7 @@
     {
       "name" : "Adeje",
       "url" : "https://g0.ipcamlive.com/player/player.php?alias=56d6f0f648bcc",
-      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=56d6f0f648bcc&autoplay=1",
+      "iframesrc" : "https://g0.ipcamlive.com/player/player.php?alias=56d6f0f648bcc",
       "type": "sea",
       "lng": -16.77703456141094,
       "lat": 28.120423063889998
@@ -2990,7 +2990,7 @@
     {
       "name" : "Namibia waterhole",
       "url" : "https://www.youtube.com/watch?v=ydYDqZQpim8",
-      "iframesrc" : "https://www.youtube.com/embed/ydYDqZQpim8?autoplay=1",
+      "iframesrc" : "https://www.youtube.com/embed/ydYDqZQpim8",
       "type": "country",
       "lng": 15.887410,
       "lat": -24.074923

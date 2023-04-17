@@ -4,6 +4,10 @@ import {  Popup, useMap, useMapEvents } from 'react-leaflet';
 import {
   livecam,
   WC_COLORS,
+  isYtLc,
+  isTikeeLc,
+  isIpClLc,
+  getIframeSrc,
 } from '../tools/consts';
 import { IS_MOBILE } from '../tools/UIConstants';
 import { StarToggle } from './StarToggle';
@@ -41,7 +45,7 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
     if ((typeof lc.iframesrc !== 'undefined')
      || (!IS_MOBILE && (typeof lc.iframesrcdesktop !== "undefined"))) {
       if (typeof _mapWidth !== 'undefined') {
-        setContentWidth(_mapWidth * 80 / 100);
+        setContentWidth(_mapWidth * 90 / 100);
         setContentHeight(_mapHeight * 80 / 100);
       }
     }
@@ -107,32 +111,21 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
     return pref;
   }
 
-  const isTikeeLc = ():boolean => {
-    let isTikee:boolean = false;
-    if ((typeof lc.iframesrc !== 'undefined')
-     && (lc.iframesrc.includes('my.tikee.io'))) {
-      isTikee = true;
-    }
-    return isTikee;
-  }
-
-  const getIframeSrc = ():string => {
-    let ifsrc = lc.iframesrc;
-    if (ifsrc === "s") {
-      ifsrc = lc.url;
-    }
-    if (!IS_MOBILE && (typeof lc.iframesrcdesktop !== 'undefined')) {
-      ifsrc = lc.iframesrcdesktop;
-    }
-    if (isTikeeLc()) {
+  const getIframeUrl = ():string => {
+    let ifsrc = getIframeSrc(lc);
+    if (isTikeeLc(lc)) {
       const prim_c = WC_COLORS.BACKGROUND;
       const sec_c = WC_COLORS.BACKGROUND_LIGHTER;
       ifsrc = ifsrc.concat(`?lang=fr&primary_color=${prim_c}&secondary_color=${sec_c}&hide_downloads=true`);
+    } else if (isYtLc(lc)) {
+      ifsrc = ifsrc.concat(`?autoplay=1&mute=1&enablejsapi=1`);
+    } else if (isIpClLc(lc)) {
+      ifsrc = ifsrc.concat(`&autoplay=1`);
     }
     return ifsrc;
   }
 
-  let iframesrc = getIframeSrc();
+  let iframeurl = getIframeUrl();
 
   const renderPopupHeader = () => {
     return (
@@ -152,17 +145,17 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
 
   return (
     <React.Fragment>
-    { (typeof iframesrc !== "undefined") && (
+    { (typeof iframeurl !== "undefined") && (
       <Popup className="markerPopup" maxWidth={maxWidth} maxHeight={maxHeight}>
         <div className="popupContent" style={{width: contentWidth, height: contentHeight}}>
           {renderPopupHeader()}
-          { (iframesrc !== undefined) && (
-            <iframe className="popupIframe" src={iframesrc} title={lc.name} allowFullScreen allow='autoplay'></iframe>
+          { (iframeurl !== undefined) && (
+            <iframe className="popupIframe" src={iframeurl} title={lc.name} allowFullScreen allow='autoplay'></iframe>
           )}
         </div>
       </Popup>
     )}
-    { (typeof iframesrc === "undefined") && (
+    { (typeof iframeurl === "undefined") && (
     <Popup className="markerPopup">
       <div className="popupContent">
         {renderPopupHeader()}

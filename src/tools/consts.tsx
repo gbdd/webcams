@@ -1,4 +1,5 @@
 import L from 'leaflet';
+import { IS_MOBILE } from './UIConstants';
 
 export type PrefLoc = {
   lat: number,
@@ -15,6 +16,48 @@ export interface livecam {
   iframesrc: string,
   iframesrcdesktop: string,
   preferred?: boolean,
+}
+
+export const getIframeSrc = (lc:livecam):string => {
+  let ifsrc = lc.iframesrc;
+  if (ifsrc === "s") {
+    ifsrc = lc.url;
+  }
+  if (!IS_MOBILE && (typeof lc.iframesrcdesktop !== 'undefined')) {
+    ifsrc = lc.iframesrcdesktop;
+  }
+  return ifsrc;
+}
+
+export const isTikeeLc = (lc:livecam):boolean => {
+  const ifsrc = getIframeSrc(lc);
+
+  let isTikee:boolean = false;
+  if ((typeof ifsrc !== 'undefined')
+   && (ifsrc.includes('my.tikee.io'))) {
+    isTikee = true;
+  }
+  return isTikee;
+}
+export const isYtLc = (lc:livecam):boolean => {
+  const ifsrc = getIframeSrc(lc);
+
+  let iYt:boolean = false;
+  if ((typeof ifsrc !== 'undefined')
+   && (ifsrc.includes('www.youtube.com/embed'))) {
+    iYt = true;
+  }
+  return iYt;
+}
+export const isIpClLc = (lc:livecam):boolean => {
+  const ifsrc = getIframeSrc(lc);
+
+  let iIpc:boolean = false;
+  if ((typeof ifsrc !== 'undefined')
+   && (ifsrc.includes('ipcamlive.com/player/player'))) {
+    iIpc = true;
+  }
+  return iIpc;
 }
 
 export const iconCity = new L.Icon({

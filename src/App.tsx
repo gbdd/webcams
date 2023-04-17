@@ -4,7 +4,7 @@ import './App.css';
 import axios from 'axios';
 import { WebcamMap } from './components/WebcamMap';
 import { livecam, PrefLoc } from './tools/consts';
-import { StarToggle } from './components/StarToggle';
+import { StarToggle, ToggleType } from './components/StarToggle';
 import {
   getPreference,
   PREFERENCES,
@@ -88,18 +88,17 @@ function App() {
     setPreference(PREFERENCES.ONLY_PREFS, _checked);
   }
 
+  const displayedNumber:string = (nbPreferredWebcams === 0) ? `${myWebcams.length} webcams` : `${nbPreferredWebcams}/${myWebcams.length}`
+
   return (
     <div className="App">
       {displayHeader && (
         <div className="Header">
-          <div className="HeaderLeft">
-            <div className="HeaderTitle">
-              Map Of Webcams
-            </div>
-          </div>
           <div className="HeaderToolbar">
-            <div className="prefNumber">{nbPreferredWebcams}/{myWebcams.length}</div>
-            <StarToggle checked={displayPreferedWebcam} onChecked={handleOnChecked}></StarToggle>
+            <div className="prefNumber">{displayedNumber}</div>
+            {(nbPreferredWebcams !== 0) && (
+              <StarToggle checked={displayPreferedWebcam} onChecked={handleOnChecked} type={ToggleType.CHECK}></StarToggle>
+            )}
           </div>
         </div>
       )}

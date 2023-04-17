@@ -39,12 +39,15 @@ export const WebcamMap: FC<WebcamMapProps> = ({
       const lastCenter = getPreference(PREFERENCES.MAP_LAST_CENTER, {lat: 45.57439550729501, lng: 6.143455853878999 });
 
       map.setView(new L.LatLng(lastCenter.lat, lastCenter.lng), lastZoom);
+
+      map.locate();
     }
   , [map]);
 
   const [popupOpened, setPopupOpened] = useState<boolean>(false);
   const [locSearchInProgress, setLocSearchInProgress] = useState<boolean>(false);
   const [centerBeforePopup, setCenterBeforePopup] = useState<(L.LatLng | null)>(null);
+  const [targetAllowed, setTargetAllowed] = useState<boolean>(true);
 
   useMapEvents({
     zoomend: (evt) => {
@@ -86,6 +89,7 @@ export const WebcamMap: FC<WebcamMapProps> = ({
     },
     locationerror: (evt) => {
       setLocSearchInProgress(false);
+      setTargetAllowed(false);
     }
   })
 
@@ -125,7 +129,7 @@ export const WebcamMap: FC<WebcamMapProps> = ({
           );
         })}
       </MarkerClusterGroup>
-      {displayTools && (
+      {(displayTools && targetAllowed) && (
         <div className="Footer" onClick={handleOnTargetClick}>
           <div className="targetButton" >
             <i className="bigIcon fa-sharp fa-regular fa-circle-dot"></i>
