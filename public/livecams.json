@@ -470,8 +470,8 @@
       "thumburl": "https://live-image.panomax.com/cams/720/recent_reduced.jpg",
       "iframesrcdesktop" : "https://chamonix.panomax.com/houches",
       "type": "mountain",
-      "lng": 6.753303,
-      "lat": 45.886261
+      "lng": 6.75263,
+      "lat": 45.886141
     },
     {
       "name" : "Pointe Helbronner",
@@ -2994,7 +2994,195 @@
       "type": "country",
       "lng": 15.887410,
       "lat": -24.074923
+    },
+    {
+      "name": "Axamer Lizum Birgitzk\u00f6pfl",
+      "url" : "https://axamer-lizum.panomax.com/birgitzkoepfl",
+      "iframesrcdesktop" : "https://axamer-lizum.panomax.com/birgitzkoepfl",
+      "thumburl": "https://live-image.panomax.com/cams/3901/recent_reduced.jpg",
+      "type": "mountain",
+      "lat": 47.194709,
+      "lng": 11.316421
+    },
+    {
+      "name": "Axamer Lizum Hoadl",
+      "url" : "https://axamer-lizum.panomax.com/",
+      "iframesrcdesktop" : "https://axamer-lizum.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/3904/recent_reduced.jpg",
+      "type": "mountain",
+      "lat": 47.183165,
+      "lng": 11.282421
+    },
+    {
+      "url" : "https://saalbach.panomax.com/grosserasitz",
+      "iframesrcdesktop" : "https://saalbach.panomax.com/grosserasitz",
+      "thumburl": "https://live-image.panomax.com/cams/3884/recent_reduced.jpg",
+      "name": "Leogang - Großer Asitz",
+      "type": "mountain",
+      "lat": 47.40175583502455,
+      "lng": 12.70195337692486
+    },
+    {
+      "url" : "https://kap-arkona.panomax.com/peilturm",
+      "iframesrcdesktop" : "https://kap-arkona.panomax.com/peilturm",
+      "thumburl": "https://live-image.panomax.com/cams/3922/recent_reduced.jpg",
+      "name": "Kap Arkona - Peilturm",
+      "type": "sea",
+      "lat": 54.677489,
+      "lng": 13.435643
+    },
+    {
+      "url" : "https://kap-arkona.panomax.com/vitt",
+      "iframesrcdesktop" : "https://kap-arkona.panomax.com/vitt",
+      "thumburl": "https://live-image.panomax.com/cams/3910/recent_reduced.jpg",
+      "name": "Kap Arkona - Vitt",
+      "type": "sea",
+      "lat": 54.665194178635595,
+      "lng": 13.431355164830622
+    },
+    {
+      "url" : "https://koeflach.panomax.com/",
+      "iframesrcdesktop" : "https://koeflach.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/2293/recent_reduced.jpg",
+      "name": "Stadtgemeinde K\u00f6flach",
+      "type": "city",
+      "lat": 47.069828,
+      "lng": 15.089433
+    },
+    {
+      "url" : "https://lequioberria.panomax.com/",
+      "iframesrcdesktop" : "https://lequioberria.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/335593/recent_reduced.jpg",
+      "name": "Lequio Berria",
+      "type": "country",
+      "lat": 44.606493,
+      "lng": 8.098094
+    },
+    {
+      "url" : "https://arguello.panomax.com/",
+      "iframesrcdesktop" : "https://arguello.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/2391/recent_reduced.jpg",
+      "name": "Arguello",
+      "type": "country",
+      "lat": 44.582762133278585,
+      "lng": 8.110360841079316
+    },
+    {
+      "url" : "https://benevello.panomax.com/",
+      "iframesrcdesktop" : "https://benevello.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/4374/recent_reduced.jpg",
+      "name": "Benevello",
+      "type": "country",
+      "lat": 44.62823500861423,
+      "lng": 8.105808810485819
+    },
+    {
+      "url" : "https://bosia.panomax.com/",
+      "iframesrcdesktop" : "https://bosia.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/2583/recent_reduced.jpg",
+      "name": "Bosia",
+      "type": "country",
+      "lat": 44.602536664643836,
+      "lng": 8.146116946289673
+    },
+    {
+      "url" : "https://cerrettolanghe.panomax.com/",
+      "iframesrcdesktop" : "https://cerrettolanghe.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/4272/recent_reduced.jpg",
+      "name": "Cerretto Langhe",
+      "type": "country",
+      "lat": 44.57579602964478,
+      "lng": 8.092881841811318
+    },
+    {
+      "url" : "https://serravallelanghe.panomax.com/",
+      "iframesrcdesktop" : "https://serravallelanghe.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/3339/recent_reduced.jpg",
+      "name": "Serravalle Langhe",
+      "type": "country",
+      "lat": 44.56087486251718,
+      "lng": 8.057668209384127
+    },
+    {
+      "url" : "https://grossglockner.panomax.com/",
+      "iframesrcdesktop" : "https://grossglockner.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/7/recent_reduced.jpg",
+      "name": "Gro\u00dfglockner - Kaiser Franz Josefs H\u00f6he",
+      "type": "mountain",
+      "lat": 47.075826,
+      "lng": 12.750602
+    },
+    {
+      "url" : "https://glastocam.panomax.com/",
+      "iframesrcdesktop" : "https://glastocam.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/879/recent_reduced.jpg",
+      "name": "Glastonbury Festival",
+      "type": "country",
+      "lat": 51.157724146197275,
+      "lng": -2.5831805066918267
+    },
+    {
+      "url" : "https://kranzbach.panomax.com/",
+      "iframesrcdesktop" : "https://kranzbach.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/8/recent_reduced.jpg",
+      "type": "mountain",
+      "name": "Hotel Kranzbach",
+      "lat": 47.471827,
+      "lng": 11.21258
+    },
+    {
+      "url" : "https://edelweissspitze.panomax.com/",
+      "iframesrcdesktop" : "https://edelweissspitze.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/17/recent_reduced.jpg",
+      "name": "Edelwei\u00dfspitze",
+      "type": "mountain",
+      "lat": 47.123542,
+      "lng": 12.830682
+    },
+    {
+      "url" : "https://goldenerberg.panomax.com/",
+      "iframesrcdesktop" : "https://goldenerberg.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/9/recent_reduced.jpg",
+      "name": "Oberlech",
+      "type": "mountain",
+      "lat": 47.218512,
+      "lng": 10.136408
+    },
+    {
+      "url" : "https://fuschertoerl.panomax.com/",
+      "iframesrcdesktop" : "https://fuschertoerl.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/16/recent_reduced.jpg",
+      "name": "Fuscher Törl",
+      "type": "mountain",
+      "lat": 47.116588,
+      "lng": 12.824511
+    },
+    {
+      "url" : "https://aberg.panomax.com/",
+      "iframesrcdesktop" : "https://aberg.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/19/recent_reduced.jpg",
+      "name": "Aberg - Maria Alm",
+      "type": "mountain",
+      "lat": 47.356764,
+      "lng": 12.919756
+    },
+    {
+      "url" : "https://hofgastein.panomax.com/",
+      "iframesrcdesktop" : "https://hofgastein.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/22/recent_reduced.jpg",
+      "name": "Bad Hofgastein",
+      "type": "city",
+      "lat": 47.16902,
+      "lng": 13.108792
+    },
+    {
+      "url" : "https://badgastein.panomax.com/",
+      "iframesrcdesktop" : "https://badgastein.panomax.com/",
+      "thumburl": "https://live-image.panomax.com/cams/23/recent_reduced.jpg",
+      "name": "Bad Gastein",
+      "type": "city",
+      "lat": 47.116104,
+      "lng": 13.138822
     }
   ]
 }
-
