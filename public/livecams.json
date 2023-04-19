@@ -3352,6 +3352,195 @@
       "type": "city",
       "lng": -4.485172507983109,
       "lat": 48.391141488325644
+    },
+    {
+      "url" : "https://ischgl.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "141",
+      "name": "Ischgl",
+      "type": "city",
+      "lat": 47.013877,
+      "lng": 10.288558
+    },
+    {
+      "url" : "https://pfronten.panomax.com/falkenstein",
+      "iframesrcdesktop" : "s",
+      "id": "144",
+      "name": "Falkenstein",
+      "type": "mountain",
+      "lat": 47.569424,
+      "lng": 10.591272
+    },
+    {
+      "url" : "https://panocam.zillertalarena.com/gerlosplatte-berg",
+      "iframesrcdesktop" : "s",
+      "id": "160",
+      "name": "Gerlos Platte Berg",
+      "type": "mountain",
+      "lat": 47.224688,
+      "lng": 12.13415
+    },
+    {
+      "url" : "https://panocam.zillertalarena.com/gerlospass-tal",
+      "iframesrcdesktop" : "s",
+      "id": "161",
+      "name": "Gerlospass Talstation",
+      "type": "mountain",
+      "lat": 47.241366,
+      "lng": 12.11453
+    },
+    {
+      "url" : "https://panocam.zillertalarena.com/gerlos",
+      "iframesrcdesktop" : "s",
+      "id": "162",
+      "name": "Gerlos Isskogel",
+      "type": "mountain",
+      "lat": 47.24414,
+      "lng": 12.02883
+    },
+    {
+      "url" : "https://panocam.zillertalarena.com/rosenalm",
+      "iframesrcdesktop" : "s",
+      "id": "168",
+      "name": "Rosenalm",
+      "type": "mountain",
+      "lat": 47.247948,
+      "lng": 11.941665
+    },
+    {
+      "url" : "https://schafberg.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "180",
+      "name": "Schafbergspitze",
+      "type": "mountain",
+      "lat": 47.777003,
+      "lng": 13.431767
+    },
+    {
+      "url" : "https://hauser-kaibling.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "191",
+      "name": "Hauser Kaibling",
+      "type": "mountain",
+      "lat": 47.377525,
+      "lng": 13.77061
+    },
+    {
+      "url" : "https://arber.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "193",
+      "name": "Großer Arber",
+      "type": "mountain",
+      "lat": 49.113065,
+      "lng": 13.138793
+    },
+    {
+      "url" : "https://helsinkishipyard.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "2506",
+      "name": "Helsinki - Shipyard",
+      "type": "city",
+      "lat": 60.154553,
+      "lng": 24.928775
+    },
+    {
+      "url" : "https://lignano.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "2589",
+      "name": "Lignano",
+      "type": "sea",
+      "lat": 45.688416,
+      "lng": 13.147541
+    },
+    {
+      "url" : "https://panorama.nuerburgring.de/grand-prix",
+      "iframesrcdesktop" : "s",
+      "id": "2835",
+      "name": "Nürburgring - Grand Prix Strecke",
+      "type": "mountain",
+      "lat": 50.335846,
+      "lng": 6.947465
+    },
+    {
+      "url" : "https://borgiolive.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "3412",
+      "name": "Borgio",
+      "type": "sea",
+      "lat": 44.160742,
+      "lng": 8.316756
+    },
+    {
+      "url" : "https://theshopsofcanmore.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "4480",
+      "name": "Canmore",
+      "type": "city",
+      "lat": 51.088365,
+      "lng": -115.346844
+    },
+    {
+      "url" : "https://netrex.panomax.com/mozart-prague-hotel",
+      "iframesrcdesktop" : "s",
+      "id": "4516",
+      "name": "Mozart Prague hotel",
+      "type": "city",
+      "lat": 50.084603,
+      "lng": 14.414179
+    },
+    {
+      "url" : "https://austria-trend.panomax.com/hotel-congress-innsbruck",
+      "iframesrcdesktop" : "s",
+      "id": "4863",
+      "name": "Innsbruck - Austria Trend Hotel Congress Innsbruck",
+      "type": "city",
+      "lat": 47.27456,
+      "lng": 11.397662
+    },
+    {
+      "url" : "https://nordkapp.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "5067",
+      "name": "NORTH CAPE - Nordkapp",
+      "type": "sea",
+      "lat": 71.170008,
+      "lng": 25.783704
+    },
+    {
+      "url" : "https://festungsbahn.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "913",
+      "name": "Salzburg - Festungsbahn - Altstadt",
+      "type": "city",
+      "lat": 47.795686,
+      "lng": 13.046239
+    },
+    {
+      "url" : "https://valgardena.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1044",
+      "name": "Valgardena - Seceda",
+      "type": "mountain",
+      "lat": 46.596719,
+      "lng": 11.724135
+    },
+    {
+      "url" : "https://courmayeur-checrouit.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1105",
+      "name": "Courmayeur - Checrouit",
+      "type": "mountain",
+      "lat": 45.79139,
+      "lng": 6.947827
+    },
+    {
+      "url" : "https://lamagdeleine.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1209",
+      "name": "La Magdeleine",
+      "type": "mountain",
+      "lat": 45.810732,
+      "lng": 7.619137
     }
   ]
 }
