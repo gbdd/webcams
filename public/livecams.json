@@ -3336,6 +3336,22 @@
       "type": "city",
       "lat": 50.08350167004084,
       "lng": 14.39507064772042
+    },
+    {
+      "name" : "Cannes - Quai Laubeuf ",
+      "url" : "https://www.youtube.com/watch?v=asO_10T0k2k",
+      "iframesrc" : "https://www.youtube.com/embed/asO_10T0k2k",
+      "type": "sea",
+      "lng": 7.0125988486746085,
+      "lat": 43.547087474591926
+    },
+    {
+      "name" : "Brest - Mairie",
+      "url" : "https://www.youtube.com/watch?v=lsoaKuDWTOc",
+      "iframesrc" : "https://www.youtube.com/embed/lsoaKuDWTOc",
+      "type": "city",
+      "lng": -4.485172507983109,
+      "lat": 48.391141488325644
     }
   ]
 }
