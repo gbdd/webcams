@@ -4,10 +4,7 @@ import {  Popup, useMap, useMapEvents } from 'react-leaflet';
 import {
   livecam,
   WC_COLORS,
-  isYtLc,
-  isTikeeLc,
-  isIpClLc,
-  getIframeSrc,
+  LC,
 } from '../tools/consts';
 import { IS_MOBILE } from '../tools/UIConstants';
 import { StarToggle } from './StarToggle';
@@ -112,20 +109,21 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
   }
 
   const getIframeUrl = ():string => {
-    let ifsrc = getIframeSrc(lc);
-    if (isTikeeLc(lc)) {
+    let ifsrc = LC.getIframeSrc(lc);
+    if (LC.isTikeeLc(lc)) {
       const prim_c = WC_COLORS.BACKGROUND;
       const sec_c = WC_COLORS.BACKGROUND_LIGHTER;
       ifsrc = ifsrc.concat(`?lang=fr&primary_color=${prim_c}&secondary_color=${sec_c}&hide_downloads=true`);
-    } else if (isYtLc(lc)) {
+    } else if (LC.isYtLc(lc)) {
       ifsrc = ifsrc.concat(`?autoplay=1&mute=1&enablejsapi=1`);
-    } else if (isIpClLc(lc)) {
+    } else if (LC.isIpClLc(lc)) {
       ifsrc = ifsrc.concat(`&autoplay=1`);
     }
     return ifsrc;
   }
 
   let iframeurl = getIframeUrl();
+  let thumbUrl:string = LC.getThumbUrl(lc);
 
   const renderPopupHeader = () => {
     return (
@@ -159,10 +157,10 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
     <Popup className="markerPopup">
       <div className="popupContent">
         {renderPopupHeader()}
-        { ((lc.thumburl !== undefined) && (typeof lc.iframesrc === 'undefined')) && (
+        { ((thumbUrl !== '') && (typeof lc.iframesrc === 'undefined')) && (
           <div ref={thumbContainer} className="popupThumbnailContainer">
             <a href={lc.url} target="_blank" rel="noreferrer">
-              <img ref={thumbRef} className="popupThumbnail" src={lc.thumburl} alt={lc.name} onLoad={onImgLoad} width={imgWidth}></img>
+              <img ref={thumbRef} className="popupThumbnail" src={thumbUrl} alt={lc.name} onLoad={onImgLoad} width={imgWidth}></img>
             </a>
           </div>
         )}
