@@ -3183,6 +3183,159 @@
       "type": "city",
       "lat": 47.116104,
       "lng": 13.138822
+    },
+    {
+      "url" : "https://www.youtube.com/watch?v=kpzKmQUMh4E",
+      "iframesrc" : "https://www.youtube.com/embed/kpzKmQUMh4E",
+      "id": "23",
+      "name": "Phare de Chassiron",
+      "type": "sea",
+      "lat": 46.04665984466621,
+      "lng": -1.4103398514675536
+    },
+    {
+      "url" : "https://talblick.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "24",
+      "name": "Hinterglemm - Hotel Talblick",
+      "type": "city",
+      "lat": 47.377542,
+      "lng": 12.599276
+    },
+    {
+      "url" : "https://rittisberg.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "26",
+      "name": "Rittisberg",
+      "type": "mountain",
+      "lat": 47.419466,
+      "lng": 13.613405
+    },
+    {
+      "url" : "https://rittisberg.panomax.com/beach",
+      "iframesrcdesktop" : "s",
+      "id": "1900",
+      "name": "Rittisberg",
+      "type": "mountain",
+      "lat": 47.42399714633385,
+      "lng": 13.623699701107203
+    },
+    {
+      "url" : "https://binggl.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "42",
+      "name": "Mauterndorf",
+      "type": "city",
+      "lat": 47.13339,
+      "lng": 13.680311
+    },
+    {
+      "url" : "https://ellmau.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "43",
+      "name": "Ellmau",
+      "type": "city",
+      "lat": 47.51107,
+      "lng": 12.304299
+    },
+    {
+      "url" : "https://going.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "179",
+      "name": "Going",
+      "type": "city",
+      "lat": 47.511458,
+      "lng": 12.323621
+    },
+    {
+      "url" : "https://palinkopf.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "101",
+      "name": "Palinkopf",
+      "type": "mountain",
+      "lat": 46.950315,
+      "lng": 10.3093
+    },
+    {
+      "url" : "https://tauplitz.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "111",
+      "name": "Tauplitz - Lawinenstein",
+      "type": "mountain",
+      "lat": 47.598493,
+      "lng": 13.968869
+    },
+    {
+      "url" : "https://hausalpin.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "3952",
+      "name": "Tauplitz - Haus Alpin",
+      "type": "mountain",
+      "lat": 47.595983256827644,
+      "lng": 13.981216179991279
+    },
+    {
+      "url" : "https://rosalpina.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1134",
+      "name": "Badia",
+      "type": "mountain",
+      "lat": 46.547142978526544,
+      "lng": 11.909790175916985
+    },
+    {
+      "url" : "https://alpspix.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "150",
+      "name": "Alpspitze",
+      "type": "mountain",
+      "lat": 47.439191343291355,
+      "lng": 11.050254648329977
+    },
+    {
+      "url" : "https://wank.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "149",
+      "name": "Wank",
+      "type": "mountain",
+      "lat": 47.507011,
+      "lng": 11.146857
+    },
+    {
+      "url" : "https://a1-arsenal.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "131",
+      "type": "city",
+      "name": "Wien - Arsenal Turm",
+      "lat": 48.181959,
+      "lng": 16.390816
+    },
+    {
+      "url" : "https://rifugiodegliangeli.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "5494",
+      "name": "Rifugio Degli Angeli",
+      "type": "mountain",
+      "lat": 45.624465,
+      "lng": 7.029715
+    },
+    {
+      "url" : "https://prague.panomax.com/vysehrad",
+      "iframesrcdesktop" : "s",
+      "id": "5240",
+      "name": "Prague, Vysehrad",
+      "type": "city",
+      "lat": 50.062478,
+      "lng": 14.42842
+    },
+    {
+      "url" : "https://pvp.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "4341",
+      "name": "Prague, Petřínská rozhledna",
+      "type": "city",
+      "lat": 50.08350167004084,
+      "lng": 14.39507064772042
     }
   ]
 }
