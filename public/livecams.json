@@ -3541,6 +3541,347 @@
       "type": "mountain",
       "lat": 45.810732,
       "lng": 7.619137
+    },
+    {
+      "url" : "https://pianidibobbio.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1390",
+      "name": "Barzio - Piani di Bobbio",
+      "type": "mountain",
+      "lat": 45.955317,
+      "lng": 9.491343
+    },
+    {
+      "url" : "https://pianidibobbio.panomax.com/chiavello",
+      "iframesrcdesktop" : "s",
+      "id": "4650",
+      "name": "Barzio - Chiavello",
+      "type": "mountain",
+      "lat": 45.969002284248134,
+      "lng": 9.497577201863187
+    },
+    {
+      "url" : "https://soelden.panomax.com/gletscherexpress",
+      "iframesrcdesktop" : "s",
+      "id": "1398",
+      "name": "Sölden - Gletscherexpress",
+      "type": "mountain",
+      "lat": 46.955256,
+      "lng": 10.940535
+    },
+    {
+      "url" : "https://soelden.panomax.com/schwarzeschneid",
+      "iframesrcdesktop" : "s",
+      "id": "216",
+      "name": "Sölden - Schwarze Schneidbahn",
+      "type": "mountain",
+      "lat": 46.93454567260308,
+      "lng": 10.924750885548782
+    },
+    {
+      "url" : "https://www.youtube.com/watch?v=NCfMPD5A6hQ",
+      "iframesrc" : "https://www.youtube.com/embed/NCfMPD5A6hQ",
+      "name": "Stockholm - DN-Skrapan",
+      "type": "city",
+      "lat": 59.32785527818408,
+      "lng": 18.016349530384584
+    },
+    {
+      "url" : "https://flycam.panomax.com/tuikku",
+      "iframesrcdesktop" : "s",
+      "id": "1651",
+      "name": "Sirkka - Peak Lapland - Tuikku",
+      "type": "country",
+      "lat": 67.791082,
+      "lng": 24.846671
+    },
+    {
+      "url" : "https://viennaairport.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1745",
+      "name": "Wien - Airport",
+      "type": "city",
+      "lat": 48.122314,
+      "lng": 16.559998
+    },
+    {
+      "url" : "https://skifalls.panomax.com/ruinedcastle",
+      "iframesrcdesktop" : "s",
+      "id": "1833",
+      "name": "Ruined Castle",
+      "type": "mountain",
+      "lat": -36.877574,
+      "lng": 147.268539
+    },
+    {
+      "url" : "https://skyline.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "2168",
+      "name": "Skyline Queenstown",
+      "type": "mountain",
+      "lat": -45.026634,
+      "lng": 168.649607
+    },
+    {
+      "url" : "https://planetarium-hamburg.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "2287",
+      "name": "Hamburg - Planetarium",
+      "type": "city",
+      "lat": 53.597419,
+      "lng": 10.008956
+    },
+    {
+      "name": "Punta Chiappa",
+      "url" : "https://stellamaris.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "3690",
+      "type": "sea",
+      "lat": 44.323146,
+      "lng": 9.147939
+    },
+    {
+      "url" : "https://chamois.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1319",
+      "name": "Chamois",
+      "type": "mountain",
+      "lat": 45.851953,
+      "lng": 7.644592
+    },
+    {
+      "url" : "https://seefeld.panomax.com/reith",
+      "iframesrcdesktop" : "s",
+      "id": "1368",
+      "name": "Reith bei Seefeld",
+      "type": "city",
+      "lat": 47.299208,
+      "lng": 11.203056
+    },
+    {
+      "url" : "https://canonicadadda.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1498",
+      "name": "Canonica D'Adda",
+      "type": "city",
+      "lat": 45.577075,
+      "lng": 9.534965
+    },
+    {
+      "url" : "https://aviationacademy.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1518",
+      "name": "Flugplatz Wiener Neustadt",
+      "type": "city",
+      "lat": 47.842314,
+      "lng": 16.257328
+    },
+    {
+      "url" : "https://putbus.panomax.com/hafen",
+      "iframesrcdesktop" : "s",
+      "id": "6066",
+      "name": "Putbus Lauterbach Hafen",
+      "type": "sea",
+      "lat": 54.341497,
+      "lng": 13.499632
+    },
+    {
+      "url" : "https://hotel-innsbruck.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "335",
+      "name": "Innsbruck - Hotel Adlers",
+      "type": "city",
+      "lat": 47.265987,
+      "lng": 11.401354
+    },
+    {
+      "url" : "https://snow-space.panomax.com/flying-mozart",
+      "iframesrcdesktop" : "s",
+      "id": "4296",
+      "name": "Wagrain Flying Mozart - Bergstation",
+      "type": "mountain",
+      "lat": 47.3258,
+      "lng": 13.346884
+    },
+    {
+      "url" : "https://kronen-zeitung.panomax.com/wien",
+      "iframesrcdesktop" : "s",
+      "id": "4632",
+      "name": "Kronen Zeitung - Zentrale Wien",
+      "type": "city",
+      "lat": 48.245441,
+      "lng": 16.367113
+    },
+    {
+      "url" : "https://cervinia.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "867",
+      "name": "Cervinia Matterhorn",
+      "type": "mountain",
+      "lat": 45.941871,
+      "lng": 7.662481
+    },
+    {
+      "url" : "https://rio.panomax.com/sugarloaf",
+      "iframesrcdesktop" : "s",
+      "id": "1583",
+      "name": "Rio - Pão de Açúcar",
+      "type": "city",
+      "lat": -22.949706,
+      "lng": -43.156603
+    },
+    {
+      "url" : "https://loser.panomax.com/sandling",
+      "iframesrcdesktop" : "s",
+      "id": "1829",
+      "name": "Altaussee - Loser Sandling Jet",
+      "type": "mountain",
+      "lat": 47.661017,
+      "lng": 13.732698
+    },
+    {
+      "url" : "https://loser.panomax.com",
+      "iframesrcdesktop" : "s",
+      "id": "1774",
+      "name": "Altaussee - Loser",
+      "type": "mountain",
+      "lat": 47.66407703781594,
+      "lng": 13.781214200143918
+    },
+    {
+      "url" : "https://ravensburg.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "5393",
+      "name": "Ravensburg - Bagnato-Schlossturm",
+      "type": "city",
+      "lat": 47.778,
+      "lng": 9.616045
+    },
+    {
+      "url" : "https://tressensteinwarte.panomax.com/ausseerland",
+      "iframesrcdesktop" : "s",
+      "id": "4176",
+      "name": "Bad Aussee - Tressensteinwarte",
+      "type": "mountain",
+      "lat": 47.626401,
+      "lng": 13.789108
+    },
+    {
+      "url" : "https://reinswald.panomax.com/pfnatsch",
+      "iframesrcdesktop" : "s",
+      "id": "4212",
+      "name": "Reinswald Pfnatsch",
+      "type": "mountain",
+      "lat": 46.699677,
+      "lng": 11.440177
+    },
+    {
+      "url" : "https://amrum.panomax.com/wittduen-faehranleger",
+      "iframesrcdesktop" : "s",
+      "id": "2643",
+      "name": "Amrum - F\u00e4hranleger Wittd\u00fcn",
+      "type": "sea",
+      "lat": 54.628987,
+      "lng": 8.396581
+    },
+    {
+      "url" : "https://amrum.panomax.com/nebel",
+      "iframesrcdesktop" : "s",
+      "id": "2646",
+      "name": "Amrum - Nebel Wattenmeer",
+      "type": "sea",
+      "lat": 54.658663,
+      "lng": 8.358381
+    },
+    {
+      "url" : "https://amrum.panomax.com/norddorf",
+      "iframesrcdesktop" : "s",
+      "id": "2634",
+      "name": "Amrum - Strand 33 Norddorf",
+      "type": "sea",
+      "lat": 54.686905,
+      "lng": 8.322802
+    },
+    {
+      "url" : "https://amrum.panomax.com/wittduen-strandbar",
+      "iframesrcdesktop" : "s",
+      "id": "2631",
+      "name": "Amrum - Strandbar Wittd\u00fcn",
+      "type": "sea",
+      "lat": 54.624687,
+      "lng": 8.388206
+    },
+    {
+      "url" : "https://st-agatha.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "2473",
+      "name": "St. Agatha - Etzinger H\u00fcgel",
+      "type": "country",
+      "lat": 48.399489,
+      "lng": 13.873058
+    },
+    {
+      "url" : "https://pescul.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "2411",
+      "name": "Pescul",
+      "type": "mountain",
+      "lat": 46.423557,
+      "lng": 12.046869
+    },
+    {
+      "url" : "https://alpenwelt-karwendel.panomax.com/kirche",
+      "iframesrcdesktop" : "s",
+      "id": "1716",
+      "name": "Mittenwald - Kirche",
+      "type": "city",
+      "lat": 47.442139,
+      "lng": 11.260396
+    },
+    {
+      "url" : "https://pordoi.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1293",
+      "name": "Passo Pordoi",
+      "type": "mountain",
+      "lat": 46.477902,
+      "lng": 11.817875
+    },
+    {
+      "url" : "https://canazei.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1343",
+      "name": "Canazei - Col dei Rossi",
+      "type": "mountain",
+      "lat": 46.474741,
+      "lng": 11.801875
+    },
+    {
+      "url" : "https://eisenberg.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "578",
+      "name": "Eisenberg",
+      "type": "country",
+      "lat": 47.612354,
+      "lng": 10.590032
+    },
+    {
+      "url" : "https://winklmoos.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "571",
+      "name": "Reit im Winkl - Winklmoos",
+      "type": "mountain",
+      "lat": 47.656358,
+      "lng": 12.58452
+    },
+    {
+      "url" : "https://weinstrasse.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "627",
+      "name": "Leutschach an der Weinstraße",
+      "type": "country",
+      "lat": 46.65207,
+      "lng": 15.511219
     }
   ]
 }
