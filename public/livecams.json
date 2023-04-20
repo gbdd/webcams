@@ -3605,15 +3605,6 @@
       "lng": 16.559998
     },
     {
-      "url" : "https://skifalls.panomax.com/ruinedcastle",
-      "iframesrcdesktop" : "s",
-      "id": "1833",
-      "name": "Ruined Castle",
-      "type": "mountain",
-      "lat": -36.877574,
-      "lng": 147.268539
-    },
-    {
       "url" : "https://skyline.panomax.com/",
       "iframesrcdesktop" : "s",
       "id": "2168",
