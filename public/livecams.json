@@ -3873,6 +3873,339 @@
       "type": "country",
       "lat": 46.65207,
       "lng": 15.511219
+    },
+    {
+      "url" : "https://langeoog.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "619",
+      "name": "Langeoog",
+      "type": "sea",
+      "lat": 53.752472,
+      "lng": 7.481062
+    },
+    {
+      "url" : "https://obergurgl.panomax.com",
+      "iframesrcdesktop" : "s",
+      "id": "539",
+      "name": "Obergurgl",
+      "type": "city",
+      "lat": 46.869357,
+      "lng": 11.026899
+    },
+    {
+      "url" : "https://leutasch.panomax.com/quellenhof",
+      "iframesrcdesktop" : "s",
+      "id": "654",
+      "name": "Leutasch - Quellenhof",
+      "type": "city",
+      "lat": 47.370224,
+      "lng": 11.158455
+    },
+    {
+      "url" : "https://hintertux.panomax.com/gefrorenewand",
+      "iframesrcdesktop" : "s",
+      "id": "1039",
+      "name": "Hintertux - Gefrorene Wand",
+      "type": "mountain",
+      "lat": 47.063668,
+      "lng": 11.679405
+    },
+    {
+      "url" : "https://sunnyvalley.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1029",
+      "name": "Santa Caterina Valfurva Sunnyvalley",
+      "type": "mountain",
+      "lat": 46.391323,
+      "lng": 10.480209
+    },
+    {
+      "url" : "https://valgardena.panomax.com/dantercepies",
+      "iframesrcdesktop" : "s",
+      "id": "1186",
+      "name": "Valgardena Dantercepies",
+      "type": "mountain",
+      "lat": 46.553512,
+      "lng": 11.799889
+    },
+    {
+      "url" : "https://katrin.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1675",
+      "name": "Katrin",
+      "type": "mountain",
+      "lat": 47.689782,
+      "lng": 13.580091
+    },
+    {
+      "url" : "https://wildkogel-arena.panomax.com/braunkogel-berg",
+      "iframesrcdesktop" : "s",
+      "id": "1734",
+      "name": "Wildkogel Arena - Gensbichl Berg",
+      "type": "mountain",
+      "lat": 47.286272,
+      "lng": 12.266029
+    },
+    {
+      "url" : "https://gaisberg.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "2227",
+      "name": "Salzburg - Gaisberg",
+      "type": "mountain",
+      "lat": 47.805187,
+      "lng": 13.11201
+    },
+    {
+      "url" : "https://halblech.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "2597",
+      "name": "Halblech",
+      "type": "country",
+      "lat": 47.63004,
+      "lng": 10.805042
+    },
+    {
+      "url" : "https://isola.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "3028",
+      "name": "Isola",
+      "type": "city",
+      "lat": 46.444964,
+      "lng": 9.334625
+    },
+    {
+      "url" : "https://groebming.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "3321",
+      "name": "Gr\u00f6bming",
+      "type": "city",
+      "lat": 47.439683,
+      "lng": 13.900732
+    },
+    {
+      "url" : "https://mitterberg-st-martin.panomax.com",
+      "iframesrcdesktop" : "s",
+      "id": "3327",
+      "country": "Mitterberg - St.Martin",
+      "type": "country",
+      "lat": 47.461418,
+      "lng": 13.96131
+    },
+    {
+      "url" : "https://planica.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "3765",
+      "name": "Planica Nordijski Center",
+      "type": "mountain",
+      "lat": 46.476231,
+      "lng": 13.724522
+    },
+    {
+      "url" : "https://puntavagno.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "3699",
+      "name": "Punta Vagno",
+      "type": "sea",
+      "lat": 44.391831,
+      "lng": 8.952153
+    },
+    {
+      "url" : "https://straden.panomax.com/saziani",
+      "iframesrcdesktop" : "s",
+      "id": "4629",
+      "name": "Straden - Saziani",
+      "type": "country",
+      "lat": 46.811497,
+      "lng": 15.867279
+    },
+    {
+      "url" : "https://hintertux.panomax.com/eggalm",
+      "iframesrcdesktop" : "s",
+      "id": "4848",
+      "name": "Eggalm",
+      "type": "mountain",
+      "lat": 47.164008,
+      "lng": 11.702902
+    },
+    {
+      "url" : "https://webcam.myortler.it/madritsch",
+      "iframesrcdesktop" : "s",
+      "id": "5647",
+      "name": "Madritsch H\u00fctte - Rifugio Madriccio",
+      "type": "mountain",
+      "lat": 46.496617,
+      "lng": 10.613736
+    },
+    {
+      "url" : "https://burghausen.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "6603",
+      "name": "Burghausen",
+      "type": "city",
+      "lat": 48.1576,
+      "lng": 12.836618
+    },
+    {
+      "url" : "https://soelden.panomax.com/tiefenbach",
+      "iframesrcdesktop" : "s",
+      "id": "195",
+      "name": "Sölden - Tiefenbachferner",
+      "type": "mountain",
+      "lat": 46.923411,
+      "lng": 10.945845
+    },
+    {
+      "url" : "https://soelden.panomax.com/rettenbach",
+      "iframesrcdesktop" : "s",
+      "id": "196",
+      "name": "Sölden - Rettenbachferner",
+      "type": "mountain",
+      "lat": 46.941197,
+      "lng": 10.9316
+    },
+    {
+      "url" : "https://panocam.panomax.com/firstbahn/",
+      "iframesrcdesktop" : "s",
+      "id": "200",
+      "name": "Grindelwald - Firstbahn",
+      "type": "mountain",
+      "lat": 46.658379,
+      "lng": 8.065131
+    },
+    {
+      "url" : "https://pyramidenkogel.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "297",
+      "name": "Keutschach - Pyramidenkogel Turm",
+      "type": "lake",
+      "lat": 46.609016,
+      "lng": 14.144984
+    },
+    {
+      "url" : "https://pratonevoso.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "6636",
+      "name": "Prato Nevoso",
+      "type": "mountain",
+      "lat": 44.232622,
+      "lng": 7.781424
+    },
+    {
+      "url" : "https://cortina.panomax.com/faloria",
+      "iframesrcdesktop" : "s",
+      "id": "6192",
+      "name": "Cortina d'Ampezzo - Rifugio Faloria",
+      "type": "mountain",
+      "lat": 46.532541,
+      "lng": 12.172881
+    },
+    {
+      "url" : "https://seefeld.panomax.com/joch",
+      "iframesrcdesktop" : "s",
+      "id": "346",
+      "name": "Seefelder Joch",
+      "type": "mountain",
+      "lat": 47.340802,
+      "lng": 11.239262
+    },
+    {
+      "url" : "https://trezzo-tower.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "909",
+      "name": "Trezzo - Castle tower",
+      "type": "city",
+      "lat": 45.611917,
+      "lng": 9.522201
+    },
+    {
+      "url" : "https://cervinia.panomax.com/plateau-rosa",
+      "iframesrcdesktop" : "s",
+      "id": "931",
+      "name": "Plateau Rosa",
+      "type": "mountain",
+      "lat": 45.935302,
+      "lng": 7.707355
+    },
+    {
+      "url" : "https://silvretta-montafon.panomax.com/nova-stoba",
+      "iframesrcdesktop" : "s",
+      "id": "961",
+      "name": "Silvretta Montafon - Nova Stoba",
+      "type": "mountain",
+      "lat": 46.980118,
+      "lng": 9.992064
+    },
+    {
+      "url" : "https://madonna.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1023",
+      "name": "Campiglio - Pradalago",
+      "type": "mountain",
+      "lat": 46.247419,
+      "lng": 10.813092
+    },
+    {
+      "url" : "https://courmayeur-youla.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1104",
+      "name": "Courmayeur - Youla",
+      "type": "mountain",
+      "lat": 45.773075,
+      "lng": 6.911288
+    },
+    {
+      "url" : "https://montepora.panomax.com/valzelli",
+      "iframesrcdesktop" : "s",
+      "id": "3654",
+      "name": "Valzelli",
+      "type": "mountain",
+      "lat": 45.882261,
+      "lng": 10.090252
+    },
+    {
+      "url" : "https://portoantico.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "3693",
+      "name": "Genova - Porto Antico",
+      "type": "sea",
+      "lat": 44.408753,
+      "lng": 8.922615
+    },
+    {
+      "url" : "https://mombarcaro.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "4275",
+      "name": "Mombarcaro",
+      "type": "country",
+      "lat": 44.467921,
+      "lng": 8.084195
+    },
+    {
+      "url" : "https://flycam.panomax.com/lahtiaqua",
+      "iframesrcdesktop" : "s",
+      "id": "4290",
+      "name": "Lahti - Mustankallion vesitorni",
+      "type": "city",
+      "lat": 60.992349,
+      "lng": 25.671627
+    },
+    {
+      "url" : "https://rivadelgarda.panomax.com/porto",
+      "iframesrcdesktop" : "s",
+      "id": "4335",
+      "name": "Riva del Garda - Porto",
+      "type": "lake",
+      "lat": 45.877926,
+      "lng": 10.855376
+    },
+    {
+      "url" : "https://limonesulgarda.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "5683",
+      "name": "Limone sul Garda",
+      "type": "lake",
+      "lat": 45.817476,
+      "lng": 10.794773
     }
   ]
 }
