@@ -4431,6 +4431,39 @@
       "type": "sea",
       "lat": 54.179166,
       "lng": 12.077504
+    },
+    {
+      "name" : "Bulle",
+      "url" : "https://bulle.roundshot.com/",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.057095644294072,
+      "lat": 46.618007684964056
+    },
+    {
+      "name" : "La Tour de Peilz",
+      "url" : "https://latourdepeilz.roundshot.com/",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.85490668047413,
+      "lat": 46.451829021237124
+    },
+    {
+      "name" : "Luzern - Hotel des Balances",
+      "url" : "https://hoteldesbalances.roundshot.com/",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.304564247121489,
+      "lat": 47.051504809040466
+    },
+    {
+      "name" : "Gruyères",
+      "url" : "https://lagruyere.roundshot.com/",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 7.082036860522207,
+      "lat": 46.58422321854496
     }
+
   ]
 }
