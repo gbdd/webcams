@@ -408,6 +408,7 @@
     {
       "name" : "Tepoztlan",
       "url" : "https://www.windy.com/id/-Kamera-web/Meksiko/Morelos/San-Pedro-Apatlaco/Hotel-Tepoztlan/webcams/1569939607?18.730,-112.236,5",
+      "iframesrc": "https://webcams.windy.com/webcams/public/embed/player/1569939607/day",
       "type": "city",
       "lng": -99.0902782,
       "lat": 18.9928425
@@ -4206,6 +4207,230 @@
       "type": "lake",
       "lat": 45.817476,
       "lng": 10.794773
+    },
+    {
+      "url" : "https://www.vision-environnement.com/live/player/itxassou0.php",
+      "iframesrc" : "https://webcams.windy.com/webcams/stream/1674058159",
+      "name": "Itxassou",
+      "type": "country",
+      "lat": 43.33228548376133,
+      "lng": -1.4109965442764396
+    },
+    {
+      "url" : "https://collebercia.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "5706",
+      "name": "Colle Bercia",
+      "type": "mountain",
+      "lat": 44.921054,
+      "lng": 6.779991
+    },
+    {
+      "url" : "https://montefraiteve.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "5712",
+      "name": "Monte Fraiteve - Canale Col\u00f2",
+      "type": "mountain",
+      "lat": 44.976409,
+      "lng": 6.859669
+    },
+    {
+      "url" : "https://areabanchetta.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "5709",
+      "name": "Area Banchetta",
+      "type": "mountain",
+      "lat": 44.961789,
+      "lng": 6.900241
+    },
+    {
+      "url" : "https://sellanevea.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1984",
+      "name": "Sella Nevea Valle",
+      "type": "mountain",
+      "lat": 46.37239786364819,
+      "lng": 13.462064235200566
+    },
+    {
+      "url" : "https://golsfjelletalpinsenter.panomax.com/bualie",
+      "iframesrcdesktop" : "s",
+      "id": "5596",
+      "name": "Golsfjellet Alpinsenter Bualie - Valley station",
+      "type": "mountain",
+      "lat": 60.826254,
+      "lng": 8.987108
+    },
+    {
+      "url" : "https://mondseeblick.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "5831",
+      "name": "Mondsee",
+      "type": "lake",
+      "lat": 47.855838,
+      "lng": 13.363684
+    },
+    {
+      "url" : "https://obertauern.panomax.com/hundskogel",
+      "iframesrcdesktop" : "s",
+      "id": "5798",
+      "name": "Obertauern - Hundskogel",
+      "type": "mountain",
+      "lat": 47.267414,
+      "lng": 13.57657
+    },
+    {
+      "url" : "https://montetriplex.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "5858",
+      "name": "Monte Triplex",
+      "type": "mountain",
+      "lat": 44.994794,
+      "lng": 6.870436
+    },
+    {
+      "url" : "https://tappetijolly.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "5861",
+      "name": "Tappeti Jolly - Vialattea ( 2030 m )",
+      "type": "mountain",
+      "lat": 44.956782,
+      "lng": 6.882094
+    },
+    {
+      "url" : "https://karlovyvary.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "6099",
+      "name": "Karlovy Vary",
+      "type": "city",
+      "lat": 50.227346,
+      "lng": 12.886726
+    },
+    {
+      "url" : "https://fieberbrunn.panomax.com/reckmoos",
+      "iframesrcdesktop" : "s",
+      "id": "5843",
+      "name": "Fieberbrunn Reckmoos Nord Bergstation",
+      "type": "mountain",
+      "lat": 47.427631,
+      "lng": 12.552135
+    },
+    {
+      "url" : "https://eilat.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "6543",
+      "name": "Eilat",
+      "type": "city",
+      "lat": 29.541343,
+      "lng": 34.932347
+    },
+    {
+      "url" : "https://ostrava.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "6477",
+      "name": "Ostrava",
+      "type": "city",
+      "lat": 49.841736,
+      "lng": 18.291689
+    },
+    {
+      "url" : "https://samnaun.panomax.com/dorf",
+      "iframesrcdesktop" : "s",
+      "id": "1997",
+      "name": "Samnaun Dorf",
+      "type": "mountain",
+      "lat": 46.940403,
+      "lng": 10.360285
+    },
+    {
+      "url" : "https://samnaun.panomax.com/compatsch",
+      "iframesrcdesktop" : "s",
+      "id": "1996",
+      "name": "Samnaun Compatsch",
+      "type": "mountain",
+      "lat": 46.959802,
+      "lng": 10.403171
+    },
+    {
+      "url" : "https://fornidisopra.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1987",
+      "name": "Forni di Sopra",
+      "type": "mountain",
+      "lat": 46.449944,
+      "lng": 12.561828
+    },
+    {
+      "url" : "https://kronplatz.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "2044",
+      "name": "Plan de Corones - Kronplatz",
+      "type": "mountain",
+      "lat": 46.740016,
+      "lng": 11.959848
+    },
+    {
+      "url" : "https://reitimwinkl.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "248",
+      "name": "Reit im Winkl",
+      "type": "city",
+      "lat": 47.6793,
+      "lng": 12.473882
+    },
+    {
+      "url" : "https://inselsberg.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "426",
+      "name": "Großer Inselsberg",
+      "type": "country",
+      "lat": 50.851021,
+      "lng": 10.467047
+    },
+    {
+      "url" : "https://mottolino.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "494",
+      "name": "Mottolino",
+      "type": "mountain",
+      "lat": 46.53616,
+      "lng": 10.127591
+    },
+    {
+      "url" : "https://livigno.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "1628",
+      "name": "Livigno",
+      "type": "mountain",
+      "lat": 46.55376471737684,
+      "lng": 10.158026838383115
+    },
+    {
+      "url" : "https://flycam.panomax.com/poas-tieteenkatu18",
+      "iframesrcdesktop" : "s",
+      "id": "4173",
+      "name": "Tampere",
+      "type": "city",
+      "lat": 61.45581,
+      "lng": 23.848353
+    },
+    {
+      "url" : "https://storefjellstolen.panomax.com/farm",
+      "iframesrcdesktop" : "s",
+      "id": "1753845",
+      "name": "Storefjellstolen",
+      "type": "country",
+      "lat": 60.804002,
+      "lng": 8.943116
+    },
+    {
+      "url" : "https://hotel-neptun.panomax.com/",
+      "iframesrcdesktop" : "s",
+      "id": "6002",
+      "name": "Warnemünde - Rostock" ,
+      "type": "sea",
+      "lat": 54.179166,
+      "lng": 12.077504
     }
   ]
 }
