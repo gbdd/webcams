@@ -4463,7 +4463,456 @@
       "type": "country",
       "lng": 7.082036860522207,
       "lat": 46.58422321854496
+    },
+    {
+      "name" : "Vall de Núria",
+      "url" : "https://fgc.roundshot.com/valldenuria/",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 2.1533835563708923,
+      "lat": 42.39367816712416
+    },
+    {
+      "name" : "Baqueira - Blanhiblar",
+      "url" : "https://baqueira.roundshot.com/blanhiblar/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 0.9429883850364366,
+      "lat": 42.71972350523481
+    },
+    {
+      "name" : "Baqueira - Bosque",
+      "url" : "https://baqueira.roundshot.com/bosque/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 0.9458955121307516,
+      "lat": 42.69934203637772
+    },
+    {
+      "name" : "Baqueira - Teso",
+      "url" : "https://baqueira.roundshot.com/teso/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 0.9811850282608214,
+      "lat": 42.67698371550837
+    },
+    {
+      "name" : "Espot",
+      "url" : "https://fgc.roundshot.com/espot/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 1.081074887188192,
+      "lat": 42.550540850191574
+    },
+    {
+      "name" : "Port Ainé",
+      "url" : "https://fgc.roundshot.com/portaine/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 1.212105380788698,
+      "lat": 42.42253421057675
+    },
+    {
+      "name" : "Vallter",
+      "url" : "https://fgc.roundshot.com/vallter2000/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 2.264049885511864,
+      "lat": 42.42682461717315
+    },
+    {
+      "name" : "Masella",
+      "url" : "https://masella.roundshot.com/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 1.9029496550569955,
+      "lat": 42.33794170825539
+    },
+    {
+      "name" : "Lappeenranta",
+      "url" : "https://skyviewlive.roundshot.com/lappeenranta/",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 28.19845909868886,
+      "lat": 61.05942829648086
+    },
+    {
+      "name" : "Barcelona - Sagrada Familia",
+      "url" : "https://webcams.windy.com/webcams/stream/1448811166",
+      "iframesrc": "https://webcams.windy.com/webcams/public/embed/player/1448811166/live",
+      "type": "city",
+      "lng": 2.1772945182385226,
+      "lat": 41.40181952676586
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/1298/thumbnail",
+      "url": "https://zuozgemeinde.roundshot.com/golfplatz/",
+      "name": "Zuoz Gemeinde - Zuoz - Golfplatz",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.96424738014972,
+      "lat": 46.59545190472872
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/882/thumbnail",
+      "url": "https://capannagorda.roundshot.com/",
+      "name": "Capanna Gorda",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.91088084253884,
+      "lat": 46.497996707590026
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/652/thumbnail",
+      "url": "https://berghausgampluet.roundshot.com/",
+      "name": "Gamplüt Berghaus",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.343115227810612,
+      "lat": 47.212959054208596
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/50/thumbnail",
+      "url": "https://lecarrefour.roundshot.com/",
+      "name": "Le Carrefour Verbier - Le Carrefour",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.241834341669498,
+      "lat": 46.101767775478116
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/1340/thumbnail",
+      "url": "https://refugesolalex.roundshot.com/",
+      "name": "Refuge Solalex",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.137585439755443,
+      "lat": 46.28852475136122
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/379/thumbnail",
+      "url": "https://wildspitz.roundshot.com/",
+      "name": "Wildspitz Berghaus - Wildspitz",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.577484877202508,
+      "lat": 47.0844746460232
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/1422/thumbnail",
+      "url": "https://albergosanbernardo.roundshot.com/",
+      "name": "Albergo San Bernardo - San Bernardo",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.83949023961797,
+      "lat": 46.18869771720721
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/12/thumbnail",
+      "url": "https://bellevue.roundshot.com/",
+      "name": "Bellevue Wengen Hotel - Bellevue",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.916211646774701,
+      "lat": 46.60880386563426
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/483/thumbnail",
+      "url": "https://belvederegrindelwald.roundshot.com/",
+      "name": "Belvedere Grindelwald Hotel - Belvedere Grindelwald",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.029470230569672,
+      "lat": 46.625149137761646
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/123/thumbnail",
+      "url": "https://belvedere.roundshot.com/",
+      "name": "Belved\u00e8re Scuol Hotel - Belved\u00e8re - Scuol",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 10.297503961185246,
+      "lat": 46.79728690580255
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/14/thumbnail",
+      "url": "https://buergenstock.roundshot.com/",
+      "name": "Bürgenstock Resort",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.377517,
+      "lat": 46.996409
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/474/thumbnail",
+      "url": "https://crestapalace.roundshot.com/",
+      "name": "Celerina",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.85757,
+      "lat": 46.512214
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/835/thumbnail",
+      "url": "https://casaberno.roundshot.com/",
+      "name": "Ascona - Casa Berno Hotel",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.748059,
+      "lat": 46.152772
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/887/thumbnail",
+      "url": "https://castello-seeschloss.roundshot.com/",
+      "name": "Ascona - Castello Seeschloss Hotel",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.771235,
+      "lat": 46.152773
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/60/thumbnail",
+      "url": "https://msap.roundshot.com/",
+      "name": "Vevey - Mus\u00e9e Suisse de l'Appareil Photographique",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.842988,
+      "lat": 46.459285
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/632/thumbnail",
+      "url": "https://flugplatzschupfart.roundshot.com/",
+      "name": "Flugplatz Fricktal Schupfart",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.950345,
+      "lat": 47.508899
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/514/thumbnail",
+      "url": "https://aigloncollege.roundshot.com/",
+      "name": "Villars - Aiglon College",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.047093,
+      "lat": 46.302517
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/31/thumbnail",
+      "url": "https://hoteledelweiss.roundshot.com/",
+      "name": "Mürren - Edelweiss Mürren Hotel",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.896849,
+      "lat": 46.561437
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/911/thumbnail",
+      "url": "https://florensresort.roundshot.com/",
+      "name": "Florens Lake Resort & Spa",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 7.951246,
+      "lat": 46.731035
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/22ae0abae7bd2cf9ed843c994ba4c87c/thumbnail",
+      "url": "https://kachelmannwetter.roundshot.com/tierparkgoldau/",
+      "name": "Goldau - Tierpark",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 8.55691,
+      "lat": 47.05019
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/581/thumbnail",
+      "url": "https://huusgstaad.roundshot.com/",
+      "name": "Saanen",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.267166,
+      "lat": 46.493093
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/25/thumbnail",
+      "url": "https://palacegstaad.roundshot.com/",
+      "name": "Gstaad",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.289316,
+      "lat": 46.473017
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/876/thumbnail",
+      "url": "https://refugederborence.roundshot.com/",
+      "name": "Lac de Derborence",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 7.214625,
+      "lat": 46.279895
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/78/thumbnail",
+      "url": "https://uetliberg.roundshot.com/",
+      "name": "Uetliberg - Zurich",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.491479,
+      "lat": 47.349522
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/1257/thumbnail",
+      "url": "https://nendaz.roundshot.com/lacdetracouet/",
+      "name": "Nendaz - Lac  de Tracouet",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.2820364709597,
+      "lat": 46.159192183442
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/155/thumbnail",
+      "url": "https://pilatus.roundshot.com/",
+      "name": "Pilatus Bergbahnen - Pilatus - Esel",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.256321,
+      "lat": 46.979246
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/411/thumbnail",
+      "url": "https://lacdeneuchatel.roundshot.com/",
+      "name": "Lac de Neuch\u00e2tel",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.986171,
+      "lat": 47.009454
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/413/thumbnail",
+      "url": "https://valleedejoux.roundshot.com/",
+      "name": "Vall\u00e9e de Joux Tourisme - Vall\u00e9e de Joux",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.33677,
+      "lat": 46.661281
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/506/thumbnail",
+      "url": "https://yverdon.roundshot.com/lesrasses/",
+      "name": "Yverdon-les-Bains - Les Rasses",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.528981,
+      "lat": 46.843046
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/482/thumbnail",
+      "url": "https://yverdon.roundshot.com/ville/",
+      "name": "Yverdon-les-Bains",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.640959,
+      "lat": 46.77837
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/1047/thumbnail",
+      "url": "https://zbag.roundshot.com/hirli/",
+      "name": "Zermatt Bergbahnen - Hirli",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.698919,
+      "lat": 45.989302
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/17995d1350ece1b2780e44a0740cfeb4/thumbnail",
+      "url": "https://zbag.roundshot.com/matterhornglacierparadise/",
+      "name": "Zermatt Bergbahnen - Matterhorn - Glacier Paradise",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.730081,
+      "lat": 45.938005
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/052cf992a17faeeca3f71114b049455c/thumbnail",
+      "url": "https://zbag.roundshot.com/rothorn/",
+      "name": "Zermatt Bergbahnen - Rothorn",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.797409,
+      "lat": 46.021509
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/bdf96ad83f0ce659dd66684504de9375/thumbnail",
+      "url": "https://zbag.roundshot.com/trockener-steg/",
+      "name": "Zermatt Bergbahnen - Trockener Steg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.722276,
+      "lat": 45.970832
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/2c35670bc04a525fa1b912728ae463b8/thumbnail",
+      "url": "https://zermatt.roundshot.com/zermatterhof/",
+      "name": "Zermatt",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.74603,
+      "lat": 46.01934
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/779/thumbnail",
+      "url": "https://lumnezia.roundshot.com/badesee/",
+      "name": "Lumnezia Gemeinde - Badesee Davos Munts",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.152603,
+      "lat": 46.707309
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/246/thumbnail",
+      "url": "https://sils.roundshot.com/",
+      "name": "Sils Maria Gemeinde - Sils Maria",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.761204,
+      "lat": 46.428587
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/55/thumbnail",
+      "url": "https://sgv.roundshot.com/",
+      "name": "Luzerner SGV - Lake Lucerne",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.312333,
+      "lat": 47.051427
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/405/thumbnail",
+      "url": "https://vengeron.roundshot.com/",
+      "name": "Pregny-Chambésy - Plage du Vengeron",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.153733,
+      "lat": 46.245613
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/456/thumbnail",
+      "url": "https://hafenamrheinspitz.roundshot.com/",
+      "name": "Rheinunternehmen - Rheinspitz",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 9.560451,
+      "lat": 47.501005
+    },
+    {
+      "thumburl": "https://backend.roundshot.com/cams/154/thumbnail",
+      "url": "https://tlml.roundshot.com/",
+      "name": "Leysin T\u00e9l\u00e9 - Kuklos",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.00209,
+      "lat": 46.359765
     }
-
   ]
 }
+
