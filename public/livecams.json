@@ -2813,6 +2813,7 @@
     },
     {
       "name" : "Luzern",
+      "id": "56",
       "url" : "https://luzerntourismus.roundshot.com/",
       "iframesrc": "s",
       "type": "city",
@@ -4912,6 +4913,447 @@
       "type": "mountain",
       "lng": 7.00209,
       "lat": 46.359765
+    },
+    {
+      "id": "2",
+      "url": "https://anzere.roundshot.com/village/",
+      "name": "Anz\u00e8re Tourisme - Anz\u00e8re - Village",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.400035,
+      "lat": 46.297428
+    },
+    {
+      "id": "1122",
+      "url": "https://arosadorf.roundshot.com/",
+      "name": "Arosa Bergbahnen - Arosa Dorf",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.682835,
+      "lat": 46.783016
+    },
+    {
+      "id": "804",
+      "url": "https://baerenland.roundshot.com/",
+      "name": "Arosa Bergbahnen - B\u00e4renland",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.62026,
+      "lat": 46.767402
+    },
+    {
+      "id": "714",
+      "url": "https://larobella.roundshot.com/",
+      "name": "La Robella",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 6.55025,
+      "lat": 46.87628
+    },
+    {
+      "id": "63",
+      "url": "https://tailleres.roundshot.com/",
+      "name": "Lac des Taill\u00e8res",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.586255,
+      "lat": 46.971041
+    },
+    {
+      "id": "264",
+      "url": "https://neuchatel.roundshot.com/",
+      "name": "Neuch\u00e2tel",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.937448,
+      "lat": 46.996941
+    },
+    {
+      "id": "184",
+      "url": "https://tete-de-ran.roundshot.com/",
+      "name": "T\u00eate de Ran",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.853632,
+      "lat": 47.05424
+    },
+    {
+      "id": "875",
+      "url": "https://valleedutrient.roundshot.com/emosson/",
+      "name": "Vall\u00e9e du Trient - Emosson",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.935172,
+      "lat": 46.068022
+    },
+    {
+      "id": "1110",
+      "url": "https://valleedutrient.roundshot.com/salanfe/",
+      "name": "Salanfe",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.971218,
+      "lat": 46.144464
+    },
+    {
+      "id": "891",
+      "url": "https://valleedutrient.roundshot.com/trient/",
+      "name": "Trient",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.99508,
+      "lat": 46.055981
+    },
+    {
+      "id": "802",
+      "url": "https://valleedutrient.roundshot.com/telemarecottes/",
+      "name": "T\u00e9l\u00e9 Mar\u00e9cottes",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.994343,
+      "lat": 46.118466
+    },
+    {
+      "id": "892",
+      "url": "https://valleedutrient.roundshot.com/vernayaz/",
+      "name": "Vernayaz",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.0425563,
+      "lat": 46.1335278
+    },
+    {
+      "id": "254",
+      "url": "https://wilerturm.roundshot.com/",
+      "name": "Wil - Wiler Turm",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.049526,
+      "lat": 47.47868
+    },
+    {
+      "id": "1239",
+      "url": "https://zuerichtourismus.roundshot.com/storchen/",
+      "name": "Zürich - Storchen Hotel",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.54182,
+      "lat": 47.37112
+    },
+    {
+      "id": "86",
+      "url": "https://zuerichtourismus.roundshot.com/stadthaus/",
+      "name": "Zürich - Stadthaus",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.541663,
+      "lat": 47.36931
+    },
+    {
+      "id": "85",
+      "url": "https://zuerichtourismus.roundshot.com/zuerichwest/",
+      "name": "Zürich West",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.540239,
+      "lat": 47.382297
+    },
+    {
+      "id": "1289",
+      "url": "https://laufenburg.roundshot.com/stadt/",
+      "name": "Laufenburg Gemeinde",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.05785,
+      "lat": 47.56424
+    },
+    {
+      "id": "676",
+      "url": "https://baden.roundshot.com/turm-baldegg/",
+      "name": "Regionalwerke AG Baden - Wasserturm Baldegg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 8.282507,
+      "lat": 47.470168
+    },
+    {
+      "id": "1405",
+      "url": "https://romanshorn.roundshot.com/",
+      "name": "Romanshorn Stadt - Hafen Romanshorn",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 9.38013,
+      "lat": 47.56687
+    },
+    {
+      "id": "738",
+      "url": "https://winterthur.roundshot.com/roterturm/",
+      "name": "Winterthur - Roter Turm",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.727158,
+      "lat": 47.503766
+    },
+    {
+      "id": "648",
+      "url": "https://andermatt.roundshot.com/golfplatz/",
+      "name": "Andermatt - Golfplatz",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.577657,
+      "lat": 46.632255
+    },
+    {
+      "id": "1392",
+      "url": "https://aletschbahnen.roundshot.com/kuehboden/",
+      "name": "Aletsch Bahnen Management AG - Fiescheralp - Kühboden",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.10333,
+      "lat": 46.41302
+    },
+    {
+      "id": "1347",
+      "url": "https://andermatt.roundshot.com/bostgas/",
+      "name": "Andermatt Sedrun - Bostgas Cuolm",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.70289,
+      "lat": 46.66815
+    },
+    {
+      "id": "331",
+      "url": "https://andermatt-sedrun.roundshot.com/gemsstock/",
+      "name": "Andermatt Sedrun - Gemsstock",
+      "status": "late",
+      "type": "mountain",
+      "lng": 8.611668,
+      "lat": 46.602292
+    },
+    {
+      "id": "3",
+      "url": "https://anzere.roundshot.com/pistes/",
+      "name": "Anz\u00e8re - Pas de Maimbr\u00e9",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.386036,
+      "lat": 46.312079
+    },
+    {
+      "id": "681",
+      "url": "https://hoernliberg.roundshot.com/",
+      "name": "Arosa Bergbahnen - Hörnli",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.62026,
+      "lat": 46.767402
+    },
+    {
+      "id": "16",
+      "url": "https://cma.roundshot.com/grandsignal/",
+      "name": "Crans Montana - La Nationale",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.478755,
+      "lat": 46.336499
+    },
+    {
+      "id": "1293",
+      "url": "https://glacier3000.roundshot.com/cabane/",
+      "name": "Gstaad 3000 - Cabane",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.21443,
+      "lat": 46.33988
+    },
+    {
+      "id": "153",
+      "url": "https://glacier3000.roundshot.com/",
+      "name": "Gstaad 3000 - Peak walk",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.203791,
+      "lat": 46.326757
+    },
+    {
+      "id": "674",
+      "url": "https://lac-de-tseuzier.roundshot.com/",
+      "name": "Anz\u00e8re - Lac de Tseuzier",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 7.43546,
+      "lat": 46.34667
+    },
+    {
+      "id": "376",
+      "url": "https://avenches.roundshot.com/camping-plage/",
+      "name": "Avenches",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 7.049981,
+      "lat": 46.905887
+    },
+    {
+      "id": "128",
+      "url": "https://berntourismus.roundshot.com/hotelbellevuepalace/",
+      "name": "Bern - Bellevue Hotel",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.446731,
+      "lat": 46.946685
+    },
+    {
+      "id": "572",
+      "url": "https://lespaccots.roundshot.com/joncs/",
+      "name": "Les Paccots - Joncs",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 6.94837,
+      "lat": 46.51337
+    },
+    {
+      "id": "573",
+      "url": "https://lespaccots.roundshot.com/rathvel/",
+      "name": "Les Paccots - La Veveyse Tourisme - Rathvel - Les Paccots - La Veveyse",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.977096,
+      "lat": 46.543232
+    },
+    {
+      "id": "279",
+      "url": "https://weggis.roundshot.com/",
+      "name": "Weggis",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.433272,
+      "lat": 47.031471
+    },
+    {
+      "id": "360",
+      "url": "https://montreux.roundshot.com/",
+      "name": "Montreux",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.90786,
+      "lat": 46.43675
+    },
+    {
+      "id": "1270",
+      "url": "https://napoleonturm.roundshot.com/",
+      "name": "Napoleonturm",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.08776,
+      "lat": 47.63834
+    },
+    {
+      "id": "1418",
+      "url": "https://ascona-locarno.roundshot.com/bellavistahotel/",
+      "name": "Ascona Locarno - Bellavista Hotel",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.83936,
+      "lat": 46.141
+    },
+    {
+      "id": "1420",
+      "url": "https://ascona-locarno.roundshot.com/madonnadelsasso/",
+      "name": "Ascona Locarno - Madonna del Sasso",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.79415,
+      "lat": 46.17638
+    },
+    {
+      "id": "1419",
+      "url": "https://ascona-locarno.roundshot.com/tenero/",
+      "name": "Ascona Locarno - Tenero - ",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.85651,
+      "lat": 46.1699
+    },
+    {
+      "id": "62",
+      "url": "https://chaumont.roundshot.com/",
+      "name": "Chaumont",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.95816,
+      "lat": 47.026019
+    },
+    {
+      "id": "716",
+      "url": "https://jeunesrives.roundshot.com/",
+      "name": "Jeunes-Rives",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.935444,
+      "lat": 46.990937
+    },
+    {
+      "id": "430",
+      "url": "https://schwarzseetourismus.roundshot.com/",
+      "name": "Schwarzsee",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.28285,
+      "lat": 46.674
+    },
+    {
+      "id": "478",
+      "url": "https://sierre-tourisme.roundshot.com/",
+      "name": "Sierre - Venth\u00f4ne",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.532241,
+      "lat": 46.307397
+    },
+    {
+      "id": "703",
+      "url": "https://obergoms.roundshot.com/ulrichen/",
+      "name": "Ulrichen - Nordisches Zentrum",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.301919,
+      "lat": 46.500597
+    },
+    {
+      "id": "260",
+      "url": "https://lachauxdefonds.roundshot.com/",
+      "name": "La Chaux-de-Fonds",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.828734,
+      "lat": 47.102342
+    },
+    {
+      "id": "555",
+      "url": "https://luks-luzern.roundshot.com/",
+      "name": "Luzern - Luzerner Kantonsspital",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.296924,
+      "lat": 47.059993
+    },
+    {
+      "id": "2c3a63ce6e913dce53e5006efafafa7e",
+      "url": "https://epfl.roundshot.com/",
+      "name": "Ecublens",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.561931,
+      "lat": 46.518391
+    },
+    {
+      "id": "300",
+      "url": "https://mob.roundshot.com/rochersdenaye/",
+      "name": "Rochers de Naye",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.976191,
+      "lat": 46.431915
     }
   ]
 }
