@@ -45,11 +45,20 @@ export class LC {
         if (typeof lc.id !== 'undefined') {
           thumburl = `https://api.skaping.com/media/getLatest?format=jpg&api_key=${lc.id}&quality=thumb`;
         }
+      } else if (this.isRoundshot(lc)) {
+        if (typeof lc.id !== 'undefined') {
+          thumburl = `https://backend.roundshot.com/cams/${lc.id}/thumbnail`;
+        }
       }
     }
     return thumburl;
   }
 
+  /**
+   * Is this a skaping livecam ?
+   * @param lc 
+   * @returns 
+   */
   static isSkaping = (lc:livecam):boolean => {
     const ifsrc = this.getIframeSrc(lc);
 
@@ -60,6 +69,11 @@ export class LC {
     }
     return isSka;
   }
+  /**
+   * Is this a Tikee livecam ?
+   * @param lc 
+   * @returns 
+   */
   static isTikeeLc = (lc:livecam):boolean => {
     const ifsrc = this.getIframeSrc(lc);
 
@@ -70,6 +84,11 @@ export class LC {
     }
     return isTikee;
   }
+  /**
+   * Is this a Youtube livecam ?
+   * @param lc 
+   * @returns 
+   */
   static isYtLc = (lc:livecam):boolean => {
     const ifsrc = this.getIframeSrc(lc);
 
@@ -80,6 +99,11 @@ export class LC {
     }
     return iYt;
   }
+  /**
+   * Is this an IpCamLive livecam ?
+   * @param lc 
+   * @returns 
+   */
   static isIpClLc = (lc:livecam):boolean => {
     const ifsrc = this.getIframeSrc(lc);
 
@@ -90,6 +114,11 @@ export class LC {
     }
     return iIpc;
   }
+  /**
+   * Is this an Panomax livecam ?
+   * @param lc 
+   * @returns 
+   */
   static isPanomax = (lc:livecam):boolean => {
     const ifsrc = this.getIframeSrc(lc, true);
 
@@ -100,6 +129,22 @@ export class LC {
     }
     return iIpc;
   }
+  /**
+   * Is this an Roundshot livecam ?
+   * @param lc 
+   * @returns 
+   */
+  static isRoundshot = (lc:livecam):boolean => {
+    const ifsrc = this.getIframeSrc(lc, true);
+
+    let iRds:boolean = false;
+    if ((typeof ifsrc !== 'undefined')
+     && (ifsrc.includes('.roundshot.com'))) {
+      iRds = true;
+    }
+    return iRds;
+  }
+
 }
 
 export const iconCity = new L.Icon({
