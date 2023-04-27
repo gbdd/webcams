@@ -642,8 +642,6 @@
       "lng": 86.70867665301711,
       "lat": 27.804038615909008
     },
-
-
     {
       "name" : "Monts Jura - Monthoisey",
       "url" : "https://www.skaping.com/montsjura/monthoisey",
@@ -1013,12 +1011,7 @@
       "type": "mountain",
       "lng": -0.1473277426849542,
       "lat": 42.85192081970268
-    }
-
-
-
-
-    ,
+    },
     {
       "name" : "Crest Voland - Le Village",
       "url" : "https://www.skaping.com/crest-voland/lalogere",
@@ -3054,7 +3047,7 @@
     {
       "url" : "https://lequioberria.panomax.com/",
       "iframesrcdesktop" : "s",
-      "id": "335593",
+      "id": "4122",
       "name": "Lequio Berria",
       "type": "country",
       "lat": 44.606493,
@@ -3189,7 +3182,6 @@
     {
       "url" : "https://www.youtube.com/watch?v=kpzKmQUMh4E",
       "iframesrc" : "https://www.youtube.com/embed/kpzKmQUMh4E",
-      "id": "23",
       "name": "Phare de Chassiron",
       "type": "sea",
       "lat": 46.04665984466621,
@@ -4418,7 +4410,7 @@
     {
       "url" : "https://storefjellstolen.panomax.com/farm",
       "iframesrcdesktop" : "s",
-      "id": "1753845",
+      "id": "5584",
       "name": "Storefjellstolen",
       "type": "country",
       "lat": 60.804002,
@@ -5410,6 +5402,285 @@
       "type": "sea",
       "lng": -1.9997292220972047,
       "lat": 48.65810767606356
+    },
+    {
+      "id": 13,
+      "iframesrcdesktop": "s",
+      "lat": 47.48071,
+      "lng": 12.197598,
+      "name": "Hexenwasser - Hohe Salve Söll",
+      "type": "mountain",
+      "url": "https://hexenwasser.panomax.com/"
+    },
+    {
+      "id": 60,
+      "iframesrcdesktop": "s",
+      "lat": 48.845376,
+      "lng": 13.138104,
+      "name": "Lalling",
+      "type": "city",
+      "url": "https://lalling.panomax.com/"
+    },
+    {
+      "id": 128,
+      "iframesrcdesktop": "s",
+      "lat": 47.421082,
+      "lng": 10.985843,
+      "name": "Zugspitze",
+      "type": "mountain",
+      "url": "https://zugspitze.panomax.com/"
+    },
+    {
+      "id": 321,
+      "iframesrcdesktop": "s",
+      "lat": 47.196002,
+      "lng": 11.88059,
+      "name": "Mayrhofen Hippach Bichl",
+      "type": "city",
+      "url": "https://mayrhofen.panomax.com/"
+    },
+    {
+      "id": 334,
+      "iframesrcdesktop": "s",
+      "lat": 47.473616,
+      "lng": 11.015458,
+      "name": "Badersee",
+      "type": "lake",
+      "url": "https://badersee.panomax.com/"
+    },
+    {
+      "id": 365,
+      "iframesrcdesktop": "s",
+      "lat": 47.507328,
+      "lng": 12.198067,
+      "name": "Söll",
+      "type": "mountain",
+      "url": "https://soell.panomax.com/"
+    },
+    {
+      "id": 368,
+      "iframesrcdesktop": "s",
+      "lat": 47.341306,
+      "lng": 11.227728,
+      "name": "Seefeld - Rosshütte",
+      "type": "mountain",
+      "url": "https://seefeld.panomax.com/rosshuette"
+    },
+    {
+      "id": 409,
+      "iframesrcdesktop": "s",
+      "lat": 47.32882,
+      "lng": 11.18675,
+      "name": "Seefeld",
+      "type": "city",
+      "url": "https://seefeld-dorfplatz.panomax.com/"
+    },
+    {
+      "id": 431,
+      "iframesrcdesktop": "s",
+      "lat": 47.327845,
+      "lng": 11.179408,
+      "name": "Seekirchl Panorama",
+      "type": "city",
+      "url": "https://seefeld.panomax.com/seekirchl"
+    },
+    {
+      "id": 467,
+      "iframesrcdesktop": "s",
+      "lat": 47.214152,
+      "lng": 12.168658,
+      "name": "Krimml",
+      "type": "city",
+      "url": "https://krimml.panomax.com/"
+    },
+    {
+      "id": 471,
+      "iframesrcdesktop": "s",
+      "lat": 47.39073,
+      "lng": 13.11565,
+      "name": "Hotel Bergheimat",
+      "type": "mountain",
+      "url": "https://bergheimat.panomax.com/"
+    },
+    {
+      "id": 496,
+      "iframesrcdesktop": "s",
+      "lat": 47.461918,
+      "lng": 11.186174,
+      "name": "Schloss Elmau",
+      "type": "mountain",
+      "url": "https://schloss-elmau.panomax.com/"
+    },
+    {
+      "id": 501,
+      "iframesrcdesktop": "s",
+      "lat": 46.975907,
+      "lng": 10.983221,
+      "name": "Sölden - Hochsölden",
+      "type": "mountain",
+      "url": "https://soelden.panomax.com/hochsoelden"
+    },
+    {
+      "id": 505,
+      "iframesrcdesktop": "s",
+      "lat": 47.467794,
+      "lng": 13.626356,
+      "name": "Dachstein",
+      "type": "mountain",
+      "url": "https://dachstein.panomax.com/"
+    },
+    {
+      "id": 512,
+      "iframesrcdesktop": "s",
+      "lat": 47.304918,
+      "lng": 11.070057,
+      "name": "Telfs",
+      "type": "mountain",
+      "url": "https://www.innsbruck.info/sonnenplateau/webcam/"
+    },
+    {
+      "id": 519,
+      "iframesrcdesktop": "s",
+      "lat": 48.079179,
+      "lng": 8.157639,
+      "name": "Brendturm",
+      "type": "country",
+      "url": "https://brendturm.panomax.com/"
+    },
+    {
+      "id": 532,
+      "iframesrcdesktop": "s",
+      "lat": 47.234663,
+      "lng": 11.957321,
+      "name": "Kreuzwiese",
+      "type": "mountain",
+      "url": "https://panocam.zillertalarena.com/kreuzwiese"
+    },
+    {
+      "id": 533,
+      "iframesrcdesktop": "s",
+      "lat": 47.742688,
+      "lng": 13.35419,
+      "name": "Zwölferhorn",
+      "type": "mountain",
+      "url": "https://zwoelferhorn.panomax.com/"
+    },
+    {
+      "id": 534,
+      "iframesrcdesktop": "s",
+      "lat": 47.242853,
+      "lng": 13.201781,
+      "name": "Großarl",
+      "type": "city",
+      "url": "https://grossarl.panomax.com/"
+    },
+    {
+      "id": 596,
+      "iframesrcdesktop": "s",
+      "lat": 47.232351,
+      "lng": 12.15722,
+      "name": "Filzstein",
+      "type": "mountain",
+      "url": "https://panocam.zillertalarena.com/filzstein"
+    },
+    {
+      "id": 643,
+      "iframesrcdesktop": "s",
+      "lat": 38.548397,
+      "lng": 22.589316,
+      "name": "Parnassos Ski",
+      "type": "mountain",
+      "url": "https://parnassos.panomax.com/"
+    },
+    {
+      "id": 675,
+      "iframesrcdesktop": "s",
+      "lat": 48.093171,
+      "lng": 13.526425,
+      "name": "Frankenburg Aussichtsturm",
+      "type": "country",
+      "url": "https://frankenburg.panomax.com/"
+    },
+    {
+      "id": 683,
+      "iframesrcdesktop": "s",
+      "lat": 47.932797,
+      "lng": 13.425645,
+      "name": "Lichtenberg",
+      "type": "country",
+      "url": "https://lichtenberg.panomax.com/"
+    },
+    {
+      "id": 717,
+      "iframesrcdesktop": "s",
+      "lat": 47.444959,
+      "lng": 11.256836,
+      "name": "Mittenwald",
+      "type": "mountain",
+      "url": "https://alpenwelt-karwendel.panomax.com/mittenwald"
+    },
+    {
+      "id": 718,
+      "iframesrcdesktop": "s",
+      "lat": 47.50427,
+      "lng": 11.281401,
+      "name": "Krün",
+      "type": "city",
+      "url": "https://alpenwelt-karwendel.panomax.com/kruen"
+    },
+    {
+      "id": 719,
+      "iframesrcdesktop": "s",
+      "lat": 47.528551,
+      "lng": 11.290064,
+      "name": "Wallgau",
+      "type": "mountain",
+      "url": "https://alpenwelt-karwendel.panomax.com/wallgau"
+    },
+    {
+      "id": 748,
+      "iframesrcdesktop": "s",
+      "lat": 47.419022,
+      "lng": 13.653625,
+      "name": "Ramsau Stadion",
+      "type": "city",
+      "url": "https://ramsaudachstein.panomax.com/"
+    },
+    {
+      "id": 751,
+      "iframesrcdesktop": "s",
+      "lat": 47.265823,
+      "lng": 10.128346,
+      "name": "Schröcken Talstation",
+      "type": "mountain",
+      "url": "https://warth-schroecken.panomax.com/tal"
+    },
+    {
+      "id": 760,
+      "iframesrcdesktop": "s",
+      "lat": 47.384512,
+      "lng": 13.866551,
+      "name": "Galsterberg",
+      "type": "mountain",
+      "url": "https://galsterberg.panomax.com/"
+    },
+    {
+      "id": 761,
+      "iframesrcdesktop": "s",
+      "lat": 47.293571,
+      "lng": 13.457961,
+      "name": "Zauchensee",
+      "type": "city",
+      "url": "https://zauchensee.panomax.com/"
+    },
+    {
+      "id": 786,
+      "iframesrcdesktop": "s",
+      "lat": 47.255174,
+      "lng": 10.133637,
+      "name": "Schröcken Bergstation",
+      "type": "mountain",
+      "url": "https://warth-schroecken.panomax.com/berg"
     }
   ]
 }
