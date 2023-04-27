@@ -5354,7 +5354,64 @@
       "type": "lake",
       "lng": 6.976191,
       "lat": 46.431915
+    },
+    {
+      "name" : "Oléron - Port de la Cotinière",
+      "url" : "https://www.youtube.com/watch?v=797i1pipi0w",
+      "iframesrc" : "https://www.youtube.com/embed/797i1pipi0w",
+      "type": "sea",
+      "lng": -1.3276387505585605,
+      "lat": 45.914167049725805
+    },
+    {
+      "name" : "Brest - Port de Moulin Blanc",
+      "url" : "https://www.youtube.com/watch?v=4UySgdAAEJA",
+      "iframesrc" : "https://www.youtube.com/embed/4UySgdAAEJA",
+      "type": "sea",
+      "lng": -4.4334167472162695,
+      "lat": 48.3921723815544
+    },
+    {
+      "name" : "Le Crotoy",
+      "url" : "https://www.youtube.com/watch?v=DkoiD0QRiO8",
+      "iframesrc" : "https://www.youtube.com/embed/DkoiD0QRiO8",
+      "type": "sea",
+      "lng": 1.6202350916678094,
+      "lat": 50.217093224323115
+    },
+    {
+      "name" : "Roscoff",
+      "url" : "https://www.youtube.com/watch?v=VjkGI-ENZyQ",
+      "iframesrc" : "https://www.youtube.com/embed/VjkGI-ENZyQ",
+      "type": "sea",
+      "lng": -3.9804419693332704,
+      "lat": 48.72258189566738
+    },
+    {
+      "name" : "Fécamp",
+      "url" : "https://www.youtube.com/watch?v=tZ91LDXAxWM",
+      "iframesrc" : "https://www.youtube.com/embed/tZ91LDXAxWM",
+      "type": "sea",
+      "lng": 0.36537121581312226,
+      "lat": 49.76380199096182
+    },
+    {
+      "name" : "Hyères - La Madrague",
+      "url" : "https://www.youtube.com/watch?v=Ukuh3TXLQek",
+      "iframesrc" : "https://www.youtube.com/embed/Ukuh3TXLQek",
+      "type": "sea",
+      "lng": 6.109790310033678,
+      "lat": 43.03990444125848
+    },
+    {
+      "name" : "Saint Malo - Les thermes marins",
+      "url" : "https://www.youtube.com/watch?v=3MSIEP6UU9M",
+      "iframesrc" : "https://www.youtube.com/embed/3MSIEP6UU9M",
+      "type": "sea",
+      "lng": -1.9997292220972047,
+      "lat": 48.65810767606356
     }
   ]
 }
+
 
