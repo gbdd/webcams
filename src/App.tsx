@@ -50,7 +50,6 @@ function App() {
       }
     })
     if (nbPrefs > 0) {
-      // setDisplayPreferedWebcam(getPreference(PREFERENCES.ONLY_PREFS, false));
       setDisplayPreferedWebcam(true);
     }
     setNbPreferredWebcams(nbPrefs);
@@ -85,7 +84,6 @@ function App() {
 
   const handleOnChecked = (_checked:boolean) => {
     setDisplayPreferedWebcam(_checked);
-    setPreference(PREFERENCES.ONLY_PREFS, _checked);
   }
 
   const displayedNumber:string = (nbPreferredWebcams === 0) ? `${myWebcams.length} webcams` : `${nbPreferredWebcams}/${myWebcams.length}`
