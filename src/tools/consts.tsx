@@ -126,7 +126,10 @@ export class LC {
     if ((typeof ifsrc !== 'undefined')
      && (ifsrc.includes('.panomax.com'))) {
       iIpc = true;
-    }
+    } else if ((typeof ifsrc !== 'undefined')
+            && (ifsrc.startsWith('https://panocam.'))) {
+     iIpc = true;
+   }  
     return iIpc;
   }
   /**
