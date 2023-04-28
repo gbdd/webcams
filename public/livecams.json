@@ -4930,8 +4930,8 @@
       "name": "Arosa Bergbahnen - B\u00e4renland",
       "iframesrc": "s",
       "type": "mountain",
-      "lng": 9.62026,
-      "lat": 46.767402
+      "lng": 9.665068,
+      "lat": 46.786503
     },
     {
       "id": "714",
@@ -5536,6 +5536,7 @@
       "lng": 11.070057,
       "name": "Telfs",
       "type": "city",
+      "thumburl": "https://live-image.panomax.com/cams/512/recent_reduced.jpg",
       "url": "https://www.innsbruck.info/sonnenplateau/webcam/"
     },
     {
