@@ -3290,7 +3290,7 @@
       "url" : "https://wank.panomax.com/",
       "iframesrcdesktop" : "s",
       "id": "149",
-      "name": "Wank",
+      "name": "Garmisch-Partenkirchen - Wank",
       "type": "mountain",
       "lat": 47.507011,
       "lng": 11.146857
@@ -3448,6 +3448,7 @@
     },
     {
       "url" : "https://panorama.nuerburgring.de/grand-prix",
+      "thumburl" : "https://live-image.panomax.com/cams/2835/recent_reduced.jpg",
       "iframesrcdesktop" : "s",
       "id": "2835",
       "name": "Nürburgring - Grand Prix Strecke",
@@ -5682,6 +5683,666 @@
       "name": "Schröcken Bergstation",
       "type": "mountain",
       "url": "https://warth-schroecken.panomax.com/berg"
+    },
+    {
+      "id": "793",
+      "iframesrcdesktop": "s",
+      "lat": 47.128304,
+      "lng": 9.742342,
+      "name": "Brandnertal Panoramabahn",
+      "type": "mountain",
+      "url": "https://panoramabahn-brand.panomax.com/"
+    },
+    {
+      "id": "807",
+      "iframesrcdesktop": "s",
+      "lat": 47.893318,
+      "lng": 13.220009,
+      "name": "Henndorf",
+      "type": "country",
+      "url": "https://gut-aiderbichl.panomax.com/henndorf/"
+    },
+    {
+      "id": "816",
+      "iframesrcdesktop": "s",
+      "lat": 47.311264,
+      "lng": 11.144133,
+      "name": "Mösern",
+      "type": "city",
+      "url": "https://moesern.panomax.com/"
+    },
+    {
+      "id": "849",
+      "iframesrcdesktop": "s",
+      "lat": 47.577759,
+      "lng": 12.209578,
+      "name": "Brentenjoch",
+      "type": "mountain",
+      "thumburl" : "https://live-image.panomax.com/cams/849/recent_reduced.jpg",
+      "url": "https://webcam.kaiserlift.at/"
+    },
+    {
+      "id": "851",
+      "iframesrcdesktop": "s",
+      "lat": 47.360176,
+      "lng": 13.639609,
+      "name": "Hochwurzen",
+      "type": "mountain",
+      "url": "https://hochwurzen.panomax.com/"
+    },
+    {
+      "id": "864",
+      "iframesrcdesktop": "s",
+      "lat": 47.648544,
+      "lng": 12.316914,
+      "name": "Walchsee",
+      "type": "lake",
+      "url": "https://walchsee.panomax.com/"
+    },
+    {
+      "id": "915",
+      "iframesrcdesktop": "s",
+      "lat": 46.961359,
+      "lng": 9.891442,
+      "name": "Gargellen",
+      "type": "mountain",
+      "url": "https://gargellen.panomax.com/"
+    },
+    {
+      "id": "916",
+      "iframesrcdesktop": "s",
+      "lat": 45.691595,
+      "lng": 6.916226,
+      "name": "La Thuile - Chaz Dura",
+      "type": "mountain",
+      "url": "https://lathuile.panomax.com/"
+    },
+    {
+      "id": "927",
+      "iframesrcdesktop": "s",
+      "lat": 50.66629,
+      "lng": 10.763617,
+      "name": "Schneekopf Turm",
+      "type": "country",
+      "url": "https://schneekopf.panomax.com/"
+    },
+    {
+      "id": "956",
+      "iframesrcdesktop": "s",
+      "lat": 47.40276,
+      "lng": 10.9033,
+      "name": "Golfplatz Ehrwald",
+      "type": "country",
+      "url": "https://golfplatz-ehrwald.panomax.com/"
+    },
+    {
+      "id": "958",
+      "iframesrcdesktop": "s",
+      "lat": 51.204,
+      "lng": 9.055718,
+      "name": "Waldeck am Edersee",
+      "type": "city",
+      "url": "https://waldeck.panomax.com"
+    },
+    {
+      "id": "962",
+      "iframesrcdesktop": "s",
+      "lat": 47.060524,
+      "lng": 9.976089,
+      "name": "Silvretta - Panorama Bahn",
+      "type": "mountain",
+      "url": "https://silvretta-montafon.panomax.com/panoramabahn"
+    },
+    {
+      "id": "963",
+      "iframesrcdesktop": "s",
+      "lat": 47.064789,
+      "lng": 9.838508,
+      "name": "Golm - Hüttenkopfbahn",
+      "type": "mountain",
+      "url": "https://golm.panomax.com/huettenkopf"
+    },
+    {
+      "id": "964",
+      "iframesrcdesktop": "s",
+      "lat": 47.397991,
+      "lng": 10.887996,
+      "name": "Lermoos - Hotel Post",
+      "type": "city",
+      "url": "https://post-lermoos.panomax.com/"
+    },
+    {
+      "id": "965",
+      "iframesrcdesktop": "s",
+      "lat": 47.54522,
+      "lng": 13.928474,
+      "name": "Bad Mitterndorf - Grimming Therme",
+      "type": "city",
+      "url": "https://grimming-therme.panomax.com/"
+    },
+    {
+      "id": "966",
+      "iframesrcdesktop": "s",
+      "lat": 47.793803,
+      "lng": 12.997799,
+      "name": "Salzburg Airport",
+      "type": "city",
+      "url": "https://livecam.salzburg-airport.com/"
+    },
+    {
+      "id": "967",
+      "iframesrcdesktop": "s",
+      "lat": 47.384036,
+      "lng": 10.968708,
+      "name": "Ehrwalder Almbahn",
+      "type": "mountain",
+      "url": "https://ehrwald.panomax.com/almbahn"
+    },
+    {
+      "id": "970",
+      "iframesrcdesktop": "s",
+      "lat": 46.929996,
+      "lng": 13.757426,
+      "name": "Nockalmstrasse",
+      "type": "mountain",
+      "url": "https://nockalmstrasse.panomax.com/"
+    },
+    {
+      "id": "971",
+      "iframesrcdesktop": "s",
+      "lat": 46.916831,
+      "lng": 13.864841,
+      "name": "Turracherhöhe - Panoramabahn",
+      "type": "mountain",
+      "url": "https://turracherhoehe.panomax.com/panoramabahn"
+    },
+    {
+      "id": "982",
+      "iframesrcdesktop": "s",
+      "lat": 47.215274,
+      "lng": 10.118829,
+      "name": "Lech Bergbahnen Kriegerhorn",
+      "type": "mountain",
+      "thumburl" : "https://live-image.panomax.com/cams/982/recent_reduced.jpg",
+      "url": "https://kriegerhorn.skiarlberg.at/"
+    },
+    {
+      "id": "983",
+      "iframesrcdesktop": "s",
+      "lat": 47.410784,
+      "lng": 13.768266,
+      "name": "Haus im Ennstal",
+      "type": "city",
+      "url": "https://herrschaftstaverne.panomax.com/"
+    },
+    {
+      "id": "987",
+      "iframesrcdesktop": "s",
+      "lat": 45.809744,
+      "lng": 7.555657,
+      "name": "Torgnon Chantorne",
+      "type": "mountain",
+      "url": "https://torgnon-skiarea.panomax.com/"
+    },
+    {
+      "id": "1026",
+      "iframesrcdesktop": "s",
+      "lat": 47.948189,
+      "lng": 12.731782,
+      "name": "Waging am See - Krautenberg",
+      "type": "lake",
+      "url": "https://waging.panomax.com/"
+    },
+    {
+      "id": "1028",
+      "iframesrcdesktop": "s",
+      "lat": 47.626687,
+      "lng": 13.092542,
+      "name": "Rossfeld",
+      "type": "mountain",
+      "url": "https://rossfeld.panomax.com/"
+    },
+    {
+      "id": "1055",
+      "iframesrcdesktop": "s",
+      "lat": 47.454201,
+      "lng": 13.259393,
+      "name": "Rosnerköpfl",
+      "type": "mountain",
+      "url": "https://werfenweng.panomax.com/rosnerkoepfl"
+    },
+    {
+      "id": "1063",
+      "iframesrcdesktop": "s",
+      "lat": 47.391351,
+      "lng": 13.429981,
+      "name": "Habersatt",
+      "type": "mountain",
+      "url": "https://altenmarkt-zauchensee.panomax.com/"
+    },
+    {
+      "id": "1064",
+      "iframesrcdesktop": "s",
+      "lat": 46.512385,
+      "lng": 11.864745,
+      "name": "Bec de Roces",
+      "type": "mountain",
+      "url": "https://becderoces.panomax.com/"
+    },
+    {
+      "id": "1065",
+      "iframesrcdesktop": "s",
+      "lat": 46.472955,
+      "lng": 11.868574,
+      "name": "Porta Vescovo",
+      "type": "mountain",
+      "url": "https://portavescovo.panomax.com/"
+    },
+    {
+      "id": "1090",
+      "iframesrcdesktop": "s",
+      "lat": 49.426041,
+      "lng": 11.039278,
+      "name": "Nürnberg - Fernsehturm",
+      "type": "city",
+      "url": "https://cityscope.panomax.com/"
+    },
+    {
+      "id": "1097",
+      "iframesrcdesktop": "s",
+      "lat": 31.770698,
+      "lng": 35.221978,
+      "name": "Jerusalem - Inbal Hotel",
+      "type": "city",
+      "url": "https://inbalhotel.panomax.com/"
+    },
+    {
+      "id": "1101",
+      "iframesrcdesktop": "s",
+      "lat": 47.606922,
+      "lng": 10.497154,
+      "name": "Nesselwang - Mittelstation",
+      "type": "mountain",
+      "url": "https://alpspitzbahn.panomax.com/"
+    },
+    {
+      "id": "1102",
+      "iframesrcdesktop": "s",
+      "lat": 47.208459,
+      "lng": 10.142066,
+      "name": "Strolz Lech",
+      "type": "city",
+      "url": "https://strolz.panomax.com/"
+    },
+    {
+      "id": "1107",
+      "iframesrcdesktop": "s",
+      "lat": 47.495145,
+      "lng": 11.091774,
+      "name": "Garmisch-Partenkirchen - Kongresshaus",
+      "type": "city",
+      "url": "https://gapa.panomax.com/kongresshaus"
+    },
+    {
+      "id": "1109",
+      "iframesrcdesktop": "s",
+      "lat": 47.479068,
+      "lng": 11.119941,
+      "name": "Garmisch-Partenkirchen - Schanze",
+      "type": "city",
+      "url": "https://gapa.panomax.com/schanze"
+    },
+    {
+      "id": "1110",
+      "iframesrcdesktop": "s",
+      "lat": 47.493678,
+      "lng": 11.103995,
+      "name": "Garmisch-Partenkirchen - Rathaus",
+      "type": "city",
+      "url": "https://gapa.panomax.com/rathaus"
+    },
+    {
+      "id": "1113",
+      "iframesrcdesktop": "s",
+      "lat": 47.371546,
+      "lng": 13.713298,
+      "name": "Schladming - Lärchkogel",
+      "type": "mountain",
+      "url": "https://planai.panomax.com/"
+    },
+    {
+      "id": "1138",
+      "iframesrcdesktop": "s",
+      "lat": 47.599657,
+      "lng": 13.988807,
+      "name": "Die Tauplitz - Schneiderkogel",
+      "type": "mountain",
+      "url": "https://tauplitz.panomax.com/schneiderkogel"
+    },
+    {
+      "id": "1170",
+      "iframesrcdesktop": "s",
+      "lat": 47.764656,
+      "lng": 8.819211,
+      "name": "Singen",
+      "type": "city",
+      "url": "https://singen.panomax.com/hohentwiel"
+    },
+    {
+      "id": "1177",
+      "iframesrcdesktop": "s",
+      "lat": 47.381696,
+      "lng": 10.240771,
+      "name": "Söllereck",
+      "type": "mountain",
+      "url": "https://soellereck.panomax.com/"
+    },
+    {
+      "id": "1213",
+      "iframesrcdesktop": "s",
+      "lat": 49.007287,
+      "lng": 13.218524,
+      "name": "Zwiesel",
+      "type": "city",
+      "url": "https://zwiesel.panomax.com/"
+    },
+    {
+      "id": "1214",
+      "iframesrcdesktop": "s",
+      "lat": 47.910475,
+      "lng": 13.748333,
+      "name": "Altmünster - Gmundner Berg",
+      "type": "lake",
+      "url": "https://traunsee.panomax.com/"
+    },
+    {
+      "id": "1219",
+      "iframesrcdesktop": "s",
+      "lat": 46.539028,
+      "lng": 11.753214,
+      "name": "Val Gardena - Ciampinoi",
+      "type": "mountain",
+      "url": "https://valgardena.panomax.com/ciampinoi"
+    },
+    {
+      "id": "1220",
+      "iframesrcdesktop": "s",
+      "lat": 47.380388,
+      "lng": 11.254804,
+      "name": "Scharnitz",
+      "type": "mountain",
+      "url": "https://seefeld.panomax.com/scharnitz"
+    },
+    {
+      "id": "1221",
+      "iframesrcdesktop": "s",
+      "lat": 47.25769,
+      "lng": 11.349632,
+      "name": "Airport Innsbruck",
+      "type": "city",
+      "url": "https://innsbruck-airport.panomax.com/"
+    },
+    {
+      "id": "1226",
+      "iframesrcdesktop": "s",
+      "lat": 46.584692,
+      "lng": 11.745181,
+      "name": "Val Gardena - Col Raiser",
+      "type": "mountain",
+      "url": "https://valgardena.panomax.com/colraiser"
+    },
+    {
+      "id": "1234",
+      "iframesrcdesktop": "s",
+      "lat": 46.917949,
+      "lng": 10.09316,
+      "name": "Silvretta",
+      "type": "mountain",
+      "url": "https://silvretta.panomax.com/"
+    },
+    {
+      "id": "1245",
+      "iframesrcdesktop": "s",
+      "lat": 47.548656,
+      "lng": 10.551502,
+      "name": "Ostlerhütte",
+      "type": "mountain",
+      "url": "https://ostlerhuette.panomax.com/"
+    },
+    {
+      "id": "1256",
+      "iframesrcdesktop": "s",
+      "lat": 45.905617,
+      "lng": 7.67429,
+      "name": "Bec Carre",
+      "type": "mountain",
+      "url": "https://cervinia.panomax.com/bec-carre"
+    },
+    {
+      "id": "1267",
+      "iframesrcdesktop": "s",
+      "lat": 46.215901,
+      "lng": 10.901807,
+      "name": "Grostè",
+      "type": "mountain",
+      "url": "https://madonna.panomax.com/groste"
+    },
+    {
+      "id": "1271",
+      "iframesrcdesktop": "s",
+      "lat": 50.445918,
+      "lng": 11.00503,
+      "name": "Bleßberg",
+      "type": "country",
+      "url": "https://blessberg.panomax.com/"
+    },
+    {
+      "id": "1272",
+      "iframesrcdesktop": "s",
+      "lat": 47.738929,
+      "lng": 13.440162,
+      "name": "Schafbergbahn Anlegesteg",
+      "type": "lake",
+      "url": "https://wolfgangseeschifffahrt.panomax.com/"
+    },
+    {
+      "id": "1273",
+      "iframesrcdesktop": "s",
+      "lat": 47.059581,
+      "lng": 9.754319,
+      "name": "Lünersee",
+      "type": "lake",
+      "url": "https://luenersee.panomax.com/"
+    },
+    {
+      "id": "1274",
+      "iframesrcdesktop": "s",
+      "lat": 47.650096,
+      "lng": 10.606656,
+      "name": "Seeg",
+      "type": "country",
+      "url": "https://seeg.panomax.com/"
+    },
+    {
+      "id": "1871",
+      "iframesrcdesktop": "s",
+      "lat": 50.331777,
+      "lng": 6.334631,
+      "name": "Manderfeld",
+      "type": "country",
+      "url": "https://manderfeld.panomax.com/"
+    },
+    {
+      "id": "2106",
+      "iframesrcdesktop": "s",
+      "lat": 50.48418,
+      "lng": 9.27526,
+      "name": "Vogelschmiede",
+      "type": "country",
+      "url": "https://vogelschmiede.panomax.com/"
+    },
+    {
+      "id": "2113",
+      "iframesrcdesktop": "s",
+      "lat": 50.665684,
+      "lng": 10.881016,
+      "name": "Kickelhahn Ilmenau",
+      "type": "country",
+      "url": "https://kickelhahn.panomax.com/"
+    },
+    {
+      "id": "2257",
+      "iframesrcdesktop": "s",
+      "lat": 51.081348,
+      "lng": 7.534962,
+      "name": "Marienheide",
+      "type": "city",
+      "url": "https://marienheide.panomax.com/"
+    },
+    {
+      "id": "2265",
+      "iframesrcdesktop": "s",
+      "lat": 45.675734,
+      "lng": 13.387412,
+      "name": "Grado",
+      "type": "sea",
+      "url": "https://grado.panomax.com/"
+    },
+    {
+      "id": "2274",
+      "iframesrcdesktop": "s",
+      "lat": 43.397438,
+      "lng": 13.550149,
+      "name": "Recanati",
+      "type": "country",
+      "url": "https://infinito.panomax.com/"
+    },
+    {
+      "id": "2514",
+      "iframesrcdesktop": "s",
+      "lat": 50.91772,
+      "lng": 13.348091,
+      "name": "Altstadt-Hotel Freiberg",
+      "type": "city",
+      "thumburl" : "https://live-image.panomax.com/cams/2527/recent_reduced.jpg",
+      "url": "https://webcam.hotel-freiberg.de/"
+    },
+    {
+      "id": "2527",
+      "iframesrcdesktop": "s",
+      "lat": 50.346342,
+      "lng": 6.966417,
+      "name": "Nürburgring - Nordschleife Start",
+      "type": "road",
+      "url": "https://panorama.nuerburgring.de/nordschleife-start"
+    },
+    {
+      "id": "3558",
+      "iframesrcdesktop": "s",
+      "lat": 54.939692,
+      "lng": 8.328711,
+      "name": "Sylt - Friesenkapelle",
+      "type": "lake",
+      "url": "https://sylt.panomax.com/friesenkapelle-dorfteich"
+    },
+    {
+      "id": "3574",
+      "iframesrcdesktop": "s",
+      "lat": 54.692471,
+      "lng": 8.576566,
+      "name": "Föhr - Fähranleger",
+      "type": "sea",
+      "url": "https://foehr.panomax.com/"
+    },
+    {
+      "id": "3613",
+      "iframesrcdesktop": "s",
+      "lat": 53.543961,
+      "lng": 8.576525,
+      "name": "Bremerhaven",
+      "type": "city",
+      "url": "https://bremerhaven.panomax.com/"
+    },
+    {
+      "id": "4035",
+      "iframesrcdesktop": "s",
+      "lat": 50.656389,
+      "lng": 10.664392,
+      "name": "Zella Mehlis - Rathaus",
+      "type": "city",
+      "url": "https://zella-mehlis.panomax.com/rathaus"
+    },
+    {
+      "id": "4353",
+      "iframesrcdesktop": "s",
+      "lat": 54.414003,
+      "lng": 11.195114,
+      "name": "Fehmarn",
+      "type": "sea",
+      "url": "https://fehmarn.panomax.com/"
+    },
+    {
+      "id": "4392",
+      "iframesrcdesktop": "s",
+      "lat": 50.762565,
+      "lng": 13.009696,
+      "name": "Amtsberg Dittersdorfer Höhe",
+      "type": "country",
+      "url": "https://amtsberg.panomax.com/"
+    },
+    {
+      "id": "5413",
+      "iframesrcdesktop": "s",
+      "lat": 50.198513,
+      "lng": 9.173588,
+      "name": "Flugplatz Gelnhausen",
+      "type": "country",
+      "url": "https://aeroclubgelnhausen.panomax.com/"
+    },
+    {
+      "id": "4146",
+      "iframesrcdesktop": "s",
+      "lat": 45.517159,
+      "lng": 10.529788,
+      "name": "Moniga del Garda",
+      "type": "lake",
+      "url": "https://piantelle.panomax.com/"
+    },
+    {
+      "id": "3054",
+      "iframesrcdesktop": "s",
+      "lat": 49.970771,
+      "lng": 7.911637,
+      "name": "Bingen am Rhein",
+      "type": "lake",
+      "url": "https://heimatzeithotels.panomax.com/"
+    },
+    {
+      "id": "5019",
+      "iframesrcdesktop": "s",
+      "lat": 49.604405,
+      "lng": 8.8029,
+      "name": "Rimbach - Tromm",
+      "type": "country",
+      "url": "https://rimbach.panomax.com/"
+    },
+    {
+      "id": "1795",
+      "iframesrcdesktop": "s",
+      "lat": 49.102183,
+      "lng": 12.996806,
+      "name": "Drachselsried",
+      "type": "country",
+      "url": "https://drachselsried.panomax.com/"
+    },
+    {
+      "id": "2463",
+      "iframesrcdesktop": "s",
+      "lat": 45.465056,
+      "lng": 12.528097,
+      "name": "Cavallino",
+      "type": "sea",
+      "url": "https://unionlido.panomax.com/"
     }
   ]
 }
