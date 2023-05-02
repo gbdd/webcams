@@ -325,8 +325,8 @@
     },
     {
       "name" : "Le Bono",
-      "url" : "https://www.youtube.com/watch?v=tbsKBoJzmmY",
-      "iframesrc" : "https://www.youtube.com/embed/tbsKBoJzmmY",
+      "url" : "https://www.youtube.com/watch?v=QTCQf8vnyWs",
+      "iframesrc" : "https://www.youtube.com/embed/QTCQf8vnyWs",
       "type": "sea",
       "lng": -2.9528037726875214,
       "lat": 47.64003062399074
@@ -615,14 +615,6 @@
       "type": "mountain",
       "lng": 6.476867329199346,
       "lat": 44.80357742350111
-    },
-    {
-      "name" : "Puy Saint Vincent - La Pendine",
-      "url" : "https://www.youtube.com/watch?v=7Nmix_ai0WU",
-      "iframesrc" : "https://www.youtube.com/embed/7Nmix_ai0WU",
-      "type": "mountain",
-      "lng": 6.455913134852377,
-      "lat": 44.80283180148993
     },
     {
       "name" : "Col de Porte",
