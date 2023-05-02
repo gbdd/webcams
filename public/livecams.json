@@ -6343,6 +6343,367 @@
       "name": "Cavallino",
       "type": "sea",
       "url": "https://unionlido.panomax.com/"
+    },
+    {
+      "id": "1276",
+      "iframesrcdesktop": "s",
+      "lat": 47.095107,
+      "lng": 11.194268,
+      "name": "Oberissalm",
+      "type": "mountain",
+      "url": "https://oberissalm.panomax.com/"
+    },
+    {
+      "id": "1278",
+      "iframesrcdesktop": "s",
+      "lat": 47.661953,
+      "lng": 13.433407,
+      "name": "Postalm",
+      "type": "mountain",
+      "url": "https://postalm.panomax.com/"
+    },
+    {
+      "id": "1292",
+      "iframesrcdesktop": "s",
+      "lat": 47.322685,
+      "lng": 11.175439,
+      "name": "Seefeld - Schanze",
+      "type": "city",
+      "url": "https://seefeld.panomax.com/schanze"
+    },
+    {
+      "id": "1302",
+      "iframesrcdesktop": "s",
+      "lat": 47.443985,
+      "lng": 12.548503,
+      "name": "Saalbach - Lärchfilzkogel",
+      "type": "mountain",
+      "url": "https://saalbach.panomax.com/laerchfilzkogel"
+    },
+    {
+      "id": "1304",
+      "iframesrcdesktop": "s",
+      "lat": 47.360553,
+      "lng": 12.569174,
+      "name": "Saalbach - Zwölferkogel",
+      "type": "mountain",
+      "url": "https://saalbach.panomax.com/zwoelferkogel"
+    },
+    {
+      "id": "1305",
+      "iframesrcdesktop": "s",
+      "lat": 47.401087,
+      "lng": 12.68586,
+      "name": "Saalbach - Wildenkarkogel",
+      "type": "mountain",
+      "url": "https://saalbach.panomax.com/wildenkarkogel"
+    },
+    {
+      "id": "1306",
+      "iframesrcdesktop": "s",
+      "lat": 47.367918,
+      "lng": 12.638353,
+      "name": "Saalbach - Schattberg",
+      "type": "mountain",
+      "url": "https://saalbach.panomax.com/schattberg"
+    },
+    {
+      "id": "1335",
+      "iframesrcdesktop": "s",
+      "lat": 47.060834,
+      "lng": 9.834562,
+      "name": "Golm - Rätikonbahn Bergstation",
+      "type": "mountain",
+      "url": "https://golm.panomax.com/"
+    },
+    {
+      "id": "1353",
+      "iframesrcdesktop": "s",
+      "lat": 47.58085,
+      "lng": 15.225893,
+      "name": "Schönleiten",
+      "type": "mountain",
+      "thumburl" : "https://live-image.panomax.com/cams/1353/recent_reduced.jpg",
+      "url": "https://webcam.aflenzer-buergeralm.at/"
+    },
+    {
+      "id": "1365",
+      "iframesrcdesktop": "s",
+      "lat": 46.436484,
+      "lng": 9.349194,
+      "name": "Madesimo",
+      "type": "mountain",
+      "url": "https://madesimo.panomax.com/"
+    },
+    {
+      "id": "1366",
+      "iframesrcdesktop": "s",
+      "lat": 47.529494,
+      "lng": 10.262813,
+      "name": "Panzer & Braun Tiefbau GmbH",
+      "type": "city",
+      "url": "https://panzer-braun.panomax.com/"
+    },
+    {
+      "id": "1382",
+      "iframesrcdesktop": "s",
+      "lat": 46.518099,
+      "lng": 11.751683,
+      "name": "Valgardena - Citta dei Sassi",
+      "type": "mountain",
+      "url": "https://valgardena.panomax.com/citta-dei-sassi"
+    },
+    {
+      "id": "1383",
+      "iframesrcdesktop": "s",
+      "lat": 46.433369,
+      "lng": 11.655079,
+      "name": "Catinaccio",
+      "type": "mountain",
+      "url": "https://catinaccio.panomax.com/"
+    },
+    {
+      "id": "1389",
+      "iframesrcdesktop": "s",
+      "lat": 46.54243,
+      "lng": 11.617214,
+      "name": "Seiser Alm",
+      "type": "mountain",
+      "url": "https://seiseralm.panomax.com/"
+    },
+    {
+      "id": "1395",
+      "iframesrcdesktop": "s",
+      "lat": 46.497065,
+      "lng": 11.751434,
+      "name": "Col Rodella",
+      "type": "mountain",
+      "url": "https://colrodella.panomax.com/"
+    },
+    {
+      "id": "1399",
+      "iframesrcdesktop": "s",
+      "lat": 47.3997,
+      "lng": 10.245562,
+      "name": "Söllereck Tal",
+      "type": "mountain",
+      "url": "https://soellereck.panomax.com/tal"
+    },
+    {
+      "id": "1426",
+      "iframesrcdesktop": "s",
+      "lat": 46.694141,
+      "lng": 11.440992,
+      "name": "Reinswald Pichlberg",
+      "type": "mountain",
+      "url": "https://reinswald.panomax.com/"
+    },
+    {
+      "id": "1435",
+      "iframesrcdesktop": "s",
+      "lat": 47.19137,
+      "lng": 11.790784,
+      "name": "Schafkopf",
+      "type": "mountain",
+      "url": "https://pano.mayrhofner-bergbahnen.com/schafkopf"
+    },
+    {
+      "id": "1438",
+      "iframesrcdesktop": "s",
+      "lat": 48.505747,
+      "lng": 13.742525,
+      "name": "Penzenstein",
+      "type": "lake",
+      "url": "https://engelhartszell.panomax.com/penzenstein"
+    },
+    {
+      "id": "1454",
+      "iframesrcdesktop": "s",
+      "lat": 46.565197,
+      "lng": 11.906595,
+      "name": "Moritzino",
+      "type": "mountain",
+      "url": "https://moritzino.panomax.com/"
+    },
+    {
+      "id": "3336",
+      "iframesrcdesktop": "s",
+      "lat": 44.595879,
+      "lng": 8.064121,
+      "name": "Albaretto della Torre",
+      "type": "country",
+      "url": "https://albarettodellatorre.panomax.com/"
+    },
+    {
+      "id": "3633",
+      "iframesrcdesktop": "s",
+      "lat": 47.227721,
+      "lng": 14.759116,
+      "name": "Spielberg Schönberghof",
+      "type": "road",
+      "url": "https://redbullring.panomax.com/spielberg"
+    },
+    {
+      "id": "3642",
+      "iframesrcdesktop": "s",
+      "lat": 45.885307,
+      "lng": 10.109286,
+      "name": "Cima Pora",
+      "type": "mountain",
+      "url": "https://montepora.panomax.com/cimapora"
+    },
+    {
+      "id": "3651",
+      "iframesrcdesktop": "s",
+      "lat": 45.882475,
+      "lng": 10.093685,
+      "name": "Pian del Termen",
+      "type": "mountain",
+      "url": "https://piandeltermen.panomax.com/"
+    },
+    {
+      "id": "4137",
+      "iframesrcdesktop": "s",
+      "lat": 47.247553,
+      "lng": 11.757596,
+      "name": "Hochfügen Speichersee",
+      "type": "mountain",
+      "url": "https://hochfuegen.panomax.com/"
+    },
+    {
+      "id": "4269",
+      "iframesrcdesktop": "s",
+      "lat": 44.652925,
+      "lng": 8.114912,
+      "name": "Trezzo Tinella",
+      "type": "country",
+      "url": "https://trezzotinella.panomax.com/"
+    },
+    {
+      "id": "4278",
+      "iframesrcdesktop": "s",
+      "lat": 44.513976,
+      "lng": 8.078532,
+      "name": "Niella Belbo",
+      "type": "country",
+      "url": "https://niellabelbo.panomax.com/"
+    },
+    {
+      "id": "5825",
+      "iframesrcdesktop": "s",
+      "lat": 47.794233,
+      "lng": 13.010391,
+      "name": "Salzburg",
+      "type": "city",
+      "url": "https://copadata.panomax.com/"
+    },
+    {
+      "id": "1460",
+      "iframesrcdesktop": "s",
+      "lat": 46.650473,
+      "lng": 11.350891,
+      "name": "Sarentino",
+      "type": "mountain",
+      "url": "https://sarntal.panomax.com/"
+    },
+    {
+      "id": "1465",
+      "iframesrcdesktop": "s",
+      "lat": 47.438272,
+      "lng": 11.700091,
+      "name": "Pertisau",
+      "type": "lake",
+      "url": "https://wiesenhof.panomax.com/"
+    },
+    {
+      "id": "1653",
+      "iframesrcdesktop": "s",
+      "lat": 46.038635,
+      "lng": 11.059038,
+      "name": "Vason",
+      "type": "mountain",
+      "url": "https://montebondone.panomax.com/"
+    },
+    {
+      "id": "1654",
+      "iframesrcdesktop": "s",
+      "lat": 46.275479,
+      "lng": 10.82742,
+      "name": "Folgarida",
+      "type": "mountain",
+      "url": "https://folgarida.panomax.com/"
+    },
+    {
+      "id": "1657",
+      "iframesrcdesktop": "s",
+      "lat": 47.777996,
+      "lng": 13.233101,
+      "name": "Faistenau",
+      "type": "city",
+      "url": "https://fuschlseeregion.panomax.com/faistenau"
+    },
+    {
+      "id": "1668",
+      "iframesrcdesktop": "s",
+      "lat": 47.389864,
+      "lng": 13.462331,
+      "name": "Radstadt",
+      "type": "city",
+      "url": "https://radstadt.panomax.com/"
+    },
+    {
+      "id": "439",
+      "url": "https://alpentower.roundshot.com/",
+      "name": "Meiringen Hasliberg Bergbahnen - Meiringen Hasliberg - Alpen Tower",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.255035,
+      "lat": 46.736775
+    },
+    {
+      "id": "515",
+      "url": "https://luks-sursee.roundshot.com/",
+      "name": "Sursee",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.117681,
+      "lat": 47.168141
+    },
+    {
+      "id": "1241",
+      "url": "https://zermatt.roundshot.com/langlaufloipe-schalisee/",
+      "name": "Zermatt Tourismus - T\u00e4sch",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.77628,
+      "lat": 46.07844
+    },
+    {
+      "id": "1346",
+      "url": "https://casinointerlaken.roundshot.com/",
+      "name": "Interlaken - Casino",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.85842,
+      "lat": 46.68825
+    },
+    {
+      "id": "17",
+      "url": "https://computechnic.roundshot.com/",
+      "name": "Rorschacherberg",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 9.508275,
+      "lat": 47.474469
+    },
+    {
+      "id": "1212",
+      "url": "https://pilgerhaus-maria-rickenbach.roundshot.com/",
+      "name": "Invia - Pilgerhaus Maria-Rickenbach",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.42675,
+      "lat": 46.92715
     }
   ]
 }
