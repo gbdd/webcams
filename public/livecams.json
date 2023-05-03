@@ -7210,6 +7210,54 @@
       "type": "country",
       "lng": 7.178873,
       "lat": 46.67768
+    },
+    {
+      "url": "https://fremantleports.roundshot.com/camera1",
+      "name": "Fremantle",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 115.74149,
+      "lat": -32.053761
+    },
+    {
+      "url": "https://fremantleports.roundshot.com/camera2",
+      "name": "Fremantle",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 115.75525,
+      "lat": -32.04369
+    },
+    {
+      "url": "https://buchtspiez.roundshot.com/",
+      "name": "Spiez",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 7.6819,
+      "lat": 46.68726
+    },
+    {
+      "url": "https://mthotham.roundshot.com",
+      "name": "Hotham",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 147.141609,
+      "lat": -36.979567
+    },
+    {
+      "url": "https://snowbird.roundshot.com",
+      "name": "Snowbird",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -111.645217,
+      "lat": 40.560311
+    },
+    {
+      "url": "https://limelighthotels.roundshot.com/ketchum",
+      "name": "Ketchum",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": -114.363174,
+      "lat": 43.679077
     }
   ]
 }
