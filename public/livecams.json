@@ -575,8 +575,7 @@
     },
     {
       "name" : "Quiberon",
-      "url" : "https://www.skaping.com/quiberon/video-panoramique",
-      "id": "3x7f5-pwbOX-AD7BJ-QwXEf",
+      "url" : "https://www.skaping.com/quiberon/panoramique",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -3.1133328175372927,
@@ -2310,7 +2309,7 @@
     },
     {
       "name" : "Quimper - Quai de l'Odet",
-      "url" : "https://www.skaping.com/quimper/quai-odet/video",
+      "url" : "https://www.skaping.com/quimper/quai-de-l-odet",
       "iframesrc" : "s",
       "type": "city",
       "lng": -4.106210622168945,
@@ -7249,7 +7248,136 @@
       "type": "city",
       "lng": -114.363174,
       "lat": 43.679077
+    },
+    {
+      "url": "https://www.skaping.com/saint-jean-de-monts/mer",
+      "lat": 46.78063400,
+      "lng": -2.06727800,
+      "type": "sea",
+      "name": "Saint Jean de Monts",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/macon/ville",
+      "lat": 46.30575600,
+      "lng": 4.83273300,
+      "type": "city",
+      "name": "Mâcon",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/autun/panorama",
+      "lat": 46.95482100,
+      "lng": 4.32044200,
+      "type": "city",
+      "name": "Autun",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/mandelieu/mer",
+      "lat": 43.533280330502684,
+      "lng": 6.951967754579996,
+      "type": "sea",
+      "name": "Mandelieu - Mer",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/bromont/panoramique-sommet",
+      "lat": 45.30200100,
+      "lng": -72.63837900,
+      "type": "mountain",
+      "name": "Bromont",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/ski-macedonia/bistra-mavrovo",
+      "lat": 41.64767700,
+      "lng": 20.73542600,
+      "type": "mountain",
+      "name": "Bistra-Mavrovo",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/millau/brunas/panoramique",
+      "lat": 44.07146600,
+      "lng": 3.06466500,
+      "type": "country",
+      "name": "Brunas Panoramique",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/digoin",
+      "lat": 46.47802323,
+      "lng": 3.98164296,
+      "type": "lake",
+      "name": "Digoin - Pont Canal",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/genelard",
+      "lat": 46.58080105,
+      "lng": 4.23544068,
+      "type": "lake",
+      "name": "Génelard",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/givry",
+      "lat": 46.79029800,
+      "lng": 4.74156100,
+      "type": "country",
+      "name": "Givry",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/saint-malo/port-des-sablons",
+      "lat": 48.63812600,
+      "lng": -2.02701600,
+      "type": "sea",
+      "name": "Saint Malo - Port des Sablons",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/tournon/cave-de-tain",
+      "lat": 45.06965600,
+      "lng": 4.82716100,
+      "type": "city",
+      "name": "Tournon - Tain,  Vallée du Rhône",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/tournus",
+      "lat": 46.56374300,
+      "lng": 4.91530500,
+      "type": "lake",
+      "name": "Tournus",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/saint-chamond",
+      "lat": 45.47230400,
+      "lng": 4.51693900,
+      "type": "city",
+      "name": "Saint Chamond",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/saint-jans-cappel/panoramique",
+      "lat": 50.76344300,
+      "lng": 2.71725300,
+      "type": "city",
+      "name": "Saint Jans Cappel",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/ot-pays-voironnais/lac-de-paladru/panoramique",
+      "lat": 45.45236100,
+      "lng": 5.52253300,
+      "type": "lake",
+      "name": "Lac de Paladru",
+      "iframesrc": "s"
     }
+
   ]
 }
 
