@@ -7,7 +7,7 @@
 
 .Header {
   position: fixed;
-  z-index: 500;
+  z-index: 600;
   background-color: transparent;
   color: white;
   top: 0;
@@ -20,19 +20,6 @@
   padding: 10px;
 }
 
-.HeaderLeft {
-  flex: 1;
-  display: flex;
-}
-.HeaderTitle {
-  flex: 0;
-  margin: 10px;
-  white-space: nowrap;
-  background-color: var(--wc-bg-color);
-  border-radius: 50px;
-  padding: 10px 15px 10px 15px;
-}
-
 .HeaderToolbar {
   flex: 0;
   margin-right: 10px;
@@ -43,6 +30,11 @@
   padding: 10px 15px 10px 15px;
   align-items: center;
   white-space: nowrap;
+  cursor: pointer;
+  filter: drop-shadow(2px 2px 4px #000000);
+}
+.HeaderToolbar:hover {
+  background-color: var(--wc-bg-color-darker);
 }
 
 .prefNumber {

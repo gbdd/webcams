@@ -150,6 +150,14 @@ export class LC {
 
 }
 
+export const lcTypes:string[] = [
+  'city',
+  'lake',
+  'road',
+  'sea',
+  'mountain',
+  'country',
+];
 export const iconCity = new L.Icon({
   iconUrl: require('../assets/icon-city.png'),
   iconSize: new L.Point(24, 24),
@@ -200,4 +208,9 @@ export const WC_COLORS = {
   BACKGROUND: '59554a',
   BACKGROUND_LIGHTER: '6f6a5d',
   BACKGROUND_DARKER: '47443b',
+}
+
+export type LcFilters = {
+  pref: boolean,
+  types: string[],
 }

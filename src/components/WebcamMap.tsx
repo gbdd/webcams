@@ -12,13 +12,12 @@ import {
   livecam,
 } from '../tools/consts';
 import { WebcamMarker } from './WebcamMarker';
-import { IS_MOBILE } from '../tools/UIConstants';
+
 
 type WebcamMapProps = {
   webcams: livecam[],
   onPopupOpened: Function,
   onPrefCamsChanged: Function,
-  onlyPreferred: boolean,
   displayTools: boolean,
 }
 
@@ -27,7 +26,6 @@ const defaultZoom: number = 10;
 export const WebcamMap: FC<WebcamMapProps> = ({
   webcams, 
   onPopupOpened, 
-  onlyPreferred, 
   onPrefCamsChanged, 
   displayTools
 }): ReactElement => {
@@ -122,9 +120,7 @@ export const WebcamMap: FC<WebcamMapProps> = ({
           const key:string = `${lc.lat},${lc.lng}`;
           return (
             <React.Fragment key={key}>
-              { (!onlyPreferred || lc.preferred) && (
-                <WebcamMarker lc={lc} setPreferred={handleSetPreferred}></WebcamMarker>
-              )}
+              <WebcamMarker lc={lc} setPreferred={handleSetPreferred}></WebcamMarker>
             </React.Fragment>
           );
         })}

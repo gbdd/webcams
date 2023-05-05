@@ -29,7 +29,7 @@ export const StarToggle: FC<StarToggleProps> = ({checked, onChecked, type = Togg
 
   return (
       <div className="form-group">
-        <input type="checkbox" id="html" onClick={handleOnClick}/>
+        <input className="hiddenInput" type="checkbox" id="html" onClick={handleOnClick}/>
         <label htmlFor="html">
         { (internalChecked && (type === ToggleType.CHECK)) && (
           <i className="fa-regular fa-circle-check"></i>

@@ -25,7 +25,7 @@ export const WebcamMarker: FC<WebcamMarkerProps> = ({lc, setPreferred}): ReactEl
     if (lc.type === 'mountain') {
       return iconMountain;
     } else if (lc.type === 'country') {
-      return iconCountry; // XXX TODO !!
+      return iconCountry;
     } else if (lc.type === 'lake') {
       return iconLake;
     } else if (lc.type === 'road') {

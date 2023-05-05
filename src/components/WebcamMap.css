@@ -12,11 +12,14 @@
   background-color: var(--wc-bg-color);
   width: 48px;
   height: 48px;
-  z-index: 500;
+  z-index: 600;
   border-radius: 50%;
   display: flex;
   flex-direction: row;
   align-items: center;
+}
+.Footer:hover {
+  background-color: var(--wc-bg-color-darker);
 }
 .targetButton{
   font-size: 28px;
@@ -27,7 +30,9 @@
   margin: 5px;
   display: flex;
   flex-direction: column;
+  filter: drop-shadow(2px 2px 4px #000000);
 }
+
 .bigIcon{
   margin: 5px;
 }

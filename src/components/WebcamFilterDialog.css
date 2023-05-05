@@ -1,0 +1,76 @@
+@import url(../Constants.css);
+
+.filterDialog {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: var(--wc-bg-color);
+  z-index: 500;
+  border-radius: 0px;
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  padding-top: 65px;
+}
+
+.filtersContainer {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.filtersFooter {
+  flex: 0;
+}
+
+
+.checkedIcon {
+  opacity: 1;
+  cursor: pointer;
+  filter: drop-shadow(2px 2px 4px #000000);
+}
+.uncheckedIcon {
+  opacity: .2;
+  cursor: pointer;
+}
+
+.hiddenInput {
+  height: 0;
+  width: 0;
+  opacity: 0;
+}
+
+.filterButton {
+  border-radius: 35px;
+  padding: 5px;
+  border: 1px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: 2px solid rgba(0, 0, 0, 0)
+}
+
+@media (hover: hover) {
+.uncheckedIcon:hover {
+  opacity: 1;
+}
+.filterButton:hover {
+  background-color: var(--wc-bg-color-darker);
+  border-color: white;
+}
+}
+
+.separator {
+  border-top: 2px solid var(--wc-bg-color-lighter);
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+} 
+
+.redHeartFilter {
+  color: red;
+  font-size: xx-large;
+  width: 100%;
+  text-align: center;
+}

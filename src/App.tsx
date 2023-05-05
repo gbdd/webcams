@@ -3,8 +3,9 @@ import { MapContainer } from 'react-leaflet';
 import './App.css';
 import axios from 'axios';
 import { WebcamMap } from './components/WebcamMap';
-import { livecam, PrefLoc } from './tools/consts';
+import { livecam, PrefLoc, LcFilters, lcTypes } from './tools/consts';
 import { StarToggle, ToggleType } from './components/StarToggle';
+import { WebcamFilterDialog } from './components/WebcamFilterDialog';
 import {
   getPreference,
   PREFERENCES,
@@ -14,15 +15,18 @@ import {
 
 function App() {
   const [myWebcams, setMyWebcams] = useState<livecam[]>([]);
+  const [filteredWebcams, setFilteredMyWebcams] = useState<livecam[]>([]);
   const [displayHeader, setDisplayHeader] = useState<boolean>(true);
-  const [displayPreferedWebcam, setDisplayPreferedWebcam] = useState<boolean>(false);
   const [nbPreferredWebcams, setNbPreferredWebcams] = useState<number>(0);
+  const [displayFiltersDialog, setDisplayFiltersDialog] = useState<boolean>(false);
+  const [filters, setFilters] = useState<LcFilters>({pref: false, types: [...lcTypes]});
 
   useEffect(() => {
     axios.get('./livecams.json')
     .then((data) => {
       if ((typeof data.data !== 'undefined') && (typeof data.data.livecams !== 'undefined')) {
         setMyWebcams(data.data.livecams);
+        applyFilters(filters, data.data.livecams);
       }
     })
     .catch((err) => {
@@ -50,11 +54,13 @@ function App() {
       }
     })
     if (nbPrefs > 0) {
-      setDisplayPreferedWebcam(true);
+      const newFilters = {pref: true, types: []};
+      setFilters(newFilters);
+      applyFilters(newFilters, myWebcams);
     }
-    setNbPreferredWebcams(nbPrefs);
   }
   const handlePrefCamChanged = () => {
+    applyFilters(filters, myWebcams);
     savePreferredCams();
   }
   const savePreferredCams = () => {
@@ -76,27 +82,49 @@ function App() {
     setNbPreferredWebcams(nbPrefs);
   }
 
+  const applyFilters = (currentFilter:LcFilters, webcamsToFilter:livecam[]) => {
+    const filteredLcs:livecam[] = webcamsToFilter.filter((lc:livecam) => {
+      if (currentFilter.pref && lc.preferred) {
+        return true;
+      } else if (currentFilter.types.includes(lc.type)) {
+        return true;
+      } else if ((currentFilter.types.length === 0) && (!currentFilter.pref)) {
+        return true;
+      }
+      return false;
+    });
+    setFilteredMyWebcams(filteredLcs);
+  }
+
   const handlePopupOpened = (_opened:boolean) => {
     setDisplayHeader(!_opened);
 
     computeNbPrefWebcams();
   }
 
-  const handleOnChecked = (_checked:boolean) => {
-    setDisplayPreferedWebcam(_checked);
+  const handleFilterChanged = (newFilters:LcFilters) => {
+    const realNewFilters = {...newFilters};
+    if ((!realNewFilters.pref) && (realNewFilters.types.length === 0)) {
+      realNewFilters.types = [...lcTypes];
+    }
+    setFilters(realNewFilters);
+    applyFilters(realNewFilters, myWebcams);
+  }
+  const handleClickOnOpenFilters = () => {
+    setDisplayFiltersDialog(!displayFiltersDialog);
+  }
+  const handleOnCloseOnFilters = () => {
+    setDisplayFiltersDialog(false);
   }
 
-  const displayedNumber:string = (nbPreferredWebcams === 0) ? `${myWebcams.length} webcams` : `${nbPreferredWebcams}/${myWebcams.length}`
+  const displayedNumber:string = (filteredWebcams.length === myWebcams.length) ? `${myWebcams.length} webcams` : `${filteredWebcams.length} / ${myWebcams.length} webcams`
 
   return (
     <div className="App">
       {displayHeader && (
         <div className="Header">
-          <div className="HeaderToolbar">
-            <div className="prefNumber">{displayedNumber}</div>
-            {(nbPreferredWebcams !== 0) && (
-              <StarToggle checked={displayPreferedWebcam} onChecked={handleOnChecked} type={ToggleType.CHECK}></StarToggle>
-            )}
+          <div className="HeaderToolbar" onClick={handleClickOnOpenFilters}>
+            {displayedNumber}
           </div>
         </div>
       )}
@@ -105,12 +133,18 @@ function App() {
                     scrollWheelZoom={true}
                     zoomControl={false}>
         <WebcamMap
-          webcams={myWebcams} 
+          webcams={filteredWebcams} 
           onPopupOpened={handlePopupOpened}
-          onlyPreferred={displayPreferedWebcam}
           onPrefCamsChanged={handlePrefCamChanged}
           displayTools={displayHeader}/>
       </MapContainer>
+      {(displayFiltersDialog && displayHeader) && (
+        <WebcamFilterDialog
+          filters={filters}
+          onFilterChanged={handleFilterChanged}
+          onClose={handleOnCloseOnFilters}
+        />
+      )}
     </div>
   );
 }
