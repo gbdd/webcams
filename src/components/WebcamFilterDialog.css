@@ -12,6 +12,8 @@
   display: flex;
   flex-direction: column;
   padding-top: 65px;
+  padding-bottom: 65px;
+  overflow-y: auto;
 }
 
 .filtersContainer {
@@ -50,14 +52,9 @@
   border: 2px solid rgba(0, 0, 0, 0)
 }
 
-@media (hover: hover) {
-.uncheckedIcon:hover {
-  opacity: 1;
-}
-.filterButton:hover {
+.filterButtonNotTouch:hover {
   background-color: var(--wc-bg-color-darker);
   border-color: white;
-}
 }
 
 .separator {

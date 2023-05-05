@@ -1,6 +1,7 @@
 import React, { FC, ReactElement, useState, useEffect } from 'react';
+import { IS_MOBILE } from '../tools/UIConstants';
 import './WebcamFilterDialog.css';
-import { LcFilters } from '../tools/consts';
+import { LcFilters, lcTypes } from '../tools/consts';
 import iconCity from'../assets/icon-city.png';
 import iconSea from'../assets/icon-sea.png';
 import iconMountain from'../assets/icon-mountain.png';
@@ -51,29 +52,41 @@ export const WebcamFilterDialog: FC<WebcamFilterDialogProps> = ({filters, onFilt
     onFilterChanged(newFilters);
   }
 
+  const handleOnDoubleCLick = () => {
+    let newTypes:string[] = [];
+    if (filters.types.length === 0) {
+      newTypes = [...lcTypes];
+    } else {
+      newTypes = [];
+    }
+    callChangesOnFilters(filters.pref, newTypes);
+  }
+
+  const btnclass = IS_MOBILE ? 'filterButton' : 'filterButton filterButtonNotTouch';
+
   return (
     <div className="filterDialog">
-      <div className='filtersContainer'>
-        <div className='filterButton' onClick={handleOnChangePreferred}>
+      <div className='filtersContainer' onDoubleClick={handleOnDoubleCLick}>
+        <div className={btnclass} onClick={handleOnChangePreferred}>
             <i className={checkPreferred ? 'redHeartFilter fa-solid fa-heart checkedIcon' : 'redHeartFilter fa-regular fa-heart uncheckedIcon'}></i>
         </div>
         <div className='separator'></div>
-        <div className='filterButton' onClick={() => {handleOnClick('city')}}>
+        <div className={btnclass} onClick={() => {handleOnClick('city')}}>
             <img className={isChecked('city') ? 'checkedIcon' : 'uncheckedIcon'} src={iconCity} alt=""></img>
         </div>
-        <div className='filterButton' onClick={() => {handleOnClick('mountain')}}>
+        <div className={btnclass} onClick={() => {handleOnClick('mountain')}}>
             <img className={isChecked('mountain') ? 'checkedIcon' : 'uncheckedIcon'} src={iconMountain} alt=""></img>
         </div>
-        <div className='filterButton' onClick={() => {handleOnClick('sea')}}>
+        <div className={btnclass} onClick={() => {handleOnClick('sea')}}>
             <img className={isChecked('sea') ? 'checkedIcon' : 'uncheckedIcon'} src={iconSea} alt=""></img>
         </div>
-        <div className='filterButton' onClick={() => {handleOnClick('country')}}>
+        <div className={btnclass} onClick={() => {handleOnClick('country')}}>
             <img className={isChecked('country') ? 'checkedIcon' : 'uncheckedIcon'} src={iconCountry} alt=""></img>
         </div>
-        <div className='filterButton' onClick={() => {handleOnClick('lake')}}>
+        <div className={btnclass} onClick={() => {handleOnClick('lake')}}>
             <img className={isChecked('lake') ? 'checkedIcon' : 'uncheckedIcon'} src={iconLake} alt=""></img>
         </div>
-        <div className='filterButton' onClick={() => {handleOnClick('road')}}>
+        <div className={btnclass} onClick={() => {handleOnClick('road')}}>
             <img className={isChecked('road') ? 'checkedIcon' : 'uncheckedIcon'} src={iconRoad} alt=""></img>
         </div>
       </div>
