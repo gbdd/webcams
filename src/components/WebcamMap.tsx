@@ -110,12 +110,19 @@ export const WebcamMap: FC<WebcamMapProps> = ({
     map.locate();
   }
 
+  const onMaxClusterRadius = (zoom:number):number => {
+    if (zoom > 9) {
+      return 20;
+    }
+    return 60;
+  }
+
   return (
     <React.Fragment>
       <TileLayer
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-      <MarkerClusterGroup polygonOptions={clusterPolygonOptions}>
+      <MarkerClusterGroup polygonOptions={clusterPolygonOptions} maxClusterRadius={onMaxClusterRadius}>
         {webcams.map((lc, idxlc) => {
           const key:string = `${lc.lat},${lc.lng}`;
           return (
