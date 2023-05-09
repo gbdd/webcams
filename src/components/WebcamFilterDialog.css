@@ -30,10 +30,14 @@
   opacity: 1;
   cursor: pointer;
   filter: drop-shadow(2px 2px 4px #000000);
+  height: 56px;
+  width: 56px;
 }
 .uncheckedIcon {
   opacity: .2;
   cursor: pointer;
+  height: 56px;
+  width: 56px;
 }
 
 .hiddenInput {
@@ -68,6 +72,6 @@
 .redHeartFilter {
   color: red;
   font-size: xx-large;
-  width: 100%;
+  height: 100%;
   text-align: center;
 }
