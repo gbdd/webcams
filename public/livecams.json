@@ -566,7 +566,7 @@
     },
     {
       "name" : "La Baule",
-      "url" : "https://www.skaping.com/la-baule/plage/video",
+      "url" : "https://www.skaping.com/la-baule/plage",
       "id": "mW9rL-XA9oj-6dGAG-2f05x",
       "iframesrc" : "s",
       "type": "sea",
@@ -583,7 +583,7 @@
     },
     {
       "name" : "Saint Jacques",
-      "url" : "https://www.skaping.com/sarzeau/port-saint-jacques",
+      "url" : "https://www.skaping.com/port-saint-jacques/panoramique",
       "id": "vEVFD-hcVbn-2mJOf-1UFFM",
       "iframesrc" : "s",
       "type": "sea",
@@ -634,6 +634,14 @@
       "lat": 27.804038615909008
     },
     {
+      "url": "https://www.skaping.com/col-de-porte/ski-alpin",
+      "lat": 45.29445900,
+      "lng": 5.76479500,
+      "type": "mountain",
+      "name": "Col de Porte - La Prairie",
+      "iframesrc": "s"
+    },
+    {
       "name" : "Monts Jura - Monthoisey",
       "url" : "https://www.skaping.com/montsjura/monthoisey",
       "iframesrc" : "s",
@@ -668,6 +676,14 @@
       "type": "lake",
       "lng": 6.605340186238555,
       "lat": 46.40268091134861
+    },
+    {
+      "url": "https://www.skaping.com/evian/centrenautique",
+      "lat": 46.40060700,
+      "lng": 6.58055000,
+      "type": "lake",
+      "name": "Evian - Centre Nautique",
+      "iframesrc": "s"
     },
     {
       "name" : "Torgon - Plan de Croix",
@@ -1348,6 +1364,30 @@
       "lat": 45.282253361033625
     },
     {
+      "url": "https://www.skaping.com/valthorens/lamaison",
+      "lat": 45.29788100,
+      "lng": 6.58120800,
+      "type": "city",
+      "name": "Val Thorens",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/valthorens/station",
+      "lat": 45.29504900,
+      "lng": 6.58073100,
+      "type": "city",
+      "name": "Val Thorens",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/valthorens/funitelthorens",
+      "lat": 45.26604600,
+      "lng": 6.59532900,
+      "type": "mountain",
+      "name": "Val Thorens - Funitel Thorens",
+      "iframesrc": "s"
+    },
+    {
       "name" : "Les Menuires - La Croisette",
       "url" : "https://www.skaping.com/lesmenuires/croisette",
       "iframesrc" : "s",
@@ -1620,12 +1660,12 @@
       "lat": 45.02613673303242
     },
     {
-      "name" : "La Grave",
-      "url" : "https://www.skaping.com/la-grave/hotel-castillan",
-      "iframesrc" : "s",
+      "url": "https://www.skaping.com/lagrave/1500m",
+      "lat": 45.04421100,
+      "lng": 6.30310800,
       "type": "mountain",
-      "lng": 6.303928539970656,
-      "lat": 45.04546448416718
+      "name": "La Grave - 1500m",
+      "iframesrc": "s"
     },
     {
       "name" : "Villar d'Arène - Domaine nordique du Pays de la Meije",
@@ -1796,8 +1836,8 @@
       "lat": 43.581260158199264
     },
     {
-      "name" : "Mandelieu-La Napoule - Centre nautique",
-      "url" : "https://www.skaping.com/mandelieu/centre-nautique",
+      "name" : "Mandelieu",
+      "url" : "https://www.skaping.com/mandelieu/panoramique",
       "iframesrc" : "s",
       "type": "sea",
       "lng": 6.950899594340906,
@@ -1901,7 +1941,7 @@
     },
     {
       "name" : "Béziers - Maison des Orpellières",
-      "url" : "https://www.skaping.com/beziers/maison-des-orpellieres/video",
+      "url" : "https://www.skaping.com/beziers/maison-des-orpellieres",
       "iframesrc" : "s",
       "type": "country",
       "lng": 3.312743740966253,
@@ -2037,7 +2077,7 @@
     },
     {
       "name" : "La Mongie - Pourteilh",
-      "url" : "https://www.skaping.com/grandtourmalet/lamongiepourteilh/video",
+      "url" : "https://www.skaping.com/grandtourmalet/lamongiepourteilh",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 0.16398833506936164,
@@ -2141,7 +2181,7 @@
     },
     {
       "name" : "Rivedoux - Plage sud",
-      "url" : "https://www.skaping.com/rivedoux-plage-sud/video",
+      "url" : "https://www.skaping.com/rivedoux-plage-sud",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -1.264823729637126,
@@ -2149,7 +2189,7 @@
     },
     {
       "name" : "Rivedoux - Plage nord",
-      "url" : "https://www.skaping.com/rivedoux-plage-nord/video",
+      "url" : "https://www.skaping.com/rivedoux-plage-nord",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -1.2723426502552866,
@@ -2181,7 +2221,7 @@
     },
     {
       "name" : "Saint Jean de Monts - Front de mer ",
-      "url" : "https://www.skaping.com/saint-jean-de-monts/front-de-mer/videopano",
+      "url" : "https://www.skaping.com/saint-jean-de-monts/front-de-mer/pano",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -2.0675806519422903,
@@ -2189,7 +2229,7 @@
     },
     {
       "name" : "Saint Jean de Monts - Estacade",
-      "url" : "https://www.skaping.com/saint-jean-de-monts/base-nautique/estacadezoom",
+      "url" : "https://www.skaping.com/saint-jean-de-monts/base-nautique-360",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -2.0843007420581254,
@@ -2197,7 +2237,7 @@
     },
     {
       "name" : "Notre Dame de Monts - Plage",
-      "url" : "https://www.skaping.com/notre-dame-de-monts/plage/video",
+      "url" : "https://www.skaping.com/notre-dame-de-monts/plage",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -2.1446535174595676,
@@ -2221,7 +2261,7 @@
     },
     {
       "name" : "Fromentine",
-      "url" : "https://www.skaping.com/la-barre-de-monts/centre-nautique-360/test",
+      "url" : "https://www.skaping.com/la-barre-de-monts/centre-nautique-360",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -2.1438309744254735,
@@ -2229,7 +2269,7 @@
     },
     {
       "name" : "Noirmoutier - Le Port de l'Herbaudière",
-      "url" : "https://www.skaping.com/noirmoutier/port-herbaudiere/video",
+      "url" : "https://www.skaping.com/noirmoutier/port-herbaudiere",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -2.3002131503773207,
@@ -2260,6 +2300,14 @@
       "lat": 47.72783922738794
     },
     {
+      "url": "https://www.skaping.com/lorient/rade/port-kernevel",
+      "lat": 47.72641700,
+      "lng": -3.36452000,
+      "type": "sea",
+      "name": "Larmor-Plage - Port du Kernevel",
+      "iframesrc": "s"
+    },
+    {
       "name" : "Lorient - Le Peristyle",
       "url" : "https://www.skaping.com/lorient/maison-de-l-agglomeration",
       "iframesrc" : "s",
@@ -2277,7 +2325,7 @@
     },
     {
       "name" : "Port la Forêt",
-      "url" : "https://www.skaping.com/port-la-foret/video",
+      "url" : "https://www.skaping.com/port-la-foret",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -3.9739206008539507,
@@ -2285,7 +2333,7 @@
     },
     {
       "name" : "Loctudy - Langoz",
-      "url" : "https://www.skaping.com/loctudy/langoz/video",
+      "url" : "https://www.skaping.com/loctudy/langoz",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -4.161894397840538,
@@ -2293,7 +2341,7 @@
     },
     {
       "name" : "Loctudy - Les Perdrix",
-      "url" : "https://www.skaping.com/loctudy/les-perdrix/video",
+      "url" : "https://www.skaping.com/loctudy/les-perdrix",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -4.169653093901774,
@@ -2301,7 +2349,7 @@
     },
     {
       "name" : "Loctudy - Port de Plaisance",
-      "url" : "https://www.skaping.com/loctudy/port-de-plaisance/video",
+      "url" : "https://www.skaping.com/loctudy/port-de-plaisance",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -4.1765866842809265,
@@ -2349,7 +2397,7 @@
     },
     {
       "name" : "Trouville",
-      "url" : "https://www.skaping.com/trouville/video",
+      "url" : "https://www.skaping.com/trouville",
       "iframesrc" : "s",
       "type": "city",
       "lng": 0.07927966933699586,
@@ -2442,6 +2490,14 @@
       "type": "city",
       "lng": 1.9089345020746438,
       "lat": 47.90248562720056
+    },
+    {
+      "url": "https://www.skaping.com/orleans/parvis-de-la-cathedrale",
+      "lat": 47.90243635691594,
+      "lng": 1.9090225928018547,
+      "type": "city",
+      "name": "Orleans - Parvis de la Cathédrale",
+      "iframesrc": "s"
     },
     {
       "name" : "Berck sur Mer - Baie d'Authie",
@@ -7275,14 +7331,6 @@
       "iframesrc": "s"
     },
     {
-      "url": "https://www.skaping.com/mandelieu/mer",
-      "lat": 43.533280330502684,
-      "lng": 6.951967754579996,
-      "type": "sea",
-      "name": "Mandelieu - Mer",
-      "iframesrc": "s"
-    },
-    {
       "url": "https://www.skaping.com/bromont/panoramique-sommet",
       "lat": 45.30200100,
       "lng": -72.63837900,
@@ -7377,8 +7425,169 @@
       "type": "lake",
       "name": "Lac de Paladru",
       "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/lac-des-sapins",
+      "lat": 46.00930500,
+      "lng": 4.37733200,
+      "type": "lake",
+      "name": "Lac des Sapins",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/grand-lac/port-de-chatillon-360",
+      "lat": 45.79893710494689,
+      "lng": 5.84435500,
+      "type": "lake",
+      "name": "Chatillon - Chindrieux",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/banffgondola",
+      "lat": 51.14460700,
+      "lng": -115.57476600,
+      "type": "mountain",
+      "name": "Banff Gondola",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/batz-sur-mer/plage-valentin",
+      "lat": 47.27887100,
+      "lng": -2.49517500,
+      "type": "sea",
+      "name": "Batz-sur-Mer - Plage Valentin",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/paray-le-monial",
+      "lat": 46.45320100,
+      "lng": 4.13031600,
+      "type": "city",
+      "name": "Paray-le-Monial",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/rocdenfer",
+      "lat": 46.20705300,
+      "lng": 6.62900800,
+      "type": "mountain",
+      "name": "Roc d'Enfer",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/webcam-valence",
+      "lat": 44.93050000,
+      "lng": 4.89014400,
+      "type": "city",
+      "name": "Valence",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/chamrousse/roche-beranger",
+      "lat": 45.11031400,
+      "lng": 5.87695200,
+      "type": "mountain",
+      "name": "Chamrousse - Roche Béranger",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/tete-des-saix",
+      "lat": 46.03163821,
+      "lng": 6.69841591,
+      "type": "mountain",
+      "name": "Samoëns - Tête des Saix - 2120m",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/flaine/desert-blanc",
+      "lat": 45.99240000,
+      "lng": 6.72901500,
+      "type": "mountain",
+      "name": "Flaine - Désert-Blanc",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/flaine/veret",
+      "lat": 46.00985600,
+      "lng": 6.71366100,
+      "type": "mountain",
+      "name": "Flaine - Véret",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/alpedhuez/lesignal",
+      "lat": 45.10027800,
+      "lng": 6.05978000,
+      "type": "mountain",
+      "name": "Alpe d'Huez - Le Signal",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/alpedhuez/herpie",
+      "lat": 45.10534600,
+      "lng": 6.12523600,
+      "type": "mountain",
+      "name": "Alpe d'Huez - Herpie",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/popova-shapka",
+      "lat": 42.01683200,
+      "lng": 20.88435400,
+      "type": "mountain",
+      "name": "Popova Shapka",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/lepuyenvelay/notredamedefrance",
+      "lat": 45.04699000,
+      "lng": 3.88541500,
+      "type": "city",
+      "name": "Le Puy-en-Velay",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/lugik-parc/sommet",
+      "lat": 44.90832700,
+      "lng": 4.15580100,
+      "type": "mountain",
+      "name": "Les Estables",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/les-estables/ski-nordique",
+      "lat": 44.91337900,
+      "lng": 4.16933200,
+      "type": "mountain",
+      "name": "Les Estables - Domaine nordique",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/les-estables/ski-alpin/panoramique",
+      "lat": 44.90551000,
+      "lng": 4.15659100,
+      "type": "mountain",
+      "name": "Les Estables - Ski Alpin",
+      "iframesrc": "s"
+    },
+    {
+      "id": "1620",
+      "iframesrcdesktop": "s",
+      "lat": 46.415552,
+      "lng": 12.067337,
+      "name": "Col dei Baldi",
+      "type": "mountain",
+      "url": "https://alleghe.panomax.com/coldeibaldi"
+    },
+    {
+      "id": "1684",
+      "iframesrcdesktop": "s",
+      "lat": 46.383571,
+      "lng": 10.630862,
+      "name": "Pejo3000",
+      "type": "mountain",
+      "url": "https://pejo.panomax.com/"
     }
-
   ]
 }
 
