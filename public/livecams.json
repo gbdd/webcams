@@ -1229,7 +1229,7 @@
     },
     {
       "name" : "La Plagne - Bellecote",
-      "url" : "https://www.skaping.com/la-plagne/live3200/alt2",
+      "url" : "https://www.skaping.com/la-plagne/live3200",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 6.770820286895782,
@@ -1394,6 +1394,30 @@
       "type": "mountain",
       "lng": 6.541463292449509,
       "lat": 45.32375870561377
+    },
+    {
+      "url": "https://www.skaping.com/les-menuires/les-enverses",
+      "lat": 45.31501200,
+      "lng": 6.52252800,
+      "type": "mountain",
+      "name": "Les Menuires - Les Enverses",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/les-menuires/lac-du-lou",
+      "lat": 45.29454200,
+      "lng": 6.52984600,
+      "type": "lake",
+      "name": "Les Menuires - Lac du Lou",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/les-menuires/clocher",
+      "lat": 45.32277500,
+      "lng": 6.53744600,
+      "type": "city",
+      "name": "Les Menuires - Clocher",
+      "iframesrc": "s"
     },
     {
       "name" : "Les Menuires - La Masse",
@@ -1642,6 +1666,14 @@
       "type": "mountain",
       "lng": 6.204724733218291,
       "lat": 44.997579431764635
+    },
+    {
+      "url": "https://www.skaping.com/les2alpes/3400m",
+      "lat": 44.99768400,
+      "lng": 6.22220700,
+      "type": "mountain",
+      "name": "Les 2 Alpes - 3400m",
+      "iframesrc": "s"
     },
     {
       "name" : "La Grave - 3200",
@@ -1965,7 +1997,7 @@
     },
     {
       "name" : "Gruissan - Village",
-      "url" : "https://www.skaping.com/gruissan/village/video",
+      "url" : "https://www.skaping.com/gruissan/village",
       "iframesrc" : "s",
       "type": "lake",
       "lng": 3.0917624833363266,
@@ -1973,7 +2005,7 @@
     },
     {
       "name" : "Gruissan - Capitainerie",
-      "url" : "https://www.skaping.com/gruissan/capitainerie/video",
+      "url" : "https://www.skaping.com/gruissan/capitainerie",
       "iframesrc" : "s",
       "type": "sea",
       "lng": 3.0992236697376794,
@@ -1981,7 +2013,7 @@
     },
     {
       "name" : "Gruissan - Plage des chalets",
-      "url" : "https://www.skaping.com/gruissan/plagedeschalets/video",
+      "url" : "https://www.skaping.com/gruissan/plagedeschalets",
       "iframesrc" : "s",
       "type": "sea",
       "lng": 3.112115118989433,
@@ -2109,7 +2141,7 @@
     },
     {
       "name" : "Barèges - Tournaboup",
-      "url" : "https://www.skaping.com/grandtourmalet/baregestournaboup/video",
+      "url" : "https://www.skaping.com/grandtourmalet/baregestournaboup",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 0.10320004075103813,
@@ -2125,7 +2157,7 @@
     },
     {
       "name" : "Barèges - Lienz",
-      "url" : "https://www.skaping.com/grandtourmalet/baregeslienz/video",
+      "url" : "https://www.skaping.com/grandtourmalet/baregeslienz",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 0.07872258719590502,
@@ -2525,7 +2557,7 @@
     },
     {
       "name" : "Le Touquet - Centre Nautique de la Manche",
-      "url" : "https://www.skaping.com/le-touquet/base-sud/new",
+      "url" : "https://www.skaping.com/le-touquet/base-sud",
       "iframesrc" : "s",
       "type": "sea",
       "lng": 1.5786636841549813,
@@ -2549,7 +2581,7 @@
     },
     {
       "name" : "Le Touquet - Les Jardins du Palais",
-      "url" : "https://www.skaping.com/le-touquet/lycee-hotelier/new",
+      "url" : "https://www.skaping.com/le-touquet/lycee-hotelier",
       "iframesrc" : "s",
       "type": "city",
       "lng": 1.5961413766336823,
@@ -7587,6 +7619,76 @@
       "name": "Pejo3000",
       "type": "mountain",
       "url": "https://pejo.panomax.com/"
+    },
+    {
+      "url": "https://www.skaping.com/louhans/la-seille",
+      "lat": 46.6298422247355,
+      "lng": 5.219733549885367,
+      "type": "lake",
+      "name": "Louhans - La Seille",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/louhans/ville",
+      "lat": 46.62968200,
+      "lng": 5.21960100,
+      "type": "city",
+      "name": "Louhans ville",
+      "iframesrc": "s"
+    },
+    {
+      "id": "d3048fd4c1f407c9bd9b3d54b7b3fad3",
+      "url": "https://torrent.roundshot.com/",
+      "name": "Leukerbad - Torrentbahnen",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.648316753,
+      "lat": 46.369072056
+    },
+    {
+      "id": "1348",
+      "url": "https://nendaz.roundshot.com/coldesgentianes/",
+      "name": "Nendaz - Col des Gentianes",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.30208,
+      "lat": 46.08514
+    },
+    {
+      "id": "1214",
+      "url": "https://nendaz.roundshot.com/combatseline/",
+      "name": "Nendaz - Combatseline",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.33314,
+      "lat": 46.1399
+    },
+    {
+      "id": "1644",
+      "iframesrcdesktop": "s",
+      "lat": 47.63967,
+      "lng": 13.619704,
+      "name": "Bad Goisern",
+      "type": "city",
+      "url": "https://goisern.panomax.com/"
+    },
+    {
+      "id": "1674",
+      "iframesrcdesktop": "s",
+      "lat": 46.439158,
+      "lng": 11.764321,
+      "name": "Ciampac",
+      "type": "mountain",
+      "url": "https://ciampac.panomax.com/"
+    },
+    {
+      "id": "1749",
+      "iframesrcdesktop": "s",
+      "lat": 45.886677,
+      "lng": 11.200632,
+      "name": "Folgaria Salizzona",
+      "type": "mountain",
+      "url": "https://folgaria.panomax.com/"
     }
   ]
 }
