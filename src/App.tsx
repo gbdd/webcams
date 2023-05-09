@@ -4,7 +4,6 @@ import './App.css';
 import axios from 'axios';
 import { WebcamMap } from './components/WebcamMap';
 import { livecam, PrefLoc, LcFilters, lcTypes } from './tools/consts';
-import { StarToggle, ToggleType } from './components/StarToggle';
 import { WebcamFilterDialog } from './components/WebcamFilterDialog';
 import {
   getPreference,
@@ -88,8 +87,6 @@ function App() {
         return true;
       } else if (currentFilter.types.includes(lc.type)) {
         return true;
-      } else if ((currentFilter.types.length === 0) && (!currentFilter.pref)) {
-        return true;
       }
       return false;
     });
@@ -104,9 +101,9 @@ function App() {
 
   const handleFilterChanged = (newFilters:LcFilters) => {
     const realNewFilters = {...newFilters};
-    if ((!realNewFilters.pref) && (realNewFilters.types.length === 0)) {
+    /* if ((!realNewFilters.pref) && (realNewFilters.types.length === 0)) {
       realNewFilters.types = [...lcTypes];
-    }
+    } */
     setFilters(realNewFilters);
     applyFilters(realNewFilters, myWebcams);
   }

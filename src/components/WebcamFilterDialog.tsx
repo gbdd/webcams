@@ -41,7 +41,14 @@ export const WebcamFilterDialog: FC<WebcamFilterDialogProps> = ({filters, onFilt
     callChangesOnFilters(filters.pref, newTypes);
   }
   const handleOnChangePreferred = (evt:any) => {
-    callChangesOnFilters(!filters.pref, filters.types);
+    let newTypes = [...filters.types];
+    if (!filters.pref && (filters.types.length === lcTypes.length)) {
+      newTypes = [];
+    } else if (filters.pref && (filters.types.length === 0)) {
+      newTypes = [...lcTypes];
+    }
+
+    callChangesOnFilters(!filters.pref, newTypes);
   }
 
   const callChangesOnFilters = (pref:boolean, types:string[]) => {
