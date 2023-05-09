@@ -6216,7 +6216,8 @@
       "lng": 6.966417,
       "name": "Nürburgring - Nordschleife Start",
       "type": "road",
-      "url": "https://panorama.nuerburgring.de/nordschleife-start"
+      "url": "https://panorama.nuerburgring.de/nordschleife-start",
+      "thumburl" : "https://live-image.panomax.com/cams/2527/recent_reduced.jpg"
     },
     {
       "id": "3558",
