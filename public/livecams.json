@@ -2805,6 +2805,7 @@
     },
     {
       "name" : "Falera - Berghaus Nagens",
+      "id": "47",
       "url" : "https://laax.roundshot.com/berghaus-nagens/",
       "iframesrc": "s",
       "type": "mountain",
@@ -2813,6 +2814,7 @@
     },
     {
       "name" : "Caumasee",
+      "id": "365",
       "url" : "https://laax.roundshot.com/caumasee/",
       "iframesrc": "s",
       "type": "lake",
@@ -2861,6 +2863,7 @@
     },
     {
       "name" : "Grindelwald - Mönchsjochhütte",
+      "id": "1451",
       "url" : "https://moenchsjochhuette.roundshot.com/",
       "iframesrc": "s",
       "type": "mountain",
@@ -4060,7 +4063,7 @@
       "url" : "https://mitterberg-st-martin.panomax.com",
       "iframesrcdesktop" : "s",
       "id": "3327",
-      "country": "Mitterberg - St.Martin",
+      "name": "Mitterberg - St.Martin",
       "type": "country",
       "lat": 47.461418,
       "lng": 13.96131
@@ -4115,7 +4118,7 @@
       "iframesrcdesktop" : "s",
       "id": "6603",
       "name": "Burghausen",
-      "type": "city",
+      "type": "lake",
       "lat": 48.1576,
       "lng": 12.836618
     },
@@ -7689,6 +7692,954 @@
       "name": "Folgaria Salizzona",
       "type": "mountain",
       "url": "https://folgaria.panomax.com/"
+    },
+
+
+    {
+      "id": "1301",
+      "url": "https://ecole-suisse-de-ski-diablerets.roundshot.com/",
+      "name": "Ormont-Dessus",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.15524,
+      "lat": 46.34596
+    },
+    {
+      "id": "1287",
+      "url": "https://eischoll.roundshot.com/stryggen/",
+      "name": "Eischoll",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.773,
+      "lat": 46.28668
+    },
+    {
+      "id": "1187",
+      "url": "https://evoleneregion.roundshot.com/arolla/",
+      "name": "Arolla",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.46913,
+      "lat": 46.01845
+    },
+    {
+      "id": "586",
+      "url": "https://evoleneregion.roundshot.com/evolene/",
+      "name": "Evol\u00e8ne",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.45564,
+      "lat": 46.12102
+    },
+    {
+      "id": "1443",
+      "url": "https://flumserberg.roundshot.com/leist/",
+      "name": "Flumserberg Bergbahnen AG - Leist",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.23286,
+      "lat": 47.06504
+    },
+    {
+      "id": "19",
+      "url": "https://fuerenalp.roundshot.com/",
+      "name": "Engelberg - Fürenalp",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.467783,
+      "lat": 46.800858
+    },
+    {
+      "id": "1359",
+      "url": "https://laax.roundshot.com/bargis/",
+      "name": "Laax Flims Falera - Weisse Arena - Bargis",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.32656,
+      "lat": 46.85423
+    },
+    {
+      "id": "46",
+      "url": "https://laax.roundshot.com/crap-masegn/",
+      "name": "Laax Flims Falera - Weisse Arena - Crap Masegn",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.180196,
+      "lat": 46.842364
+    },
+    {
+      "id": "44",
+      "url": "https://laax.roundshot.com/crap-sogn-gion-park/",
+      "name": "Laax Flims Falera - Weisse Arena - Crap Sogn Gion Park",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.216151,
+      "lat": 46.83454
+    },
+    {
+      "id": "45",
+      "url": "https://laax.roundshot.com/crap-sogn-gion-plaun/",
+      "name": "Laax Flims Falera - Weisse Arena - Crap Sogn Gion Plaun",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.215743,
+      "lat": 46.83528
+    },
+    {
+      "id": "433",
+      "url": "https://laax.roundshot.com/la-siala/",
+      "name": "Laax Flims Falera - Weisse Arena - La Siala",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.204275,
+      "lat": 46.880721
+    },
+    {
+      "id": "48",
+      "url": "https://laax.roundshot.com/mutta-rodunda/",
+      "name": "Laax Flims Falera - Weisse Arena - Mutta Rodunda",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.23716,
+      "lat": 46.860787
+    },
+    {
+      "id": "366",
+      "url": "https://laax.roundshot.com/conn/",
+      "name": "Laax Flims Falera - Weisse Arena - Rheinschlucht - Conn",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.3198,
+      "lat": 46.81268
+    },
+    {
+      "id": "49",
+      "url": "https://laax.roundshot.com/vorab-gletscher/",
+      "name": "Laax Flims Falera - Weisse Arena - Vorab Gletscher",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.17978,
+      "lat": 46.873171
+    },
+    {
+      "id": "181",
+      "url": "https://biathlonarena.roundshot.com/",
+      "name": "Lantsch - Lenz Tourismus - Biathlon Arena - Biathlon Arena",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.556124,
+      "lat": 46.692836
+    },
+    {
+      "id": "1313",
+      "url": "https://lenk.roundshot.com/leiterli/",
+      "name": "Lenk Bergbahnen - Betelberg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.40657,
+      "lat": 46.42598
+    },
+    {
+      "id": "51",
+      "url": "https://lenzerheide.roundshot.com/alpstaetz/",
+      "name": "Lenzerheide Bergbahnen - Alp St\u00e4tz",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.534968,
+      "lat": 46.759073
+    },
+    {
+      "id": "1058",
+      "url": "https://churwalden.roundshot.com/",
+      "name": "Lenzerheide Bergbahnen - Churwalden",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.53286,
+      "lat": 46.76622
+    },
+    {
+      "id": "182",
+      "url": "https://lesmosses.roundshot.com/",
+      "name": "Les Mosses",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.096339,
+      "lat": 46.396262
+    },
+    {
+      "id": "1343",
+      "url": "https://leysin.roundshot.com/snowpark/",
+      "name": "Leysin T\u00e9l\u00e9 - Snowpark",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.0019,
+      "lat": 46.36449
+    },
+    {
+      "id": "966",
+      "url": "https://leysin.roundshot.com/tobogganing-park/",
+      "name": "Leysin T\u00e9l\u00e9 - Tobogganing Park",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.0209758,
+      "lat": 46.3415556
+    },
+    {
+      "id": "696",
+      "url": "https://montsoleil.roundshot.com/",
+      "name": "Mont Soleil",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 6.990292,
+      "lat": 47.16421
+    },
+    {
+      "id": "40",
+      "url": "https://juratourisme.roundshot.com/delemont/",
+      "name": "Del\u00e9mont",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.3498,
+      "lat": 47.362214
+    },
+    {
+      "id": "677",
+      "url": "https://juratourisme.roundshot.com/lesordons/",
+      "name": "Les Ordons",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.231378,
+      "lat": 47.38793
+    },
+    {
+      "id": "438",
+      "url": "https://bellelay.roundshot.com/",
+      "name": "Bellelay",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 7.16787,
+      "lat": 47.26267
+    },
+    {
+      "id": "36",
+      "url": "https://juratourisme.roundshot.com/saignelegier/",
+      "name": "Saignel\u00e9gier",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.998421,
+      "lat": 47.253713
+    },
+    {
+      "id": "9",
+      "url": "https://tschuggen.roundshot.com/",
+      "name": "Arosa Bergbahnen - Tschuggen",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.664148,
+      "lat": 46.783222
+    },
+    {
+      "id": "601",
+      "url": "https://weisshorn.roundshot.com/",
+      "name": "Arosa Bergbahnen - Weisshorn",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.637269,
+      "lat": 46.789119
+    },
+    {
+      "id": "384",
+      "url": "https://belalp.roundshot.com/hohbiel/",
+      "name": "Belalp Bahnen - Hohbiel",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.977131,
+      "lat": 46.396877
+    },
+    {
+      "id": "1231",
+      "url": "https://bellwaldtourismus.roundshot.com/fleschen/",
+      "name": "Bellwald Mittelstation Fleschen",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.16646,
+      "lat": 46.44132
+    },
+    {
+      "id": "467",
+      "url": "https://laf.roundshot.com/",
+      "name": "Adliswil",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.50748,
+      "lat": 47.310213
+    },
+    {
+      "id": "855",
+      "url": "https://clinicahildebrand.roundshot.com/",
+      "name": "Brissago",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.71457,
+      "lat": 46.12397
+    },
+    {
+      "id": "1266",
+      "url": "https://gefluegelhof.roundshot.com/schoenenbuehl/",
+      "name": "Wolfhalden",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.56102,
+      "lat": 47.44008
+    },
+    {
+      "id": "1126",
+      "url": "https://knieskinderzoo.roundshot.com/",
+      "name": "Rapperswil-Jona",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.8219324,
+      "lat": 47.2240661
+    },
+    {
+      "id": "1322",
+      "url": "https://kirchfeld.roundshot.com/",
+      "name": "Horw",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.31535,
+      "lat": 47.02108
+    },
+    {
+      "id": "1",
+      "url": "https://lustdorf.roundshot.com/",
+      "name": "Lustdorf",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.987445,
+      "lat": 47.550303
+    },
+    {
+      "id": "163",
+      "url": "https://shp.roundshot.com/",
+      "name": "Morschach",
+      "iframesrc": "s",
+      "type": "road",
+      "lng": 8.6177,
+      "lat": 46.980654
+    },
+    {
+      "id": "24",
+      "url": "https://gzo.roundshot.com/",
+      "name": "Wetzikon",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.802688,
+      "lat": 47.321296
+    },
+    {
+      "id": "151",
+      "url": "https://ksgr.roundshot.com/",
+      "name": "Chur",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.541719,
+      "lat": 46.861134
+    },
+    {
+      "id": "57",
+      "url": "https://lhm.roundshot.com/",
+      "name": "Montana - Luzerner Höhenklinik",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.498056,
+      "lat": 46.316798
+    },
+    {
+      "id": "1929",
+      "iframesrcdesktop": "s",
+      "lat": 46.694706,
+      "lng": 11.732988,
+      "name": "Plose lift",
+      "type": "mountain",
+      "url": "https://ploselift.panomax.com/"
+    },
+    {
+      "id": "2027",
+      "iframesrcdesktop": "s",
+      "lat": 48.135569,
+      "lng": 11.705632,
+      "name": "München - Messeturm",
+      "type": "city",
+      "url": "https://messe-muenchen.panomax.com"
+    },
+    {
+      "id": "1435",
+      "url": "https://lutry.roundshot.com/",
+      "name": "Lutry",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.68542,
+      "lat": 46.50201
+    },
+    {
+      "id": "516",
+      "url": "https://luks-wolhusen.roundshot.com/",
+      "name": "Wolhusen",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.074523,
+      "lat": 47.066424
+    },
+    {
+      "id": "58",
+      "url": "https://maiengarten.roundshot.com/",
+      "name": "Bertschikon",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.838408,
+      "lat": 47.523413
+    },
+    {
+      "id": "559",
+      "url": "https://ksnw.roundshot.com/",
+      "name": "Stans",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.357228,
+      "lat": 46.960048
+    },
+    {
+      "id": "1226",
+      "url": "https://champery.roundshot.com/",
+      "name": "Champ\u00e9ry",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.87082,
+      "lat": 46.1797
+    },
+    {
+      "id": "1393",
+      "url": "https://ruswil.roundshot.com/",
+      "name": "Ruswil",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.11551,
+      "lat": 47.08049
+    },
+    {
+      "id": "873",
+      "url": "https://lumnezia.roundshot.com/camuns/",
+      "name": "Camuns",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.198317,
+      "lat": 46.700686
+    },
+    {
+      "id": "22",
+      "url": "https://roggenberg.roundshot.com/",
+      "name": "Roggenberg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 7.718886,
+      "lat": 47.305092
+    },
+    {
+      "id": "1135",
+      "url": "https://engadin.roundshot.com/ardez/",
+      "name": "Ardez",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 10.194162,
+      "lat": 46.774052
+    },
+    {
+      "id": "1208",
+      "url": "https://engadin.roundshot.com/ftan/",
+      "name": "Ftan",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 10.2476,
+      "lat": 46.7943
+    },
+    {
+      "id": "1209",
+      "url": "https://engadin.roundshot.com/sent/",
+      "name": "Sent",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 10.3341,
+      "lat": 46.81736
+    },
+    {
+      "id": "10",
+      "url": "https://grindelwaldbus.roundshot.com/",
+      "name": "Grindelwald Bus",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.991303,
+      "lat": 46.649442
+    },
+    {
+      "id": "3330",
+      "iframesrcdesktop": "s",
+      "lat": 47.517379,
+      "lng": 15.691162,
+      "name": "Hauereck",
+      "type": "mountain",
+      "url": "https://hauereck.panomax.com/"
+    },
+    {
+      "id": "3093",
+      "iframesrcdesktop": "s",
+      "lat": 47.601225,
+      "lng": 14.284154,
+      "name": "Liezen Langlaufzentrum Pyhrn",
+      "type": "country",
+      "url": "https://liezen.panomax.com/pyhrn"
+    },
+    {
+      "id": "3366",
+      "iframesrcdesktop": "s",
+      "lat": 47.399354,
+      "lng": 12.636831,
+      "name": "Saalbach",
+      "type": "mountain",
+      "url": "https://maisalm.panomax.com/"
+    },
+    {
+      "id": "3456",
+      "iframesrcdesktop": "s",
+      "lat": 47.71328,
+      "lng": 15.762093,
+      "name": "Raxalpe Ottohaus",
+      "type": "mountain",
+      "url": "https://raxalpe.panomax.com/ottohaus"
+    },
+    {
+      "name" : "Colle del Ruitor - Bivacco Edoardo Camardella",
+      "type": "mountain",
+      "iframesrcdesktop": "s",
+      "id": "4833",
+      "lat": 45.631,
+      "lng": 7.016,
+      "url": "https://bivacco.panomax.com/"
+    },
+    {
+      "id": "2310",
+      "iframesrcdesktop": "s",
+      "lat": 47.366765,
+      "lng": 14.090706,
+      "name": "Riesneralm Sendemast",
+      "type": "mountain",
+      "url": "https://riesneralm.panomax.com/"
+    },
+    {
+      "id": "2326",
+      "iframesrcdesktop": "s",
+      "lat": 47.134742,
+      "lng": 9.74243,
+      "name": "Loischkopf",
+      "type": "mountain",
+      "url": "https://loischkopf-brand.panomax.com/"
+    },
+    {
+      "id": "2348",
+      "iframesrcdesktop": "s",
+      "lat": 45.646663,
+      "lng": 13.772197,
+      "name": "Trieste Barcolana",
+      "type": "sea",
+      "url": "https://barcolana.panomax.com/"
+    },
+    {
+      "id": "2354",
+      "iframesrcdesktop": "s",
+      "lat": 47.285998,
+      "lng": 10.789816,
+      "name": "Tarrenz - Kappakreuz",
+      "type": "mountain",
+      "url": "https://imst-tarrenz.panomax.com/"
+    },
+    {
+      "id": "2492",
+      "iframesrcdesktop": "s",
+      "lat": 47.10434,
+      "lng": 9.717151,
+      "name": "Palüd",
+      "type": "mountain",
+      "url": "https://palued.panomax.com/"
+    },
+    {
+      "id": "2690",
+      "iframesrcdesktop": "s",
+      "lat": 45.569681,
+      "lng": 7.118449,
+      "name": "Rhemes Municipio",
+      "type": "mountain",
+      "url": "https://rhemesnd.panomax.com/"
+    },
+    {
+      "id": "125",
+      "url": "https://spluegen.roundshot.com/",
+      "name": "Splügen Bergbahnen - Tanatzhöhe",
+      "type": "mountain",
+      "lng": 9.31386,
+      "lat": 46.53058
+    },
+    {
+      "id": "2730",
+      "iframesrcdesktop": "s",
+      "lat": 47.302839,
+      "lng": 9.678519,
+      "name": "Viktorsberg",
+      "type": "mountain",
+      "url": "https://hotel-viktor.panomax.com/"
+    },
+    {
+      "id": "2880",
+      "iframesrcdesktop": "s",
+      "lat": 46.53771,
+      "lng": 12.085384,
+      "name": "Cortina - Duca d'Aosta",
+      "type": "mountain",
+      "url": "https://cortina.panomax.com/"
+    },
+    {
+      "id": "2892",
+      "iframesrcdesktop": "s",
+      "lat": 45.87568,
+      "lng": 10.734957,
+      "name": "Ledro - Mezzolago",
+      "type": "lake",
+      "url": "https://ledro.panomax.com/"
+    },
+    {
+      "id": "2883",
+      "iframesrcdesktop": "s",
+      "lat": 46.536187,
+      "lng": 12.076176,
+      "name": "Cortina - Pomedes",
+      "type": "mountain",
+      "url": "https://cortina.panomax.com/pomedes"
+    },
+    {
+      "id": "75",
+      "url": "https://chaeserrugg.roundshot.com/",
+      "name": "Chaeserrugg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.313089,
+      "lat": 47.154974
+    },
+    {
+      "id": "1061",
+      "url": "https://kandersteg.roundshot.com/",
+      "name": "Kandersteg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.672965,
+      "lat": 46.491163
+    },
+    {
+      "id": "2146",
+      "iframesrcdesktop": "s",
+      "lat": 46.404416,
+      "lng": 10.482725,
+      "name": "Santa Caterina Valfurva Plaghera",
+      "type": "mountain",
+      "url": "https://santacaterinavalfurva.panomax.com/"
+    },
+    {
+      "id": "2200",
+      "iframesrcdesktop": "s",
+      "lat": 47.581194,
+      "lng": 13.534284,
+      "name": "Gosau",
+      "type": "city",
+      "url": "https://gosau.panomax.com/cooee-alpin-dachstein"
+    },
+    {
+      "id": "669",
+      "url": "https://vallorbe.roundshot.com/",
+      "name": "Vallorbe",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.378433,
+      "lat": 46.712274
+    },
+    {
+      "id": "2053",
+      "iframesrcdesktop": "s",
+      "lat": 47.704918,
+      "lng": 13.617591,
+      "name": "Bad Ischl - Siriuskogl",
+      "type": "city",
+      "url": "https://badischl.panomax.com/siriuskogl"
+    },
+    {
+      "id": "1235",
+      "url": "https://varen.roundshot.com/",
+      "name": "Varen",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.60578,
+      "lat": 46.31628
+    },
+    {
+      "id": "495",
+      "url": "https://zuozgemeinde.roundshot.com/",
+      "name": "Zuoz",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.954296,
+      "lat": 46.600013
+    },
+    {
+      "id": "30",
+      "url": "https://heiden.roundshot.com/",
+      "iframesrc": "s",
+      "name": "Heiden",
+      "type": "lake",
+      "lng": 9.538944,
+      "lat": 47.440809
+    },
+    {
+      "id": "1134",
+      "url": "https://engadin.roundshot.com/tarasp/",
+      "name": "Tarasp",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 10.270026,
+      "lat": 46.778578
+    },
+    {
+      "id": "2748",
+      "iframesrcdesktop": "s",
+      "lat": 46.382347,
+      "lng": 10.662545,
+      "name": "Saroden",
+      "type": "mountain",
+      "url": "https://saroden.panomax.com/"
+    },
+    {
+      "id": "741",
+      "url": "https://berntourismus.roundshot.com/gurten/",
+      "name": "Bern - Gurten",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.439665,
+      "lat": 46.919651
+    },
+    {
+      "id": "129",
+      "url": "https://berntourismus.roundshot.com/rosengarten/",
+      "name": "Bern - Rosengarten",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.460559,
+      "lat": 46.950862
+    },
+    {
+      "id": "3007",
+      "iframesrcdesktop": "s",
+      "lat": 46.427474,
+      "lng": 9.343979,
+      "name": "Pianazzo",
+      "type": "city",
+      "url": "https://pianazzo.panomax.com/"
+    },
+    {
+      "id": "1371",
+      "url": "https://fiesch.roundshot.com/",
+      "name": "Fiesch Gemeinde - Fiesch Dorf",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.13409,
+      "lat": 46.4059
+    },
+    {
+      "id": "304",
+      "url": "https://gemeindestalden.roundshot.com/",
+      "name": "Stalden",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.870471,
+      "lat": 46.229655
+    },
+    {
+      "id": "3022",
+      "iframesrcdesktop": "s",
+      "lat": 46.489222,
+      "lng": 9.336943,
+      "name": "Montespluga",
+      "type": "mountain",
+      "url": "https://montespluga.panomax.com/"
+    },
+    {
+      "id": "3060",
+      "iframesrcdesktop": "s",
+      "lat": 48.195851,
+      "lng": 14.387666,
+      "name": "St. Florian bei Linz",
+      "type": "country",
+      "thumburl": "https://live-image.panomax.com/cams/3060/recent_reduced.jpg",
+      "url": "https://www.florianerpanorama.at/"
+    },
+    {
+      "id": "1123",
+      "url": "https://albinen.roundshot.com/",
+      "name": "Albinen",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.636038,
+      "lat": 46.336909
+    },
+    {
+      "id": "986",
+      "url": "https://blatten.roundshot.com/fafleralp/",
+      "name": "Blatten",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.862074,
+      "lat": 46.434784
+    },
+    {
+      "id": "646",
+      "url": "https://schauenberg.roundshot.com/",
+      "name": "Elgg - Schauenberg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 8.866525,
+      "lat": 47.460091
+    },
+    {
+      "id": "1970",
+      "iframesrcdesktop": "s",
+      "lat": 47.410013,
+      "lng": 12.653306,
+      "name": "Kohlmais",
+      "type": "mountain",
+      "url": "https://saalbach.panomax.com/kohlmais"
+    },
+    {
+      "id": "965",
+      "url": "https://ga-weissenstein.roundshot.com/hafen/",
+      "name": "Solothurn - Hafen",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 7.5239503383637,
+      "lat": 47.19768824942
+    },
+    {
+      "id": "912",
+      "url": "https://ga-weissenstein.roundshot.com/solothurn/",
+      "name": "Solothurn",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.541573,
+      "lat": 47.206079
+    },
+    {
+      "id": "726",
+      "url": "https://ga-weissenstein.roundshot.com/weissenstein/",
+      "name": "Weissenstein",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 7.50867,
+      "lat": 47.2517
+    },
+    {
+      "id": "280",
+      "url": "https://boezingenberg.roundshot.com/",
+      "name": "Biel Tourismus - Bözingenberg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 7.284121,
+      "lat": 47.171854
+    },
+    {
+      "id": "1339",
+      "url": "https://bregagliaturismo.roundshot.com/aela/",
+      "name": "Bregaglia Turismo - Aela - Bregaglia Turismo",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.70942,
+      "lat": 46.39503
+    },
+    {
+      "id": "1345",
+      "url": "https://brigtourismus.roundshot.com/rothwald/",
+      "name": "Rothwald",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.05071,
+      "lat": 46.2723
+    },
+    {
+      "id": "1947",
+      "iframesrcdesktop": "s",
+      "lat": 47.342124,
+      "lng": 16.23923,
+      "name": "Bad Tatzmannsdorf - Wasserspeicher",
+      "type": "country",
+      "url": "https://tatzmannsdorf.panomax.com/"
+    },
+    {
+      "id": "1953",
+      "iframesrcdesktop": "s",
+      "lat": 47.267462,
+      "lng": 11.38993,
+      "name": "Innsbruck - Markthalle",
+      "type": "mountain",
+      "thumburl": "https://live-image.panomax.com/cams/1953/recent_reduced.jpg",
+      "url": "https://www.innsbruck.info/markthalle/webcam/"
+    },
+    {
+      "id": "1988",
+      "iframesrcdesktop": "s",
+      "lat": 46.507217,
+      "lng": 12.932464,
+      "name": "Zoncolan",
+      "type": "mountain",
+      "url": "https://zoncolan.panomax.com/"
+    },
+    {
+      "id": "1624",
+      "iframesrcdesktop": "s",
+      "lat": 45.463624,
+      "lng": 7.132484,
+      "name": "Ceresole Reale",
+      "type": "mountain",
+      "url": "https://ceresolereale.panomax.com/"
+    },
+    {
+      "id": "1629",
+      "iframesrcdesktop": "s",
+      "lat": 46.422626,
+      "lng": 12.048512,
+      "name": "Fertazza",
+      "type": "mountain",
+      "url": "https://alleghe.panomax.com/fertazza"
+    },
+    {
+      "id": "1634",
+      "iframesrcdesktop": "s",
+      "lat": 46.142854,
+      "lng": 11.036857,
+      "name": "Paganella",
+      "type": "mountain",
+      "url": "https://paganella.panomax.com/"
+    },
+    {
+      "id": "23",
+      "url": "https://gemmi.roundshot.com/",
+      "name": "Gemmi",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.615638,
+      "lat": 46.397713
     }
   ]
 }
