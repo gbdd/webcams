@@ -67,7 +67,7 @@
       "name" : "Col Bayard",
       "url" : "https://pv.viewsurf.com/?id=244",
       "iframesrc" : "s",
-      "type": "mountain",
+      "type": "country",
       "lng": 6.0840031,
       "lat": 44.6201598
     },
@@ -431,7 +431,7 @@
     },
     {
       "name" : "Annecy - Lac",
-      "url" : "https://m.webcam-hd.com/annecy-tourisme-imperial/annecy-lac",
+      "url" : "https://app.webcam-hd.com/annecy-tourisme-imperial/annecy-lac",
       "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_annecy.jpg",
       "iframesrc" : "s",
       "type": "lake",
@@ -8640,8 +8640,322 @@
       "type": "mountain",
       "lng": 7.615638,
       "lat": 46.397713
+    },
+    {
+      "name" : "Col de la Faucille",
+      "url" : "https://app.webcam-hd.com/ain/col-de-la-faucille",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_departement-de-l-ain_col-de-la-faucille.jpg",
+      "iframesrc" : "s",
+      "type": "road",
+      "lng": 6.018421569408771,
+      "lat": 46.36986695243018 
+    },
+    {
+      "name" : "Brides les Bains",
+      "url" : "https://app.webcam-hd.com/brides-les-bains/centre-village",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_brides-les-bains_centre-village.jpg",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.568691401503369,
+      "lat": 45.45204813561548 
+    },
+    {
+      "name" : "Les Carroz d'Arâches",
+      "url" : "https://app.webcam-hd.com/lescarroz/vue-village",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_lescarroz_vue-village.jpg",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.6330820759395905,
+      "lat": 46.02748190851383 
+    },
+    {
+      "name" : "Super-Devoluy",
+      "url" : "https://app.webcam-hd.com/superdevoluy/village",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_superdevoluy_superdevoluy.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.927971500576815,
+      "lat": 44.676255591178716 
+    },
+    {
+      "name" : "La Joue du Loup",
+      "url" : "https://app.webcam-hd.com/superdevoluy/la-joue-du-loup",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_superdevoluy_la-joue-du-loup.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.892532595039837,
+      "lat": 44.68744186850028 
+    },
+    {
+      "name" : "Super Besse",
+      "url" : "https://app.webcam-hd.com/superbesse/superbesse_ecole",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_superbesse_ecole.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 2.8590263997433416,
+      "lat": 45.50678329236656 
+    },
+    {
+      "name" : "Saint Vincent sur Jard",
+      "url" : "https://app.webcam-hd.com/saint-vincent-sur-jard/maison-clemenceau",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_saint-vincent-sur-jard_maison-clemenceau.jpg",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.546947477112393,
+      "lat": 46.40678834820652 
+    },
+    {
+      "name" : "Saint Hilaire de Riez - Baie de Sion",
+      "url" : "https://app.webcam-hd.com/st-hilaire-de-riez/baie-de-sion",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_st-hilaire-de-riez_centre-nautique.jpg",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.9786006158846035,
+      "lat": 46.71475484670341 
+    },
+    {
+      "name" : "Saint Hilaire de Riez - Feu de Grosse Terre",
+      "url" : "https://app.webcam-hd.com/st-hilaire-de-riez/feu-de-grosse-terre",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_st-hilaire-de-riez_feu-de-grosse-terre.jpg",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.9654989031339252,
+      "lat": 46.69239135443151 
+    },
+    {
+      "name" : "Saint Hilaire de Riez - Les Demoiselles",
+      "url" : "https://app.webcam-hd.com/st-hilaire-de-riez/poste-de-secours-des-demoiselles",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_st-hilaire-de-riez_poste-de-secours-des-demoiselles.jpg",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.0519142013451743,
+      "lat": 46.77056963528341 
+    },
+    {
+      "name" : "Saint Gervais - Saint Nicolas de Véroce",
+      "url" : "https://app.webcam-hd.com/st-gervais/st-nicolas-de-veroce",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_st-gervais_st-nicolas-de-veroce.jpg",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.723369878888342,
+      "lat": 45.85371700918403 
+    },
+    {
+      "name" : "Saint Gervais - Le Bettex",
+      "url" : "https://app.webcam-hd.com/st-gervais/bettex",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_st-gervais_bettex.jpg",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.685383029320804,
+      "lat": 45.873832041931 
+    },
+    {
+      "name" : "Saint Dalmas Le Selvage",
+      "url" : "https://app.webcam-hd.com/st-dalmas-le-selvage/village",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_st-dalmas-le-selvage_mairie.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.865797894590672,
+      "lat": 44.28546626015565 
+    },
+    {
+      "name" : "Saint Christophe en Oisans - La Ville",
+      "url" : "https://app.webcam-hd.com/st-christophe-en-oisans/la-ville",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_st-christophe-en-oisans_la-ville.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.1765585496818485,
+      "lat": 44.95760510054285 
+    },
+    {
+      "name" : "Saint Christophe en Oisans - La Bérarde",
+      "url" : "https://app.webcam-hd.com/st-christophe-en-oisans/la-berarde",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_st-christophe-en-oisans_la-berarde.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.293212141469524,
+      "lat": 44.93228231844983 
+    },
+    {
+      "name" : "The Lecht",
+      "url" : "https://app.webcam-hd.com/ski-scotland/the-lecht",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_the-lecht.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": -3.2483761092851213,
+      "lat": 57.200089196153385 
+    },
+    {
+      "name" : "Glenshee",
+      "url" : "https://app.webcam-hd.com/ski-scotland/glenshee",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_ski-scotland_glenshee.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": -3.405312739622054,
+      "lat": 56.88444872336871 
+    },
+    {
+      "name" : "Sevrier - base nautique",
+      "url" : "https://app.webcam-hd.com/sevrier/base-nautique",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_sevrier_base-nautique.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.144040767952195,
+      "lat": 45.85956060151086 
+    },
+    {
+      "name" : "Col du Prorel",
+      "url" : "https://app.webcam-hd.com/serrechevalier/col-du-prorel",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_serre-chevalier_col-du-prorel.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.575015975850366,
+      "lat": 44.90402912281556 
+    },
+    {
+      "name" : "La Rosière",
+      "url" : "https://app.webcam-hd.com/rosiere-planica/rosiere-planica_hotel",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_rosiere-planica_hotel.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.846220697077424,
+      "lat": 45.62892397725448 
+    },
+    {
+      "name" : "La Rosière",
+      "url" : "https://app.webcam-hd.com/rosiere-montana/chalets-les-clarines-le-montana",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_rosiere-montana_chalets-les-clarines-le-montana.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.866446227641132,
+      "lat": 45.626516526624606 
+    },
+    {
+      "name" : "Risoul - Homme de Pierre",
+      "url" : "https://app.webcam-hd.com/risoul/homme-de-pierre",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_risoul_homme-de-pierre.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.611688484801831,
+      "lat": 44.61085140416683 
+    },
+    {
+      "name" : "Réallon - Chabrières",
+      "url" : "https://app.webcam-hd.com/reallon/reallon_chabrieres",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_reallon_chabrieres.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.340529,
+      "lat": 44.576331  
+    },
+    {
+      "name" : "Praz de Lys",
+      "url" : "https://app.webcam-hd.com/praz_lys_sommand/parking",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_praz_lys_sommand_parking.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.553997553648807,
+      "lat": 46.16157754956939  
+    },
+    {
+      "name" : "Praz de Lys - Haut Fleury",
+      "url" : "https://app.webcam-hd.com/praz_lys_sommand/haut_fleury",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_praz_lys_sommand_haut-fleury.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.5634330382227395,
+      "lat": 46.148470716517465  
+    },
+    {
+      "name" : "Pralognan - Mont Bochor",
+      "url" : "https://app.webcam-hd.com/pralognan/mont-bochor",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_pralognan_newbochor.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.730681327302475,
+      "lat": 45.386503344682474  
+    },
+    {
+      "name" : "Port-Bourgenay",
+      "url" : "https://app.webcam-hd.com/port-bourgenay/port-bourgenay_capitainerie",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_port-bourgenay_capitainerie.jpg",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.6771495787371422,
+      "lat": 46.439001493183774  
+    },
+    {
+      "name" : "Plateau des Glières",
+      "url" : "https://app.webcam-hd.com/conseil-general-74/depart-des-pistes",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_conseil-general-74_depart-des-pistes.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.327831370794501,
+      "lat": 45.96337202024577  
+    },
+    {
+      "name" : "Plateau de Retord - Plans d'Hotonnes",
+      "url" : "https://app.webcam-hd.com/plateau-de-retord/plans-hotonnes",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_plateau-de-retord_plans-d-hotonnes.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.701081144063718,
+      "lat": 46.03521056855643  
+    },
+    {
+      "name" : "Orcières - Lac des Estaris",
+      "url" : "https://app.webcam-hd.com/orcieres-1850/sommet-estaris",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_orcieres_1850_sommet-estaris.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.343284704079843,
+      "lat": 44.72975914115449  
+    },
+    {
+      "name" : "Mer les Bains",
+      "url" : "https://app.webcam-hd.com/mers-les-bains/mers-les-bains_esplanade",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_mers-les-bains_esplanade.jpg",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 1.38417015410156,
+      "lat": 50.067625355453245  
+    },
+    {
+      "name" : "Les Rousses - base nautique",
+      "url" : "https://app.webcam-hd.com/les-rousses/base-nautique",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_les-rousses_base.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.078381757445227,
+      "lat": 46.500217023029904  
+    },
+    {
+      "name" : "La Plagne - vue sur Peisey-Nancroix",
+      "url" : "https://app.webcam-hd.com/lesarcs/vanoise-express",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_Peisey-Vallandry_vanoise-expresse.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.739321166266917,
+      "lat": 45.54943235058408  
+    },
+    {
+      "name" : "Les Arcs - Aiguille Rouge",
+      "url" : "https://app.webcam-hd.com/lesarcs/aiguille-rouge",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_les_arcs_aiguille.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.847844337332114,
+      "lat": 45.551680351455296  
+    },
+    {
+      "name" : "La Clusaz - Col de Balme",
+      "url" : "https://app.webcam-hd.com/la-clusaz/col-de-balme",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_la-clusaz_col-de-balme.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.501650513301909,
+      "lat": 45.89636147585635  
     }
   ]
 }
-
 
