@@ -8955,7 +8955,168 @@
       "type": "mountain",
       "lng": 6.501650513301909,
       "lat": 45.89636147585635  
+    },
+    {
+      "name" : "Jard sur Mer - le port",
+      "url" : "https://app.webcam-hd.com/jard-sur-mer/le-port",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_jard-sur-mer_capitainerie.jpg",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.5849335018027422,
+      "lat": 46.408867876093296 
+    },
+    {
+      "name" : "Passy - Plaine-Joux",
+      "url" : "https://app.webcam-hd.com/passy/plaine-joux",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_passy_plaine-joux.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.739915666632608,
+      "lat": 45.949933032355815  
+    },
+    {
+      "name" : "Autrans - Géve",
+      "url" : "https://app.webcam-hd.com/autrans-meaudre/geve",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_geve.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.560279237771628,
+      "lat": 45.21349531701912  
+    },
+    {
+      "name" : "Autrans - Centre Nordique",
+      "url" : "https://app.webcam-hd.com/autrans-meaudre/autran-village",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_autran-village.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.539447520309689,
+      "lat": 45.17661181190964  
+    },
+    {
+      "name" : "Autrans - La Poya",
+      "url" : "https://app.webcam-hd.com/autrans-meaudre/la-poya",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_autrans-meaudre_auberge-poya.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.581895289141133,
+      "lat": 45.22979924702806  
+    },
+    {
+      "name" : "Autrans - La Quoi",
+      "url" : "https://app.webcam-hd.com/autrans-meaudre/tsf-la-quoi",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_Autrans_tsf-la-quoi.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.593587820820725,
+      "lat": 45.228634177969376  
+    },
+    {
+      "name" : "Autrans - Le tremplin",
+      "url" : "https://app.webcam-hd.com/autrans-meaudre/autrans_tremplin",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_autrans_tremplin.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.546991261140148,
+      "lat": 45.16966496668939
+    },
+    {
+      "name" : "Méaudre - Foyer de ski de fond",
+      "url" : "https://app.webcam-hd.com/autrans-meaudre/centre-nordique-meaudre",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_meaudre_fond.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.52831116872181,
+      "lat": 45.13084625112456
+    },
+    {
+      "name" : "Méaudre - Le Chatelard",
+      "url" : "https://app.webcam-hd.com/autrans-meaudre/chatelard",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_meaudre_front.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.521745083629437,
+      "lat": 45.126531850647666
+    },
+    {
+      "name" : "Bernex",
+      "url" : "https://app.webcam-hd.com/bernex/front-de-neige",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_bernex_front-de-neige.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.689282328890055,
+      "lat": 46.35617929725832
+    },
+    {
+      "name" : "Thollon les Mémises - Sommet",
+      "url" : "https://app.webcam-hd.com/thollon-les-memises/sommet-parchet",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_thollon-les-memises_sommet-parchet.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.74207867124585,
+      "lat": 46.37186968717212
+    },
+    {
+      "name" : "Thollon les Mémises - front de neige",
+      "url" : "https://app.webcam-hd.com/thollon-les-memises/front-de-neige",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_thollon-les-memises_front-de-neige.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.723928253826107,
+      "lat": 46.37991516500695
+    },
+    {
+      "name" : "Metabief - Morond",
+      "url" : "https://app.webcam-hd.com/orex_metabief/monrond",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_monrond.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.353826939646863,
+      "lat": 46.75130974316649
+    },
+    {
+      "name" : "Allos",
+      "url" : "https://app.webcam-hd.com/valdallos/village",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_valdallos_village.jpg",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.62658102504089,
+      "lat": 44.24055162914643
+    },
+    {
+      "name" : "Gerardmer",
+      "url" : "https://app.webcam-hd.com/gerardmer/xettes",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_gerardmer_xettes.jpg",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.863978738141025,
+      "lat": 48.08107147822644
+    },
+    {
+      "name" : "Le Lioran - Font d'Alagnon",
+      "url" : "https://app.webcam-hd.com/lioran/lioran_font-d-alagnon",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_lioran_font-d-alagnon.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 2.7438215019741268,
+      "lat": 45.087658689146835
+    },
+    {
+      "name" : "Le Markstein",
+      "url" : "https://app.webcam-hd.com/markstein/maison-accueil",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_markstein_maison-d-accueil.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 7.030368257825307,
+      "lat": 47.936305728317954
+    },
+    {
+      "name" : "La Clusaz - Beauregard",
+      "url" : "https://app.webcam-hd.com/la-clusaz/beauregard",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_la-clusaz_beauregard.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.406867080009045,
+      "lat": 45.89367408443661
     }
   ]
 }
-
