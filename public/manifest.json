@@ -3,9 +3,24 @@
   "name": "Great webcams around the world",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "46x44",
-      "type": "image/x-icon"
+      "src": "appicon44.png",
+      "sizes": "44x44",
+      "type": "image/png"
+    },
+    {
+      "src": "appicon128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "appicon430.png",
+      "sizes": "430x430",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-mountain.png",
+      "sizes": "752x752",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
