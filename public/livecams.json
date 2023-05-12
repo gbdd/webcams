@@ -9117,6 +9117,33 @@
       "type": "mountain",
       "lng": 6.406867080009045,
       "lat": 45.89367408443661
+    },
+    {
+      "name" : "Morillon - Lac Bleu",
+      "url" : "https://app.webcam-hd.com/vallee-haut-giffre/morillon-lac-bleu",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_vallee-du-haut-giffre_morillon-lac-bleu.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.6794749963366655,
+      "lat": 46.08663934699625
+    },
+    {
+      "name" : "Sixt-Fer-a-Cheval",
+      "url" : "http://app.webcam-hd.com/vallee-haut-giffre/sixt-fer-a-cheval",
+      "thumburl": "http://srv02.trinum.com/ibox/ftpcam/small_vallee-du-haut-giffre_sixt-fer-a-cheval.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.8401106372049965,
+      "lat": 46.07769765782003
+    },
+    {
+      "name" : "Lac d'Aydat",
+      "url" : "https://app.webcam-hd.com/les-cheires/les-cheires_lac-d-aydat",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_les-cheires_lac-d-aydat.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 2.983384157421521,
+      "lat": 45.66621041445903
     }
   ]
 }
