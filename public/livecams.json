@@ -9144,6 +9144,24 @@
       "type": "lake",
       "lng": 2.983384157421521,
       "lat": 45.66621041445903
+    },
+    {
+      "name" : "Gerardmer - le lac",
+      "url" : "https://app.webcam-hd.com/gerardmer/lac-de-gerardmer",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_gerardmer_lac-de-gerardmer.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.859515917510208,
+      "lat": 48.066417529573656
+    },
+    {
+      "name" : "Passy - base de loisirs",
+      "url" : "http://app.webcam-hd.com/passy/base-de-loisirs-de-passy",
+      "thumburl": "http://srv06.trinum.com/ibox/ftpcam/small_passy_base-de-loisirs.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.652175094912342,
+      "lat": 45.92272278896797
     }
   ]
 }
