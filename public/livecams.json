@@ -9162,6 +9162,187 @@
       "type": "lake",
       "lng": 6.652175094912342,
       "lat": 45.92272278896797
+    },
+    {
+      "name" : "Les Arcs - Mont Blanc",
+      "url" : "http://app.webcam-hd.com/lesarcs/mont-blanc",
+      "thumburl": "http://srv05.trinum.com/ibox/ftpcam/small_les_arcs_tsd-mont-blanc.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.812162361940236,
+      "lat": 45.59205682017259
+    },
+    {
+      "name" : "Les Arcs - Arcabulle",
+      "url" : "http://app.webcam-hd.com/lesarcs/arcabulle",
+      "thumburl": "http://srv03.trinum.com/ibox/ftpcam/small_les-arcs_arcabulle.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.8108452187944515,
+      "lat": 45.55097810810227
+    },
+    {
+      "name" : "Hirmentaz",
+      "url" : "http://app.webcam-hd.com/hirmentaz/grand-site",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_hirmentaz_grand-site.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.495104626838294,
+      "lat": 46.23024834736724
+    },
+    {
+      "name" : "Semnoz - Versant Annecy",
+      "url" : "https://app.webcam-hd.com/semnoz/versant-annecy",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_semnoz_versant-annecy.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.097466372686701,
+      "lat": 45.80502271621169
+    },
+    {
+      "name" : "Semnoz - Versant Bauges",
+      "url" : "https://app.webcam-hd.com/semnoz/sud_bauges",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_semnoz_parking-sud-versant-bauges.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.10828371639531,
+      "lat": 45.78140285020495
+    },
+    {
+      "name" : "Saint Gervais - Epaule",
+      "url" : "https://app.webcam-hd.com/st-gervais/epaule",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_st-gervais_epaule.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.676395992784943,
+      "lat": 45.85143835562081 
+    },
+    {
+      "name" : "Samoëns",
+      "url" : "https://app.webcam-hd.com/grand-massif/grand-massif_samoens-1600",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_grand-massif_samoens-1600.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.696102133862801,
+      "lat": 46.05337417088767 
+    },
+    {
+      "name" : "Les Carroz",
+      "url" : "https://app.webcam-hd.com/lescarroz/arrivee-telecabine",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_carroz.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.66547066584597,
+      "lat": 46.026397557443765 
+    },
+    {
+      "name" : "Les Gets - Chavannes",
+      "url" : "https://app.webcam-hd.com/lesgets/lesgets_chavannes",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_lesgets_chavannes.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.693889829162356,
+      "lat": 46.14491419779336 
+    },
+    {
+      "name" : "Courchevel - Altiport",
+      "url" : "https://app.webcam-hd.com/courchevel-mairie/altiport",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_courchevel-mairie_altiport.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.634467886435928,
+      "lat": 45.39611987841167 
+    },
+    {
+      "name" : "Plateau de Retord - Cuvery",
+      "url" : "https://app.webcam-hd.com/plateau-de-retord/cuvery",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_plateau-de-retord_cuvery.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.7280827727764505,
+      "lat": 46.1134807720001  
+    },
+    {
+      "name" : "La Plagne - Bergerie",
+      "url" : "https://app.webcam-hd.com/webcam-station-la-plagne/bergerie",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_la-plagne_bergerie.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.693601737771033,
+      "lat": 45.50177115671843  
+    },
+    {
+      "name" : "La Plagne - Bécoin",
+      "url" : "https://app.webcam-hd.com/webcam-station-la-plagne/becoin",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_la-plagne_becoin.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.661506967457591,
+      "lat": 45.50185600316421  
+    },
+    {
+      "name" : "Megève - Mont d'Arbois",
+      "url" : "https://app.webcam-hd.com/evasion/mont-arbois",
+      "thumburl": "http://srv07.trinum.com/ibox/ftpcam/small_arbois.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.66209039171139,
+      "lat": 45.85849593823655
+    },
+    {
+      "name" : "Megève - Lac d'Arbois",
+      "url" : "https://app.webcam-hd.com/evasion/lac-arbois",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_evasion_retenue-collinaire.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.653273,
+      "lat": 45.850287
+    },
+    {
+      "name" : "Megève - Fontaine",
+      "url" : "https://app.webcam-hd.com/evasion/fontaine",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_evasion_fontaine.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.6228550393891386,
+      "lat": 45.81736579479715
+    },
+    {
+      "name" : "Lanslevillard - Val Cenis",
+      "url" : "https://app.webcam-hd.com/valcenis/tk-pont-noir",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_valcenis_tk-pont-noir.jpg",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.90924228745219,
+      "lat": 45.28865647206029
+    },
+    {
+      "name" : "Val Cenis - Le Solert",
+      "url" : "https://app.webcam-hd.com/valcenis/sommet-solert",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_valcenis_sommet-solert.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.931103957300332,
+      "lat": 45.26563995162211
+    },
+    {
+      "name" : "Val Cenis - Le replat des canons",
+      "url" : "https://app.webcam-hd.com/valcenis/replat-des-canons",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_valcenis_replat-des-canons.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.847503844597724,
+      "lat": 45.27125658507772
+    },
+    {
+      "name" : "Meribel - Tougnète",
+      "url" : "https://app.webcam-hd.com/meribel/meribel_tougnete",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_meribel_tougnete.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.5572707186839985,
+      "lat": 45.36457276402547
     }
   ]
 }
+
