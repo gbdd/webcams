@@ -9558,6 +9558,22 @@
       "type": "mountain",
       "lng": 5.5477674690207115,
       "lat": 44.89296933793886
+    },
+    {
+      "name" : "Nice - Promenade des anglais",
+      "url" : "https://pv.viewsurf.com/2274/Nice-promenade-des-anglais",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 7.2660014814509095,
+      "lat": 43.695321558868166
+    },
+    {
+      "name" : "Nice - Promenade du paillon",
+      "url" : "https://pv.viewsurf.com/598/Nice-promenade-du-paillon?i=MzYwMDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 7.272136140632421,
+      "lat": 43.698044073261514
     }
   ]
 }
