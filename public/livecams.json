@@ -9342,6 +9342,222 @@
       "type": "mountain",
       "lng": 6.5572707186839985,
       "lat": 45.36457276402547
+    },
+    {
+      "name" : "Font d'Urle",
+      "url" : "https://app.webcam-hd.com/la-drome/font-d-urle",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_la-drome_font-d-urle.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.333849514726004,
+      "lat": 44.90819117379768
+    },
+    {
+      "name" : "Lus la Jarjatte - Lièvre Blanc",
+      "url" : "https://app.webcam-hd.com/la-drome/piste-lievre-blanc",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_la-drome_piste-du-lievre-blanc.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.767797329354419,
+      "lat": 44.67223180836847
+    },
+    {
+      "name" : "Lus la Jarjatte",
+      "url" : "https://app.webcam-hd.com/la-drome/lus-la-jarjatte",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_la-drome_lus-la-jarjatte.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.758141063511955,
+      "lat": 44.67482225187312
+    },
+    {
+      "name" : "Gerardmer - pistes",
+      "url" : "https://app.webcam-hd.com/gerardmer/tetras",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_gerardmer_tetras.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.9013042823682555,
+      "lat": 48.05596525852428
+    },
+    {
+      "name" : "Chatel - Le Morclan",
+      "url" : "https://app.webcam-hd.com/chatel/morclan",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_chatel_morclan.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.857661878654995,
+      "lat": 46.27679883611418
+    },
+    {
+      "name" : "Chatel - Lac de la Mouille",
+      "url" : "https://app.webcam-hd.com/chatel/lac-de-la-mouille",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_chatel_lac-de-la-mouille.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.854279636737249,
+      "lat": 46.263542928603286
+    },
+    {
+      "name" : "Vaujany - L'Alpette",
+      "url" : "https://app.webcam-hd.com/vaujany/alpette",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_vaujany_alpette.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.093121944620503,
+      "lat": 45.139523688462475
+    },
+    {
+      "name" : "Vaujany - Sommet",
+      "url" : "https://app.webcam-hd.com/vaujany/sommet-2800",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_vaujany_sommet-2800.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.106308700910249,
+      "lat": 45.1283205046553
+    },
+    {
+      "name" : "Vaujany - Montfrais",
+      "url" : "https://app.webcam-hd.com/vaujany/front-de-neige",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_vaujany_montfrais.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.098470030148288,
+      "lat": 45.16168886899276
+    },
+    {
+      "name" : "Le Tréport",
+      "url" : "https://app.webcam-hd.com/villes_soeurs/treport_plage",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_ville-soeur_treport-plage.jpg",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 1.3671807538515857,
+      "lat": 50.06205680549085
+    },
+    {
+      "name" : "Gamaches - Base nautique",
+      "url" : "https://app.webcam-hd.com/villes_soeurs/gamaches_nautique",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_ville-soeur_gamache-nautique.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 1.538326296392435,
+      "lat": 49.995730911749234
+    },
+    {
+      "name" : "Criel sur Mer",
+      "url" : "https://app.webcam-hd.com/villes_soeurs/criel_sur_mer",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_ville-soeur_criel-sur-mer.jpg",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 1.3156970184804073,
+      "lat": 50.03485538760872
+    },
+    {
+      "name" : "Ault - Plage d'Onival",
+      "url" : "https://app.webcam-hd.com/villes_soeurs/ault_onival",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_ville-soeur_ault-onival.jpg",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 1.4536026019879438,
+      "lat": 50.108770273836626
+    },
+    {
+      "name" : "Ault",
+      "url" : "https://app.webcam-hd.com/villes_soeurs/ault_centre_ville",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_ville-soeur_ault-centre-ville.jpg",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 1.4458698670886974,
+      "lat": 50.101718831119214
+    },
+    {
+      "name" : "La Joue du Loup - Les Fontettes",
+      "url" : "https://app.webcam-hd.com/superdevoluy/fontettes",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_superdevoluy_telemix-des-fontettes.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.889845870815314,
+      "lat": 44.66665679237831 
+    },
+    {
+      "name" : "Super Devoluy - Génépy",
+      "url" : "https://app.webcam-hd.com/superdevoluy/sommet-domaine-skiable",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_superdevoluy_sommet-domaine-skiable.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.898511030471063,
+      "lat": 44.64870792372046
+    },
+    {
+      "name" : "Vercorin",
+      "url" : "https://app.webcam-hd.com/vercorin/le_mont",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_vercorin_le-mont.jpg",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 7.532040613306528,
+      "lat": 46.25592946199483
+    },
+    {
+      "name" : "Vercorin - Mont Major",
+      "url" : "https://app.webcam-hd.com/vercorin/mont_major",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_vercorin_mont-major.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 7.531844461709388,
+      "lat": 46.2249031428668
+    },
+    {
+      "name" : "Valberg - Leysin",
+      "url" : "https://app.webcam-hd.com/valberg/leysin",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_valberg_leysin.jpg",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.932626182727655,
+      "lat": 44.09621578273869
+    },
+    {
+      "name" : "Valberg - Tête des Eguilles",
+      "url" : "https://app.webcam-hd.com/valberg/sommet-tete-des-eguilles",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_valberg_sommet-tete-des-eguilles.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.941111662135744,
+      "lat": 44.074887651425904
+    },
+    {
+      "name" : "Saint Gervais - Mont d'Arbois",
+      "url" : "https://app.webcam-hd.com/st-gervais/freddy",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_st_gervais_freddy.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.669085734059017,
+      "lat": 45.85511682590773
+    },
+    {
+      "name" : "Col de la Met",
+      "url" : "https://app.webcam-hd.com/valcenis/la-met",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_valcenis_la-met.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.9325732462201115,
+      "lat": 45.26040708803924
+    },
+    {
+      "name" : "Orcières - Le Drouvet",
+      "url" : "https://app.webcam-hd.com/orcieres-1850/le-drouvet",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_orcieres-croze.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.31813976183894,
+      "lat": 44.721006576420194
+    },
+    {
+      "name" : "Gresse en Vercors - Front de neige",
+      "url" : "https://app.webcam-hd.com/gresse-en-vercors/grand-veymont",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_gresse-en-vercors_maison-du-grand-veymont.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.5477674690207115,
+      "lat": 44.89296933793886
     }
   ]
 }
