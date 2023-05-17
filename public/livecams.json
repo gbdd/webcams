@@ -9585,15 +9585,6 @@
       "lat": 45.35529059645228
     },
     {
-      "name" : "Ausois - Domaine nordique",
-      "url" : "https://app.webcam-hd.com/aussois/domaine-nordique-monolithe",
-      "thumburl" : "https://srv08.trinum.com/ibox/ftpcam/small_aussois_domaine-nordique-monolithe.jpg",
-      "iframesrc" : "s",
-      "type": "mountain",
-      "lng": 2.464762133298063,
-      "lat": 42.53447412531123
-    },
-    {
       "name" : "Chabanon - Sommet des monges",
       "url" : "https://app.webcam-hd.com/chabanon/sommet-des-monges",
       "thumburl" : "https://srv04.trinum.com/ibox/ftpcam/small_chabanon_sommet-les-monges.jpg",
