@@ -9664,6 +9664,15 @@
       "type": "lake",
       "lng": 4.567123574596918,
       "lat": 44.30035274228127
+    },
+    {
+      "name" : "Le Hohneck",
+      "url" : "https://app.webcam-hd.com/hotel-hohneck/hohneck",
+      "thumburl" : "https://srv01.trinum.com/ibox/ftpcam/small_hotel-hohneck_hohneck.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 7.015478065233523,
+      "lat": 48.03747112903912
     }
   ]
 }
