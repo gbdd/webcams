@@ -8687,15 +8687,6 @@
       "lat": 44.68744186850028 
     },
     {
-      "name" : "Super Besse",
-      "url" : "https://app.webcam-hd.com/superbesse/superbesse_ecole",
-      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_superbesse_ecole.jpg",
-      "iframesrc" : "s",
-      "type": "mountain",
-      "lng": 2.8590263997433416,
-      "lat": 45.50678329236656 
-    },
-    {
       "name" : "Saint Vincent sur Jard",
       "url" : "https://app.webcam-hd.com/saint-vincent-sur-jard/maison-clemenceau",
       "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_saint-vincent-sur-jard_maison-clemenceau.jpg",
@@ -9574,6 +9565,114 @@
       "type": "city",
       "lng": 7.272136140632421,
       "lat": 43.698044073261514
+    },
+    {
+      "name" : "Refuge des Cortalets",
+      "url" : "https://app.webcam-hd.com/les-cortalets/refuge-des-cortalets",
+      "thumburl" : "https://srv04.trinum.com/ibox/ftpcam/small_les-cortalets_refuge-des-cortalets.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 2.464762133298063,
+      "lat": 42.53447412531123
+    },
+    {
+      "name" : "Anzat le Luguet - Parrot",
+      "url" : "https://app.webcam-hd.com/anzat-le-luguet/parrot",
+      "thumburl" : "https://srv02.trinum.com/ibox/ftpcam/small_anzat-le-luguet_parrot.jpg",
+      "iframesrc" : "s",
+      "type": "country",
+      "lng": 2.9991200798602797,
+      "lat": 45.35529059645228
+    },
+    {
+      "name" : "Ausois - Domaine nordique",
+      "url" : "https://app.webcam-hd.com/aussois/domaine-nordique-monolithe",
+      "thumburl" : "https://srv08.trinum.com/ibox/ftpcam/small_aussois_domaine-nordique-monolithe.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 2.464762133298063,
+      "lat": 42.53447412531123
+    },
+    {
+      "name" : "Chabanon - Sommet des monges",
+      "url" : "https://app.webcam-hd.com/chabanon/sommet-des-monges",
+      "thumburl" : "https://srv04.trinum.com/ibox/ftpcam/small_chabanon_sommet-les-monges.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 6.281816306892636,
+      "lat": 44.337782527298145
+    },
+    {
+      "name" : "Chalmazel - Jasseries",
+      "url" : "https://m.webcam-hd.com/chalmazel/jasseries",
+      "thumburl" : "https://srv02.trinum.com/ibox/ftpcam/small_chalmazel_jasseries.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 3.8132133429790542,
+      "lat": 45.66176112153032
+    },
+    {
+      "name" : "Lac de Chambon",
+      "url" : "https://app.webcam-hd.com/sancy/lac-de-chambon",
+      "thumburl" : "https://srv02.trinum.com/ibox/ftpcam/small_sancy_lac-de-chambon.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 2.928656717205525,
+      "lat": 45.56785527454311
+    },
+    {
+      "name" : "Mont Dore - Bas de la station",
+      "url" : "https://app.webcam-hd.com/sancy/mont-dore-bas-station",
+      "thumburl" : "https://srv03.trinum.com/ibox/ftpcam/small_sancy_bas-station.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 2.814398775967807,
+      "lat": 45.54171986750748
+    },
+    {
+      "name" : "Super Besse - Lac des Hermines",
+      "url" : "https://app.webcam-hd.com/sancy/superbesse-ecole",
+      "thumburl" : "https://srv05.trinum.com/ibox/ftpcam/small_sancy_superbesse-ecole.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 2.8591026468017127,
+      "lat": 45.50679982531108
+    },
+    {
+      "name" : "Super Besse",
+      "url" : "https://app.webcam-hd.com/sancy/superbesse-haut",
+      "thumburl" : "https://srv05.trinum.com/ibox/ftpcam/small_sancy_superbesse-haut.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 2.8469409548342854,
+      "lat": 45.5174476115693
+    },
+    {
+      "name" : "Corrençon en Vercors",
+      "url" : "https://app.webcam-hd.com/correncon-en-vercors/villemomble",
+      "thumburl" : "https://www.trinum.com/ibox/ftpcam/small_correncon_villemomble.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.526238153747101,
+      "lat": 45.04148022829018
+    },
+    {
+      "name" : "Corrençon en Vercors - stade de biathlon",
+      "url" : "https://app.webcam-hd.com/correncon-en-vercors/stand-de-tir",
+      "thumburl" : "https://srv05.trinum.com/ibox/ftpcam/small_correncon-en-vercors_stand-de-tir.jpg",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 5.512970876173156,
+      "lat": 45.01695085603982
+    },
+    {
+      "name" : "Saint Martin d'Ardèche",
+      "url" : "https://app.webcam-hd.com/gorges-ardeche/pont-saint-martin",
+      "thumburl" : "https://srv05.trinum.com/ibox/ftpcam/small_ot-gorges-ardeche_saint-martin-d-ardeche.jpg",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 4.567123574596918,
+      "lat": 44.30035274228127
     }
   ]
 }
