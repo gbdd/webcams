@@ -5354,7 +5354,7 @@
       "url": "https://jeunesrives.roundshot.com/",
       "name": "Jeunes-Rives",
       "iframesrc": "s",
-      "type": "mountain",
+      "type": "lake",
       "lng": 6.935444,
       "lat": 46.990937
     },
@@ -9673,7 +9673,17 @@
       "type": "mountain",
       "lng": 7.015478065233523,
       "lat": 48.03747112903912
+    },
+    {
+      "name" : "Refugio Gastaldi",
+      "url" : "https://bessanese.panomax.com",
+      "id": "1222",
+      "iframesrcdesktop" : "s",
+      "type": "mountain",
+      "lng": 7.1427315919760535,
+      "lat": 45.29770141556303
     }
   ]
 }
+
 
