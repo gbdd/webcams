@@ -6746,7 +6746,7 @@
     {
       "id": "1241",
       "url": "https://zermatt.roundshot.com/langlaufloipe-schalisee/",
-      "name": "Zermatt Tourismus - T\u00e4sch",
+      "name": "T\u00e4sch",
       "iframesrc": "s",
       "type": "city",
       "lng": 7.77628,
@@ -9682,6 +9682,222 @@
       "type": "mountain",
       "lng": 7.1427315919760535,
       "lat": 45.29770141556303
+    },
+    {
+      "id": "649",
+      "url": "https://wildhaus.roundshot.com/oberdorf/",
+      "name": "Oberdorf",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.345185,
+      "lat": 47.192147
+    },
+    {
+      "id": "1042",
+      "url": "https://zermatt.roundshot.com/gornergrat/",
+      "name": "Gornergrat",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.78331,
+      "lat": 45.98314
+    },
+    {
+      "id": "1043",
+      "url": "https://zermatt.roundshot.com/hohtaelli/",
+      "name": "Hoht\u00e4lli",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.80214,
+      "lat": 45.98898
+    },
+    {
+      "id": "3f43d703172868cc5068fdfa7ef67892",
+      "url": "https://zermatt.roundshot.com/randa/",
+      "name": "Randa",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.783302,
+      "lat": 46.100447
+    },
+    {
+      "id": "db525e5462a2414abd7500e07aa08d51",
+      "url": "https://zermatt.roundshot.com/taesch/",
+      "name": "T\u00e4sch Dorf",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.778781,
+      "lat": 46.066907
+    },
+    {
+      "id": "432",
+      "url": "https://bielkinzig.roundshot.com/weissenboden/",
+      "name": "Weissenboden",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.709376,
+      "lat": 46.899811
+    },
+    {
+      "id": "557",
+      "url": "https://braunwald.roundshot.com/gumen/",
+      "name": "Gumen",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.98477,
+      "lat": 46.95616
+    },
+    {
+      "id": "856",
+      "url": "https://braunwald.roundshot.com/nussbuehl/",
+      "name": "Nussbuehl",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.98918,
+      "lat": 46.9274
+    },
+    {
+      "id": "556",
+      "url": "https://braunwald.roundshot.com/z_grotzenbuel/",
+      "name": "Z_Grotzenbüel",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.99356,
+      "lat": 46.94919
+    },
+    {
+      "id": "1344",
+      "url": "https://brigtourismus.roundshot.com/simplonpass/",
+      "name": "Simplon pass",
+      "iframesrc": "s",
+      "type": "road",
+      "lng": 8.03087,
+      "lat": 46.24923
+    },
+    {
+      "id": "667",
+      "url": "https://pds-ch.roundshot.com/lescrosets/",
+      "name": "Champéry - Les Crosets",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.834239,
+      "lat": 46.183638
+    },
+    {
+      "id": "587",
+      "url": "https://brambruesch.roundshot.com/",
+      "name": "Chur Bergbahnen",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.50279,
+      "lat": 46.81233
+    },
+    {
+      "id": "257",
+      "url": "https://lenzerheide.roundshot.com/parpan/",
+      "name": "Parpan",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.563125,
+      "lat": 46.759153
+    },
+    {
+      "id": "1078",
+      "url": "https://disentis.roundshot.com/caischavedra/",
+      "name": "Disentis - Caischavedra",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.815966,
+      "lat": 46.704449
+    },
+    {
+      "id": "1076",
+      "url": "https://disentis.roundshot.com/cuolmdavi/",
+      "name": "Disentis - Cuolm Da Vi",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.78839,
+      "lat": 46.69732
+    },
+    {
+      "id": "1077",
+      "url": "https://disentis.roundshot.com/gendusa/",
+      "name": "Disentis - Gendusas",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.797241,
+      "lat": 46.706322
+    },
+    {
+      "id": "1060",
+      "url": "https://maennlichen.roundshot.com/",
+      "name": "M\u00e4nnlichen Bergstation Wengen",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.942,
+      "lat": 46.610971
+    },
+    {
+      "id": "1321",
+      "url": "https://hochwang.roundshot.com/triemel/",
+      "name": "Hochwang Sportbahnen - Triemel",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.64998,
+      "lat": 46.85019
+    },
+    {
+      "id": "336",
+      "url": "https://hohsaas.roundshot.com/3200/",
+      "name": "Hohsaas 3200m",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.990729,
+      "lat": 46.139684
+    },
+    {
+      "id": "705",
+      "url": "https://hohsaas.roundshot.com/kreuzboden/",
+      "name": "Kreuzboden 2400m",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.965014,
+      "lat": 46.139907
+    },
+    {
+      "id": "1064",
+      "url": "https://jungfrau.roundshot.com/top-of-europe-eiger-express/",
+      "name": "Jungfraubahnen - Eiger Express Panorama Mast 4",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.99664,
+      "lat": 46.59896
+    },
+    {
+      "id": "1514",
+      "url": "https://jungfrau.roundshot.com/lauberhorn/",
+      "name": "Lauberhorn Wixi",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.94704,
+      "lat": 46.58652
+    },
+    {
+      "id": "796",
+      "url": "https://wolzenalp.roundshot.com/",
+      "name": "Wolzenalp",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.153405,
+      "lat": 47.228785
+    },
+    {
+      "id": "52",
+      "url": "https://lenzerheide.roundshot.com/rothorn/",
+      "name": "Parpaner Rothorn",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.597324,
+      "lat": 46.742601
     }
   ]
 }
