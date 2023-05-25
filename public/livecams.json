@@ -795,6 +795,7 @@
     },
     {
       "name" : "Seattle - Space Needle",
+      "id" : "252",
       "url" : "https://spaceneedle.roundshot.com/",
       "iframesrc" : "s",
       "type": "city",
@@ -2822,22 +2823,6 @@
       "lat": 46.82157765449667
     },
     {
-      "name" : "Verbier - Fontanets",
-      "url" : "https://verbier.roundshot.com/fontanets/",
-      "iframesrc": "s",
-      "type": "mountain",
-      "lng": 7.2648163126198355,
-      "lat": 46.087437372266734
-    },
-    {
-      "name" : "Verbier - Mont-Fort",
-      "url" : "https://verbier.roundshot.com/montfort/",
-      "iframesrc": "s",
-      "type": "mountain",
-      "lng": 7.318332425835002,
-      "lat": 46.080019963584895
-    },
-    {
       "name" : "Säntis der Berg",
       "url" : "https://saentis.roundshot.com/",
       "iframesrc": "s",
@@ -4605,14 +4590,6 @@
       "lat": 42.33794170825539
     },
     {
-      "name" : "Lappeenranta",
-      "url" : "https://skyviewlive.roundshot.com/lappeenranta/",
-      "iframesrc": "s",
-      "type": "city",
-      "lng": 28.19845909868886,
-      "lat": 61.05942829648086
-    },
-    {
       "name" : "Barcelona - Sagrada Familia",
       "url" : "https://webcams.windy.com/webcams/stream/1448811166",
       "iframesrc": "https://webcams.windy.com/webcams/public/embed/player/1448811166/live",
@@ -4830,9 +4807,9 @@
     {
       "id:":  "1257",
       "url": "https://nendaz.roundshot.com/lacdetracouet/",
-      "name": "Nendaz - Lac  de Tracouet",
+      "name": "Nendaz - Lac de Tracouet",
       "iframesrc": "s",
-      "type": "mountain",
+      "type": "lake",
       "lng": 7.2820364709597,
       "lat": 46.159192183442
     },
@@ -5280,7 +5257,7 @@
     {
       "id": "573",
       "url": "https://lespaccots.roundshot.com/rathvel/",
-      "name": "Les Paccots - La Veveyse Tourisme - Rathvel - Les Paccots - La Veveyse",
+      "name": "Les Paccots - Rathvel",
       "iframesrc": "s",
       "type": "mountain",
       "lng": 6.977096,
@@ -7327,6 +7304,7 @@
     },
     {
       "url": "https://snowbird.roundshot.com",
+      "id" : "1188",
       "name": "Snowbird",
       "iframesrc": "s",
       "type": "mountain",
@@ -9898,8 +9876,831 @@
       "type": "mountain",
       "lng": 9.597324,
       "lat": 46.742601
+    },
+    {
+      "url": "https://www.whatsupcams.com/wgt/it_buggerru02",
+      "name": "Buggerru - San Nicolò",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 8.411556849200942,
+      "lat": 39.419737591077386
+    },
+    {
+      "url": "https://www.whatsupcams.com/wgt/es_tenerife01",
+      "name": "Playa de Las Galgas",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": -16.77626685777418,
+      "lat": 28.122075784763705
+    },
+    {
+      "url": "http://aspen.roundshot.com/aspen/",
+      "name": "Aspen",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -106.8195694,
+      "lat": 39.151425
+    },
+
+    {
+      "id": "261",
+      "url": "https://palisadestahoe.roundshot.com/alpine/",
+      "name": "Alpine Summit",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -120.2483056,
+      "lat": 39.1508583
+    },
+    {
+      "id": "678",
+      "url": "https://alyeskaresort.roundshot.com/glacierbowl/",
+      "name": "Alyeska Resort",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -149.071666,
+      "lat": 60.96212
+    },
+    {
+      "id": "1328",
+      "url": "https://anakeesta.roundshot.com/",
+      "name": "Gatlinburg - Anakeesta",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": -83.504083,
+      "lat": 35.710093
+    },
+    {
+      "id": "517",
+      "url": "https://iid.roundshot.com/anza-borrego/",
+      "name": "Anza-Borrego",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": -116.159317,
+      "lat": 33.1654917
+    },
+    {
+      "id": "98",
+      "url": "https://aspen.roundshot.com/highlands/",
+      "name": "Aspen - Highlands",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -106.87349,
+      "lat": 39.141886
+    },
+    {
+      "id": "1244",
+      "url": "https://lonemountainland.roundshot.com/moonlightbasin/",
+      "name": "Big Sky - Moonlight Basin",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -111.417844,
+      "lat": 45.308362
+    },
+    {
+      "id": "1245",
+      "url": "https://lonemountainland.roundshot.com/spanishpeaks/",
+      "name": "Big Sky - Spanish Peaks",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -111.372538,
+      "lat": 45.249448
+    },
+    {
+      "id": "1243",
+      "url": "https://lonemountainland.roundshot.com/towncenter/",
+      "name": "Big Sky",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": -111.306579,
+      "lat": 45.260311
+    },
+    {
+      "id": "1320",
+      "url": "https://iid.roundshot.com/bombay-beach/",
+      "name": "Salton Sea - Bombay Beach",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": -115.725445,
+      "lat": 33.348971
+    },
+    {
+      "id": "96",
+      "url": "https://aspen.roundshot.com/buttermilk/",
+      "name": "Aspen - Buttermilk",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -106.8753861,
+      "lat": 39.1820778
+    },
+    {
+      "id": "1203",
+      "url": "https://crystalmountainresort.roundshot.com/summit/",
+      "name": "Crystal Mountain Summit",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -121.500405,
+      "lat": 46.937713
+    },
+    {
+      "id": "866",
+      "url": "https://fairmont.roundshot.com/banff-springs/",
+      "name": "Fairmont Banff Springs",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -115.560504,
+      "lat": 51.163913
+    },
+    {
+      "id": "1829",
+      "url": "https://fairmont.roundshot.com/lake-louise/",
+      "name": "Fairmont Chateau Lake Louise",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": -116.216983,
+      "lat": 51.417093
+    },
+    {
+      "id": "1170",
+      "url": "https://gatlinburgskylift.roundshot.com/skybridge/",
+      "name": "Gatlinburg Skybridge",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": -83.520003,
+      "lat": 35.715513
+    },
+    {
+      "id": "979",
+      "url": "https://huntermtn.roundshot.com/",
+      "name": "Hunter Mountain",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -74.230443,
+      "lat": 42.201274
+    },
+    {
+      "id": "844",
+      "url": "https://jasperskytram.roundshot.com/",
+      "name": "Jasper SkyTram",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -118.126072,
+      "lat": 52.836381
+    },
+    {
+      "id": "1001",
+      "url": "https://limelighthotels.roundshot.com/snowmass/",
+      "name": "Aspen - Snowmass",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": -106.947668,
+      "lat": 39.208777
+    },
+    {
+      "id": "1723",
+      "url": "https://lodgeatwhitefishlake.roundshot.com/",
+      "name": "Whitefish Lake",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": -114.342673,
+      "lat": 48.43138
+    },
+    {
+      "id": "972",
+      "url": "https://lutsen.roundshot.com/",
+      "name": "Lake Superior - Lutsen Mountains",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": -90.708748,
+      "lat": 47.663028
+    },
+    {
+      "id": "845",
+      "url": "https://skimarmot.roundshot.com/",
+      "name": "Marmot Basin",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -118.115165,
+      "lat": 52.799501
+    },
+    {
+      "id": "435",
+      "url": "https://killington.roundshot.com/peaklodge/",
+      "name": "Killington - Peak Lodge",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -72.817569,
+      "lat": 43.604955
+    },
+    {
+      "id": "99",
+      "url": "https://aspen.roundshot.com/power-of-four/",
+      "name": "Aspen - Power of Four",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -106.836158,
+      "lat": 39.225782
+    },
+    {
+      "id": "656",
+      "url": "https://skilouise.roundshot.com/ptarmigan/",
+      "name": "Ptarmigan",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -116.1248861,
+      "lat": 51.4542278
+    },
+    {
+      "id": "620",
+      "url": "https://jacksonhole.roundshot.com/rendezvous-lodge/",
+      "name": "Jacksonhole - Rendezvous Lodge",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -110.8542333,
+      "lat": 43.6013667
+    },
+    {
+      "id": "1158",
+      "url": "https://tellurideskiresort.roundshot.com/",
+      "name": "Telluride - Revelation Bowl",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -107.822689,
+      "lat": 37.898801
+    },
+    {
+      "id": "518",
+      "url": "https://iid.roundshot.com/salton-south/",
+      "name": "Salton Sea - South",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": -115.612132,
+      "lat": 33.199962
+    },
+    {
+      "id": "260",
+      "url": "https://palisadestahoe.roundshot.com/silverado/",
+      "name": "Silverado",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -120.2669306,
+      "lat": 39.1957194
+    },
+    {
+      "id": "932",
+      "url": "https://schweitzer.roundshot.com/skyhouse/",
+      "name": "Schweitzer - Sky House",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -116.633699,
+      "lat": 48.379609
+    },
+    {
+      "id": "97",
+      "url": "https://aspen.roundshot.com/snowmass/",
+      "name": "Aspen - Snowmass Mountain",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -106.926635,
+      "lat": 39.168912
+    },
+    {
+      "id": "940",
+      "url": "https://aspen.roundshot.com/snowmass-samsknob/",
+      "name": "Aspen - Snowmass Sams Knob",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -106.972525,
+      "lat": 39.187251
+    },
+    {
+      "id": "999",
+      "url": "https://jacksonhole.roundshot.com/summit/",
+      "name": "Jacksonhole - Summit",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -110.869061,
+      "lat": 43.596475
+    },
+    {
+      "id": "1614",
+      "url": "https://cityofmontrose.roundshot.com/",
+      "name": "Montrose",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": -107.87817,
+      "lat": 38.456217
+    },
+    {
+      "id": "772",
+      "url": "https://tintop.roundshot.com/",
+      "name": "Tin Top Texas",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": -97.83126,
+      "lat": 32.542018
+    },
+    {
+      "id": "537",
+      "url": "https://uah.roundshot.com/swirll/",
+      "name": "Huntsville - SWIRLL",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": -86.646432,
+      "lat": 34.725184
+    },
+    {
+      "id": "1319",
+      "url": "https://iid.roundshot.com/vail-drain/",
+      "name": "Vail Drain",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": -115.666223,
+      "lat": 33.133219
+    },
+    {
+      "id": "1000",
+      "url": "https://skiwhitefish.roundshot.com/summit/",
+      "name": "Whitefish Summit",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -114.341033,
+      "lat": 48.502564
+    },
+    {
+      "id": "54",
+      "url": "https://lenzerheide.roundshot.com/pizscalottas/",
+      "name": "Lenzerheide Bergbahnen - Piz Scalottas",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.511115,
+      "lat": 46.721888
+    },
+    {
+      "id": "265",
+      "url": "https://lenzerheide.roundshot.com/talstation/",
+      "name": "Lenzerheide Bergbahnen - Talstation",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.557097,
+      "lat": 46.740251
+    },
+    {
+      "id": "53",
+      "url": "https://lenzerheide.roundshot.com/urdenfuerggli/",
+      "name": "Lenzerheide Bergbahnen - Urdenfuerggli",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.595082,
+      "lat": 46.769676
+    },
+    {
+      "id": "686",
+      "url": "https://marbachegg.roundshot.com/",
+      "name": "Marbachegg Sportbahnen - Marbachegg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.906235,
+      "lat": 46.83515
+    },
+    {
+      "id": "1427",
+      "url": "https://kachelmannwieder.roundshot.com/troisvierges/",
+      "iframesrc": "s",
+      "name": "Troisvierges",
+      "type": "city",
+      "lng": 6.0015,
+      "lat": 50.121279
+    },
+    {
+      "id": "251",
+      "url": "https://kachelmannwieder.roundshot.com/fondationpescatore/",
+      "name": "Luxembourg - Fondation Pescatore",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.127607,
+      "lat": 49.616043
+    },
+    {
+      "id": "352",
+      "url": "https://kachelmannwieder.roundshot.com/rodange/",
+      "name": "Rodange",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 5.83884,
+      "lat": 49.546678
+    },
+    {
+      "id": "494",
+      "url": "https://hafen-faoug.roundshot.com/",
+      "name": "Faoug",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 7.071206,
+      "lat": 46.908232
+    },
+    {
+      "id": "364",
+      "url": "https://kaeserstatt.roundshot.com/",
+      "name": "Meiringen Hasliberg - K\u00e4serstatt",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.218772,
+      "lat": 46.757572
+    },
+    {
+      "id": "124",
+      "url": "https://maegisalp.roundshot.com/",
+      "name": "Meiringen Hasliberg - Maegisalp",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.236862,
+      "lat": 46.749265
+    },
+    {
+      "id": "160",
+      "url": "https://bonistock.roundshot.com/",
+      "name": "Melchsee-Frutt - Bonistock",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.289915,
+      "lat": 46.777667
+    },
+    {
+      "id": "161",
+      "url": "https://melchseefrutt.roundshot.com/",
+      "name": "Melchsee-Frutt - Dorf",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.268524,
+      "lat": 46.774624
+    },
+    {
+      "id": "1069",
+      "url": "https://nendaz.roundshot.com/greppon-blanc/",
+      "name": "Nendaz - Greppon Blanc",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.3483,
+      "lat": 46.152564
+    },
+    {
+      "id": "1216",
+      "url": "https://nendaz.roundshot.com/plandufou/",
+      "name": "Nendaz - Plan du Fou",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.29305,
+      "lat": 46.13973
+    },
+    {
+      "id": "1276",
+      "url": "https://nendaz.roundshot.com/prarion-balavaud/",
+      "name": "Nendaz - Prarion-Balavaud",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.2786579418128,
+      "lat": 46.148980112079
+    },
+    {
+      "id": "1218",
+      "url": "https://nendaz.roundshot.com/siviez/",
+      "name": "Nendaz - Siviez",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.31641,
+      "lat": 46.13518
+    },
+    {
+      "id": "1213",
+      "url": "https://nendaz.roundshot.com/arriveetracouet/",
+      "name": "Nendaz - Tracouet Arriv\u00e9e",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.30441,
+      "lat": 46.11369
+    },
+    {
+      "id": "1219",
+      "url": "https://nendaz.roundshot.com/depart-tracouet/",
+      "name": "Nendaz - Tracouet D\u00e9part",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.29118,
+      "lat": 46.17988
+    },
+    {
+      "id": "728",
+      "url": "https://niederhornbahn.roundshot.com/",
+      "name": "Niederhorn",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.775161,
+      "lat": 46.71056
+    },
+    {
+      "id": "429",
+      "url": "https://schilthorn.roundshot.com/allmendhubel/",
+      "name": "Schilthorn - Allmendhubel",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.887601,
+      "lat": 46.56413
+    },
+    {
+      "id": "428",
+      "url": "https://schilthorn.roundshot.com/birg/",
+      "name": "Schilthorn - Birg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.85823,
+      "lat": 46.56235
+    },
+    {
+      "id": "650",
+      "url": "https://alpsellamatt.roundshot.com/",
+      "name": "St Johann - Berghotel",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.296916,
+      "lat": 47.182558
+    },
+    {
+      "id": "651",
+      "url": "https://alpsellamatt.roundshot.com/zinggen/",
+      "name": "St Johann - Zinggen",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.298144,
+      "lat": 47.17716
+    },
+    {
+      "id": "1022",
+      "url": "https://verbier.roundshot.com/savoleyres/",
+      "name": "Verbier - Savoleyres",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.2123,
+      "lat": 46.122
+    },
+    {
+      "id": "1311",
+      "url": "https://verbier.roundshot.com/tzoumaz/",
+      "name": "Verbier - Tzoumaz",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.23311,
+      "lat": 46.14484
+    },
+    {
+      "id": "1119",
+      "url": "https://lavuardette.roundshot.com/",
+      "name": "La Vuardette",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.146981,
+      "lat": 45.982313
+    },
+    {
+      "id": "292",
+      "url": "https://wasserfallenbahn.roundshot.com/",
+      "name": "Wasserfallen",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.699929,
+      "lat": 47.373644
+    },
+    {
+      "id": "663",
+      "url": "https://wildhaus.roundshot.com/gamsalp/",
+      "name": "Wildhaus - Gamsalp",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.338264,
+      "lat": 47.17366
+    },
+    {
+      "id": "1433",
+      "url": "https://verbier.roundshot.com/bruson/",
+      "name": "Verbier - Bruson - La Pasay",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.18344,
+      "lat": 46.05063
+    },
+    {
+      "id": "1378",
+      "url": "https://verbier.roundshot.com/fontanets/",
+      "name": "Verbier - Fontanets",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.26475,
+      "lat": 46.08737
+    },
+    {
+      "id": "1473",
+      "url": "https://verbier.roundshot.com/les-attelas/",
+      "name": "Verbier - Les Attelas",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.26823,
+      "lat": 46.09925
+    },
+    {
+      "id": "1132",
+      "url": "https://verbier.roundshot.com/montfort/",
+      "name": "Verbier - Mont Fort",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.3180849,
+      "lat": 46.0800814
+    },
+    {
+      "id": "180",
+      "url": "https://lenzerheide.roundshot.com/bargias/",
+      "name": "Bargias - Heidsee",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 9.546924,
+      "lat": 46.736451
+    },
+    {
+      "id": "1128",
+      "url": "https://gspon.roundshot.com/",
+      "name": "Gspon - Staldenried",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.902188,
+      "lat": 46.226746
+    },
+    {
+      "id": "156",
+      "url": "https://saentis.roundshot.com/",
+      "name": "S\u00e4ntis Gipfel",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.343195,
+      "lat": 47.249219
+    },
+    {
+      "id": "1130",
+      "url": "https://saentis.roundshot.com/schwaegalp/",
+      "name": "S\u00e4ntis Schw\u00e4galp",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.31997,
+      "lat": 47.2539
+    },
+    {
+      "id": "620",
+      "url": "https://soerenberg.roundshot.com/rothorn/",
+      "name": "Sörenberg - Rothorn Gipfel",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.044505,
+      "lat": 46.78724
+    },
+    {
+      "id": "1121",
+      "url": "https://brunnenberg.roundshot.com/",
+      "name": "Brunnenberg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.023024,
+      "lat": 46.969974
+    },
+    {
+      "id": "633",
+      "url": "https://iltios.roundshot.com/",
+      "name": "Toggenburg - Iltios",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.311898,
+      "lat": 47.185275
+    },
+    {
+      "id": "1482",
+      "url": "https://graechen.roundshot.com/furgge/",
+      "name": "Furgge - Gr\u00e4chen",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.87353,
+      "lat": 46.20229
+    },
+    {
+      "id": "1376",
+      "url": "https://tschentenalp.roundshot.com/",
+      "name": "Tschentenalp Adelboden",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.544743,
+      "lat": 46.498323
+    },
+    {
+      "id": "1464",
+      "url": "https://thyon.roundshot.com/snowpark/",
+      "name": "Thyon - Snowpark",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.37996,
+      "lat": 46.1759
+    },
+    {
+      "id": "1336",
+      "url": "https://thyon.roundshot.com/trabanta/",
+      "name": "Thyon - Trabanta",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.36839,
+      "lat": 46.17756
+    },
+    {
+      "id": "694",
+      "url": "https://villars.roundshot.com/leschaux/",
+      "name": "Gryon - Les Chaux",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.103105,
+      "lat": 46.295654
+    },
+    {
+      "id": "242",
+      "url": "https://villars.roundshot.com/lesmazots/",
+      "name": "Les Diablerets - Les Mazots",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.132025,
+      "lat": 46.332584
+    },
+    {
+      "id": "72",
+      "url": "https://villars.roundshot.com/meilleret/",
+      "name": "Les Diablerets - Meilleret",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.121217,
+      "lat": 46.33333
+    },
+    {
+      "id": "73",
+      "url": "https://villars.roundshot.com/bretaye/",
+      "name": "Villars - Bretaye",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.07499,
+      "lat": 46.322872
+    },
+    {
+      "id": "71",
+      "url": "https://villars.roundshot.com/pt-chamossaire/",
+      "name": "Villars - Petit Chamossaire",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.067036,
+      "lat": 46.331522
+    },
+    {
+      "id": "575",
+      "lng": 23.681982,
+      "lat": 61.516508,
+      "url": "https://skyviewlive.roundshot.com/hiedanranta/",
+      "name": "Tampere - Hiedanranta",
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "id": "700",
+      "lng": 28.198528,
+      "lat": 61.059361,
+      "url": "https://skyviewlive.roundshot.com/lappeenranta/",
+      "name": "Lappeenranta",
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "url": "https://cffimmobilier.roundshot.com/quaiouest/",
+      "name": "Renens",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.578925,
+      "lat": 46.53682
+    },
+    {
+      "id": "1284",
+      "lng": 6.9196,
+      "lat": 46.48498,
+      "url": "https://montreux.roundshot.com/pleiades/",
+      "name": "Les Pl\u00e9iades",
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "lng": -70.4044701397788,
+      "lat": -24.627543040085325,
+      "url": "https://www.eso.org/public/outreach/webcams/",
+      "name": "ESO - Observatorio Paranal",
+      "iframesrc": "https://www.eso.org/public/outreach/webcams/#paranal",
+      "type": "country"
     }
   ]
 }
-
 
