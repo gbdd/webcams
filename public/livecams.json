@@ -10700,7 +10700,40 @@
       "name": "ESO - Observatorio Paranal",
       "iframesrc": "https://www.eso.org/public/outreach/webcams/#paranal",
       "type": "country"
+    },
+    {
+      "lng": -81.79359548722296,
+      "lat": 24.547524008920043,
+      "url": "https://relay.ozolio.com/pub.api?cmd=embed&oid=EMB_PTWW00000552",
+      "name": "Key West - Reach Gazebo",
+      "iframesrc": "s",
+      "type": "sea"
+    },
+    {
+      "lng": -5.472672756402627,
+      "lat": 50.12317189950859,
+      "url": "https://relay.ozolio.com/pub.api?cmd=explore&oid=CID_XNQT0000099E",
+      "name": "Saint Michael's mount",
+      "iframesrc": "s",
+      "type": "sea"
+    },
+    {
+      "lng": -117.17825037491619,
+      "lat": 32.67947862470959,
+      "url": "https://portal.hdontap.com/s/embed?stream=hdc_hoteldelsouith-4K_ptz-CUST&ratio=16:9&fluid=true",
+      "name": "San Diego - Coronado Beach",
+      "iframesrc": "s",
+      "type": "sea"
+    },
+    {
+      "name" : "Churchill - Northern Lights",
+      "url" : "https://www.youtube.com/watch?v=a0i1Kg6fROg",
+      "iframesrc" : "https://www.youtube.com/embed/a0i1Kg6fROg",
+      "type": "country",
+      "lng": -94.16798122042003,
+      "lat": 58.77235175994945
     }
+    
   ]
 }
 
