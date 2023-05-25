@@ -10732,8 +10732,15 @@
       "type": "country",
       "lng": -94.16798122042003,
       "lat": 58.77235175994945
+    },
+    {
+      "name" : "Pic du Midi",
+      "url" : "https://pv.viewsurf.com/2028/Pic-du-Midi?i=NzQxMjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 0.1412327298925173,
+      "lat": 42.93705702895012 
     }
-    
   ]
 }
 
