@@ -7377,8 +7377,8 @@
     },
     {
       "url": "https://www.skaping.com/genelard",
-      "lat": 46.58080105,
-      "lng": 4.23544068,
+      "lat": 46.577561899465145,
+      "lng": 4.235322679547734,
       "type": "lake",
       "name": "Génelard",
       "iframesrc": "s"
@@ -10876,8 +10876,59 @@
       "type": "lake",
       "lng": -0.8482003799884763,
       "lat": 44.017950807117565
+    },
+    {
+      "name" : "Saint Gilles - Plage des Roches Noires",
+      "url" : "https://pv.viewsurf.com/1586/La-Reunion-Roches-Noires?i=NjIxMDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 55.224167003185116,
+      "lat": -21.0537636284247
+    },
+    {
+      "name" : "Saint Paul - Boucan Canot",
+      "url" : "https://pv.viewsurf.com/1592/La-Reunion-Boucan-Canot-Saint-Paul?i=NjIyMjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 55.226153022446276,
+      "lat": -21.027694892544428
+    },
+    {
+      "name" : "Saint Paul - Plage de l'hermitage",
+      "url" : "https://pv.viewsurf.com/1594/La-Reunion-Hermitage-La-Passe-Saint-Paul?i=NjIyNjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 55.22205549263964,
+      "lat": -21.07957228516178
+    },
+    {
+      "name" : "Saint Leu - Colimaçons",
+      "url" : "https://pv.viewsurf.com/1584/La-Reunion-Colimacons-800?i=NjIwNjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 55.303615246947835,
+      "lat": -21.131585713142595
+    },
+    {
+      "name" : "Piton de la fournaise",
+      "url" : "https://pv.viewsurf.com/1984/Piton-de-la-fournaise-video?i=NzI4NDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "country",
+      "lng": 55.69698718279933,
+      "lat": -21.276241731475693
+    },
+    {
+      "name" : "La Turballe",
+      "url" : "https://pv.viewsurf.com/2004/La-Turballe-Ecole-%20de-voile?i=NzM2ODp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.5074460791250663,
+      "lat": 47.34395601551534
     }
-    
   ]
 }
+
+
+
+
 
