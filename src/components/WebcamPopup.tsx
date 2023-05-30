@@ -164,7 +164,11 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
             </a>
           </div>
         )}
-
+        { (thumbUrl === '') && (
+          <div className="noPreviewContainer">
+            The webcam has no embeddable preview, but a click on  <a href={lc.url} target="_blank" rel="noreferrer">the above link</a> may be worth it
+          </div>
+        )}
       </div>
     </Popup>
     )}
