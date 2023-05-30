@@ -49,7 +49,7 @@
 }
 
 .popupHeaderTitle a {
-  color: white;
+  color: var(--wc-fg-color);
 }
 
 .closeButton {
@@ -57,4 +57,11 @@
   margin-left: 20px;
   cursor: pointer;
   color: var(--wc-bg-color-lighter);
+}
+
+.noPreviewContainer {
+  color: var(--wc-fg-color);
+}
+.noPreviewContainer a {
+  color: var(--wc-fg-color);
 }
