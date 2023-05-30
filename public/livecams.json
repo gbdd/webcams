@@ -10740,7 +10740,144 @@
       "type": "mountain",
       "lng": 0.1412327298925173,
       "lat": 42.93705702895012 
+    },
+    {
+      "name" : "Sainte-Maxime",
+      "url" : "https://pv.viewsurf.com/1688/Sainte-Maxime-Vue-Panoramique-du-Port",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 6.63913620733775,
+      "lat": 43.30610676735575
+    },
+    {
+      "name" : "Carnac",
+      "url" : "https://pv.viewsurf.com/1716/Carnac-Grande-Plage?i=NjY0Njp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -3.0797560740161813,
+      "lat": 47.568266268128625
+    },
+    {
+      "name" : "Les Angles",
+      "url" : "http://pv.viewsurf.com/668/Les-Angles-vue-panoramique?i=Mzg2MDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": 2.04168626564245,
+      "lat": 42.5735845762043
+    },
+    {
+      "name" : "Saint-Brieuc - Port du Légué",
+      "url" : "https://pv.viewsurf.com/1086/Saint-Brieuc-Port-du-Legue-Panoramique",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": -2.748268447393388,
+      "lat": 48.52370367667537
+    },
+    {
+      "name" : "Pointe de Trévignon",
+      "url" : "https://pv.viewsurf.com/1694/Tregunc-Port-de-Trevignon?i=NjU1Njp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -3.854350189662243,
+      "lat": 47.79316358104074
+    },
+    {
+      "name" : "Mesnil-Saint-Père - Lac d'Orient",
+      "url" : "https://pv.viewsurf.com/1084/Lac-d-Orient?i=NDkzMjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 4.337989460743087,
+      "lat": 48.25696480570867
+    },
+    {
+      "name" : "Troyes - Place Alexandre Israël",
+      "url" : "https://pv.viewsurf.com/2136/Troyes-Place-Alexandre-Israel?i=NzY4NDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 4.074093085055631,
+      "lat": 48.29727271707757
+    },
+    {
+      "name" : "Biscarosse - Plage",
+      "url" : "https://pv.viewsurf.com/2278/Biscarrosse-Plage?i=ODAwNjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.2557432426150514,
+      "lat": 44.44629552552608
+    },
+    {
+      "name" : "Capbreton - Port",
+      "url" : "https://pv.viewsurf.com/1808/port-de-caprebton",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.4406624093362965,
+      "lat": 43.654065798799444
+    },
+    {
+      "name" : "Plage de Contis",
+      "url" : "https://pv.viewsurf.com/2280/Contis-Plage-de-Contis?i=ODAxODp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.3249287719067584,
+      "lat": 44.0939786237236
+    },
+    {
+      "name" : "Labastide d'Armagnac - Place Royale",
+      "url" : "https://pv.viewsurf.com/1996/Labastide-d-Armagnac-02?i=NzMxNjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": -0.1853055124603207,
+      "lat": 43.9697711426452
+    },
+    {
+      "name" : "Marais d'Orx",
+      "url" : "https://pv.viewsurf.com/2284/OrxCDLandes?i=ODAzMDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": -1.408036689777372,
+      "lat": 43.589892683146275
+    },
+    {
+      "name" : "Mimizan - Plage Remember",
+      "url" : "https://pv.viewsurf.com/1240/Mimizan-Plage-remember?i=NTI5Njp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.2968654380321105,
+      "lat": 44.21922432024971
+    },
+    {
+      "name" : "Moliets",
+      "url" : "https://pv.viewsurf.com/576/Golf-de-Moliets-Ocean?i=MzUzODp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.3934438019984023,
+      "lat": 43.84618596982426
+    },
+    {
+      "name" : "Sanguinet - Plage des Catons",
+      "url" : "https://pv.viewsurf.com/2290/Sanguinet?i=ODA0Mjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": -1.0767208428233215,
+      "lat": 44.4943590781391
+    },
+    {
+      "name" : "Seignosse - Plage des Bourdaines",
+      "url" : "https://pv.viewsurf.com/1244/Seignosse-Les-Bourdaines?i=NTMxNDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.4382618889282162,
+      "lat": 43.69802762320344
+    },
+    {
+      "name" : "Arjuzanx - Le lac",
+      "url" : "https://pv.viewsurf.com/1004/Arjuzanx?i=NDczNjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": -0.8482003799884763,
+      "lat": 44.017950807117565
     }
+    
   ]
 }
 
