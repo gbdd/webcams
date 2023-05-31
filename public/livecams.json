@@ -11180,6 +11180,14 @@
       "type": "city",
       "lng": 5.370643878478132,
       "lat": 43.283991506100406
+    },
+    {
+      "name" : "Montreal",
+      "url" : "https://www.skaping.com/montreal/grand-port/tour-d-observation",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": -73.549198418447,
+      "lat": 45.50263231544443
     }
   ]
 }
