@@ -11188,6 +11188,22 @@
       "type": "city",
       "lng": -73.549198418447,
       "lat": 45.50263231544443
+    },
+    {
+      "name" : "Damgan - Plage",
+      "url" : "https://pv.viewsurf.com/1714/Damgan-SNSM?i=NjY0MDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.5831041078661157,
+      "lat": 47.51765677483297
+    },
+    {
+      "name" : "Damgan - Port de Penerf",
+      "url" : "https://pv.viewsurf.com/1376/DamganPortdePenerf?i=NTYxNjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -2.62344925978533,
+      "lat": 47.513794834779915
     }
   ]
 }
