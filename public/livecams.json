@@ -10924,11 +10924,255 @@
       "type": "sea",
       "lng": -2.5074460791250663,
       "lat": 47.34395601551534
+    },
+    {
+      "name" : "Cassis",
+      "url" : "https://pv.viewsurf.com/1924/Cassis?i=NzE0NDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 5.5368160319382875,
+      "lat": 43.21345793165249
+    },
+    {
+      "name" : "La Tranche sur mer",
+      "url" : "https://pv.viewsurf.com/2094/La-Tranche-sur-mer-Embarcadere?i=NzYxMDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.4290598795762712,
+      "lat": 46.3436054023642
+    },
+    {
+      "name" : "Savines",
+      "url" : "https://pv.viewsurf.com/994/Hotel-les-Flots-Bleus?i=NDcxMDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.400532906403492,
+      "lat": 44.52642283408389
+    },
+    {
+      "name" : "Gap - Place Jean Marcellin",
+      "url" : "https://pv.viewsurf.com/680/Gap?i=MzkwNjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 6.079469338285516,
+      "lat": 44.55903829962259
+    },
+    {
+      "name" : "Royan - Plage de la Grande Conche",
+      "url" : "https://pv.viewsurf.com/1826/Royan-Plage-de-la-grande-Conche?i=NjkzODp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.023533409396706,
+      "lat": 45.62322927242745
+    },
+    {
+      "name" : "Cauterets - Cirque du Lys",
+      "url" : "https://pv.viewsurf.com/1434/Cauterets-Le-Lys?i=NTc5ODp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "mountain",
+      "lng": -0.15826682955190233,
+      "lat": 42.88000532930751
+    },
+    {
+      "name" : "Montpellier - Mairie",
+      "url" : "https://pv.viewsurf.com/796/Montpellier-Mairie-Panoramique-video?i=NDIzMjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 3.8969511758687094,
+      "lat": 43.59870611155024
+    },
+    {
+      "name" : "Montpellier - Place de la Comédie",
+      "url" : "https://pv.viewsurf.com/654/Place-de-la-Comedie?i=MzgwNDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": 3.881317139516601,
+      "lat": 43.60942817876094
+    },
+    {
+      "name" : "La Palmyre - Base nautique",
+      "url" : "https://pv.viewsurf.com/2324/La-Palmyre-base-nautique?i=ODE0MDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.1858993445587311,
+      "lat": 45.6852684740849
+    },
+    {
+      "name" : "Canet en Roussillon",
+      "url" : "https://pv.viewsurf.com/1430/Canet-en-Roussillon?i=NTc3Njp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 3.0335361711825053,
+      "lat": 42.674620467165255
+    },
+    {
+      "name" : "Palavas les Flots - Rive gauche",
+      "url" : "https://pv.viewsurf.com/1510/Palavas-rive-gauche",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 3.932552781152673,
+      "lat": 43.527258288110595
+    },
+    {
+      "name" : "Saint Denis du Payré - Réserve naturelle",
+      "url" : "https://pv.viewsurf.com/1296/Reserve-Naturelle?i=NTM4MDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": -1.2472344004214937,
+      "lat": 46.39859095294912
+    },
+    {
+      "name" : "Quiberville - Plage",
+      "url" : "https://pv.viewsurf.com/2162/Quiberville-Terroir-de-Caux",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 0.9226947154551464,
+      "lat": 49.90445243805687
+    },
+    {
+      "name" : "Plage de Collignon",
+      "url" : "https://pv.viewsurf.com/2322/Cherbourg-Plage-de-Colignon?i=ODEzNjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.567843242089756,
+      "lat": 49.65673401756957
+    },
+    {
+      "name" : "Sciotot",
+      "url" : "https://pv.viewsurf.com/832/La-Hague-Sciotot?i=NDMzODp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.8472874092853515,
+      "lat": 49.506873804478055
+    },
+    {
+      "name" : "Siouville",
+      "url" : "https://pv.viewsurf.com/828/La-Hague-Siouville?i=NDMzMDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.8432355388852997,
+      "lat": 49.56788164091434
+    },
+    {
+      "name" : "Vauville",
+      "url" : "https://pv.viewsurf.com/826/La-Hague-Vauville?i=NDMyNjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.849280947746909,
+      "lat": 49.63225756967342
+    },
+    {
+      "name" : "Goury",
+      "url" : "https://pv.viewsurf.com/1552/La-Hague-Goury?i=NjEwNDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.9451826100220047,
+      "lat": 49.71561219950173
+    },
+    {
+      "name" : "Urville-Nacqueville",
+      "url" : "https://pv.viewsurf.com/830/La-Hague-Nacqueville?i=NDMzNDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.7224211185609697,
+      "lat": 49.67936021421852
+    },
+    {
+      "name" : "Cherbourg",
+      "url" : "https://pv.viewsurf.com/2026/Fort-du-Roule?i=NzQwNjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "city",
+      "lng": -1.6136563893966749,
+      "lat": 49.630759976121404
+    },
+    {
+      "name" : "Maupertus sur Mer - Anse du Brick",
+      "url" : "https://pv.viewsurf.com/1986/Anse-du-Brick?i=NzI4Njp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -1.488905016134937,
+      "lat": 49.66748041204509
+    },
+    {
+      "name" : "Pointe d'Esny",
+      "url" : "https://pv.viewsurf.com/1886/Maurice-Pointe-d-Esny?i=NzA1ODp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 57.72728223224868,
+      "lat": -20.426834089276046
+    },
+    {
+      "name" : "Ile aux Aigrettes",
+      "url" : "https://pv.viewsurf.com/1910/Maurice-Ile-aux-Aigrettes?i=NzEyNjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 57.723163038448874,
+      "lat": -20.422335917565697
+    },
+    {
+      "name" : "Blue Bay",
+      "url" : "https://pv.viewsurf.com/1880/Maurice-Blue-Bay?i=NzA1NDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 57.71685252041234,
+      "lat": -20.44392829928218
+    },
+    {
+      "name" : "Bel Ombre",
+      "url" : "https://pv.viewsurf.com/1874/Maurice-Bel-Ombre?i=NzA0Njp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 57.41354010275468,
+      "lat": -20.50970376708684
+    },
+    {
+      "name" : "Le Morne",
+      "url" : "https://pv.viewsurf.com/1902/Maurice-Le-Morne?i=NzExMDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 57.322926241381495,
+      "lat": -20.44515559501973
+    },
+    {
+      "name" : "La Preneuse",
+      "url" : "https://pv.viewsurf.com/1838/Maurice-La-Preneuse?i=Njk2MDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 57.3688511115415,
+      "lat": -20.357655082082456
+    },
+    {
+      "name" : "Flic en Flac",
+      "url" : "https://pv.viewsurf.com/1890/Maurice-Flic-en-Flac?i=NzA4MDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 57.36332793655371,
+      "lat": -20.286408620017205
+    },
+    {
+      "name" : "Grand Baie",
+      "url" : "https://pv.viewsurf.com/1878/Maurice-Grand-Baie?i=NzA1MDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 57.58029062175074,
+      "lat": -20.00963852647666
+    },
+    {
+      "name" : "Anse la Raie",
+      "url" : "https://pv.viewsurf.com/1870/Maurice-Anse-La-Raie?i=NzA0Mjp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 57.633166314932836,
+      "lat": -19.988718793778883
+    },
+    {
+      "name" : "Belle Mare",
+      "url" : "https://pv.viewsurf.com/1860/Maurice-Belle-Mare?i=NzAyNDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": 57.776164233407705,
+      "lat": -20.19473414997187
     }
   ]
 }
-
-
-
-
 
