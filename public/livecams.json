@@ -11204,6 +11204,14 @@
       "type": "sea",
       "lng": -2.62344925978533,
       "lat": 47.513794834779915
+    },
+    {
+      "name" : "Lac de Gaube",
+      "url" : "https://pv.viewsurf.com/612/Cauterets-Lac-de-Gaube?i=MzY1NDp1bmRlZmluZWQ",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": -0.13882544272641667,
+      "lat": 42.83395302140306
     }
   ]
 }
