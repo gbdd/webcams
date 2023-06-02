@@ -1813,6 +1813,15 @@
       "lat": 44.56821979031963
     },
     {
+      "name": "Vars - Chabrières - 2409m",
+      "url": "https://app.webcam-hd.com/vars/chabrieres",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_vars_chabrieres.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.647209,
+      "lat": 44.558602
+    },
+    {
       "name" : "Vars - Peynier",
       "url" : "https://www.skaping.com/vars/peynier",
       "iframesrc" : "s",
@@ -7444,7 +7453,7 @@
       "lat": 46.00930500,
       "lng": 4.37733200,
       "type": "lake",
-      "name": "Lac des Sapins",
+      "name": "Cublize - Lac des Sapins",
       "iframesrc": "s"
     },
     {
@@ -9079,15 +9088,6 @@
       "lat": 47.936305728317954
     },
     {
-      "name" : "La Clusaz - Beauregard",
-      "url" : "https://app.webcam-hd.com/la-clusaz/beauregard",
-      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_la-clusaz_beauregard.jpg",
-      "iframesrc" : "s",
-      "type": "mountain",
-      "lng": 6.406867080009045,
-      "lat": 45.89367408443661
-    },
-    {
       "name" : "Morillon - Lac Bleu",
       "url" : "https://app.webcam-hd.com/vallee-haut-giffre/morillon-lac-bleu",
       "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_vallee-du-haut-giffre_morillon-lac-bleu.jpg",
@@ -9581,7 +9581,7 @@
       "lat": 45.66176112153032
     },
     {
-      "name" : "Lac de Chambon",
+      "name" : "Lac Chambon",
       "url" : "https://app.webcam-hd.com/sancy/lac-de-chambon",
       "thumburl" : "https://srv02.trinum.com/ibox/ftpcam/small_sancy_lac-de-chambon.jpg",
       "iframesrc" : "s",
@@ -11668,8 +11668,1578 @@
       "type": "mountain",
       "lng": 6.039986,
       "lat": 45.641001
+    },
+    {
+      "name": "Crozet (départ Téleski) - 1300m",
+      "url": "https://app.webcam-hd.com/mont-jura/telecabine-crozet",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_mont-jura_tc-crozet.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.982764,
+      "lat": 46.291888
+    },
+    {
+      "name": "Départ téleski du Montoisey - 1445m",
+      "url": "https://app.webcam-hd.com/mont-jura/catheline",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_mont-jura_catheline.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.960931,
+      "lat": 46.293816
+    },
+    {
+      "name": "Dome des petites Rousses - 2807m",
+      "url": "https://app.webcam-hd.com/vaujany/sommet-28002800",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_vaujany_sommet-2800.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.106226,
+      "lat": 45.128317
+    },
+    {
+      "name": "Flumet - 1027m",
+      "url": "https://app.webcam-hd.com/val-d-arly/front-de-neige",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_val-d-arly_front-de-neige.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.542833,
+      "lat": 45.823394
+    },
+    {
+      "name": "Gerardmer - front de neige - 850m",
+      "url": "https://app.webcam-hd.com/gerardmer/front-de-neige",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_gerardmer_front-de-neige.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.893886,
+      "lat": 48.058825
+    },
+    {
+      "name": "Hauteluce - 1175m",
+      "url": "https://app.webcam-hd.com/les-saisies/hauteluce-chozal",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_hauteluce_chozal.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.5808,
+      "lat": 45.749678
+    },
+    {
+      "name": "Hirmentaz - 1221m",
+      "url": "https://app.webcam-hd.com/hirmentaz/glisse-tranquille",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_hirmentaz_glisse-tranquille.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.507546,
+      "lat": 46.245918
+    },
+    {
+      "name": "Hirmentaz - 1323m",
+      "url": "https://app.webcam-hd.com/hirmentaz/coeur-de-station",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_hirmentaz_coeur-de-station.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.502316,
+      "lat": 46.244488
+    },
+    {
+      "name": "La Bresse - Haut d'Artimont - 1198m",
+      "url": "http://app.webcam-hd.com/labresse/sommet-tsd4",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_la-bresse_sommet-tsd4.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.977885,
+      "lat": 48.028843
+    },
+    {
+      "name": "La Clusaz - 1033m",
+      "url": "https://app.webcam-hd.com/la-clusaz/place-du-village",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_otvillage.jpg",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.424454,
+      "lat": 45.904518
+    },
+    {
+      "name": "La Clusaz - 1087m",
+      "url": "https://app.webcam-hd.com/la-clusaz/bossonnet",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_la-clusaz_bossonnet.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.432884,
+      "lat": 45.905272
+    },
+    {
+      "name": "La Clusaz - 1500m",
+      "url": "https://app.webcam-hd.com/la-clusaz/snow-park",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_snow-park.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.441354,
+      "lat": 45.896596
+    },
+    {
+      "name": "La Clusaz - Balme - 1290m",
+      "url": "https://app.webcam-hd.com/la-clusaz/balme",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_la-clusaz_balme.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.467128,
+      "lat": 45.910619
+    },
+    {
+      "name": "La Clusaz - Beauregard - 1644m",
+      "url": "https://app.webcam-hd.com/la-clusaz/beauregard",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_la-clusaz_beauregard.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.407019,
+      "lat": 45.893852
+    },
+    {
+      "name": "La Clusaz - Bergerie - 2099m",
+      "url": "https://app.webcam-hd.com/la-clusaz/la-bergerie",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_la-clusaz_bergerie.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.48553,
+      "lat": 45.897436
+    },
+    {
+      "name": "La Clusaz - Crêt du Loup - 1864m",
+      "url": "https://app.webcam-hd.com/la-clusaz/cret-du-loup",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_la-clusaz_cret-du-loup.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.451482,
+      "lat": 45.890667
+    },
+    {
+      "name": "La Clusaz - l'Etale - 1644m",
+      "url": "https://app.webcam-hd.com/la-clusaz/massif-etale",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_la-clusaz_massif-de-l-etale.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.43352,
+      "lat": 45.872985
+    },
+    {
+      "name": "La Cluzaz - Etale - 1220m",
+      "url": "https://app.webcam-hd.com/la-clusaz/etale",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_la-clusaz_etale.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.433504,
+      "lat": 45.883287
+    },
+    {
+      "name": "La Darbella - 1170m",
+      "url": "https://app.webcam-hd.com/les-rousses/darbella",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_lesroussesdarbella.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.040163,
+      "lat": 46.443698
+    },
+    {
+      "name": "La Dôle - 1677m",
+      "url": "https://app.webcam-hd.com/les-rousses/radastation",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_les-rousses_radarstation.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.099949,
+      "lat": 46.425545
+    },
+    {
+      "name": "La Praille - 1079m",
+      "url": "https://app.webcam-hd.com/hauteville-lompnes/la-praille",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_la-praille.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 5.634634,
+      "lat": 45.983127
+    },
+    {
+      "name": "La Rosière - Mont-Valaison - 2809m",
+      "url": "https://app.webcam-hd.com/la-rosiere/mont-valaisan",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_la_rosiere_mont-valaisan.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.897325,
+      "lat": 45.663927
+    },
+    {
+      "name": "La Rosière - Plan du Repos - 2331m",
+      "url": "https://app.webcam-hd.com/la-rosiere/plan-du-repos",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_la_rosiere_plan-du-repos.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.861791,
+      "lat": 45.646855
+    },
+    {
+      "name": "La Vattay - 1265m",
+      "url": "https://app.webcam-hd.com/mont-jura/la-vattay",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_mont-jura_la-vattay.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.05351,
+      "lat": 46.388992
+    },
+    {
+      "name": "Lac Blanc - 1153m",
+      "url": "https://app.webcam-hd.com/lac-blanc/lac-blanc-1200",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_lac-blanc_espace-debutant.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.086061,
+      "lat": 48.136444
+    },
+    {
+      "name": "Lac Blanc - 877m",
+      "url": "https://app.webcam-hd.com/lac-blanc/900",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_lac-blanc_front-de-neige.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.078553,
+      "lat": 48.145668
+    },
+    {
+      "name": "Lac Chambon - 877m",
+      "url": "https://app.webcam-hd.com/chambon-sur-lac/le-lac",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_chambon-sur-lac_le-lac.jpg",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 2.918646,
+      "lat": 45.574352
+    },
+    {
+      "name": "Lajoux Hautes-Combes - 1160m",
+      "url": "https://app.webcam-hd.com/espace-nordique-jurassien/hautes-combes_la-joux",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_hautes-combes_lajoux.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.975613,
+      "lat": 46.374908
+    },
+    {
+      "name": "Le Bouyssou (Laguiole) - 1306m",
+      "url": "https://app.webcam-hd.com/laguiole/front-de-neige-le-bouyssou",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_laguiole_front-de-neige-le-bouyssou.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 2.926523,
+      "lat": 44.671592
+    },
+    {
+      "name": "Le Grand Puy - 1368m",
+      "url": "https://app.webcam-hd.com/grand-puy/front-de-neige",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_le-grand-puy_front-de-neige.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.393273,
+      "lat": 44.321643
+    },
+    {
+      "name": "Le Grand Puy - 1379m",
+      "url": "https://app.webcam-hd.com/grand-puy/espace-debutant",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_le-grand-puy_espace-debutant.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.390867,
+      "lat": 44.322064
+    },
+    {
+      "name": "Le Markstein - 1194m",
+      "url": "https://app.webcam-hd.com/markstein/luge",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_markstein_luge.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.029681,
+      "lat": 47.923565
+    },
+    {
+      "name": "Le Praz de Lys - 1494m",
+      "url": "https://app.webcam-hd.com/praz_lys_sommand/chevaly",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_praz_lys_sommand_chevally.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.590874,
+      "lat": 46.144433
+    },
+    {
+      "name": "Le Praz de Lys - Veran - 1727m",
+      "url": "https://app.webcam-hd.com/praz_lys_sommand/veran",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_praz_lys_sommand_veran.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.573282,
+      "lat": 46.153688
+    },
+    {
+      "name": "Le Reposoir - 980m",
+      "url": "https://app.webcam-hd.com/le-reposoir/village",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_le-reposoir_village.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.534333,
+      "lat": 46.010709
+    },
+    {
+      "name": "Les Arcs - Arpette - 2418m",
+      "url": "https://app.webcam-hd.com/lesarcs/arpette",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_les-arcs_arpette.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.811277,
+      "lat": 45.572617
+    },
+    {
+      "name": "Les Arcs - Grizzly - 2287m",
+      "url": "https://app.webcam-hd.com/lesarcs/grizzly",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_peisey-vallandry_grizzly.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.792303,
+      "lat": 45.548047
+    },
+    {
+      "name": "Les Arcs - Snowparc - 2058m",
+      "url": "https://app.webcam-hd.com/lesarcs/snowpark",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_les_arcs_snowpark.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.799749,
+      "lat": 45.577985
+    },
+    {
+      "name": "Les Fourg- La Coupe - 1145m",
+      "url": "https://app.webcam-hd.com/espace-nordique-jurassien/mont-d-or_les-fourgs_les-fourgs",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_mont-d-or_les-fourgs.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.425521,
+      "lat": 46.831866
+    },
+    {
+      "name": "Les Grangettes - 850m",
+      "url": "https://app.webcam-hd.com/haut-doubs/les-grangettes",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_haut-doubs_lac-saint-point-les-grangettes.jpg",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.319765,
+      "lat": 46.826173
+    },
+    {
+      "name": "Les Jouvencelles - 1160m",
+      "url": "https://app.webcam-hd.com/les-rousses/jouvencelles-ts",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_les-rousses_jouvencelles-ts.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.054411,
+      "lat": 46.455939
+    },
+    {
+      "name": "Les Karellis - 1600m",
+      "url": "https://app.webcam-hd.com/les-karellis/front-de-neige",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_karellis_front-de-neige.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.404667,
+      "lat": 45.227889
+    },
+    {
+      "name": "Les Karellis - 2109m",
+      "url": "https://app.webcam-hd.com/les-karellis/vinouve",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_karellis_vinouve.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.40154,
+      "lat": 45.214368
+    },
+    {
+      "name": "Les Molunes - 1265m",
+      "url": "https://app.webcam-hd.com/espace-nordique-jurassien/hautes-combres-les-molunes",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_hautes-combes_les-molunes.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.922653,
+      "lat": 46.34475
+    },
+    {
+      "name": "Les Moussières - 1140m",
+      "url": "https://app.webcam-hd.com/espace-nordique-jurassien/hautes-combes_moussieres-les-dolines",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_hautes-combes_moussieres-les-dolines.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.891512,
+      "lat": 46.323123
+    },
+    {
+      "name": "Les Sables d'Olonne",
+      "url": "https://app.webcam-hd.com/port-olona/port-olona_capitainerie",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_port-olona_capitainerie.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": -1.795476,
+      "lat": 46.500342
+    },
+    {
+      "name": "Les Saisies - 1632m",
+      "url": "https://app.webcam-hd.com/les-saisies/nordique",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_les_saisies_depart-domaine-nordique.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.528296,
+      "lat": 45.758341
+    },
+    {
+      "name": "Les Saisies - 1680m",
+      "url": "https://app.webcam-hd.com/beaufortain/les-saisies-espace-erwin-eckl",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_beaufortain_les-saisies-espace-erwineckl.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.536441,
+      "lat": 45.760308
+    },
+    {
+      "name": "Les Saisies - Hauteluce - 1170m",
+      "url": "https://app.webcam-hd.com/les-saisies/hauteluce-mtblanc",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_hauteluce_mtblanc.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.582967,
+      "lat": 45.750516
+    },
+    {
+      "name": "Les Tuffes - 1410m",
+      "url": "https://app.webcam-hd.com/les-rousses/les-tuffes",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_les_rousses_les-tuffes.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.066092,
+      "lat": 46.445418
+    },
+    {
+      "name": "Les Sables D'Olonne",
+      "url": "https://app.webcam-hd.com/vendee/vendee_sables-d-olonne",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_vendee_sables-d-olonne.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": -1.791686,
+      "lat": 46.494607
+    },
+    {
+      "name": "Lispash - 910m",
+      "url": "https://app.webcam-hd.com/labresse-ot/depart-pistes",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_la-bresse-ot_ot.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.947082,
+      "lat": 48.053081
+    },
+    {
+      "name": "Marstein - 1090m",
+      "url": "https://app.webcam-hd.com/markstein/la-federale",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_markstein_la-federale.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.027334,
+      "lat": 47.931289
+    },
+    {
+      "name": "Méaudre - 1276m",
+      "url": "https://app.webcam-hd.com/autrans-meaudre/depart-zipline-tyro-alt.1300m",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_autrans-meaudre_depart-zipline-vercors-meaudre-alt.1300m.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.506328,
+      "lat": 45.127782
+    },
+    {
+      "name": "Megève - 1092m",
+      "url": "https://app.webcam-hd.com/megeve/palais-des-sports",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_megeve_palais-des-sports.jpg",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.617619,
+      "lat": 45.860421
+    },
+    {
+      "name": "Megève - La Livraz - 1383m",
+      "url": "https://app.webcam-hd.com/megeve/la-livraz",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_megeve_la-livraz.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.641032,
+      "lat": 45.835675
+    },
+    {
+      "name": "Megève - Mottaret - 1690m",
+      "url": "https://app.webcam-hd.com/meribel/meribel-mottaret_front-de-neige",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_meribel_front-de-neige.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.581438,
+      "lat": 45.372442
+    },
+    {
+      "name": "Megève-Fontaine - 1870m",
+      "url": "https://app.webcam-hd.com/evasion/fontaine",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_evasion_fontaine.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.623012,
+      "lat": 45.817543
+    },
+    {
+      "name": "Meix Musy - 1140m",
+      "url": "https://app.webcam-hd.com/espace-nordique-jurassien/val-de-morteau_meix-musy",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_val-de-morteau_meix-musy.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.669688,
+      "lat": 47.039012
+    },
+    {
+      "name": "Menthières - 1060m",
+      "url": "https://app.webcam-hd.com/mont-jura/menthieres",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_mont-jura_menthieres.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.848664,
+      "lat": 46.173605
+    },
+    {
+      "name": "Méribel - Bas Bouquetin - 2400m",
+      "url": "https://app.webcam-hd.com/meribel/bouquetin",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_meribel_bouquetin.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.579716,
+      "lat": 45.342663
+    },
+    {
+      "name": "Méribel - Chaudanne - 1440m",
+      "url": "https://app.webcam-hd.com/meribel/meribel_chaudanne",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_meribel_meribel-chaudanne-1440.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.568065,
+      "lat": 45.39198
+    },
+    {
+      "name": "Méribel - Roc de Fer - 2290m",
+      "url": "https://app.webcam-hd.com/meribel/meribel_roc-de-fer",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_meribel_olympic.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.535994,
+      "lat": 45.392481
+    },
+    {
+      "name": "Méribel - versant Saulire - 2109m",
+      "url": "https://app.webcam-hd.com/meribel/meribel_versant-saulire",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_meribel_saulire-express.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.589292,
+      "lat": 45.387638
+    },
+    {
+      "name": "Metabief - 1007m",
+      "url": "https://app.webcam-hd.com/orex_metabief/front-de-neige",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_orex_metabief_front-de-neige.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.356739,
+      "lat": 46.769178
+    },
+    {
+      "name": "Montclar - 1334m",
+      "url": "https://app.webcam-hd.com/st-jean-montclar/front-de-neige",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_st_jean_montclar_front-de-neige.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.351543,
+      "lat": 44.409579
+    },
+    {
+      "name": "Montclar - La Brèche - 2302m",
+      "url": "https://app.webcam-hd.com/st-jean-montclar/la-breche",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_st_jean_montclar_la-breche.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.387292,
+      "lat": 44.397614
+    },
+    {
+      "name": "Montgenèvre - 1846m",
+      "url": "https://app.webcam-hd.com/montgenevre/front-de-neige",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_montgenevre_front-de-neige.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.724083,
+      "lat": 44.930001
+    },
+    {
+      "name": "Notre Dame de Bellecombe - 1320m",
+      "url": "https://app.webcam-hd.com/val-d-arly/ndb-mont-rond",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_val-d-arly_val-d-arly-panoramique1.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.549139,
+      "lat": 45.803187
+    },
+    {
+      "name": "Orange Montisel - 1104m",
+      "url": "https://app.webcam-hd.com/station-d-orange/base-de-loisirs",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_station-d-orange_bob-luge.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.3254,
+      "lat": 46.027149
+    },
+    {
+      "name": "Orcières - 1820m",
+      "url": "https://app.webcam-hd.com/orcieres-1850/front-de-neige",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_Orcieres_Front.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.321666,
+      "lat": 44.696838
+    },
+    {
+      "name": "Pied du massif de la Serra - 1180m",
+      "url": "https://app.webcam-hd.com/les-rousses/la-serra",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_les-rousses_la-serra.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.996733,
+      "lat": 46.412639
+    },
+    {
+      "name": "Pointe du Corbier - 2265m",
+      "url": "https://app.webcam-hd.com/le-corbier/pointe",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_le_corbier_pointe-du-corbier.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.243963,
+      "lat": 45.233994
+    },
+    {
+      "name": "Praz sur Arly - 1007m",
+      "url": "https://app.webcam-hd.com/val-d-arly/depart-des-pistes",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_val-d-arly_depart-des-pistes.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.570857,
+      "lat": 45.834019
+    },
+    {
+      "name": "Praz sur Arly - Crêt du midi - 1716m",
+      "url": "https://app.webcam-hd.com/val-d-arly/cret-du-midi",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_val-d-arly_cret-du-midi.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.582415,
+      "lat": 45.815214
+    },
+    {
+      "name": "Risoul - 1880m",
+      "url": "https://app.webcam-hd.com/risoul/risoul_front",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_risoul_front.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.63449,
+      "lat": 44.620752
+    },
+    {
+      "name": "Risoul - Pré du Bois - 2240m",
+      "url": "https://app.webcam-hd.com/risoul/pre-du-bois",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_risoul_pre-du-bois.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.628366,
+      "lat": 44.606865
+    },
+    {
+      "name": "Rochebrune - 1750m",
+      "url": "https://app.webcam-hd.com/evasion/rochebrune",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_rochebrune.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.613308,
+      "lat": 45.833178
+    },
+    {
+      "name": "Rouge Gazon - 1092m",
+      "url": "https://app.webcam-hd.com/rouge-gazon/teleski",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_rouge-gazon_teleski.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.916494,
+      "lat": 47.854239
+    },
+    {
+      "name": "Saint-Cyprien",
+      "url": "https://app.webcam-hd.com/port-st-cyprien/capitainerie",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_capitainerie-st-cyprien_port.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 3.038675,
+      "lat": 42.62121
+    },
+    {
+      "name": "Saint-Gervais - 811m",
+      "url": "https://app.webcam-hd.com/st-gervais/maison-st-gervais",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_st-gervais_maison-de-st-gervais.jpg",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.711673,
+      "lat": 45.892495
+    },
+    {
+      "name": "Saint-Gervais - Mont Joux - 1964m",
+      "url": "https://app.webcam-hd.com/st-gervais/mont-joux",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_st-gervais_mont-joux-fixe.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.676303,
+      "lat": 45.846342
+    },
+    {
+      "name": "Saint-Gervais - plateau de la Croix - 1446m",
+      "url": "https://app.webcam-hd.com/st-gervais/plateau-de-la-croix",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_st-gervais_plateau-de-la-croix.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.714468,
+      "lat": 45.854226
+    },
+    {
+      "name": "Saint-Jean de Sixt - 977m",
+      "url": "https://app.webcam-hd.com/saint-jean-de-sixt/stade-de-neige",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_st-jean-de-sixt_stade-de-neige.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.396591,
+      "lat": 45.92467
+    },
+    {
+      "name": "Saint-Jean de Sixt - 996m",
+      "url": "https://app.webcam-hd.com/saint-jean-de-sixt/village",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_st-jean-de-sixt_village.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.405303,
+      "lat": 45.92445
+    },
+    {
+      "name": "Saint-Pierre de Chartreuse - La Scia - 1699m",
+      "url": "https://app.webcam-hd.com/st-pierre-de-chartreuse/la-scia",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_st-pierre-de-chartreuse_la-scia.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.847857,
+      "lat": 45.345018
+    },
+    {
+      "name": "Saint-Pierre de Chartreuse - Les Essarts - 1349m",
+      "url": "https://app.webcam-hd.com/st-pierre-de-chartreuse/les-essarts",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_st-pierre-de-chartreuse_les-essarts.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.834518,
+      "lat": 45.345968
+    },
+    {
+      "name": "Sainte-Foy Tarentaise - 1548m",
+      "url": "https://app.webcam-hd.com/ste-foy-tarentaise/front-de-neige",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_ste-foy-tarentaise_front-neige.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.895053,
+      "lat": 45.577175
+    },
+    {
+      "name": "Sainte-Foy Tarentaise - Aiguilles - 2625m",
+      "url": "https://app.webcam-hd.com/ste-foy-tarentaise/sommet-aiguille",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_ste-foy-tarentaise_sommet-aiguille.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.927186,
+      "lat": 45.573206
+    },
+    {
+      "name": "Sainte-Foy Tarentaise - Marquise - 2417m",
+      "url": "https://app.webcam-hd.com/ste-foy-tarentaise/ts-de-la-marquise",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_ste-foy-tarentaise_ts-de-la-marquise.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.929771,
+      "lat": 45.58787
+    },
+    {
+      "name": "Sainte-Foy Tarentaise - Plan-Bois - 1775m",
+      "url": "https://app.webcam-hd.com/ste-foy-tarentaise/plan-bois",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_ste-foy-tarentaise_plan-bois.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.904424,
+      "lat": 45.580384
+    },
+    {
+      "name": "Serre Chevalier - Col du Prorel - 2396m",
+      "url": "https://app.webcam-hd.com/serrechevalier/col-du-prorel",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_serre-chevalier_col-du-prorel.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.575079,
+      "lat": 44.904077
+    },
+    {
+      "name": "Val d'Allos - Clos Bertrand bas - 1515m",
+      "url": "https://app.webcam-hd.com/valdallos/seignus-bas",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_valdallos_seignus-bas.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.61521,
+      "lat": 44.24127
+    },
+    {
+      "name": "Val d'Allos - Clos Bertrand haut - 1898m",
+      "url": "https://app.webcam-hd.com/valdallos/seignus-haut",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_valdallos_seignus-haut.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.610127,
+      "lat": 44.230683
+    },
+    {
+      "name": "Val d'Allos - Observatoire - 2122m",
+      "url": "https://app.webcam-hd.com/valdallos/observatoire",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_valdallos_observatoire.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.550848,
+      "lat": 44.286357
+    },
+    {
+      "name": "Val d'Allos - Sommet Marin-Pascal - 2346m",
+      "url": "https://app.webcam-hd.com/valdallos/sommet-marin-pascal",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_valdallos_sommet-marin-pascal.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.59089,
+      "lat": 44.293486
+    },
+    {
+      "name": "Val Thorens - Cime Caron - 3180m",
+      "url": "https://app.webcam-hd.com/val-thorens/cime-caron",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_val_thorens_cime-caron.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.560203,
+      "lat": 45.264019
+    },
+    {
+      "name": "Valmorel - 1333m",
+      "url": "https://app.webcam-hd.com/valmorel/village",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_valmorel_village.jpg",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.444342,
+      "lat": 45.461732
+    },
+    {
+      "name": "Valmorel - 1585m",
+      "url": "https://app.webcam-hd.com/valmorel/altispace",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_valmorel_altispace.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.433957,
+      "lat": 45.455995
+    },
+    {
+      "name": "Valmorel - Arnouillaz - 2012m",
+      "url": "https://m.webcam-hd.com/valmorel/arenouillaz",
+      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_valmorel_arenouillaz.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.414216,
+      "lat": 45.443238
+    },
+    {
+      "name": "Valmorel - Doucy - 1255m",
+      "url": "https://app.webcam-hd.com/valmorel/doucy-combelouviere",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_valmorel_doucy-combelouviere.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.454991,
+      "lat": 45.498724
+    },
+    {
+      "name": "Valmorel - Lanchettes - 1823m",
+      "url": "https://app.webcam-hd.com/valmorel/lanchettes",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_valmorel_lanchettes.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.424548,
+      "lat": 45.46116
+    },
+    {
+      "name": "Vars - Sainte-Marie - 1637m",
+      "url": "https://app.webcam-hd.com/vars/sainte-marie",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_vars_sainte-marie.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.689083,
+      "lat": 44.596963
+    },
+    {
+      "name": "Aber Wrac'h - Sémaphore",
+      "url": "https://pv.viewsurf.com/2116/Pays-des-Abers-Semaphore-Aber-Wrac-h?i=NzY1NDp1bmRlZmluZWQ",
+      "type": "sea",
+      "lng": -4.566622,
+      "lat": 48.59655
+    },
+    {
+      "name": "Agay",
+      "url": "https://pv.viewsurf.com/1710/Saint-Raphael-Base-Nautique?i=NjYxNjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 6.866903,
+      "lat": 43.433589
+    },
+    {
+      "name": "Andernos",
+      "url": "https://pv.viewsurf.com/530/Office-du-Tourisme-Andernos-Les-Bains?i=MzM1Mjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.108627,
+      "lat": 44.742535
+    },
+    {
+      "name": "Anglet - Sables d'or",
+      "url": "https://pv.viewsurf.com/2130/Anglet-Panoramique-Sables-d-Or-Marinella-Corsaires?i=NzY3Njp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.5432125,
+      "lat": 43.5
+    },
+    {
+      "name": "Anglet - Plage de l'Ocean",
+      "url": "https://pv.viewsurf.com/774/Anglet-Plage-de-l-Ocean?i=NDE1ODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.531093,
+      "lat": 43.514158
+    },
+    {
+      "name": "Anglet - Plage des Cavaliers",
+      "url": "https://pv.viewsurf.com/1994/Anglet-Plage-des-Cavaliers?i=NzMxMDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.524712,
+      "lat": 43.524011
+    },
+    {
+      "name": "Arcachon",
+      "url": "https://pv.viewsurf.com/1242/Arcachon-Jetee-Thiers-Live?i=NTMxNjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.164288,
+      "lat": 44.663476
+    },
+    {
+      "name": "Argelès",
+      "url": "https://pv.viewsurf.com/1420/Argeles-Village?i=NTc0NDp1bmRlZmluZWQ",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 3.022377,
+      "lat": 42.546271
+    },
+    {
+      "name": "Argelès-Gazost",
+      "url": "https://pv.viewsurf.com/1414/Argeles-Gazost-Office-de-Tourisme?i=NTcyODp1bmRlZmluZWQ",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": -0.100524,
+      "lat": 43.004818
+    },
+    {
+      "name": "Argelès-sur-Mer",
+      "url": "https://pv.viewsurf.com/1416/Argeles-Plage-Centre?i=NTczNjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.049825,
+      "lat": 42.546581
+    },
+    {
+      "name": "Argelès-sur-Mer - Le Port",
+      "url": "https://pv.viewsurf.com/1418/Argeles-Le-Port?i=NTc0MDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.051785,
+      "lat": 42.54103
+    },
+    {
+      "name": "Arvieux",
+      "url": "https://pv.viewsurf.com/1010/Espace-Nordique-du-Queyras-Arvieux?i=NDc1NDp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.7233,
+      "lat": 44.795545
+    },
+    {
+      "name": "Auch",
+      "url": "https://pv.viewsurf.com/1392/Auch?i=NTY2NDp1bmRlZmluZWQ",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 0.588632,
+      "lat": 43.644701
+    },
+    {
+      "name": "Avranches",
+      "url": "https://pv.viewsurf.com/2112/Avranchesot?i=NzY0Njp1bmRlZmluZWQ",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": -1.363651,
+      "lat": 48.684515
+    },
+    {
+      "name": "Baie du Mont-Saint-Michel",
+      "url": "https://pv.viewsurf.com/1292/baie-du-mont-saint-michel?i=NTM3Njp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.446263,
+      "lat": 48.663746
+    },
+    {
+      "name": "Balaruc-les-Bains",
+      "url": "https://pv.viewsurf.com/744/Balaruclesbains?i=NDA2MDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.675857,
+      "lat": 43.436142
+    },
+    {
+      "name": "Banyuls",
+      "url": "https://pv.viewsurf.com/1492/Banyuls?i=NTk2NDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.130355,
+      "lat": 42.48124
+    },
+    {
+      "name": "Banyuls - Le Port",
+      "url": "https://pv.viewsurf.com/2096/Banyuls-Capitainerie?i=NzYxMjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.136642,
+      "lat": 42.480914
+    },
+    {
+      "name": "Barcelonnette - Le golf",
+      "url": "https://pv.viewsurf.com/1934/Le-Golf?i=NzE4MDp1bmRlZmluZWQ",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 6.626711,
+      "lat": 44.380352
+    },
+    {
+      "name": "Barre d'Etel",
+      "url": "https://pv.viewsurf.com/754/Barre-d-Etel?i=NDEwMjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -3.214445,
+      "lat": 47.646016
+    },
+    {
+      "name": "Beg Meil",
+      "url": "https://pv.viewsurf.com/702/Fouesnant-Beg-Meil?i=Mzk1Njp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -3.983625,
+      "lat": 47.860986
+    },
+    {
+      "name": "Benodet - le port",
+      "url": "https://pv.viewsurf.com/524/Benodet-Port-de-Plaisance?i=MzMzODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -4.115638,
+      "lat": 47.881341
+    },
+    {
+      "name": "Bénodet",
+      "url": "https://pv.viewsurf.com/592/Benodet-Plage?i=MzU4Njp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -4.101693,
+      "lat": 47.866593
+    },
+    {
+      "name": "Bidart",
+      "url": "https://pv.viewsurf.com/1822/Bidart?i=NjkzMjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.596357,
+      "lat": 43.436452
+    },
+    {
+      "url": "https://pv.viewsurf.com/2300/Bordeaux-L-Estacade?i=ODA2ODp1bmRlZmluZWQ",
+      "name": "Bordeaux",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": -0.563999,
+      "lat": 44.84274
+    },
+    {
+      "name": "Bordeaux - Pont Jacques Chaban-Delmas",
+      "url": "https://pv.viewsurf.com/2306/Bordeaux-Cite-du-vin-Ville-de-Bordeaux?i=ODEwODp1bmRlZmluZWQ",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": -0.548498,
+      "lat": 44.861732
+    },
+    {
+      "name": "Brétignolles-sur-Mer",
+      "url": "https://pv.viewsurf.com/842/Bretignolles-sur-Mer-La-Sauzaie?i=NDM5NDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.891786,
+      "lat": 46.637172
+    },
+    {
+      "name": "Camurac - 1618m",
+      "url": "https://pv.viewsurf.com/1946/Camurac-Station?i=NzIyMjp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 1.927891,
+      "lat": 42.775507
+    },
+    {
+      "name": "Cap d'Ail",
+      "url": "https://pv.viewsurf.com/2236/Port-de-Cap-d-Ail?i=Nzg4ODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 7.415643,
+      "lat": 43.72401
+    },
+    {
+      "name": "Cap-d'Agde",
+      "url": "https://pv.viewsurf.com/464/Cap-d-Agde?i=MzAzODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.50529,
+      "lat": 43.273569
+    },
+    {
+      "name": "Caperette - 2350m",
+      "url": "https://pv.viewsurf.com/1150/Luz-Ardiden-TSD-Aulian?i=NTA3NDp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": -0.079849,
+      "lat": 42.874818
+    },
+    {
+      "name": "Catray - 1065m",
+      "url": "https://pv.viewsurf.com/1336/Catray?i=NTUwMDp1bmRlZmluZWQ",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 5.758056,
+      "lat": 46.112715
+    },
+    {
+      "name": "Cavalaire-sur-Mer - le port",
+      "url": "https://pv.viewsurf.com/1440/Cavalaire-Le-Port?i=NTgxODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 6.533376,
+      "lat": 43.173141
+    },
+    {
+      "name": "Molines Saint-Veran - Chapelle-Saint-Agathe",
+      "url": "https://pv.viewsurf.com/1140/Espace-Nordique-du-Queyras-Molines-Saint-Veran?i=NTAyNjp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.848849,
+      "lat": 44.711246
+    },
+    {
+      "name": "Châtelaillon-Plage",
+      "url": "https://pv.viewsurf.com/1478/Chatelaillon-Plage?i=NTkyMDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.094017,
+      "lat": 46.077707
+    },
+    {
+      "name": "Cherbourg - le port",
+      "url": "https://pv.viewsurf.com/536/Le-Port-de-Cherbourg?i=MzM3Njp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": -1.624035,
+      "lat": 49.645548
+    },
+    {
+      "name": "Col de la Croix de Chambouret - 1201m",
+      "url": "https://pv.viewsurf.com/548/Monts-du-Pilat?i=MzQyNDp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 4.527934,
+      "lat": 45.367509
+    },
+    {
+      "name": "Fouesnant - Cap-Coz",
+      "url": "https://pv.viewsurf.com/700/Fouesnant-Cap-Coz?i=Mzk1MDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -3.987348,
+      "lat": 47.885343
+    },
+    {
+      "name": "Cirque de Gavarnie - 1371m",
+      "url": "https://pv.viewsurf.com/438/Cirque-de-Gavarnie?i=Mjg3MDp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": -0.009082,
+      "lat": 42.733077
+    },
+    {
+      "name": "Gavarnie - 1846m",
+      "url": "https://pv.viewsurf.com/642/Gavarnie-Station?i=NTE0ODp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": -0.030644,
+      "lat": 42.72917
+    },
+    {
+      "name": "La Londe-les-Maures",
+      "url": "https://pv.viewsurf.com/2160/La-Londe-les-Maures-Port-de-Plaisance?i=Nzc5ODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 6.248402,
+      "lat": 43.116866
+    },
+    {
+      "name": "La Trinité sur mer",
+      "url": "https://pv.viewsurf.com/1558/La-Trinite-sur-Mer-Mairie-Balise-Port?i=NjEzNDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -3.024327,
+      "lat": 47.587993
+    },
+    {
+      "name": "Le Croisic",
+      "url": "https://pv.viewsurf.com/590/Le-Croisic?i=MzU4Mjp1bmRlZmluZWQ",
+      "type": "sea",
+      "lng": -2.508638,
+      "lat": 47.293697
+    },
+    {
+      "name": "Le Guilvinec",
+      "url": "https://pv.viewsurf.com/750/Guilvinec?i=NDEwNDp1bmRlZmluZWQ",
+      "type": "sea",
+      "lng": -4.28415,
+      "lat": 47.792643
+    },
+    {
+      "name": "Le Lavandou",
+      "url": "https://pv.viewsurf.com/2156/Le-Lavandou-Plage-de-Cavaliere-Layet?i=Nzc4NDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 6.425929,
+      "lat": 43.15138
+    },
+    {
+      "name": "Le Pouliguen",
+      "url": "https://pv.viewsurf.com/1568/Le-Pouliguen?i=NjE2MDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -2.424414,
+      "lat": 47.269966
+    },
+    {
+      "name": "Le Pradet",
+      "url": "https://pv.viewsurf.com/906/Le-Pradet-Video?i=NDUxODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 6.019156,
+      "lat": 43.085063
+    },
+    {
+      "name": "Les Glénans - Île Saint-Nicolas",
+      "url": "https://pv.viewsurf.com/1350/Fouesnant-Ile-Saint-Nicolas?i=NTU0MDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -4.003181,
+      "lat": 47.722885
+    },
+    {
+      "name": "Leucate",
+      "url": "https://pv.viewsurf.com/1196/Leucate-Base-de-Voile?i=NTIxODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.036532,
+      "lat": 42.847425
+    },
+    {
+      "name": "Leucate Plage",
+      "url": "https://pv.viewsurf.com/892/Leucate-Plage?i=NDQ4NDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.053561,
+      "lat": 42.900238
+    },
+    {
+      "name": "Leucate-La Franqui",
+      "url": "https://pv.viewsurf.com/894/Leucate-La-Franqui?i=NzczMDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.038841,
+      "lat": 42.941894
+    },
+    {
+      "name": "Locmiquélic",
+      "url": "https://pv.viewsurf.com/1836/Locmiquelic-Port?i=Njk1NDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -3.348344,
+      "lat": 47.724741
+    },
+    {
+      "name": "Luz-Adiden - Aulian - 1715m",
+      "url": "https://pv.viewsurf.com/1088/Luz-Ardiden-Front-de-Neige?i=NDk0NDp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": -0.060956,
+      "lat": 42.884911
+    },
+    {
+      "name": "Menton - Port de Garavan",
+      "url": "https://pv.viewsurf.com/1098/Menton-01-Port-de-Garavan-Video-panoramique?i=NjU5ODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 7.521011,
+      "lat": 43.784395
+    },
+    {
+      "name": "Menton - Vieux Port",
+      "url": "https://pv.viewsurf.com/1144/Vieux-Port-de-Menton-Video-Panoramique?i=NjYwMjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 7.512379,
+      "lat": 43.776677
+    },
+    {
+      "name": "Merlimont",
+      "url": "https://pv.viewsurf.com/1604/Merlimont-Plage?i=NjI1ODp1bmRlZmluZWQ",
+      "type": "sea",
+      "lng": 1.572469,
+      "lat": 50.462946
+    },
+    {
+      "name": "Neufchâtel-Hardelot",
+      "url": "https://pv.viewsurf.com/1246/Neufchatel-Hardelot?i=NTMxODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 1.576501,
+      "lat": 50.635302
+    },
+    {
+      "name": "Nice - Le port",
+      "url": "https://pv.viewsurf.com/1212/Port-de-Nice-2EMMA-Video-Panoramique?i=NTIzNjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 7.286119,
+      "lat": 43.696845
+    },
+    {
+      "name": "Noirmoutier",
+      "url": "https://pv.viewsurf.com/980/Noirmoutier?i=NDY4Mjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -2.220834,
+      "lat": 47.009759
+    },
+    {
+      "name": "La Tremblade - Phare de la Coubre",
+      "url": "https://pv.viewsurf.com/1948/La-Tremblade-Phare-de-la-Coubre?i=NzIyNDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.233199,
+      "lat": 45.696517
+    },
+    {
+      "url": "https://pv.viewsurf.com/2182/Pointe-de-Castel-Ac-h?i=NzgxNjp1bmRlZmluZWQ",
+      "name": "Pointe-de-Castel-Ac-h",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -4.566147,
+      "lat": 48.624873
+    },
+    {
+      "name": "Pont l'Abbé",
+      "url": "https://pv.viewsurf.com/1194/Pont-l-Abbe?i=NTIxMjp1bmRlZmluZWQ",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": -4.219353,
+      "lat": 47.868009
+    },
+    {
+      "name": "Pornic",
+      "url": "https://pv.viewsurf.com/1412/Pornic-Vieux-port-et-chateau-de-Pornic?i=NTg3Njp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -2.103053,
+      "lat": 47.114863
+    },
+    {
+      "name": "Pornic",
+      "url": "https://pv.viewsurf.com/682/Pornic-Phare?i=MzkxNjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -2.115348,
+      "lat": 47.110323
+    },
+    {
+      "name": "Pornichet",
+      "url": "https://pv.viewsurf.com/998/Pornichet?i=NDcyNjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -2.344886,
+      "lat": 47.264469
+    },
+    {
+      "name": "Port de Vilh",
+      "url": "https://pv.viewsurf.com/2184/Port-du-Vilh?i=NzgyMDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -4.608628,
+      "lat": 48.575218
+    },
+    {
+      "name": "Porté-Puymorens - 1861m",
+      "url": "https://pv.viewsurf.com/2072/Porte-Puymorens-La-Vignole?i=NzU1ODp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 1.805765,
+      "lat": 42.556232
+    },
+    {
+      "name": "Préfailles-Pointe de Saint-Gildas",
+      "url": "https://pv.viewsurf.com/844/Prefailles-Pointe-de-Saint-Gildas?i=NDM5Njp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -2.244958,
+      "lat": 47.136222
+    },
+    {
+      "name": "Ronce-les-Bains",
+      "url": "https://pv.viewsurf.com/1832/Ronce-les-Bains-Plage-de-la-Cepe?i=Njk0NDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.165149,
+      "lat": 45.799512
+    },
+    {
+      "name": "Royan - Plage de Pontaillac",
+      "url": "https://pv.viewsurf.com/1660/Royan-Plage-de-Pontaillac?i=NjQxNDp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": -1.052721,
+      "lat": 45.627
+    },
+    {
+      "name": "Royan",
+      "url": "https://pv.viewsurf.com/1828/Royan-Port?i=Njk0MDp1bmRlZmluZWQ",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": -1.025755,
+      "lat": 45.621221
+    },
+    {
+      "name": "Saint-Brévin-l'Océan",
+      "url": "https://pv.viewsurf.com/1662/Saint-Brevin-live?i=NjQyMjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -2.175754,
+      "lat": 47.228468
+    },
+    {
+      "name": "Saint-Georges-de-Didonne",
+      "url": "https://pv.viewsurf.com/1682/Saint-Georges-de-Didonne?i=NjUxMjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -0.99374,
+      "lat": 45.599437
+    },
+    {
+      "name": "Saint-Raphaël - Vieux Port",
+      "url": "https://pv.viewsurf.com/1676/Saint-Raphael-Vieux-Port?i=NjQ4Mjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 6.764343,
+      "lat": 43.42398
+    },
+    {
+      "name": "Saint-Raphaël - Santa Lucia",
+      "url": "https://pv.viewsurf.com/1708/Saint-Raphael-Capitainerie-Santa-Lucia?i=NjYxNDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 6.78089,
+      "lat": 43.412738
+    },
+    {
+      "name": "Sanary-sur-Mer",
+      "url": "https://pv.viewsurf.com/2132/Sanary-Tourisme?i=NzY3ODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 5.801924,
+      "lat": 43.118007
+    },
+    {
+      "name": "Saint-Michel-Chef-Chef - Tharon Plage",
+      "url": "https://pv.viewsurf.com/846/Saint-Michel-Chef-Chef?i=NDQwMDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -2.167531,
+      "lat": 47.165796
+    },
+    {
+      "name": "Valenciennes",
+      "url": "https://pv.viewsurf.com/1954/Valenciennes-La-Place-d-Arme?i=NzIzNjp1bmRlZmluZWQ",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 3.523988,
+      "lat": 50.358587
+    },
+    {
+      "name": "Vallauris - Golfe Juan",
+      "url": "https://pv.viewsurf.com/1214/Port-de-Golfe-Juan-Video-Panoramique?i=NTIzODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 7.073943,
+      "lat": 43.564269
+    },
+    {
+      "name": "Vaux-sur-Mer",
+      "url": "https://pv.viewsurf.com/1834/Vaux-sur-mer-Plage-de-Nauzan?i=Njk0Njp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.077513,
+      "lat": 45.638914
+    },
+    {
+      "name": "Vendays-Montalivet",
+      "url": "https://pv.viewsurf.com/1704/Vendays-Montalivet-Plage?i=NjU5Mjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.15883,
+      "lat": 45.378841
     }
-
   ]
 }
 
