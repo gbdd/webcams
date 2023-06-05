@@ -5075,6 +5075,14 @@
       "lat": 46.1335278
     },
     {
+      "name": "Vallorcine",
+      "url": "https://valleedutrient.roundshot.com/vallorcine",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.936241,
+      "lat": 46.039328
+    },
+    {
       "id": "254",
       "url": "https://wilerturm.roundshot.com/",
       "name": "Wil - Wiler Turm",
@@ -7156,7 +7164,7 @@
     {
       "id": "481",
       "url": "https://chexbres.roundshot.com/",
-      "name": "Chexbres Commune - Chexbres",
+      "name": "Chexbres",
       "iframesrc": "s",
       "type": "lake",
       "lng": 6.780661,
@@ -13239,6 +13247,293 @@
       "iframesrc": "s",
       "lng": -1.15883,
       "lat": 45.378841
+    },
+    {
+      "name": "Sainte-Ursanne",
+      "url": "http://juratourisme.roundshot.com/st-ursanne/",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 7.168139,
+      "lat": 47.367424
+    },
+    {
+      "name": "Porrentruy",
+      "url": "http://juratourisme.roundshot.com/porrentruy/",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 7.076054,
+      "lat": 47.411042
+    },
+    {
+      "url": "https://bussimmobilien.roundshot.com/",
+      "name": "Pratteln",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 7.692168,
+      "lat": 47.523243
+    },
+    {
+      "name": "Plagne",
+      "url": "https://plagne.roundshot.com/",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 7.286317,
+      "lat": 47.188196
+    },
+    {
+      "name" : "Aiguines",
+      "url" : "https://www.skaping.com/aiguines",
+      "iframesrc" : "s",
+      "type": "lake",
+      "lng": 6.243693737113453,
+      "lat": 43.77686267322873
+    },
+    {
+      "name": "Les Brenets",
+      "url": "https://lesbrenets.roundshot.com/",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 6.697755,
+      "lat": 47.068441
+    },
+    {
+      "name": "Grenchen - 430m",
+      "url": "https://fliegen.roundshot.com/",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 7.413754,
+      "lat": 47.183048
+    },
+    {
+      "name": "Aubenas - 300m",
+      "url": "https://ardeche.roundshot.com/aubenas",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 4.387716,
+      "lat": 44.621964
+    },
+    {
+      "name": "Bâle",
+      "url": "https://baeumlihof.roundshot.com/",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 7.626443,
+      "lat": 47.567825
+    },
+    {
+      "name": "Ancelle - 1355m",
+      "url": "https://app.webcam-hd.com/ancelle/nordique",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_ancelle_nordique.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.209585,
+      "lat": 44.618579
+    },
+    {
+      "name": "Ancelle - 1385m",
+      "url": "https://app.webcam-hd.com/ancelle/station",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_ancelle_station.jpg",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 6.210612,
+      "lat": 44.626149
+    },
+    {
+      "name": "Ancelle - 1610m",
+      "url": "https://app.webcam-hd.com/ancelle/zenith",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_ancelle_piste-zenith.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.203507,
+      "lat": 44.606269
+    },
+    {
+      "name": "Chaillol - 1790m",
+      "url": "https://app.webcam-hd.com/chaillol/sommet-clot-chenu",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_chaillol_sommet-clot-chenu.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.165444,
+      "lat": 44.695431
+    },
+    {
+      "name": "Flaine - 1710m",
+      "url": "https://app.webcam-hd.com/grand-massif/grand-massif_flaine-1600",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_grand-massif_flaine-1600.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.688161,
+      "lat": 46.008891
+    },
+    {
+      "name": "Flaine - Les grandes Platrières - 2480m",
+      "url": "https://app.webcam-hd.com/grand-massif/grand-massif_flaine-grandes-platieres",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_grand-massif_flaine-grandes-platieres.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.722319,
+      "lat": 45.984446
+    },
+    {
+      "name": "La Rosière - 1854m",
+      "url": "https://app.webcam-hd.com/la-rosiere/maison-du-ski",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_la_rosiere_maison-du-ski.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.848621,
+      "lat": 45.628535
+    },
+    {
+      "name": "La Rosière - Le Fort - 2394m",
+      "url": "https://app.webcam-hd.com/la-rosiere/traversette",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_rosiere_traversette.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.875414,
+      "lat": 45.657327
+    },
+    {
+      "name": "Lans-en-Vercors - 1397m",
+      "url": "https://app.webcam-hd.com/lans_en_vercors/montagne-de-lans",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_lans_stade.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 5.60954,
+      "lat": 45.115847
+    },
+    {
+      "name": "Lans-en-Vercors - Collet du Furon",
+      "url": "https://app.webcam-hd.com/lans_en_vercors/les-allieres-collet-du-furon",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_lans-en-vercors_les-allieres.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 5.601507,
+      "lat": 45.094591
+    },
+    {
+      "name": "Lans-en-Vercors - Grande Roche Saint-Michel - 1695m",
+      "url": "https://app.webcam-hd.com/lans_en_vercors/vertige_des_cimes",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_lans-en-vercors_belvedere.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 5.624474,
+      "lat": 45.114727
+    },
+    {
+      "name": "Les Carroz - Tête de Saix - 2109m",
+      "url": "https://app.webcam-hd.com/lescarroz/carroz-2100",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_lescarroz_tete-des-saix.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.692388,
+      "lat": 46.029271
+    },
+    {
+      "name": "Les Gets - 1164m",
+      "url": "https://app.webcam-hd.com/lesgets/front-de-neige-panoramique",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_lesgets_panoramique-front-de-neige.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.670032,
+      "lat": 46.158227
+    },
+    {
+      "name": "Les Gets - Départ Ranfoilly - 1391m",
+      "url": "https://app.webcam-hd.com/lesgets/depart-ranfoilly",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_lesgets_depart-ranfoilly.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.682855,
+      "lat": 46.136978
+    },
+    {
+      "name": "Les Gets - Grains d'Or - 1629m",
+      "url": "https://app.webcam-hd.com/lesgets/perriere",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_perriere.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.67648,
+      "lat": 46.133728
+    },
+    {
+      "name": "Les Gets - Mont-Chéry - 1820m",
+      "url": "https://app.webcam-hd.com/lesgets/les_gets_sommet-chery",
+      "thumburl": "https://srv04.trinum.com/ibox/ftpcam/small_les_gets_sommet-chery.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.646991,
+      "lat": 46.16858
+    },
+    {
+      "name": "Les Gets - Plateau des Chavannes - 1495m",
+      "url": "https://app.webcam-hd.com/lesgets/plateau-des-chavannes",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_lesgets_plateau-des-chavannes.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.686248,
+      "lat": 46.14864
+    },
+    {
+      "name": "Les Saisies - 1610m",
+      "url": "https://app.webcam-hd.com/ducrey-sports/pierre-a-l-ane",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_ducrey-sports_pierre-a-l-ane.jpg",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 6.540537,
+      "lat": 45.749055
+    },
+    {
+      "name": "Mandelieu-La-Napoule",
+      "url": "https://app.webcam-hd.com/mandelieu-la-napoule/capitainerie",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_mandelieu-la-napoule_capitainerie.jpg",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 6.945623,
+      "lat": 43.524033
+    },
+    {
+      "name": "Plateau Saint-Jean d'Aulps - 1507m",
+      "url": "https://app.webcam-hd.com/vallee-d-aulps/plateau-st-jean-d-aulps",
+      "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_vallee-d-aulps_plateau-st-jean-d-aulps.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.631558,
+      "lat": 46.214682
+    },
+    {
+      "name": "Plateau-des-Glières - 1494m",
+      "url": "https://app.webcam-hd.com/conseil-general-74/cg74_plateau-des-glieres",
+      "thumburl": "https://srv08.trinum.com/ibox/ftpcam/small_cg74_plateau-des-glieres.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.329077,
+      "lat": 45.966837
+    },
+    {
+      "name": "Samoëns - Tête de Saix - 2109m",
+      "url": "https://app.webcam-hd.com/grand-massif/grand-massif_samoens-tete-des-saix",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_grand-massif_samoens-tete-des-saix.jpg",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.692879,
+      "lat": 46.02889
+    },
+    {
+      "name": "Valberg - 1672m",
+      "url": "https://app.webcam-hd.com/valberg/valberg_village",
+      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_valberg_village.jpg",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 6.930174,
+      "lat": 44.09567
+    },
+    {
+      "name": "L'Ubaye",
+      "url": "https://pv.viewsurf.com/1926/La-riviere?i=NzE1Mjp1bmRlZmluZWQ",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 6.563730459456604,
+      "lat": 44.391304851949876
     }
   ]
 }
