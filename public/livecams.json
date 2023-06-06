@@ -909,7 +909,7 @@
       "lat": 48.639422896827114
     },
     {
-      "name" : "Ile-Tudy",
+      "name" : "Ile Tudy",
       "url" : "https://pv.viewsurf.com/id/1306/a/medialist?i=NTM5ODp1bmRlZmluZWQ",
       "iframesrc" : "s",
       "type": "sea",
@@ -5465,8 +5465,8 @@
     },
     {
       "name" : "Saint Malo - Les thermes marins",
-      "url" : "https://www.youtube.com/watch?v=3MSIEP6UU9M",
-      "iframesrc" : "https://www.youtube.com/embed/3MSIEP6UU9M",
+      "url" : "https://www.youtube.com/watch?v=jwWSn7u3u-g",
+      "iframesrc" : "https://www.youtube.com/embed/jwWSn7u3u-g",
       "type": "sea",
       "lng": -1.9997292220972047,
       "lat": 48.65810767606356
@@ -12628,14 +12628,6 @@
       "lat": 44.742535
     },
     {
-      "name": "Anglet - Sables d'or",
-      "url": "https://pv.viewsurf.com/2130/Anglet-Panoramique-Sables-d-Or-Marinella-Corsaires?i=NzY3Njp1bmRlZmluZWQ",
-      "type": "sea",
-      "iframesrc": "s",
-      "lng": -1.5432125,
-      "lat": 43.5
-    },
-    {
       "name": "Anglet - Plage de l'Ocean",
       "url": "https://pv.viewsurf.com/774/Anglet-Plage-de-l-Ocean?i=NDE1ODp1bmRlZmluZWQ",
       "type": "sea",
@@ -12886,7 +12878,7 @@
     {
       "name": "Cherbourg - le port",
       "url": "https://pv.viewsurf.com/536/Le-Port-de-Cherbourg?i=MzM3Njp1bmRlZmluZWQ",
-      "type": "mountain",
+      "type": "sea",
       "iframesrc": "s",
       "lng": -1.624035,
       "lat": 49.645548
@@ -13534,8 +13526,890 @@
       "iframesrc": "s",
       "lng": 6.563730459456604,
       "lat": 44.391304851949876
+    },
+    {
+      "id": 134,
+      "name": "Alvor - Praia do Alvor",
+      "thumburl": "https://films.viewsurf.com/BCalvor_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/134/Alvor-Praia-do-Alvor",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.5969396281546,
+      "lat": 37.122560476644
+    },
+    {
+      "id": 130,
+      "name": "Amoreira - Praia do Amoreira",
+      "thumburl": "https://films.viewsurf.com/BCbcamoreira_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/130/Amoreira-Praia-do-Amoreira",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.8453109,
+      "lat": 37.3498052
+    },
+    {
+      "id": 150,
+      "name": "Anglet - Plage de la Barre",
+      "thumburl": "https://films.viewsurf.com/anglet02_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/150/Anglet-Plage-de-la-Barre",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.5241810414471,
+      "lat": 43.525461420932
+    },
+    {
+      "id": 131,
+      "name": "Arrifana - Praia da Arrifana",
+      "thumburl": "https://films.viewsurf.com/BCarrifana_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/131/Arrifana-Praia-da-Arrifana",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.8660441902049,
+      "lat": 37.294899377014
+    },
+    {
+      "id": 91,
+      "name": "Barra - Praia da Barra",
+      "thumburl": "https://films.viewsurf.com/BCaveiro_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/91/Barra-Praia-da-Barra",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.7492158072255,
+      "lat": 40.635123408419
+    },
+    {
+      "id": 129,
+      "name": "Zambujeira - Praia da Zambujeira do Mar",
+      "thumburl": "https://films.viewsurf.com/BCzambujeira_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/129/Zambujeira-Praia-da-Zambujeira-do-Mar",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.7876605073052,
+      "lat": 37.522881724264
+    },
+    {
+      "id": 15,
+      "name": "Zarautz - Playa de Zarautz",
+      "thumburl": "https://films.viewsurf.com/zarautz_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/15/Zarautz-Playa-de-Zarautz",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -2.17083,
+      "lat": 43.287703
+    },
+    {
+      "id": 138,
+      "name": "Vila Lara - Praia Senhora da Rocha e Praia Nova",
+      "thumburl": "https://films.viewsurf.com/BCbcigreja_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/138/Vila-Lara-Praia-Senhora-da-Rocha-e-Praia-Nova",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.386447018064,
+      "lat": 37.096743699682
+    },
+    {
+      "id": 141,
+      "name": "Vilamoura - Praia do Poço Velho",
+      "thumburl": "https://films.viewsurf.com/BCvilamoura_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/141/Vilamoura-Praia-do-Poco-Velho",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.1295260564946,
+      "lat": 37.07468666506
+    },
+    {
+      "id": 96,
+      "name": "Tocha - Praia da Tocha",
+      "thumburl": "https://films.viewsurf.com/BCtocha_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/96/Tocha-Praia-da-Tocha",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.8443722237031,
+      "lat": 40.331801676615
+    },
+    {
+      "id": 90,
+      "name": "Torreira - Praia da Torreira",
+      "thumburl": "https://films.viewsurf.com/BCtorreira_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/90/Torreira-Praia-da-Torreira",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.7139027224771,
+      "lat": 40.761166760618
+    },
+    {
+      "id": 94,
+      "name": "Vagueira Labrego - Praia da Vagueira",
+      "thumburl": "https://films.viewsurf.com/BCvagueira_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/94/Vagueira-Labrego-Praia-da-Vagueira",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.7711491521475,
+      "lat": 40.559267891011
+    },
+    {
+      "id": 113,
+      "name": "Sintra - Praia Grande Norte",
+      "thumburl": "https://films.viewsurf.com/BCpraiagrande_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/113/Sintra-Praia-Grande-Norte",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.4764940476073,
+      "lat": 38.816122941444
+    },
+    {
+      "id": 114,
+      "name": "Sintra - Praya Grande Sul",
+      "thumburl": "https://films.viewsurf.com/BCpraiagrande2_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/114/Sintra-Praya-Grande-Sul",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.4800989691067,
+      "lat": 38.810789996735
+    },
+    {
+      "id": 128,
+      "name": "Sines - Praia do Sao Torpes",
+      "thumburl": "https://films.viewsurf.com/BCsaotorpes_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/128/Sines-Praia-do-Sao-Torpes",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.8052778,
+      "lat": 37.9227778
+    },
+    {
+      "id": 14,
+      "name": "San Sebastian - Playa de la Concha",
+      "thumburl": "https://films.viewsurf.com/conchasanse_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/14/San-Sebastian-Playa-de-la-Concha",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.9878879613546,
+      "lat": 43.316372975929
+    },
+    {
+      "id": 104,
+      "name": "Santa Cruz - Praia de Santa Cruz",
+      "thumburl": "https://films.viewsurf.com/BCsantacruz_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/104/Santa-Cruz-Praia-de-Santa-Cruz",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.3834755185693,
+      "lat": 39.13488111809
+    },
+    {
+      "id": 102,
+      "name": "Péniche - Praia do Lagide",
+      "thumburl": "https://films.viewsurf.com/BClagide_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/102/Peniche-Praia-do-Lagide",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.3369074188297,
+      "lat": 39.37261745721
+    },
+    {
+      "id": 103,
+      "name": "Péniche - Praia do Supertubos",
+      "thumburl": "https://films.viewsurf.com/BCsupertubos_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/103/Peniche-Praia-do-Supertubos",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.3610358999999,
+      "lat": 39.3403996
+    },
+    {
+      "id": 135,
+      "name": "Portimao - Praia da Rocha",
+      "thumburl": "https://films.viewsurf.com/BCpraiadarocha_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/135/Portimao-Praia-da-Rocha",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.5353523,
+      "lat": 37.1165537
+    },
+    {
+      "id": 87,
+      "name": "Porto - Matosinhos",
+      "thumburl": "https://films.viewsurf.com/BCmatosinhos_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/87/Porto-Matosinhos",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.6962733,
+      "lat": 41.2014865
+    },
+    {
+      "id": 120,
+      "name": "Oeiras - Praia de Santo Amaro",
+      "thumburl": "https://films.viewsurf.com/BCsantoamaro_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/120/Oeiras-Praia-de-Santo-Amaro",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.3106454945226,
+      "lat": 38.685079960935
+    },
+    {
+      "id": 121,
+      "name": "Oeiras - Praia do Paço de Arcos",
+      "thumburl": "https://films.viewsurf.com/BCparcos_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/121/Oeiras-Praia-do-Paco-de-Arcos",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.2971829907466,
+      "lat": 38.690491486761
+    },
+    {
+      "id": 100,
+      "name": "Nazaré - Praia do Norte",
+      "thumburl": "https://films.viewsurf.com/BCnazareparadonorte_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/100/Nazare-Praia-do-Norte",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.0838217464579,
+      "lat": 39.621556957932
+    },
+    {
+      "id": 101,
+      "name": "Nazaré - Praia Da Vila",
+      "thumburl": "https://films.viewsurf.com/BCnazarepraiadavila_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/101/Nazare-Praia-Da-Vila",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.07256569591,
+      "lat": 39.597692012438
+    },
+    {
+      "id": 95,
+      "name": "Mira - Praia de Mira",
+      "thumburl": "https://films.viewsurf.com/BCbcmira_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/95/Mira-Praia-de-Mira",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.8040486755611,
+      "lat": 40.45239789451
+    },
+    {
+      "id": 142,
+      "name": "Madeira - Jardim do Mar",
+      "thumburl": "https://films.viewsurf.com/BCmadeirajardimdomar_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/142/Madeira-Jardim-do-Mar",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -17.083067889253,
+      "lat": 32.674629636154
+    },
+    {
+      "id": 106,
+      "name": "Lourenço - Praia de Sao Lourenço",
+      "thumburl": "https://films.viewsurf.com/BCsaolourenco_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/106/Lourenco-Praia-de-Sao-Lourenco",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.4214510659242,
+      "lat": 39.011710484905
+    },
+    {
+      "id": 86,
+      "name": "Leça da Palmeira",
+      "thumburl": "https://films.viewsurf.com/BClecadapalmeira_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/86/Leca-da-Palmeira",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.6962733,
+      "lat": 41.201487
+    },
+    {
+      "id": 132,
+      "name": "Lagos - Praia da Luz",
+      "thumburl": "https://films.viewsurf.com/BCluz_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/132/Lagos-Praia-da-Luz",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.7258596878407,
+      "lat": 37.08705065304
+    },
+    {
+      "id": 75,
+      "name": "Hondarribia - Playa Hondarribia",
+      "thumburl": "https://films.viewsurf.com/hondarribia_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/75/Hondarribia-Playa-Hondarribia",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.7933104291771,
+      "lat": 43.38529614324
+    },
+    {
+      "id": 105,
+      "name": "Ericeira - Praia da Calada",
+      "thumburl": "https://films.viewsurf.com/BCpraiadacalada_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/105/Ericeira-Praia-da-Calada",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.4182457688433,
+      "lat": 39.032674124594
+    },
+    {
+      "id": 109,
+      "name": "Ericeira - Praia Dos Pescadores",
+      "thumburl": "https://films.viewsurf.com/BCbcpescadores_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/109/Ericeira-Praia-Dos-Pescadores",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.4189300671282,
+      "lat": 38.964222018366
+    },
+    {
+      "id": 110,
+      "name": "Ericeira - Praia Do Sul",
+      "thumburl": "https://films.viewsurf.com/BCpraiadosulericeira_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/110/Ericeira-Praia-Do-Sul",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.4162726442699,
+      "lat": 38.955871094146
+    },
+    {
+      "id": 111,
+      "name": "Ericeira - Praia de Foz Do Lizandro",
+      "thumburl": "https://films.viewsurf.com/BCfozdolizandro_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/111/Ericeira-Praia-de-Foz-Do-Lizandro",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.4158616,
+      "lat": 38.9418219
+    },
+    {
+      "id": 108,
+      "name": "Ericeira Spots - Praia de Ericeira",
+      "thumburl": "https://films.viewsurf.com/BCericeiraspots_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/108/Ericeira-Spots-Praia-de-Ericeira",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.4197228284007,
+      "lat": 38.965339743877
+    },
+    {
+      "id": 88,
+      "name": "Espinho - Praia Azul Espinho",
+      "thumburl": "https://films.viewsurf.com/BCespinho_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/88/Espinho-Praia-Azul-Espinho",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.645489365575,
+      "lat": 41.009005385978
+    },
+    {
+      "id": 117,
+      "name": "Estoril - Praia de Sao Pedro do Estoril",
+      "thumburl": "https://films.viewsurf.com/BCsaopedroestoria_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/117/Estoril-Praia-de-Sao-Pedro-do-Estoril",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.3693820240223,
+      "lat": 38.693390880732
+    },
+    {
+      "id": 136,
+      "name": "Ferragudo - Praia Grande",
+      "thumburl": "https://films.viewsurf.com/BCferragudo_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/136/Ferragudo-Praia-Grande",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.5186425857671,
+      "lat": 37.115061482964
+    },
+    {
+      "id": 97,
+      "name": "Figueira da Foz - Praia do Cabedelo",
+      "thumburl": "https://films.viewsurf.com/BCcabedelo_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/97/Figueira-da-Foz-Praia-do-Cabedelo",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.857583,
+      "lat": 40.1521398
+    },
+    {
+      "id": 98,
+      "name": "Figueira da Foz - Praia da Tamargueira",
+      "thumburl": "https://films.viewsurf.com/BCbcfigueiradois_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/98/Figueira-da-Foz-Praia-da-Tamargueira",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.8748765,
+      "lat": 40.1772903
+    },
+    {
+      "id": 99,
+      "name": "Figueira da Foz - Praia do Buarcos",
+      "thumburl": "https://films.viewsurf.com/BCfigueiradafoz_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/99/Figueira-da-Foz-Praia-do-Buarcos",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.8721556438951,
+      "lat": 40.16045622023
+    },
+    {
+      "id": 126,
+      "name": "Fonte da Telha - Praia da Fonte Telha",
+      "thumburl": "https://films.viewsurf.com/BCfontedatelha_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/126/Fonte-da-Telha-Praia-da-Fonte-Telha",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.1952884120948,
+      "lat": 38.570810029335
+    },
+    {
+      "id": 89,
+      "name": "Furadouro - Praia do Furadouro",
+      "thumburl": "https://films.viewsurf.com/BCfuradouro_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/89/Furadouro-Praia-do-Furadouro",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.6754221,
+      "lat": 40.8730243
+    },
+    {
+      "id": 139,
+      "name": "Galé - Praia da Galé",
+      "thumburl": "https://films.viewsurf.com/BCbcgale_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/139/Gale-Praia-da-Gale",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.3174477222952,
+      "lat": 37.08167289146
+    },
+    {
+      "id": 246,
+      "name": "Dakhla - Plage de Lassarga",
+      "thumburl": "https://films.viewsurf.com/dakhla01_2_2/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/246/Dakhla-Plage-de-Lassarga",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -16.00048926021,
+      "lat": 23.633739703538
+    },
+    {
+      "id": 123,
+      "name": "Costa Caparica - Praia do CDS",
+      "thumburl": "https://films.viewsurf.com/BCcostacaparicacds_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/123/Costa-Caparica-Praia-do-CDS",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.242109,
+      "lat": 38.64509
+    },
+    {
+      "id": 124,
+      "name": "Costa Caparica - Praia do Sao-Joao",
+      "thumburl": "https://films.viewsurf.com/BCcostacaparicasaojoao_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/124/Costa-Caparica-Praia-do-Sao-Joao",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.2513469362274,
+      "lat": 38.657371986587
+    },
+    {
+      "id": 125,
+      "name": "Costa Caparica - Praia do Riviera",
+      "thumburl": "https://films.viewsurf.com/BCriviera_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/125/Costa-Caparica-Praia-do-Riviera",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.2201958439471,
+      "lat": 38.619244246259
+    },
+    {
+      "id": 92,
+      "name": "Costa Nova - Praia da Costa Nova",
+      "thumburl": "https://films.viewsurf.com/BCcostanova_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/92/Costa-Nova-Praia-da-Costa-Nova",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.7524695911413,
+      "lat": 40.619034823073
+    },
+    {
+      "id": 118,
+      "name": "Carcavelos - Praia de Carcavelos",
+      "thumburl": "https://films.viewsurf.com/BCcarcavelos_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/118/Carcavelos-Praia-de-Carcavelos",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.3345574252066,
+      "lat": 38.679860216712
+    },
+    {
+      "id": 119,
+      "name": "Carcavelos - Praia da Torre",
+      "thumburl": "https://films.viewsurf.com/BCbctorre_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/119/Carcavelos-Praia-da-Torre",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.3231451382734,
+      "lat": 38.675547464258
+    },
+    {
+      "id": 127,
+      "name": "Carvalhal - Praia do Carvalhal",
+      "thumburl": "https://films.viewsurf.com/BCcarvalhal_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/127/Carvalhal-Praia-do-Carvalhal",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.7802500990337,
+      "lat": 38.305576484219
+    },
+    {
+      "id": 137,
+      "name": "Carvoeiro - Praia de Carvoeiro",
+      "thumburl": "https://films.viewsurf.com/BCcarvoeiro_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/137/Carvoeiro-Praia-de-Carvoeiro",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -8.4724070237072,
+      "lat": 37.096522226476
+    },
+    {
+      "id": 115,
+      "name": "Cascais - Praia Do Guincho Sul",
+      "thumburl": "https://films.viewsurf.com/BCpraiaguinchonorte_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/115/Cascais-Praia-Do-Guincho-Sul",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.472477100002,
+      "lat": 38.734881019727
+    },
+    {
+      "id": 116,
+      "name": "Cascais - Praia Do Guincho Norte",
+      "thumburl": "https://films.viewsurf.com/BCpraiaguinchosul_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/116/Cascais-Praia-Do-Guincho-Norte",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.4738503910172,
+      "lat": 38.730796819006
+    },
+    {
+      "id": 122,
+      "name": "Caxias - Praia de Caxias",
+      "thumburl": "https://films.viewsurf.com/BCcaxias_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/122/Caxias-Praia-de-Caxias",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -9.2669178127769,
+      "lat": 38.699199120798
+    },
+    {
+      "id": 7,
+      "name": "Biarritz - La Côte des Basques",
+      "thumburl": "https://films.viewsurf.com/biarritz_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/7/Biarritz-La-Cote-des-Basques",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.5664712258111,
+      "lat": 43.477908164708
+    },
+    {
+      "id": 39,
+      "name": "Biarritz - La Grande Plage Vue du Phare et de la Roche plate",
+      "thumburl": "https://films.viewsurf.com/biarritzgrandeplage_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/39/Biarritz-La-Grande-Plage-Vue-du-Phare-et-de-la-Roche-plate",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.557962597003,
+      "lat": 43.485333105094
+    },
+    {
+      "id": 48,
+      "name": "Biarritz - Vue du Casino et de l'Hotel du Palais",
+      "thumburl": "https://films.viewsurf.com/biarritzplage_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/48/Biarritz-Vue-du-Casino-et-de-l-Hotel-du-Palais",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.562183,
+      "lat": 43.483558
+    },
+    {
+      "id": 84,
+      "name": "Biarritz - La Grande Plage",
+      "thumburl": "https://films.viewsurf.com/biarritzwindsor_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/84/Biarritz-La-Grande-Plage",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.558832755894,
+      "lat": 43.484241506414
+    },
+    {
+      "id": 13,
+      "name": "Bidart - Parlementia",
+      "thumburl": "https://films.viewsurf.com/bidart_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/13/Bidart-Guethary-Parlementia",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.6063357406714,
+      "lat": 43.428723318557
+    },
+    {
+      "name": "Yport - Plage d'Yport",
+      "url": "https://pv.viewsurf.com/1394/Yport-01-Le-Casino",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 0.31003008888027,
+      "lat": 49.739980132759
+    },
+    {
+      "id": 85,
+      "name": "Vieux-Boucau",
+      "thumburl": "https://films.viewsurf.com/vieuxboucau01_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/85/Vieux-Boucau-Plage-de-Vieux-Boucau",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.4142756490385,
+      "lat": 43.788228986347
+    },
+    {
+      "name": "Saint-Palais-sur-Mer - Plage de Grande Côte",
+      "url": "https://pv.viewsurf.com/1824/Saint-Palais-Grande-Cote",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.123803729332003,
+      "lat": 45.652367136372774
+    },
+    {
+      "name": "Saint-Palais-sur-Mer",
+      "url": "https://pv.viewsurf.com/1820/Saint-Palais-Centre-ville",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": -1.0879850382814178,
+      "lat": 45.64298327308884
+    },
+    {
+      "id": 59,
+      "name": "Pourville",
+      "url": "https://pv.viewsurf.com/1652/Pourville?i=NjM5Njp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 1.028804,
+      "lat": 49.916969
+    },
+    {
+      "id": 151,
+      "name": "Quiberon - Penthièvre - Plage de l'Isthme",
+      "thumburl": "https://films.viewsurf.com/quiberon03_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/151/Quiberon-Penthievre-Plage-de-l-Isthme-Baie-de-Quiberon",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -3.133975,
+      "lat": 47.547793
+    },
+    {
+      "id": 49,
+      "name": "Seignosse - Plage du Penon",
+      "thumburl": "https://films.viewsurf.com/seignosse_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/49/Seignosse-Plage-du-Penon",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.4359096190905,
+      "lat": 43.709277151241
+    },
+    {
+      "id": 159,
+      "name": "Canet en Roussillon - Mer et étang",
+      "thumburl": "https://films.viewsurf.com/canet01/11/18/media_1685974931.jpg",
+      "url": "https://gosurf.fr/webcam/fr/159/Canet-en-Roussillon-Mer-et-etang",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.038436925965,
+      "lat": 42.700884088864
+    },
+    {
+      "id": 83,
+      "name": "Capbreton - Plage du Santosha / de La Piste",
+      "thumburl": "https://films.viewsurf.com/capbreton2_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/83/Capbreton-Plage-du-Santosha-de-La-Piste",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.4457283101965714,
+      "lat": 43.64860546977205
+    },
+    {
+      "id": 165,
+      "name": "Dunkerque - Base de la Licorne",
+      "thumburl": "https://films.viewsurf.com/dunkerque01_26_37/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/165/Dunkerque-Base-de-la-Licorne",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 2.431390091556,
+      "lat": 51.058439815858
+    },
+    {
+      "id": 166,
+      "name": "Dunkerque - Plage de Bray-Dunes",
+      "thumburl": "https://films.viewsurf.com/dunkerque02_2_2/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/166/Dunkerque-Plage-de-Bray-Dunes",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 2.5207585817445,
+      "lat": 51.081824407015
+    },
+    {
+      "id": 167,
+      "name": "Dunkerque - Plage de Malo",
+      "thumburl": "https://films.viewsurf.com/dunkerque03_2_2/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/167/Dunkerque-Plage-de-Malo",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 2.4102024145561,
+      "lat": 51.05311275317
+    },
+    {
+      "id": 168,
+      "name": "Dunkerque - Plage de Zuydcoote",
+      "thumburl": "https://films.viewsurf.com/dunkerque04_2_2/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/168/Dunkerque-Plage-de-Zuydcoote",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 2.4837830807448,
+      "lat": 51.071186672509
+    },
+    {
+      "id": 8,
+      "name": "Hendaye - Plage du Casino et des Jumeaux",
+      "thumburl": "https://films.viewsurf.com/hendaye_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/8/Hendaye-Plage-du-Casino-et-des-Jumeaux",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.7677909203383,
+      "lat": 43.374468726915
+    },
+    {
+      "id": 249,
+      "name": "Pouldreuzic - La plage",
+      "thumburl": "https://films.viewsurf.com/bigouden01/16/8/media_1685975046.jpg",
+      "url": "https://gosurf.fr/webcam/fr/249/Pouldreuzic-La-plage",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -4.3937004030803,
+      "lat": 47.933561657096
+    },
+    {
+      "id": 250,
+      "name": "Pouldreuzic - Plage de Penhors",
+      "thumburl": "https://films.viewsurf.com/bigouden01/32/16/media_1685972466.jpg",
+      "url": "https://gosurf.fr/webcam/fr/250/Pouldreuzic-Plage-de-Penhors",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -4.402339272552,
+      "lat": 47.939676187389
+    },
+    {
+      "name": "Plobannalec-Lesconil",
+      "url": "https://pv.viewsurf.com/1332/Plobannalec-Lesconil-Le-Port?i=NTQ5Njp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -4.215263132482532,
+      "lat": 47.7975893807743
+    },
+    {
+      "name": "Combrit Sainte-Marine",
+      "url": "https://pv.viewsurf.com/id/728/a/media/c/4074?i=NDA3NDp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -4.11918105986475,
+      "lat": 47.8738007039339
+    },
+    {
+      "name" : "Plouhinec - Pors Poulhan",
+      "url" : "https://www.youtube.com/watch?v=batqeE9DZCk",
+      "iframesrc" : "https://www.youtube.com/embed/batqeE9DZCk",
+      "type": "sea",
+      "lng": -4.462438697636407,
+      "lat": 47.98593103688236
+    },
+    {
+      "name" : "Treffiagat",
+      "url" : "http://webcam.treffiagat.fr/public/webcam/blank.php",
+      "iframesrc" : "s",
+      "type": "sea",
+      "lng": -4.273088604632034,
+      "lat": 47.79644776596345
+    },
+    {
+      "id": 148,
+      "name": "Saint Malo - Plage de la Hoguette",
+      "thumburl": "https://films.viewsurf.com/saintmalo01_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/148/Saint-Malo-Plage-de-la-Hoguette",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.9962466931395,
+      "lat": 48.659927787114
+    },
+    {
+      "id": 21,
+      "name": "Hossegor - La Centrale",
+      "thumburl": "https://films.viewsurf.com/hossegor01_1_1.stream/media.jpg",
+      "url": "https://gosurf.fr/webcam/fr/21/Hossegor-La-Centrale",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.444176,
+      "lat": 43.662222
+    },
+    {
+      "id": 170,
+      "name": "Hossegor - Plage de la Nord",
+      "thumburl": "https://films.viewsurf.com/hossegor02/1/1/media_1685974804.jpg",
+      "url": "https://gosurf.fr/webcam/fr/170/Hossegor-Plage-de-la-Nord",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.4418834129165,
+      "lat": 43.664658978639
+    },
+    {
+      "id": 174,
+      "name": "La Teste de Buch - Plage Nord",
+      "thumburl": "https://films.viewsurf.com/lateste01/6/4/media_1655802126.jpg",
+      "url": "https://gosurf.fr/webcam/fr/174/La-Teste-de-Buch-Plage-Nord",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.2542652592778,
+      "lat": 44.533227029019
+    },
+    {
+      "id": 175,
+      "name": "La Teste de Buch - Plage Sud",
+      "thumburl": "https://films.viewsurf.com/lateste01/5/3/media_1655784427.jpg",
+      "url": "https://gosurf.fr/webcam/fr/175/La-Teste-de-Buch-Plage-Sud",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.2516903386233,
+      "lat": 44.519887415974
+    },
+    {
+      "id": 190,
+      "name": "Ondres - Plage Centrale",
+      "thumburl": "https://films.viewsurf.com/ondres01/laplage/media_1684917257.jpg",
+      "url": "https://gosurf.fr/webcam/fr/190/Ondres-Plage-Centrale",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.4886342562918,
+      "lat": 43.577145515015
+    },
+    {
+      "id": 192,
+      "name": "Saint Gilles Croix de Vie - Grande Plage",
+      "url": "https://pv.viewsurf.com/2008/Saint-Gilles-Croix-de-Vie-La-Plage?i=NzM2Mjp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.9398677597441,
+      "lat": 46.690112090598
+    },
+    {
+      "id": 11,
+      "name": "Saint Jean de Luz - Sainte Barbe et la Baie",
+      "url": "https://pv.viewsurf.com/480/Saint-Jean-de-Luz?i=MzEwODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -1.661167,
+      "lat": 43.391203
     }
   ]
 }
-
 
