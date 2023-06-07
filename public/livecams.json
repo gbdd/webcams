@@ -9106,8 +9106,8 @@
     },
     {
       "name" : "Sixt-Fer-a-Cheval",
-      "url" : "http://app.webcam-hd.com/vallee-haut-giffre/sixt-fer-a-cheval",
-      "thumburl": "http://srv02.trinum.com/ibox/ftpcam/small_vallee-du-haut-giffre_sixt-fer-a-cheval.jpg",
+      "url" : "https://app.webcam-hd.com/vallee-haut-giffre/sixt-fer-a-cheval",
+      "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_vallee-du-haut-giffre_sixt-fer-a-cheval.jpg",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 6.8401106372049965,
@@ -9142,8 +9142,8 @@
     },
     {
       "name" : "Les Arcs - Mont Blanc",
-      "url" : "http://app.webcam-hd.com/lesarcs/mont-blanc",
-      "thumburl": "http://srv05.trinum.com/ibox/ftpcam/small_les_arcs_tsd-mont-blanc.jpg",
+      "url" : "https://app.webcam-hd.com/lesarcs/mont-blanc",
+      "thumburl": "https://srv05.trinum.com/ibox/ftpcam/small_les_arcs_tsd-mont-blanc.jpg",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 6.812162361940236,
@@ -9151,8 +9151,8 @@
     },
     {
       "name" : "Les Arcs - Arcabulle",
-      "url" : "http://app.webcam-hd.com/lesarcs/arcabulle",
-      "thumburl": "http://srv03.trinum.com/ibox/ftpcam/small_les-arcs_arcabulle.jpg",
+      "url" : "https://app.webcam-hd.com/lesarcs/arcabulle",
+      "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_les-arcs_arcabulle.jpg",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 6.8108452187944515,
@@ -9160,7 +9160,7 @@
     },
     {
       "name" : "Hirmentaz",
-      "url" : "http://app.webcam-hd.com/hirmentaz/grand-site",
+      "url" : "https://app.webcam-hd.com/hirmentaz/grand-site",
       "thumburl": "https://srv02.trinum.com/ibox/ftpcam/small_hirmentaz_grand-site.jpg",
       "iframesrc" : "s",
       "type": "mountain",
@@ -9260,7 +9260,7 @@
     {
       "name" : "Megève - Mont d'Arbois",
       "url" : "https://app.webcam-hd.com/evasion/mont-arbois",
-      "thumburl": "http://srv07.trinum.com/ibox/ftpcam/small_arbois.jpg",
+      "thumburl": "https://srv07.trinum.com/ibox/ftpcam/small_arbois.jpg",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 6.66209039171139,
@@ -9902,7 +9902,7 @@
       "lat": 28.122075784763705
     },
     {
-      "url": "http://aspen.roundshot.com/aspen/",
+      "url": "https://aspen.roundshot.com/aspen/",
       "name": "Aspen",
       "iframesrc": "s",
       "type": "mountain",
@@ -10767,7 +10767,7 @@
     },
     {
       "name" : "Les Angles",
-      "url" : "http://pv.viewsurf.com/668/Les-Angles-vue-panoramique?i=Mzg2MDp1bmRlZmluZWQ",
+      "url" : "https://pv.viewsurf.com/668/Les-Angles-vue-panoramique?i=Mzg2MDp1bmRlZmluZWQ",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 2.04168626564245,
@@ -11262,7 +11262,7 @@
     },
     {
       "name" : "Saint Pierre dels Forçats",
-      "url" : "http://pv.viewsurf.com/768/Saint-Pierre-dels-For%C3%A7ats?i=NDEzODp1bmRlZmluZWQ",
+      "url" : "https://pv.viewsurf.com/768/Saint-Pierre-dels-For%C3%A7ats?i=NDEzODp1bmRlZmluZWQ",
       "iframesrc" : "s",
       "type": "city",
       "lng": 2.1194848258896535,
@@ -11326,7 +11326,7 @@
     },
     {
       "name" : "Penmarch - Maison du douanier",
-      "url" : "http://pv.viewsurf.com/816/Penmarch-Maison-du-douanier?i=NDI4ODp1bmRlZmluZWQ",
+      "url" : "https://pv.viewsurf.com/816/Penmarch-Maison-du-douanier?i=NDI4ODp1bmRlZmluZWQ",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -4.353575848243784,
@@ -11350,7 +11350,7 @@
     },
     {
       "name" : "Quiberon - Port Haliguen",
-      "url" : "http://pv.viewsurf.com/696/Quiberon-Port-Haliguen?i=Mzk0Mjp1bmRlZmluZWQ",
+      "url" : "https://pv.viewsurf.com/696/Quiberon-Port-Haliguen?i=Mzk0Mjp1bmRlZmluZWQ",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -3.1002743954387957,
@@ -11366,7 +11366,7 @@
     },
     {
       "name" : "La Colle Saint-Michel",
-      "url" : "http://pv.viewsurf.com/336/HASF-17-La-Colle-Saint-Michel?i=NjkxNDp1bmRlZmluZWQ",
+      "url" : "https://pv.viewsurf.com/336/HASF-17-La-Colle-Saint-Michel?i=NjkxNDp1bmRlZmluZWQ",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 6.594318996259304,
@@ -11374,7 +11374,7 @@
     },
     {
       "name" : "Les Alberts",
-      "url" : "http://pv.viewsurf.com/346/hasf-12-les-alberts?i=NjkwODp1bmRlZmluZWQ",
+      "url" : "https://pv.viewsurf.com/346/hasf-12-les-alberts?i=NjkwODp1bmRlZmluZWQ",
       "iframesrc" : "s",
       "type": "mountain",
       "lng": 6.682252376038179,
@@ -11751,7 +11751,7 @@
     },
     {
       "name": "La Bresse - Haut d'Artimont - 1198m",
-      "url": "http://app.webcam-hd.com/labresse/sommet-tsd4",
+      "url": "https://app.webcam-hd.com/labresse/sommet-tsd4",
       "thumburl": "https://srv03.trinum.com/ibox/ftpcam/small_la-bresse_sommet-tsd4.jpg",
       "iframesrc": "s",
       "type": "mountain",
@@ -13242,7 +13242,7 @@
     },
     {
       "name": "Sainte-Ursanne",
-      "url": "http://juratourisme.roundshot.com/st-ursanne/",
+      "url": "https://juratourisme.roundshot.com/st-ursanne/",
       "type": "city",
       "iframesrc": "s",
       "lng": 7.168139,
@@ -13250,7 +13250,7 @@
     },
     {
       "name": "Porrentruy",
-      "url": "http://juratourisme.roundshot.com/porrentruy/",
+      "url": "https://juratourisme.roundshot.com/porrentruy/",
       "type": "city",
       "iframesrc": "s",
       "lng": 7.076054,
@@ -14326,7 +14326,7 @@
     },
     {
       "name" : "Treffiagat",
-      "url" : "http://webcam.treffiagat.fr/public/webcam/blank.php",
+      "url" : "https://webcam.treffiagat.fr/public/webcam/blank.php",
       "iframesrc" : "s",
       "type": "sea",
       "lng": -4.273088604632034,
@@ -14436,7 +14436,7 @@
     },
     {
       "name": "Moorbad Harbach - Nebelstein",
-      "url": "http://webtv.feratel.com/webtv/?cam=5075",
+      "url": "https://webtv.feratel.com/webtv/?cam=5075",
       "type": "country",
       "iframesrc": "s",
       "lng": 14.778711472924924,
@@ -14444,7 +14444,7 @@
     },
     {
       "name": "Stockhorn",
-      "url": "http://webtv.feratel.com/webtv/?cam=4251",
+      "url": "https://webtv.feratel.com/webtv/?cam=4251",
       "type": "mountain",
       "iframesrc": "s",
       "lng": 7.538236799153495,
@@ -14452,7 +14452,7 @@
     },
     {
       "name": "Windham Mountain",
-      "url": "http://webtv.feratel.com/webtv/?cam=5320001",
+      "url": "https://webtv.feratel.com/webtv/?cam=5320001",
       "type": "mountain",
       "iframesrc": "s",
       "lng": -74.25769417926986,
@@ -14460,7 +14460,7 @@
     },
     {
       "name": "Tasiilaq",
-      "url": "http://webtv.feratel.com/webtv/?cam=19010",
+      "url": "https://webtv.feratel.com/webtv/?cam=19010",
       "type": "sea",
       "iframesrc": "s",
       "lng": -37.619452934701265,
@@ -14468,7 +14468,7 @@
     },
     {
       "name": "Triesenberg - Malbun",
-      "url": "http://webtv.feratel.com/webtv/?cam=4133",
+      "url": "https://webtv.feratel.com/webtv/?cam=4133",
       "type": "mountain",
       "iframesrc": "s",
       "lng": 9.608782937692167,
@@ -14476,7 +14476,7 @@
     },
     {
       "name": "San Marino - Borgo Maggiore",
-      "url": "http://webtv.feratel.com/webtv/?cam=6400",
+      "url": "https://webtv.feratel.com/webtv/?cam=6400",
       "type": "city",
       "iframesrc": "s",
       "lng": 12.453808896738769,
@@ -14484,7 +14484,7 @@
     },
     {
       "name": "San Marino",
-      "url": "http://webtv.feratel.com/webtv/?cam=6401",
+      "url": "https://webtv.feratel.com/webtv/?cam=6401",
       "type": "city",
       "iframesrc": "s",
       "lng": 12.44592555976433,
@@ -14492,7 +14492,7 @@
     },
     {
       "name": "San Marino - Palazzo Pubblico",
-      "url": "http://webtv.feratel.com/webtv/?cam=6402",
+      "url": "https://webtv.feratel.com/webtv/?cam=6402",
       "type": "city",
       "iframesrc": "s",
       "lng": 12.446491401205876,
@@ -14500,7 +14500,7 @@
     },
     {
       "name": "Tahtalı Dağı",
-      "url": "http://webtv.feratel.com/webtv/?cam=18021",
+      "url": "https://webtv.feratel.com/webtv/?cam=18021",
       "type": "country",
       "iframesrc": "s",
       "lng": 30.44241942056254,
@@ -14508,7 +14508,7 @@
     },
     {
       "name": "De Haan",
-      "url": "http://webtv.feratel.com/webtv/?cam=8010",
+      "url": "https://webtv.feratel.com/webtv/?cam=8010",
       "type": "sea",
       "iframesrc": "s",
       "lng": 3.029257404193792,
@@ -14516,7 +14516,7 @@
     },
     {
       "name": "Zeebrugge",
-      "url": "http://webtv.feratel.com/webtv/?cam=8037",
+      "url": "https://webtv.feratel.com/webtv/?cam=8037",
       "type": "sea",
       "iframesrc": "s",
       "lng": 3.1782894908200445,
@@ -14524,7 +14524,7 @@
     },
     {
       "name": "Beringen",
-      "url": "http://webtv.feratel.com/webtv/?cam=8081",
+      "url": "https://webtv.feratel.com/webtv/?cam=8081",
       "type": "city",
       "iframesrc": "s",
       "lng": 5.2232791418587645,
@@ -14532,7 +14532,7 @@
     },
     {
       "name": "Maasmechelen",
-      "url": "http://webtv.feratel.com/webtv/?cam=8087",
+      "url": "https://webtv.feratel.com/webtv/?cam=8087",
       "type": "city",
       "iframesrc": "s",
       "lng": 5.68611003104741,
@@ -14540,7 +14540,7 @@
     },
     {
       "name": "Zonhoven - De Wijers",
-      "url": "http://webtv.feratel.com/webtv/?cam=8055",
+      "url": "https://webtv.feratel.com/webtv/?cam=8055",
       "type": "lake",
       "iframesrc": "s",
       "lng": 5.315913415250431,
@@ -14548,7 +14548,7 @@
     },
     {
       "name": "Sierra Nevada",
-      "url": "http://webtv.feratel.com/webtv/?cam=15110",
+      "url": "https://webtv.feratel.com/webtv/?cam=15110",
       "type": "mountain",
       "iframesrc": "s",
       "lng":  -3.393689661220241,
@@ -14556,7 +14556,7 @@
     },
     {
       "name": "Sierra Nevada",
-      "url": "http://webtv.feratel.com/webtv/?cam=15111",
+      "url": "https://webtv.feratel.com/webtv/?cam=15111",
       "type": "mountain",
       "iframesrc": "s",
       "lng": -3.389543445487768,
@@ -14564,7 +14564,7 @@
     },
     {
       "name": "Sierra Nevada",
-      "url": "http://webtv.feratel.com/webtv/?cam=15112",
+      "url": "https://webtv.feratel.com/webtv/?cam=15112",
       "type": "mountain",
       "iframesrc": "s",
       "lng":  -3.368713743997002,
@@ -14572,7 +14572,7 @@
     },
     {
       "name": "Formigal - Portalet",
-      "url": "http://webtv.feratel.com/webtv/?cam=15026",
+      "url": "https://webtv.feratel.com/webtv/?cam=15026",
       "type": "mountain",
       "iframesrc": "s",
       "lng": -0.4148759527079067,
@@ -14580,7 +14580,7 @@
     },
     {
       "name": "Panticosa - Balneario",
-      "url": "http://webtv.feratel.com/webtv/?cam=15011",
+      "url": "https://webtv.feratel.com/webtv/?cam=15011",
       "type": "mountain",
       "iframesrc": "s",
       "lng": -0.23370437858307938,
@@ -14588,7 +14588,7 @@
     },
     {
       "name": "Cambrils",
-      "url": "http://webtv.feratel.com/webtv/?cam=15010",
+      "url": "https://webtv.feratel.com/webtv/?cam=15010",
       "type": "sea",
       "iframesrc": "s",
       "lng": 1.0640072862232002,
@@ -14596,7 +14596,7 @@
     },
     {
       "name": "Boí Taüll",
-      "url": "http://webtv.feratel.com/webtv/?cam=15100",
+      "url": "https://webtv.feratel.com/webtv/?cam=15100",
       "type": "mountain",
       "iframesrc": "s",
       "lng": 0.8694671887885066,
@@ -14604,7 +14604,7 @@
     },
     {
       "name": "Cala Santanyí",
-      "url": "http://webtv.feratel.com/webtv/?cam=15115",
+      "url": "https://webtv.feratel.com/webtv/?cam=15115",
       "type": "sea",
       "iframesrc": "s",
       "lng": 3.1465854009198857,
@@ -14612,7 +14612,7 @@
     },
     {
       "name": "El Tarter (Grandvalira)",
-      "url": "http://webtv.feratel.com/webtv/?cam=15045",
+      "url": "https://webtv.feratel.com/webtv/?cam=15045",
       "type": "mountain",
       "iframesrc": "s",
       "lng": 1.6439013536096092,
@@ -14620,7 +14620,7 @@
     },
     {
       "name": "Encamp (Grandvalira)",
-      "url": "http://webtv.feratel.com/webtv/?cam=15090",
+      "url": "https://webtv.feratel.com/webtv/?cam=15090",
       "type": "mountain",
       "iframesrc": "s",
       "lng": 1.661289523915309,
@@ -14628,7 +14628,7 @@
     },
     {
       "name": "Grau Roig (Grandvalira)",
-      "url": "http://webtv.feratel.com/webtv/?cam=15050",
+      "url": "https://webtv.feratel.com/webtv/?cam=15050",
       "type": "mountain",
       "iframesrc": "s",
       "lng": 1.6998051511648111,
@@ -14636,7 +14636,7 @@
     },
     {
       "name": "Pas de la Casa (Grandvalira)",
-      "url": "http://webtv.feratel.com/webtv/?cam=15055",
+      "url": "https://webtv.feratel.com/webtv/?cam=15055",
       "type": "mountain",
       "iframesrc": "s",
       "lng": 1.7332887993192168,
@@ -14644,7 +14644,7 @@
     },
     {
       "name": "Soldeu (Grandvalira)",
-      "url": "http://webtv.feratel.com/webtv/?cam=15060",
+      "url": "https://webtv.feratel.com/webtv/?cam=15060",
       "type": "mountain",
       "iframesrc": "s",
       "lng": 1.664662758034217,
@@ -14652,7 +14652,7 @@
     },
     {
       "name": "Pal",
-      "url": "http://webtv.feratel.com/webtv/?cam=15040",
+      "url": "https://webtv.feratel.com/webtv/?cam=15040",
       "type": "mountain",
       "iframesrc": "s",
       "lng": 1.4910646877100466,
@@ -14660,7 +14660,7 @@
     },
     {
       "name": "Coll de la Botella",
-      "url": "http://webtv.feratel.com/webtv/?cam=15086",
+      "url": "https://webtv.feratel.com/webtv/?cam=15086",
       "type": "mountain",
       "iframesrc": "s",
       "lng": 1.4529060014619575,
@@ -14668,7 +14668,7 @@
     },
     {
       "name": "Arcalís",
-      "url": "http://webtv.feratel.com/webtv/?cam=15030",
+      "url": "https://webtv.feratel.com/webtv/?cam=15030",
       "type": "mountain",
       "iframesrc": "s",
       "lng": 1.48556117560802,
@@ -14676,7 +14676,7 @@
     },
     {
       "name": "Genève",
-      "url": "http://webtv.feratel.com/webtv/?cam=4145",
+      "url": "https://webtv.feratel.com/webtv/?cam=4145",
       "type": "city",
       "iframesrc": "s",
       "lng": 6.135930480707132,
