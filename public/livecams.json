@@ -10595,15 +10595,6 @@
       "lat": 46.20229
     },
     {
-      "id": "1376",
-      "url": "https://tschentenalp.roundshot.com/",
-      "name": "Tschentenalp Adelboden",
-      "iframesrc": "s",
-      "type": "mountain",
-      "lng": 7.544743,
-      "lat": 46.498323
-    },
-    {
       "id": "1464",
       "url": "https://thyon.roundshot.com/snowpark/",
       "name": "Thyon - Snowpark",
@@ -14681,6 +14672,118 @@
       "iframesrc": "s",
       "lng": 6.135930480707132,
       "lat": 46.196406141453416
+    },
+    {
+      "name": "Bâle",
+      "url": "https://webtv.feratel.com/webtv/?cam=4175",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 7.591709843413752,
+      "lat": 47.560133695963465
+    },
+    {
+      "name": "Brülisau - Hoher Kasten",
+      "url": "https://webtv.feratel.com/webtv/?cam=4260",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 9.485389546963022,
+      "lat": 47.283864072224944
+    },
+    {
+      "name": "Achseten",
+      "url": "https://webtv.feratel.com/webtv/?cam=4111",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.623199432294517,
+      "lat": 46.512494339377916
+    },
+    {
+      "name": "Lenk im Simmental - Metschstand",
+      "url": "https://webtv.feratel.com/webtv/?cam=4230",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.495305776758242,
+      "lat": 46.445012042572806
+    },
+    {
+      "name": "Bešeňová",
+      "url": "https://webtv.feratel.com/webtv/?cam=1081",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 19.445951469364676,
+      "lat": 49.10033717509475
+    },
+    {
+      "name": "Podhájska",
+      "url": "https://webtv.feratel.com/webtv/?cam=1044",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 18.33763071905869,
+      "lat": 48.09868083605884
+    },
+    {
+      "name": "Vysoké Tatry",
+      "url": "https://webtv.feratel.com/webtv/?cam=1080",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 20.156582460447403,
+      "lat": 49.156284246266786
+    },
+    {
+      "name": "Štúrovo",
+      "url": "https://webtv.feratel.com/webtv/?cam=1079",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 18.716456078640835,
+      "lat": 47.801154898381185
+    },
+    {
+      "name": "Senec - Slnečné jazerá",
+      "url": "https://webtv.feratel.com/webtv/?cam=1049",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 17.415309756192674,
+      "lat": 48.21511731005792
+    },
+    {
+      "name": "Banská Bystrica",
+      "url": "https://webtv.feratel.com/webtv/?cam=1077",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 19.146593549141155,
+      "lat": 48.73668890850126
+    },
+    {
+      "name": "Donovaly - Park Snow",
+      "url": "https://webtv.feratel.com/webtv/?cam=1001",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 19.23475663653839,
+      "lat": 48.878112022816886
+    },
+    {
+      "name": "Zvolen - Pustý hrad",
+      "url": "https://webtv.feratel.com/webtv/?cam=1072",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 19.109542607607757,
+      "lat": 48.55666588151003
+    },
+    {
+      "name": "Ružomberok - Malinô Brdo",
+      "url": "https://webtv.feratel.com/webtv/?cam=1002",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 19.26650240881473,
+      "lat": 49.05407807546847
+    },
+    {
+      "name": "Zurich - SRF Meteodach",
+      "url": "https://webtv.feratel.com/webtv/?cam=4080",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 8.559827545469327,
+      "lat": 47.417198791094386
     }
   ]
 }
