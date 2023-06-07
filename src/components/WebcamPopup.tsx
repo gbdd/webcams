@@ -118,6 +118,12 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
       ifsrc = ifsrc.concat(`?autoplay=1&mute=1&enablejsapi=1`);
     } else if (LC.isIpClLc(lc)) {
       ifsrc = ifsrc.concat(`&autoplay=1`);
+    } else if (LC.isFeratel(lc)) {
+      if (IS_MOBILE) {
+        ifsrc = ifsrc.concat(`&design=v4&autoplay=1`);
+      } else {
+        ifsrc = ifsrc.concat(`&design=v3&t=9`);
+      }
     }
     return ifsrc;
   }
