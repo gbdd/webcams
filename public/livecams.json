@@ -14449,6 +14449,238 @@
       "iframesrc": "s",
       "lng": 7.538236799153495,
       "lat": 46.69362241061478
+    },
+    {
+      "name": "Windham Mountain",
+      "url": "http://webtv.feratel.com/webtv/?cam=5320001",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": -74.25769417926986,
+      "lat": 42.29861231468303
+    },
+    {
+      "name": "Tasiilaq",
+      "url": "http://webtv.feratel.com/webtv/?cam=19010",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -37.619452934701265,
+      "lat": 65.6122889043648
+    },
+    {
+      "name": "Triesenberg - Malbun",
+      "url": "http://webtv.feratel.com/webtv/?cam=4133",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.608782937692167,
+      "lat": 47.101051023426756
+    },
+    {
+      "name": "San Marino - Borgo Maggiore",
+      "url": "http://webtv.feratel.com/webtv/?cam=6400",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 12.453808896738769,
+      "lat": 43.94481034339366
+    },
+    {
+      "name": "San Marino",
+      "url": "http://webtv.feratel.com/webtv/?cam=6401",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 12.44592555976433,
+      "lat": 43.937719304455
+    },
+    {
+      "name": "San Marino - Palazzo Pubblico",
+      "url": "http://webtv.feratel.com/webtv/?cam=6402",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 12.446491401205876,
+      "lat": 43.93669387194842
+    },
+    {
+      "name": "Tahtalı Dağı",
+      "url": "http://webtv.feratel.com/webtv/?cam=18021",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 30.44241942056254,
+      "lat": 36.53638636441046
+    },
+    {
+      "name": "De Haan",
+      "url": "http://webtv.feratel.com/webtv/?cam=8010",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.029257404193792,
+      "lat": 51.27798733283083
+    },
+    {
+      "name": "Zeebrugge",
+      "url": "http://webtv.feratel.com/webtv/?cam=8037",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.1782894908200445,
+      "lat": 51.32901998177853
+    },
+    {
+      "name": "Beringen",
+      "url": "http://webtv.feratel.com/webtv/?cam=8081",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 5.2232791418587645,
+      "lat": 51.072113974282644
+    },
+    {
+      "name": "Maasmechelen",
+      "url": "http://webtv.feratel.com/webtv/?cam=8087",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 5.68611003104741,
+      "lat": 50.99413069999652
+    },
+    {
+      "name": "Zonhoven - De Wijers",
+      "url": "http://webtv.feratel.com/webtv/?cam=8055",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 5.315913415250431,
+      "lat": 50.98344084540514
+    },
+    {
+      "name": "Sierra Nevada",
+      "url": "http://webtv.feratel.com/webtv/?cam=15110",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng":  -3.393689661220241,
+      "lat": 37.059097053298
+    },
+    {
+      "name": "Sierra Nevada",
+      "url": "http://webtv.feratel.com/webtv/?cam=15111",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": -3.389543445487768,
+      "lat": 37.077042133100875
+    },
+    {
+      "name": "Sierra Nevada",
+      "url": "http://webtv.feratel.com/webtv/?cam=15112",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng":  -3.368713743997002,
+      "lat": 37.055269347838106
+    },
+    {
+      "name": "Formigal - Portalet",
+      "url": "http://webtv.feratel.com/webtv/?cam=15026",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": -0.4148759527079067,
+      "lat": 42.79869692534128
+    },
+    {
+      "name": "Panticosa - Balneario",
+      "url": "http://webtv.feratel.com/webtv/?cam=15011",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": -0.23370437858307938,
+      "lat": 42.761081164564374
+    },
+    {
+      "name": "Cambrils",
+      "url": "http://webtv.feratel.com/webtv/?cam=15010",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 1.0640072862232002,
+      "lat": 41.066118706888076
+    },
+    {
+      "name": "Boí Taüll",
+      "url": "http://webtv.feratel.com/webtv/?cam=15100",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 0.8694671887885066,
+      "lat": 42.47772008618687
+    },
+    {
+      "name": "Cala Santanyí",
+      "url": "http://webtv.feratel.com/webtv/?cam=15115",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 3.1465854009198857,
+      "lat": 39.33062015253156
+    },
+    {
+      "name": "El Tarter (Grandvalira)",
+      "url": "http://webtv.feratel.com/webtv/?cam=15045",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 1.6439013536096092,
+      "lat": 42.567988452077316
+    },
+    {
+      "name": "Encamp (Grandvalira)",
+      "url": "http://webtv.feratel.com/webtv/?cam=15090",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 1.661289523915309,
+      "lat": 42.54221559453763
+    },
+    {
+      "name": "Grau Roig (Grandvalira)",
+      "url": "http://webtv.feratel.com/webtv/?cam=15050",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 1.6998051511648111,
+      "lat": 42.53229052486958
+    },
+    {
+      "name": "Pas de la Casa (Grandvalira)",
+      "url": "http://webtv.feratel.com/webtv/?cam=15055",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 1.7332887993192168,
+      "lat": 42.54006672367997
+    },
+    {
+      "name": "Soldeu (Grandvalira)",
+      "url": "http://webtv.feratel.com/webtv/?cam=15060",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 1.664662758034217,
+      "lat": 42.56424624979129
+    },
+    {
+      "name": "Pal",
+      "url": "http://webtv.feratel.com/webtv/?cam=15040",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 1.4910646877100466,
+      "lat": 42.53715355923184
+    },
+    {
+      "name": "Coll de la Botella",
+      "url": "http://webtv.feratel.com/webtv/?cam=15086",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 1.4529060014619575,
+      "lat": 42.544716758215756
+    },
+    {
+      "name": "Arcalís",
+      "url": "http://webtv.feratel.com/webtv/?cam=15030",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 1.48556117560802,
+      "lat": 42.61768351163417
+    },
+    {
+      "name": "Genève",
+      "url": "http://webtv.feratel.com/webtv/?cam=4145",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 6.135930480707132,
+      "lat": 46.196406141453416
     }
   ]
 }
