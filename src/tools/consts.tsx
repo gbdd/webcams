@@ -147,6 +147,21 @@ export class LC {
     }
     return iRds;
   }
+  /**
+   * Is this a feratel livecam ?
+   * @param lc 
+   * @returns 
+   */
+  static isFeratel = (lc:livecam):boolean => {
+    const ifsrc = this.getIframeSrc(lc, true);
+
+    let iFrt:boolean = false;
+    if ((typeof ifsrc !== 'undefined')
+     && (ifsrc.includes('.feratel.com'))) {
+      iFrt = true;
+    }
+    return iFrt;
+  }
 
 }
 
