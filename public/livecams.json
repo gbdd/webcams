@@ -14784,6 +14784,270 @@
       "iframesrc": "s",
       "lng": 8.559827545469327,
       "lat": 47.417198791094386
+    },
+    {
+      "name": "Dürnstein",
+      "url": "https://webtv.feratel.com/webtv/?cam=5092",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 15.518868362527742,
+      "lat": 48.39538312823932
+    },
+    {
+      "name": "Emmersdorf",
+      "url": "https://webtv.feratel.com/webtv/?cam=5090",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 15.33800992127586,
+      "lat": 48.24179660441663
+    },
+    {
+      "name": "Rossatz",
+      "url": "https://webtv.feratel.com/webtv/?cam=5091",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 15.507447387499852,
+      "lat": 48.391943527504104
+    },
+    {
+      "name": "Annaberg",
+      "url": "https://webtv.feratel.com/webtv/?cam=5905",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 15.366673880890236,
+      "lat": 47.8756871503021
+    },
+    {
+      "name": "Annaberg",
+      "url": "https://webtv.feratel.com/webtv/?cam=5906",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 15.35215555684446,
+      "lat": 47.886458069330374
+    },
+    {
+      "name": "Furth bei Göttweig",
+      "url": "https://webtv.feratel.com/webtv/?cam=5093",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 15.611031934470173,
+      "lat": 48.36616369890876
+    },
+    {
+      "name": "Krems",
+      "url": "https://webtv.feratel.com/webtv/?cam=5094",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 15.600950899879026,
+      "lat": 48.40772050214405
+    },
+    {
+      "name": "Göstling",
+      "url": "https://webtv.feratel.com/webtv/?cam=1584",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 14.9291921607493,
+      "lat": 47.7191718274492
+    },
+    {
+      "name": "Göstling",
+      "url": "https://webtv.feratel.com/webtv/?cam=5910",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 14.918347430037791,
+      "lat": 47.71849044832689
+    },
+    {
+      "name": "Göstling",
+      "url": "https://webtv.feratel.com/webtv/?cam=5911",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 14.909676365005016,
+      "lat": 47.71091586142689
+    },
+    {
+      "name": "Gumpoldskirchen",
+      "url": "https://webtv.feratel.com/webtv/?cam=5985",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 16.293059550238524,
+      "lat": 48.03693203353385
+    },
+    {
+      "name": "Hardegg",
+      "url": "https://webtv.feratel.com/webtv/?cam=5080",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 15.8533013158825,
+      "lat": 48.855390639659475
+    },
+    {
+      "name": "Hüttenkogel - Lackenhof am Ötscher",
+      "url": "https://webtv.feratel.com/webtv/?cam=5008",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 15.18217125794669,
+      "lat": 47.85463149734728
+    },
+    {
+      "name": "Lackenhof am Ötscher",
+      "url": "https://webtv.feratel.com/webtv/?cam=5010",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 15.163059683108706,
+      "lat": 47.865748537240485
+    },
+    {
+      "name": "Langenlois",
+      "url": "https://webtv.feratel.com/webtv/?cam=5095",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 15.671601425435579,
+      "lat": 48.46965913337646
+    },
+    {
+      "name": "Mitterbach",
+      "url": "https://webtv.feratel.com/webtv/?cam=5925",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 15.247895896307535,
+      "lat": 47.811693488960856
+    },
+    {
+      "name": "St. Pölten",
+      "url": "https://webtv.feratel.com/webtv/?cam=5077",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 15.6318305949977,
+      "lat": 48.20526591208493
+    },
+    {
+      "name": "Ždiar - Strachan Ski Centrum",
+      "url": "https://webtv.feratel.com/webtv/?cam=1067",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 20.229108811129766,
+      "lat": 49.282634015407595
+    },
+    {
+      "name": "Veľký Meder (Thermal Corvinus)",
+      "url": "https://webtv.feratel.com/webtv/?cam=1042",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 17.760310839603477,
+      "lat": 47.84628659640996
+    },
+    {
+      "name": "Belá-Dulice (Jasenská dolina)",
+      "url": "https://webtv.feratel.com/webtv/?cam=1004",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 19.0093162367799,
+      "lat": 49.00892919528983
+    },
+    {
+      "name": "Dolný Kubín (Kubínska hoľa - Berg)",
+      "url": "https://webtv.feratel.com/webtv/?cam=1054",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 19.26553481847162,
+      "lat": 49.250291899028966
+    },
+    {
+      "name": "Makov (Kasárne - Javorníky)",
+      "url": "https://webtv.feratel.com/webtv/?cam=1063",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 18.378879858220973,
+      "lat": 49.32706383388924
+    },
+    {
+      "name": "Martin (winter park Martinky)",
+      "url": "https://webtv.feratel.com/webtv/?cam=1003",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 18.823141904120718,
+      "lat": 49.095981694000386
+    },
+    {
+      "name": "Ždiar - Ski Bachledova",
+      "url": "https://webtv.feratel.com/webtv/?cam=1032",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 20.314789832232655,
+      "lat": 49.285134493590014
+    },
+    {
+      "name": "Tatranská Lomnica (Skalnaté pleso)",
+      "url": "https://webtv.feratel.com/webtv/?cam=1009",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 20.23362606320537,
+      "lat": 49.18899942873196
+    },
+    {
+      "name": "Poprad (AquaCity)",
+      "url": "https://webtv.feratel.com/webtv/?cam=1015",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 20.30808559602607,
+      "lat": 49.05951425258593
+    },
+    {
+      "name": "Hriňová (Látky)",
+      "url": "https://webtv.feratel.com/webtv/?cam=1075",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 19.660725874805564,
+      "lat": 48.597999377840196
+    },
+    {
+      "name": "Horná Lehota - Chopok South",
+      "url": "https://webtv.feratel.com/webtv/?cam=1052",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 19.602676849503645,
+      "lat": 48.923861842562545
+    },
+    {
+      "name": "Gstaad - Eggli",
+      "url": "https://webtv.feratel.com/webtv/?cam=4023",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.261996053729104,
+      "lat": 46.461032093903235
+    },
+    {
+      "name": "Gstaad - Saanenmöser",
+      "url": "https://webtv.feratel.com/webtv/?cam=4025",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.33746951050291,
+      "lat": 46.497899828074836
+    },
+    {
+      "name": "Grindelwald - First",
+      "url": "https://webtv.feratel.com/webtv/?cam=4235",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 8.05368325260366,
+      "lat": 46.659449149391705
+    },
+    {
+      "name": "Bellinzona - Castel Grande",
+      "url": "https://webtv.feratel.com/webtv/?cam=4227",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 9.02202198834006,
+      "lat": 46.193028114801386
+    },
+    {
+      "name": "Capolago - Monte Generoso",
+      "url": "https://webtv.feratel.com/webtv/?cam=4228",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.015101453752598,
+      "lat": 45.92659317480171
     }
   ]
 }
