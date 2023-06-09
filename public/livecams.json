@@ -15048,6 +15048,270 @@
       "iframesrc": "s",
       "lng": 9.015101453752598,
       "lat": 45.92659317480171
+    },
+    {
+      "name": "Jungfraujoch",
+      "url": "https://webtv.feratel.com/webtv/?cam=24003",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.980873847644212,
+      "lat": 46.54751352496863
+    },
+    {
+      "name": "Männlichen",
+      "url": "https://webtv.feratel.com/webtv/?cam=34003",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.9416040467573605,
+      "lat": 46.6132118128283
+    },
+    {
+      "name": "Davos Dorf",
+      "url": "https://webtv.feratel.com/webtv/?cam=4002",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.806176892721082,
+      "lat": 46.83306266763625
+    },
+    {
+      "name": "Davos Glaris",
+      "url": "https://webtv.feratel.com/webtv/?cam=4310",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.802452908860465,
+      "lat": 46.74423908958822
+    },
+    {
+      "name": "Davos I",
+      "url": "https://webtv.feratel.com/webtv/?cam=4312",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 9.834366169453794,
+      "lat": 46.79853072621084
+    },
+    {
+      "name": "Davos Platz",
+      "url": "https://webtv.feratel.com/webtv/?cam=4003",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.849219658714848,
+      "lat": 46.77188007258568
+    },
+    {
+      "name": "Davos Wolfgang",
+      "url": "https://webtv.feratel.com/webtv/?cam=4006",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 9.858907326225962,
+      "lat": 46.824914557960426
+    },
+    {
+      "name": "Klosters",
+      "url": "https://webtv.feratel.com/webtv/?cam=4311",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.909835846439245,
+      "lat": 46.861641539645
+    },
+    {
+      "name": "Klosters Dorf",
+      "url": "https://webtv.feratel.com/webtv/?cam=4007",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.872236133242298,
+      "lat": 46.91732329749975
+    },
+    {
+      "name": "La Punt",
+      "url": "https://webtv.feratel.com/webtv/?cam=4320",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 9.9184957514309,
+      "lat": 46.58176279439167
+    },
+    {
+      "name": "Pontresina",
+      "url": "https://webtv.feratel.com/webtv/?cam=4212",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.966096892997381,
+      "lat": 46.411663375040206
+    },
+    {
+      "name": "Samnaun",
+      "url": "https://webtv.feratel.com/webtv/?cam=4300",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 10.375167115558009,
+      "lat": 46.97767176925106
+    },
+    {
+      "name": "Savognin",
+      "url": "https://webtv.feratel.com/webtv/?cam=4090",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.553518590528585,
+      "lat": 46.58669080188688
+    },
+    {
+      "name": "Leukerbad",
+      "url": "https://webtv.feratel.com/webtv/?cam=4125",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.6484453558701855,
+      "lat": 46.36905774256832
+    },
+    {
+      "name": "Saas-Almagell",
+      "url": "https://webtv.feratel.com/webtv/?cam=4292",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.975450072827082,
+      "lat": 46.08212712355688
+    },
+    {
+      "name": "Saas-Fee",
+      "url": "https://webtv.feratel.com/webtv/?cam=4290",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.904837182247289,
+      "lat": 46.05763459691136
+    },
+    {
+      "name": "Wiler (Lauchernalp)",
+      "url": "https://webtv.feratel.com/webtv/?cam=4219",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.748360701374438,
+      "lat": 46.42969837743291
+    },
+    {
+      "name": "Fiesch (Aletsch Arena)",
+      "url": "https://webtv.feratel.com/webtv/?cam=4180",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 8.092755084248946,
+      "lat": 46.42667201484103
+    },
+    {
+      "name": "Fiescheralp",
+      "url": "https://webtv.feratel.com/webtv/?cam=4181",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 8.103186491884074,
+      "lat": 46.412787278342556
+    },
+    {
+      "name": "Riederalp (Aletsch Arena)",
+      "url": "https://webtv.feratel.com/webtv/?cam=4182",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 8.048305128577342,
+      "lat": 46.395889453484706
+    },
+    {
+      "name": "Gornergrat (Zermatt)",
+      "url": "https://webtv.feratel.com/webtv/?cam=4076",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.783227044652919,
+      "lat": 45.98316491565314
+    },
+    {
+      "name": "Wangs (Pizol)",
+      "url": "https://webtv.feratel.com/webtv/?cam=4172",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.420315702221743,
+      "lat": 47.0023057652783
+    },
+    {
+      "name": "Paradiso",
+      "url": "https://webtv.feratel.com/webtv/?cam=4226",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 8.945857017181336,
+      "lat": 45.97651582812725
+    },
+    {
+      "name": "Bettmeralp (Aletsch Arena)",
+      "url": "https://webtv.feratel.com/webtv/?cam=4120",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 8.077185127711045,
+      "lat": 46.41059809331936
+    },
+    {
+      "name": "Stoos",
+      "url": "https://webtv.feratel.com/webtv/?cam=4115",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 8.636775781428282,
+      "lat": 46.969019335949284
+    },
+    {
+      "name": "Flumserberg",
+      "url": "https://webtv.feratel.com/webtv/?cam=4165",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.289934265919195,
+      "lat": 47.08027669535333
+    },
+    {
+      "name": "Sörenberg",
+      "url": "https://webtv.feratel.com/webtv/?cam=4096",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 8.037232251263985,
+      "lat": 46.825089299830516
+    },
+    {
+      "name": "Klewenalp/Beckenried",
+      "url": "https://webtv.feratel.com/webtv/?cam=4030",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 8.483756164680862,
+      "lat": 46.936547835691904
+    },
+    {
+      "name": "Oberiberg (Hoch-Ybrig)",
+      "url": "https://webtv.feratel.com/webtv/?cam=4106",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 8.797115651281432,
+      "lat": 46.9994714244412
+    },
+    {
+      "name": "St. Moritz",
+      "url": "https://webtv.feratel.com/webtv/?cam=4001",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.819023692940318,
+      "lat": 46.50786929951399
+    },
+    {
+      "name": "Vals",
+      "url": "https://webtv.feratel.com/webtv/?cam=4240",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.1511296031234,
+      "lat": 46.605997796600995
+    },
+    {
+      "name": "Scuol",
+      "url": "https://webtv.feratel.com/webtv/?cam=4045",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 10.258685254820678,
+      "lat": 46.81946834211801
+    },
+    {
+      "name": "Silvaplana (Corvatsch)",
+      "url": "https://webtv.feratel.com/webtv/?cam=4210",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 9.82064145841003,
+      "lat": 46.41748575734652
     }
   ]
 }
