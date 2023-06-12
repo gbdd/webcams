@@ -15312,6 +15312,278 @@
       "iframesrc": "s",
       "lng": 9.82064145841003,
       "lat": 46.41748575734652
+    },
+    {
+      "name": "Champoluc (Monterosa)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6284",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lat": 7.744180740804154,
+      "lng": 45.83275370415293
+    },
+    {
+      "name": "Courmayeur",
+      "url": "https://webtv.feratel.com/webtv/?cam=6360",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.938901,
+      "lat": 45.792933
+    },
+    {
+      "name": "Gressan (Pila)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6310",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.309273,
+      "lat": 45.653812
+    },
+    {
+      "name": "Gressoney-La-Trinité (Monterosa)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6281",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 7.857263141206787,
+      "lat": 45.890458867517665
+    },
+    {
+      "name": "La Thuile - Les Suches",
+      "url": "https://webtv.feratel.com/webtv/?cam=6361",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.9281178481470755,
+      "lat": 45.693079909972916
+    },
+    {
+      "name": "Comacchio (Ferrara)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6050",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 12.188809863986252,
+      "lat": 44.66334594048462
+    },
+    {
+      "name": "Lido degli Estensi (Ferrara)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6051",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 12.242507809500285,
+      "lat": 44.66719630238881
+    },
+    {
+      "name": "Lizzano in Belvedere",
+      "url": "https://webtv.feratel.com/webtv/?cam=6135",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 10.83060064125841,
+      "lat": 44.12309802310618
+    },
+    {
+      "name": "Tarvisio - Monte Lussari",
+      "url": "https://webtv.feratel.com/webtv/?cam=6270",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 13.520902890026557,
+      "lat": 46.48174752663718
+    },
+    {
+      "name": "Roma - Vatican",
+      "url": "https://webtv.feratel.com/webtv/?cam=6035",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 12.451238986256712,
+      "lat": 41.902336403003744
+    },
+    {
+      "name": "Alassio",
+      "url": "https://webtv.feratel.com/webtv/?cam=6300",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 8.183110248871747,
+      "lat": 44.01442281579079
+    },
+    {
+      "name": "Bormio",
+      "url": "https://webtv.feratel.com/webtv/?cam=6220",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 10.411048201985357,
+      "lat": 46.420547562993995
+    },
+    {
+      "name": "Livigno",
+      "url": "https://webtv.feratel.com/webtv/?cam=6175",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 10.152032263119857,
+      "lat": 46.51046425735499
+    },
+    {
+      "name": "Afers bei Brixen (Bressanone/Brixen)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6060",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.709983,
+      "lat": 46.685523
+    },
+    {
+      "name": "Ahrntal",
+      "url": "https://webtv.feratel.com/webtv/?cam=6250",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.990313297088377,
+      "lat": 46.97165869906902
+    },
+    {
+      "name": "Badia - La Crusc",
+      "url": "https://webtv.feratel.com/webtv/?cam=6326",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.939507762692093,
+      "lat": 46.614438905732115
+    },
+    {
+      "name": "Badia - Piz La Ila",
+      "url": "https://webtv.feratel.com/webtv/?cam=6230",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.905751739376779,
+      "lat": 46.564867125507
+    },
+    {
+      "name": "Bozen",
+      "url": "https://webtv.feratel.com/webtv/?cam=6257",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 11.354521810218818,
+      "lat": 46.4986951604451
+    },
+    {
+      "name": "Brixen",
+      "url": "https://webtv.feratel.com/webtv/?cam=6265",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 11.656420107004646,
+      "lat": 46.71617315392473
+    },
+    {
+      "name": "Plan de Corones - Kronplatz",
+      "url": "https://webtv.feratel.com/webtv/?cam=6121",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.95920295716077,
+      "lat": 46.73843612828531
+    },
+    {
+      "name": "Olang (Kronplatz)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6122",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.967746750758277,
+      "lat": 46.743288986856186
+    },
+    {
+      "name": "Carezza",
+      "url": "https://webtv.feratel.com/webtv/?cam=6240",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.608562243697317,
+      "lat": 46.403439409800086
+    },
+    {
+      "name": "Passo Gardena - Alta Badia",
+      "url": "https://webtv.feratel.com/webtv/?cam=6322",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.80901612281873,
+      "lat": 46.552349623145965
+    },
+    {
+      "name": "Piz Arlara - Corvara",
+      "url": "https://webtv.feratel.com/webtv/?cam=6320",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.898777112097312,
+      "lat": 46.54919166202267
+    },
+    {
+      "name": "Deutschnofen",
+      "url": "https://webtv.feratel.com/webtv/?cam=6214",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 11.443385252106802,
+      "lat": 46.40606486472377
+    },
+    {
+      "name": "Freienfeld",
+      "url": "https://webtv.feratel.com/webtv/?cam=6246",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 11.485872889781037,
+      "lat": 46.8759807499684
+    },
+    {
+      "name": "Gossensass - Colle Isarco",
+      "url": "https://webtv.feratel.com/webtv/?cam=6268",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 11.44441711198237,
+      "lat": 46.93774546357125
+    },
+    {
+      "name": "Pflerschtal – Sant‘ Antonio",
+      "url": "https://webtv.feratel.com/webtv/?cam=6269",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 11.347038330891836,
+      "lat": 46.966168069564986
+    },
+    {
+      "name": "Innichen (3Zinnen Dolomites)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6207",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 12.278712923068904,
+      "lat": 46.71901393763362
+    },
+    {
+      "name": "La Val (Alta Badia)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6325",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.948132448292903,
+      "lat": 46.65593980191063
+    },
+    {
+      "name": "Badia - Piz La Ila",
+      "url": "https://webtv.feratel.com/webtv/?cam=6323",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.906099167534101,
+      "lat": 46.56543612362727
+    },
+    {
+      "name": "Merano",
+      "url": "https://webtv.feratel.com/webtv/?cam=6225",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 11.16029028742841,
+      "lat": 46.66945372998168
+    },
+    {
+      "name": "Merano - Ippodromo",
+      "url": "https://webtv.feratel.com/webtv/?cam=6226",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 11.151221195399463,
+      "lat": 46.658431643575256
+    },
+    {
+      "name": "Merano",
+      "url": "https://webtv.feratel.com/webtv/?cam=6227",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 11.167043848013424,
+      "lat": 46.67561771821975
     }
   ]
 }
