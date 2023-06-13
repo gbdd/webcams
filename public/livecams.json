@@ -15584,6 +15584,350 @@
       "iframesrc": "s",
       "lng": 11.167043848013424,
       "lat": 46.67561771821975
+    },
+    {
+      "name": "Montagna - Montan",
+      "url": "https://webtv.feratel.com/webtv/?cam=6180",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 11.303369587181146,
+      "lat": 46.333545301935146
+    },
+    {
+      "name": "Moos in Passeier (Pfelders)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6260",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.100116486922614,
+      "lat": 46.7911922094008
+    },
+    {
+      "name": "Obereggen",
+      "url": "https://webtv.feratel.com/webtv/?cam=6210",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.537153289302152,
+      "lat": 46.35330449697796
+    },
+    {
+      "name": "Predazzo",
+      "url": "https://webtv.feratel.com/webtv/?cam=6394",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.558814882120524,
+      "lat": 46.346930580689595
+    },
+    {
+      "name": "Petersberg",
+      "url": "https://webtv.feratel.com/webtv/?cam=6215",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 11.377510394633491,
+      "lat": 46.39272297947798  
+    },
+    {
+      "name": "Pfitsch",
+      "url": "https://webtv.feratel.com/webtv/?cam=6264",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 11.554746235949736,
+      "lat": 46.961628682009945
+    },
+    {
+      "name": "Sterzing (Vipiteno)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6245",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.397970885991823,
+      "lat": 46.912833248604116
+    },
+    {
+      "name": "Sexten - Bergstation Helm",
+      "url": "https://webtv.feratel.com/webtv/?cam=6200",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 12.362451739537969,
+      "lat": 46.717813768176605
+    },
+    {
+      "name": "Sexten - Bergstation Stiergarten",
+      "url": "https://webtv.feratel.com/webtv/?cam=6201",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 12.397093891267637,
+      "lat": 46.694553321971355
+    },
+    {
+      "name": "Ratschings",
+      "url": "https://webtv.feratel.com/webtv/?cam=6030",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.307353829201595,
+      "lat": 46.84930367403969
+    },
+    {
+      "name": "Piz Sorega - Badia",
+      "url": "https://webtv.feratel.com/webtv/?cam=6324",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.922787253698537,
+      "lat": 46.55621152489912
+    },
+    {
+      "name": "Schnalstal - Val Senales",
+      "url": "https://webtv.feratel.com/webtv/?cam=6193",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 10.766093952847912,
+      "lat": 46.752635802113865
+    },
+    {
+      "name": "Seiser Alm - Puflatsch Bergstation",
+      "url": "https://webtv.feratel.com/webtv/?cam=6216",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.617251417960611,
+      "lat": 46.55174099044098
+    },
+    {
+      "name": "Seiser Alm - Florianlift Bergstation",
+      "url": "https://webtv.feratel.com/webtv/?cam=6217",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.684505846046816,
+      "lat": 46.51524714748664
+    },
+    {
+      "name": "Val Gardena/Gröden - Seceda 2.450 m",
+      "url": "https://webtv.feratel.com/webtv/?cam=6344",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.724089899429297,
+      "lat": 46.596880464836694
+    },
+    {
+      "name": "Val Gardena/Gröden - Ciampinoi 2.254 m",
+      "url": "https://webtv.feratel.com/webtv/?cam=6341",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.753169991195302,
+      "lat": 46.53892297988443
+    },
+    {
+      "name": "Val Gardena/Gröden - Raschötz 2.132 m",
+      "url": "https://webtv.feratel.com/webtv/?cam=6343",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.679337223756072,
+      "lat": 46.59771265975193
+    },
+    {
+      "name": "St. Vigil - Pre da Peres Bergstation",
+      "url": "https://webtv.feratel.com/webtv/?cam=6123",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.97039594633277,
+      "lat": 46.716324378837825
+    },
+    {
+      "name": "Flains - Sterzing",
+      "url": "https://webtv.feratel.com/webtv/?cam=6267",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 11.44130045964973,
+      "lat": 46.89790343324911
+    },
+    {
+      "name": "Wolkenstein (Val Gardena/Gröden)",
+      "url": "https://webtv.feratel.com/webtv/?cam=6340",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.799674054440747,
+      "lat": 46.55478469811629
+    },
+    {
+      "name": "Pejo",
+      "url": "https://webtv.feratel.com/webtv/?cam=6330",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 10.660180208122753,
+      "lat": 46.37018457495051
+    },
+    {
+      "name": "Vigo di Fassa",
+      "url": "https://webtv.feratel.com/webtv/?cam=6100",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 11.665208760410765,
+      "lat": 46.43337745434265
+    },
+    {
+      "name": "Bardolino",
+      "url": "https://webtv.feratel.com/webtv/?cam=6410",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 10.716124177726561,
+      "lat": 45.54974569497095
+    },
+    {
+      "name": "Bardolino",
+      "url": "https://webtv.feratel.com/webtv/?cam=6411",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 10.719340623254858,
+      "lat": 45.54702640084448
+    },
+    {
+      "name": "Monínec",
+      "url": "https://webtv.feratel.com/webtv/?cam=2074",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 14.521287608846153,
+      "lat": 49.54980400602368 
+    },
+    {
+      "name": "Lipno - Stezka korunami stromu",
+      "url": "https://webtv.feratel.com/webtv/?cam=2100",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 14.23056266746877,
+      "lat": 48.6526475988944
+    },
+    {
+      "name": "Lipno",
+      "url": "https://webtv.feratel.com/webtv/?cam=2132",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 14.219683681953681,
+      "lat": 48.64129076081916
+    },
+    {
+      "name": "Račice - Labe Aréna",
+      "url": "https://webtv.feratel.com/webtv/?cam=2159",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 14.347590578021917,
+      "lat": 50.45898634853127
+    },
+    {
+      "name": "Praha - Kavčí hory",
+      "url": "https://webtv.feratel.com/webtv/?cam=2127",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 14.426000406582942,
+      "lat": 50.050207013495246
+    },
+    {
+      "name": "Filipovice",
+      "url": "https://webtv.feratel.com/webtv/?cam=2154",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 17.17031732776663,
+      "lat": 50.15542160576274 
+    },
+    {
+      "name": "Kouty nad Desnou",
+      "url": "https://webtv.feratel.com/webtv/?cam=2142",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 17.139263103652105,
+      "lat": 50.08662471871975 
+    },
+    {
+      "name": "Kraličák",
+      "url": "https://webtv.feratel.com/webtv/?cam=2144",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 16.90806327605461,
+      "lat": 50.17695067387454 
+    },
+    {
+      "name": "Kraličák - Štvanice",
+      "url": "https://webtv.feratel.com/webtv/?cam=2158",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 16.89908220021013,
+      "lat": 50.17037555536486 
+    },
+    {
+      "name": "Deštné v Orlických horách",
+      "url": "https://webtv.feratel.com/webtv/?cam=2117",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 16.362623731046103,
+      "lat": 50.295697078913996 
+    },
+    {
+      "name": "Hoffmanky",
+      "url": "https://webtv.feratel.com/webtv/?cam=2137",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 15.756278428254925,
+      "lat": 50.64365810428147 
+    },
+    {
+      "name": "Mladé Buky",
+      "url": "https://webtv.feratel.com/webtv/?cam=2084",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 15.84453241038006,
+      "lat": 50.60101695485939 
+    },
+    {
+      "name": "Velká Úpa",
+      "url": "https://webtv.feratel.com/webtv/?cam=2064",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 15.769576820581936,
+      "lat": 50.703447291863526 
+    },
+    {
+      "name": "Ještěd",
+      "url": "https://webtv.feratel.com/webtv/?cam=2101",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 14.992293641298312,
+      "lat": 50.72802553704521
+    },
+    {
+      "name": "Jeseník - Lázně Jeseník",
+      "url": "https://webtv.feratel.com/webtv/?cam=2130",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 17.188645150491002,
+      "lat": 50.23989468323955
+    },
+    {
+      "name": "Malá Morávka - Karlov",
+      "url": "https://webtv.feratel.com/webtv/?cam=2136",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 17.287363873272138,
+      "lat": 50.01338092682053
+    },
+    {
+      "name": "Malá Morávka - Kopřivná",
+      "url": "https://webtv.feratel.com/webtv/?cam=2120",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 17.308912386802945,
+      "lat": 50.03364044601623
+    },
+    {
+      "name": "Dolní Morava",
+      "url": "https://webtv.feratel.com/webtv/?cam=2119",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 16.834943551373513,
+      "lat": 50.15232309183053
+    },
+    {
+      "name": "Plzeň",
+      "url": "https://webtv.feratel.com/webtv/?cam=2156",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 13.382706000130296,
+      "lat": 49.74597176183982
     }
   ]
 }
