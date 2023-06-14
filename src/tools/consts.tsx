@@ -17,6 +17,7 @@ export interface livecam {
   iframesrc: string,
   iframesrcdesktop: string,
   preferred?: boolean,
+  per: string,
 }
 
 export class LC {
@@ -90,15 +91,15 @@ export class LC {
    * @returns 
    */
   static isYtLc = (lc:livecam):boolean => {
-    const ifsrc = this.getIframeSrc(lc);
-
     let iYt:boolean = false;
-    if ((typeof ifsrc !== 'undefined')
-    && (ifsrc.includes('www.youtube.com/embed'))) {
+    if ((typeof lc.per !== 'undefined')
+     && (typeof lc.id !== 'undefined')
+     && (lc.per === 'yt')) {
       iYt = true;
     }
     return iYt;
   }
+
   /**
    * Is this an IpCamLive livecam ?
    * @param lc 
@@ -153,11 +154,10 @@ export class LC {
    * @returns 
    */
   static isFeratel = (lc:livecam):boolean => {
-    const ifsrc = this.getIframeSrc(lc, true);
-
     let iFrt:boolean = false;
-    if ((typeof ifsrc !== 'undefined')
-     && (ifsrc.includes('.feratel.com'))) {
+    if ((typeof lc.per !== 'undefined')
+     && (typeof lc.id !== 'undefined')
+     && (lc.per === 'frtl')) {
       iFrt = true;
     }
     return iFrt;

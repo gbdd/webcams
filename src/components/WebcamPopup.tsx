@@ -108,6 +108,18 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
     return pref;
   }
 
+  const getExternalUrl = ():string => {
+    let xUrl = lc.url;
+    if (typeof xUrl === 'undefined') {
+      if (LC.isYtLc(lc)) {
+        xUrl = `https://www.youtube.com/watch?v=${lc.id}`;
+      } else if (LC.isFeratel(lc)) {
+        xUrl = `https://webtv.feratel.com/webtv/?cam=${lc.id}&design=v4&autoplay=1`;
+      }
+    }
+
+    return xUrl;
+  }
   const getIframeUrl = ():string => {
     let ifsrc = LC.getIframeSrc(lc);
     if (LC.isTikeeLc(lc)) {
@@ -115,19 +127,20 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
       const sec_c = WC_COLORS.BACKGROUND_LIGHTER;
       ifsrc = ifsrc.concat(`?lang=fr&primary_color=${prim_c}&secondary_color=${sec_c}&hide_downloads=true`);
     } else if (LC.isYtLc(lc)) {
-      ifsrc = ifsrc.concat(`?autoplay=1&mute=1&enablejsapi=1`);
+      ifsrc = `https://www.youtube.com/embed/${lc.id}?autoplay=1&mute=1&enablejsapi=1`;
     } else if (LC.isIpClLc(lc)) {
       ifsrc = ifsrc.concat(`&autoplay=1`);
     } else if (LC.isFeratel(lc)) {
       if (IS_MOBILE) {
-        ifsrc = ifsrc.concat(`&design=v4&autoplay=1`);
+        ifsrc = `https://webtv.feratel.com/webtv/?cam=${lc.id}&design=v4&autoplay=1`;
       } else {
-        ifsrc = ifsrc.concat(`&design=v3&t=9`);
+        ifsrc = `https://webtv.feratel.com/webtv/?cam=${lc.id}&design=v3&t=9`;
       }
     }
     return ifsrc;
   }
 
+  const extUrl = getExternalUrl();
   let iframeurl = getIframeUrl();
   let thumbUrl:string = LC.getThumbUrl(lc);
 
@@ -135,7 +148,7 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
     return (
       <div className="popupHeader">
         <div className='popupHeaderTitle'>
-          <a href={lc.url} target="_blank" rel="noreferrer">{lc.name}&nbsp;<i className="fa-solid fa-house"></i></a>
+          <a href={extUrl} target="_blank" rel="noreferrer">{lc.name}&nbsp;<i className="fa-solid fa-house"></i></a>
         </div>
         <div className='popupHeaderToolbar'>
           <StarToggle checked={isPreferred()} onChecked={handleOnCheck}></StarToggle>
@@ -165,14 +178,14 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
         {renderPopupHeader()}
         { ((thumbUrl !== '') && (typeof lc.iframesrc === 'undefined')) && (
           <div ref={thumbContainer} className="popupThumbnailContainer">
-            <a href={lc.url} target="_blank" rel="noreferrer">
+            <a href={extUrl} target="_blank" rel="noreferrer">
               <img ref={thumbRef} className="popupThumbnail" src={thumbUrl} alt={lc.name} onLoad={onImgLoad} width={imgWidth}></img>
             </a>
           </div>
         )}
         { (thumbUrl === '') && (
           <div className="noPreviewContainer">
-            The webcam has no embeddable preview, but a click on  <a href={lc.url} target="_blank" rel="noreferrer">the above link</a> may be worth it
+            The webcam has no embeddable preview, but a click on  <a href={extUrl} target="_blank" rel="noreferrer">the above link</a> may be worth it
           </div>
         )}
       </div>
