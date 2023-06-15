@@ -1782,6 +1782,22 @@
       "lat": 45.281313821424725
     },
     {
+      "name": "Grenoble depuis le Moucherotte",
+      "url": "https://my.tikee.io/",
+      "iframesrc": "https://my.tikee.io/time_lapses/47432/photo_gallery/79982f16-cc9d-40ad-a1cd-8fc0a0238c56",
+      "type": "city",
+      "lng": 5.638054050709871,
+      "lat": 45.14286147415462
+    },
+    {
+      "name": "Les Bossons depuis les Grands Mulets",
+      "url": "https://my.tikee.io/",
+      "iframesrc": "https://my.tikee.io/time_lapses/23170/photo_gallery/552b2c54-aa8f-4280-9804-62b84e27fe7b",
+      "type": "mountain",
+      "lng": 6.861318766032183,
+      "lat": 45.866914469779104
+    },
+    {
       "name": "Risoul - Pointe de Razis",
       "url": "https://www.skaping.com/risoul/pointe-du-razis",
       "iframesrc": "s",
@@ -1856,8 +1872,8 @@
     },
     {
       "name": "Refuge Vallot",
-      "iframesrc": "https://my.tikee.io/time_lapses/24129/photo_gallery/15d8bf79-b02c-43bd-800b-6e904072475f",
       "url": "https://my.tikee.io/projects/105993/timelapse",
+      "iframesrc": "https://my.tikee.io/time_lapses/24129/photo_gallery/15d8bf79-b02c-43bd-800b-6e904072475f",
       "type": "mountain",
       "lng": 6.852238788748073,
       "lat": 45.839439194846705
