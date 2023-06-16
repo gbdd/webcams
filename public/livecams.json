@@ -16133,6 +16133,188 @@
       "iframesrc": "s",
       "lng": 13.382706000130296,
       "lat": 49.74597176183982
+    },
+    {
+      "name": "Bad Herrenalb",
+      "per": "frtl",
+      "id": "3230",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 8.436900362150489,
+      "lat": 48.80057031888353
+    },
+    {
+      "name": "Bad Mergentheim",
+      "per": "frtl",
+      "id": "3216",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 9.784934286132428,
+      "lat": 49.49634287294366
+    },
+    {
+      "name": "Bad Teinach-Zavelstein",
+      "per": "frtl",
+      "id": "3232",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 8.690544026604748,
+      "lat": 48.69285272097137 
+    },
+    {
+      "name": "Beuren",
+      "per": "frtl",
+      "id": "3215",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 9.398665926143188,
+      "lat": 48.56605234016952 
+    },
+    {
+      "name": "Donnersbach - Planneralm",
+      "url": "https://planneralm.panomax.com/",
+      "id": "2363",
+      "iframesrcdesktop": "s",
+      "type": "mountain",
+      "lng": 14.214636912670187,
+      "lat": 47.40448596955795
+    },
+    {
+      "name": "Hayingen - Burg Derneck",
+      "per": "frtl",
+      "id": "3290",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 9.496819445415946,
+      "lat": 48.30937075134961 
+    },
+    {
+      "name": "Konstanz - Bodensee",
+      "per": "frtl",
+      "id": "3207",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 9.178834703734838,
+      "lat": 47.664402683201104
+    },
+    {
+      "name": "Lörrach",
+      "per": "frtl",
+      "id": "3380",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 7.664546025671641,
+      "lat": 47.61505691365817
+    },
+    {
+      "name": "Mannheim",
+      "per": "frtl",
+      "id": "3237",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 8.471425064677135,
+      "lat": 49.479174202867
+    },
+    {
+      "name": "Münsingen - Hörnle im Albgut",
+      "per": "frtl",
+      "id": "3210",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 9.52806886615354,
+      "lat": 48.41943700010378
+    },
+    {
+      "name": "St. Johann",
+      "per": "frtl",
+      "id": "3295",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 9.336890988067001,
+      "lat": 48.449642263167384
+    },
+    {
+      "name": "Überlingen",
+      "per": "frtl",
+      "id": "3111",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 9.159910271100191,
+      "lat": 47.765854312573516
+    },
+    {
+      "name": "Westerheim",
+      "per": "frtl",
+      "id": "3297",
+      "type": "country",
+      "iframesrc": "s",
+      "lng": 9.633887976418587,
+      "lat": 48.5152905954587
+    },
+    {
+      "name": "Borkum",
+      "per": "frtl",
+      "id": "3256",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 6.6582562753871155,
+      "lat": 53.58849110155557
+    },
+    {
+      "name": "Braunlage",
+      "per": "frtl",
+      "id": "3257",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 10.61891291821514,
+      "lat": 51.756291567391976
+    },
+    {
+      "name": "Fedderwardersiel",
+      "per": "frtl",
+      "id": "3268",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 8.353955427272668,
+      "lat": 53.597565648193765
+    },
+    {
+      "name": "Eckwarderhörne",
+      "per": "frtl",
+      "id": "3264",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 8.232083703419072,
+      "lat": 53.5208880676637
+    },
+    {
+      "name": "Butjadingen - Nordsee-Lagune",
+      "per": "frtl",
+      "id": "3266",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 8.367599012368306,
+      "lat": 53.58589510198808
+    },
+    {
+      "name": "Friesenstrand Tossens",
+      "per": "frtl",
+      "id": "3263",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": 8.24341994213948,
+      "lat": 53.58143826029032
+    },
+    {
+      "name": "Emden",
+      "per": "frtl",
+      "id": "3255",
+      "type": "city",
+      "iframesrc": "s",
+      "lng": 7.207302688915925,
+      "lat": 53.362465550202906
     }
   ]
 }
+
+
