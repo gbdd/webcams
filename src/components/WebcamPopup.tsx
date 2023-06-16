@@ -134,7 +134,7 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
       if (IS_MOBILE) {
         ifsrc = `https://webtv.feratel.com/webtv/?cam=${lc.id}&design=v4&autoplay=1`;
       } else {
-        ifsrc = `https://webtv.feratel.com/webtv/?cam=${lc.id}&design=v4&t=9`;
+        ifsrc = `https://webtv.feratel.com/webtv/?cam=${lc.id}&design=v4`;
       }
     }
     return ifsrc;
