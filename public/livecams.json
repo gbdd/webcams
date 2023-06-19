@@ -16377,6 +16377,46 @@
       "type": "sea",
       "lng": 10.478388198679108,
       "lat": 59.836408560912496
+    },
+    {
+      "name": "Tignes - Tovière",
+      "url": "https://tignes.roundshot.com/toviere/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.920110527901817,
+      "lat": 45.455671660828095
+    },
+    {
+      "name": "Tignes - Grande Motte",
+      "url": "https://tignes.roundshot.com/grande-motte/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.890401426856157,
+      "lat": 45.42324489829531
+    },
+    {
+      "name": "Tignes - Lac",
+      "url": "https://tignes.roundshot.com/lac/",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.907059075747999,
+      "lat": 45.46831968213297
+    },
+    {
+      "name": "Tignes - 1800",
+      "url": "https://tignes.roundshot.com/1800/",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.9263765078576425,
+      "lat": 45.49626021682937
+    },
+    {
+      "name": "Aigle",
+      "url": "https://aigle.roundshot.com/",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 6.978312,
+      "lat": 46.317068
     }
   ]
 }
