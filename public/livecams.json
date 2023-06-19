@@ -16313,8 +16313,71 @@
       "iframesrc": "s",
       "lng": 7.207302688915925,
       "lat": 53.362465550202906
+    },
+    {
+      "name": "Berlevag",
+      "url": "https://portberlevog.kystnor.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 29.09895805404655,
+      "lat": 70.85886102216362
+    },
+    {
+      "name": "Vadso",
+      "url": "https://portofvadso.kystnor.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 29.73479237955239,
+      "lat": 70.07098307299685
+    },
+    {
+      "name": "Båtsfjord",
+      "url": "https://portbatsfjord.kystnor.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 29.72544293610298,
+      "lat": 70.63284690382832
+    },
+    {
+      "name": "Skjervøy",
+      "url": "https://portskjervoy.kystnor.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 20.98233868390213,
+      "lat": 70.02869632287073
+    },
+    {
+      "name": "Alta",
+      "url": "https://portalta.kystnor.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 23.298035199660276,
+      "lat": 69.98365800915039
+    },
+    {
+      "name": "Havøysund",
+      "url": "https://porthavoysund.kystnor.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 24.678845076679703,
+      "lat": 70.99259679931228
+    },
+    {
+      "name": "Longyearbyen",
+      "url": "https://portlongyear.kystnor.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 15.59739511773163,
+      "lat": 78.22920080577266
+    },
+    {
+      "name": "Vettre - Leangbukten Båtforening",
+      "url": "https://leangbukten.kystnor.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.478388198679108,
+      "lat": 59.836408560912496
     }
   ]
 }
-
 
