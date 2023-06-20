@@ -2849,14 +2849,6 @@
       "lat": 46.82157765449667
     },
     {
-      "name": "Säntis der Berg",
-      "url": "https://saentis.roundshot.com/",
-      "iframesrc": "s",
-      "type": "mountain",
-      "lng": 9.342940723903233,
-      "lat": 47.24934774939747
-    },
-    {
       "name": "Adelboden - TschentenAlp",
       "url": "https://tschentenalp.roundshot.com/",
       "iframesrc": "s",
@@ -4824,6 +4816,7 @@
     {
       "id:": "78",
       "url": "https://uetliberg.roundshot.com/",
+      "alturls": ["https://utokulm.roundshot.com/"],
       "name": "Uetliberg - Zurich",
       "iframesrc": "s",
       "type": "city",
@@ -6871,6 +6864,16 @@
       "type": "mountain",
       "thumburl": "https://live-image.panomax.com/cams/4683/recent_reduced.jpg",
       "url": "https://webcam.myortler.it/kanzel"
+    },
+    {
+      "id": "6522",
+      "iframesrcdesktop": "s",
+      "lat": 46.569777174503194,
+      "lng": 10.505082422292544,
+      "name": "Forcola Trafoi",
+      "type": "mountain",
+      "thumburl": "https://live-image.panomax.com/cams/6522/recent_reduced.jpg",
+      "url": "https://webcam.myortler.it/trafoi"
     },
     {
       "id": "4752",
@@ -10161,6 +10164,7 @@
     {
       "id": "260",
       "url": "https://palisadestahoe.roundshot.com/silverado/",
+      "alturl": "https://squawalpine.roundshot.com/squaw/",
       "name": "Silverado",
       "iframesrc": "s",
       "type": "mountain",
@@ -10557,11 +10561,11 @@
     {
       "id": "156",
       "url": "https://saentis.roundshot.com/",
-      "name": "S\u00e4ntis Gipfel",
+      "name": "Säntis der Berg",
       "iframesrc": "s",
       "type": "mountain",
-      "lng": 9.343195,
-      "lat": 47.249219
+      "lng": 9.342940723903233,
+      "lat": 47.24934774939747
     },
     {
       "id": "1130",
@@ -15199,7 +15203,7 @@
       "lat": 46.77188007258568
     },
     {
-      "name": "Davos Wolfgang",
+      "name": "Davosersee",
       "per": "frtl",
       "id": "4006",
       "type": "lake",
@@ -16417,6 +16421,231 @@
       "type": "country",
       "lng": 6.978312,
       "lat": 46.317068
+    },
+    {
+      "name": "Ebenalp",
+      "url": "https://ebenalp.roundshot.com/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.410756,
+      "lat": 47.283004
+    },
+    {
+      "name": "Brigels - Golf",
+      "url": "https://golfbrigels.roundshot.com/",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.0713,
+      "lat": 46.76797
+    },
+    {
+      "id": "1865",
+      "iframesrcdesktop": "s",
+      "lat": 47.230995,
+      "lng": 15.789336,
+      "name": "Stubenberg am See - Windhaber Gussmagg",
+      "type": "lake",
+      "url": "https://stubenberg.panomax.com/"
+    },
+    {
+      "id": "4000",
+      "iframesrcdesktop": "s",
+      "lat": -41.533918943772136,
+      "lng": 147.66555679334638,
+      "name": "Ben Lomond",
+      "type": "mountain",
+      "url": "https://tasmania.panomax.com/ben-lomond"
+    },
+    {
+      "id": "1941",
+      "iframesrcdesktop": "s",
+      "lat": 61.885195735167656,
+      "lng": 6.833312781492156,
+      "name": "Loen Skylift - Hoven",
+      "type": "mountain",
+      "url": "https://loenskylift.panomax.com/mt-hoven"
+    },
+    {
+      "id": "7078",
+      "iframesrcdesktop": "s",
+      "lat": 61.548672373399704,
+      "lng": 8.247487418377414,
+      "name": "Bøverdalen - Leirvassbu",
+      "type": "mountain",
+      "url": "https://leirvassbu.panomax.com/"
+    },
+    {
+      "id": "4644",
+      "iframesrcdesktop": "s",
+      "lat": 49.06189645030519,
+      "lng": 12.743553097584781,
+      "name": "Rattenberg - Zierling",
+      "type": "country",
+      "url": "https://rattenberg.panomax.com/"
+    },
+    {
+      "id": "6845",
+      "iframesrcdesktop": "s",
+      "lat": 38.658597644363226,
+      "lng": -27.218475587305345,
+      "name": "Angra do Heroísmo",
+      "type": "sea",
+      "url": "https://angradoheroismo.panomax.com/"
+    },
+    {
+      "id": "3333",
+      "iframesrcdesktop": "s",
+      "lat": 48.10421901677625,
+      "lng": 13.669689235920622,
+      "name": "Wolfsegg am Hausruck",
+      "type": "country",
+      "url": "https://wolfsegg.panomax.com/"
+    },
+    {
+      "id": "2859",
+      "iframesrcdesktop": "s",
+      "lat": 46.06433246803077,
+      "lng": 13.235848877050772,
+      "name": "Udine - Castello",
+      "type": "city",
+      "url": "https://udine.panomax.com/castello"
+    },
+    {
+      "id": "6120",
+      "iframesrcdesktop": "s",
+      "lat": 54.153734153936725,
+      "lng": 11.760682635874591,
+      "name": "Kühlungsborn",
+      "type": "sea",
+      "url": "https://kuehlungsborn.panomax.com/"
+    },
+    {
+      "id": "6530",
+      "iframesrcdesktop": "s",
+      "lat": 51.53892715230182,
+      "lng": 13.87823622957593,
+      "name": "Klettwitz - Camera from the world's highest wind measuring mast",
+      "type": "country",
+      "url": "https://klettwitz.panomax.com/"
+    },
+    {
+      "id": "5554",
+      "iframesrcdesktop": "s",
+      "lat": 50.57310700144923,
+      "lng": 9.850881991949237,
+      "name": "Internat Schloss Bieberstein",
+      "type": "country",
+      "url": "https://schloss-bieberstein.panomax.com/"
+    },
+    {
+      "url": "https://buchenberg.panomax.com/",
+      "iframesrcdesktop": "s",
+      "id": "5566",
+      "name": "Buchenberg Buching",
+      "type": "country",
+      "lat": 47.60646910800965,
+      "lng": 10.811126554172104
+    },
+    {
+      "url": "https://tegelberg.panomax.com/",
+      "iframesrcdesktop": "s",
+      "id": "5560",
+      "name": "Tegelbergbahn",
+      "type": "country",
+      "lat": 47.5596737179509,
+      "lng": 10.778846987984284
+    },
+    {
+      "id": "6078",
+      "iframesrcdesktop": "s",
+      "lat": 47.92838646330238,
+      "lng": 13.21545277741698,
+      "name": "Neumarkt am Wallersee - Matzing",
+      "type": "lake",
+      "url": "https://neumarkt.panomax.com/matzing"
+    },
+    {
+      "id": "1876",
+      "iframesrcdesktop": "s",
+      "lat": 47.973397760856294,
+      "lng": 13.187740408362366,
+      "name": "Schleedorf - Tannberg",
+      "type": "country",
+      "url": "https://tannberg.panomax.com/"
+    },
+    {
+      "id": "3477",
+      "iframesrcdesktop": "s",
+      "lat": 47.506513595251775,
+      "lng": 10.220571291110767,
+      "name": "Allgäuer Berghof",
+      "type": "mountain",
+      "url": "https://allgaeuer-berghof.panomax.com/"
+    },
+    {
+      "id": "5500",
+      "iframesrcdesktop": "s",
+      "lat": 46.16349679243651,
+      "lng": 11.050390768189233,
+      "name": "Fai della Paganella - Meriz",
+      "type": "mountain",
+      "url": "https://meriz.panomax.com/"
+    },
+    {
+      "id": "5497",
+      "iframesrcdesktop": "s",
+      "lat": 46.15288485341323,
+      "lng": 11.017078488379683,
+      "name": "Andalo - Dosson",
+      "type": "mountain",
+      "url": "https://dosson.panomax.com/"
+    },
+    {
+      "id": "4761",
+      "iframesrcdesktop": "s",
+      "lat": 46.149288628711844,
+      "lng": 10.99579709896667,
+      "name": "Paganella - Teresat",
+      "type": "mountain",
+      "url": "https://paganella.panomax.com/teresat"
+    },
+    {
+      "id": "2395",
+      "iframesrcdesktop": "s",
+      "lat": 45.954811691539284,
+      "lng": 11.317402054908898,
+      "name": "Folgaria - Lavarone",
+      "type": "mountain",
+      "url": "https://lavarone.panomax.com/"
+    },
+    {
+      "id": "5339",
+      "iframesrcdesktop": "s",
+      "lat": 46.527556361168195,
+      "lng": 10.455856134027457,
+      "name": "Stelvio Pass",
+      "type": "road",
+      "thumburl": "https://live-image.panomax.com/cams/5339/recent_reduced.jpg",
+      "url": "https://webcam.myortler.it/stilfserjoch"
+    },
+    {
+      "id": "5641",
+      "iframesrcdesktop": "s",
+      "lat": 46.59528006990993,
+      "lng": 10.54484205900544,
+      "name": "Stelvio",
+      "type": "city",
+      "thumburl": "https://live-image.panomax.com/cams/5641/recent_reduced.jpg",
+      "url": "https://webcam.myortler.it/stilfs"
+    },
+    {
+      "id": "5064",
+      "iframesrcdesktop": "s",
+      "lat": 44.17099218772989,
+      "lng": 8.354066895613256,
+      "name": "Finale Ligure",
+      "type": "sea",
+      "url": "https://finaleligure.panomax.com/marina"
     }
   ]
 }
