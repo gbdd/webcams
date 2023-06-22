@@ -8033,6 +8033,14 @@
       "lat": 47.550303
     },
     {
+      "url": "https://lustdorf.roundshot.com/downtown/",
+      "name": "Lustdorf - Downtown",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.987613,
+      "lat": 47.549995
+    },
+    {
       "id": "163",
       "url": "https://shp.roundshot.com/",
       "name": "Morschach",
@@ -10775,6 +10783,14 @@
       "lat": 47.568266268128625
     },
     {
+      "name": "Carnac - Plage de Saint Colomban",
+      "url": "https://pv.viewsurf.com/2014/Carnac-Plage-de-Saint-Colomban?i=NzM4MDp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": -3.0975156867869327,
+      "lat": 47.56905989027222
+    },
+    {
       "name": "Les Angles",
       "url": "https://pv.viewsurf.com/668/Les-Angles-vue-panoramique?i=Mzg2MDp1bmRlZmluZWQ",
       "iframesrc": "s",
@@ -11021,6 +11037,14 @@
       "type": "sea",
       "lng": 3.0335361711825053,
       "lat": 42.674620467165255
+    },
+    {
+      "name": "Canet en Roussillon - Le Port",
+      "url": "http://pv.viewsurf.com/382/Canet-en-Roussillon?i=MzI4ODp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 3.0381034883170717,
+      "lat": 42.701916536040784
     },
     {
       "name": "Palavas les Flots - Rive gauche",
@@ -12773,6 +12797,14 @@
       "lat": 47.860986
     },
     {
+      "name": "Fouesnant - Pointe de Mousterlin",
+      "url": "https://pv.viewsurf.com/704/Fouesnant-Pointe-de-Mousterlin?i=Mzk1ODp1bmRlZmluZWQ",
+      "type": "sea",
+      "iframesrc": "s",
+      "lng": -4.04119663849205,
+      "lat": 47.845467616642345
+    },
+    {
       "name": "Benodet - le port",
       "url": "https://pv.viewsurf.com/524/Benodet-Port-de-Plaisance?i=MzMzODp1bmRlZmluZWQ",
       "type": "sea",
@@ -14220,16 +14252,6 @@
       "lat": 43.709277151241
     },
     {
-      "id": 159,
-      "name": "Canet en Roussillon - Mer et étang",
-      "thumburl": "https://films.viewsurf.com/canet01/11/18/media_1685974931.jpg",
-      "url": "https://gosurf.fr/webcam/fr/159/Canet-en-Roussillon-Mer-et-etang",
-      "type": "sea",
-      "iframesrc": "s",
-      "lng": 3.038436925965,
-      "lat": 42.700884088864
-    },
-    {
       "id": 83,
       "name": "Capbreton - Plage du Santosha / de La Piste",
       "thumburl": "https://films.viewsurf.com/capbreton2_1_1.stream/media.jpg",
@@ -14280,10 +14302,8 @@
       "lat": 51.071186672509
     },
     {
-      "id": 8,
-      "name": "Hendaye - Plage du Casino et des Jumeaux",
-      "thumburl": "https://films.viewsurf.com/hendaye_1_1.stream/media.jpg",
-      "url": "https://gosurf.fr/webcam/fr/8/Hendaye-Plage-du-Casino-et-des-Jumeaux",
+      "name": "Hendaye - Plage des Jumeaux",
+      "url": "https://pv.viewsurf.com/850/Hendaye-Plage-des-jumeaux?i=NDQxODp1bmRlZmluZWQ",
       "type": "sea",
       "iframesrc": "s",
       "lng": -1.7677909203383,
@@ -16646,6 +16666,110 @@
       "name": "Finale Ligure",
       "type": "sea",
       "url": "https://finaleligure.panomax.com/marina"
+    },
+    {
+      "name": "Port de plaisance de Paris-Arsenal",
+      "url": "https://pv.viewsurf.com/1958/Fayolle-Marine?i=NzI0Njp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 2.3661993037382927,
+      "lat": 48.84716139400368
+    },
+    {
+      "name": "Villard Saint Pancrace",
+      "url": "https://pv.viewsurf.com/1022/Villard-Saint-Pancrace?i=NDc4ODp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.627632284418843,
+      "lat": 44.87002848421234
+    },
+    {
+      "name": "Cervieres",
+      "url": "https://pv.viewsurf.com/1026/Cervieres?i=NDgxNDp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.726974616531085,
+      "lat": 44.854712602508215
+    },
+    {
+      "name": "Frauenfeld",
+      "url": "https://frauenfeld.roundshot.com/",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 8.897643,
+      "lat": 47.555346
+    },
+    {
+      "name": "Thonon Les Bains",
+      "url": "https://pv.viewsurf.com/1378/ThononLesBains?i=NTYyNDp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.478350100098259,
+      "lat": 46.37373030702819
+    },
+    {
+      "name": "La Norma - Le Carrelet",
+      "url": "https://pv.viewsurf.com/904/La-Norma-Le-Carrelet?i=NDUxNjp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.704647465481777,
+      "lat": 45.18409112099426
+    },
+    {
+      "name": "Ax - 3 Domaines - Tute",
+      "url": "https://pv.viewsurf.com/1128/Ax-3-Domaines-Tute?i=NTAwMDo4Mzc1ODg3MDg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 1.7909824677345143,
+      "lat": 42.66352879695462
+    },
+    {
+      "name": "Piau Engaly - 2200m",
+      "url": "https://pv.viewsurf.com/448/Piau-Engaly-2200m?i=MjkyNDp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 0.14889149411620128,
+      "lat": 42.777828669329224
+    },
+    {
+      "name": "Piau Engaly - 1850m",
+      "url": "https://pv.viewsurf.com/1630/Piau-Engaly-1850m?i=NjMyNDp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 0.1585693433625458,
+      "lat": 42.78342383431383
+    },
+    {
+      "name": "Seyne - Col du Fanget",
+      "url": "http://pv.viewsurf.com/352/HASF-16-Seyne-Col-du-Fanget?i=NjkxMjp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.327078166410022,
+      "lat": 44.327796924530304
+    },
+    {
+      "name": "Vallouise - Nordic Skier Cross",
+      "url": "https://pv.viewsurf.com/248/Vallouise?i=NjkwMDp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.491706412885934,
+      "lat": 44.839555970089
+    },
+    {
+      "name": "Col du Festre",
+      "url": "https://pv.viewsurf.com/?id=252&i=NjkwMjp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.857533523736191,
+      "lat": 44.66592677003648
+    },
+    {
+      "name": "L'Aiguillon - La Faute - Plage des Bélugas",
+      "url": "https://pv.viewsurf.com/1120/Sud-Vendee-Littoral-Tourisme-Plage-des-Belugas?i=NDk4NDp1bmRlZmluZWQ",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": -1.3291812294464336,
+      "lat": 46.32855152194774
     }
   ]
 }
