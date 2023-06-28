@@ -2721,7 +2721,7 @@
     {
       "name": "Gullfoss",
       "url": "https://livefromiceland.is/webcams/gullfoss",
-      "type": "country",
+      "type": "lake",
       "lng": -20.125953490954288,
       "lat": 64.32490043819796
     },
@@ -4156,10 +4156,18 @@
       "url": "https://pyramidenkogel.panomax.com/",
       "iframesrcdesktop": "s",
       "id": "297",
-      "name": "Keutschach - Pyramidenkogel Turm",
+      "name": "Keutschach - Pyramidenkogel (panomax)",
       "type": "lake",
       "lat": 46.609016,
       "lng": 14.144984
+    },
+    {
+      "name": "Keutschach - Pyramidenkogel (panocloud)",
+      "url": "https://pyramidenkogel.it-wms.com",
+      "lat": 46.60899,
+      "lng": 14.1455,
+      "iframesrc": "s",
+      "type": "lake"
     },
     {
       "url": "https://pratonevoso.panomax.com/",
@@ -16834,235 +16842,956 @@
     {
       "name": "Alpengasthof Isopp - Flattnitz",
       "url": "https://alpengasthof-isopp.panocloud.webcam",
-      "lat": "46.944248",
-      "lng": "14.022048",
+      "lat": 46.944248,
+      "lng": 14.022048,
       "iframesrc": "s",
       "type": "mountain"
     },
     {
       "name": "Haidersee",
       "url": "https://alpenrose-haidersee.panocloud.webcam",
-      "lat": "46.750179",
-      "lng": "10.536476",
+      "lat": 46.750179,
+      "lng": 10.536476,
       "iframesrc": "s",
       "type": "lake"
     },
     {
       "name": "Bachtelturm",
       "url": "https://bachtel.it-wms.com",
-      "lat": "47.29472",
-      "lng": "8.886312",
+      "lat": 47.29472,
+      "lng": 8.886312,
       "iframesrc": "s",
       "type": "country"
     },
     {
       "name": "Bad Bleiberg - Antonischacht",
       "url": "https://badbleiberg.it-wms.com",
-      "lat": "46.628803",
-      "lng": "13.647778",
+      "lat": 46.628803,
+      "lng": 13.647778,
       "iframesrc": "s",
       "type": "mountain"
     },
     {
       "name": "Bad Gleichenberg - Hauptplatz",
       "url": "https://badgleichenberg1.it-wms.com",
-      "lat": "46.876926",
-      "lng": "15.910098",
+      "lat": 46.876926,
+      "lng": 15.910098,
       "iframesrc": "s",
       "type": "city"
     },
     {
       "name": "Obstbau Haas - Gnas",
       "url": "https://badgleichenberg3.it-wms.com",
-      "lat": "46.862659",
-      "lng": "15.842542",
+      "lat": 46.862659,
+      "lng": 15.842542,
       "iframesrc": "s",
       "type": "country"
     },
     {
       "name": "Aussichtsturm, Weinwarte St. Peter",
       "url": "https://badgleichenberg4.it-wms.com",
-      "lat": "46.81691",
-      "lng": "15.772103",
+      "lat": 46.81691,
+      "lng": 15.772103,
       "iframesrc": "s",
       "type": "country"
     },
     {
       "name": "Schloss Kapfenstein, Kapfenstein",
       "url": "https://badgleichenberg5.it-wms.com",
-      "lat": "46.889774",
-      "lng": "15.977097",
+      "lat": 46.889774,
+      "lng": 15.977097,
       "iframesrc": "s",
       "type": "country"
     },
     {
       "name": "Bad Griesbach",
       "url": "https://badgriesbach.it-wms.com",
-      "lat": "48.428982",
-      "lng": "13.185994",
+      "lat": 48.428982,
+      "lng": 13.185994,
       "iframesrc": "s",
       "type": "lake"
     },
     {
       "name": "Betzdorf",
       "url": "https://betzdorf.panocloud.webcam",
-      "lat": "50.788088",
-      "lng": "7.872404",
+      "lat": 50.788088,
+      "lng": 7.872404,
       "iframesrc": "s",
       "type": "city"
     },
     {
       "name": "Brunnalm-Hohe Veitsch - Bergstation Panoramasesselbahn",
       "url": "https://brunnalm.it-wms.com",
-      "lat": "47.638725",
-      "lng": "15.415754",
+      "lat": 47.638725,
+      "lng": 15.415754,
       "iframesrc": "s",
       "type": "mountain"
     },
     {
       "name": "Burg Hochosterwitz",
       "url": "https://burg-hochosterwitz.panocloud.webcam",
-      "lat": "46.755726",
-      "lng": "14.451179",
+      "lat": 46.755726,
+      "lng": 14.451179,
       "iframesrc": "s",
       "type": "country"
     },
     {
       "name": "Camping zum See \/ St. Valentin a.d.H.",
       "url": "https://campingamsee.panocloud.webcam",
-      "lat": "46.76413",
-      "lng": "10.531996",
+      "lat": 46.76413,
+      "lng": 10.531996,
       "iframesrc": "s",
       "type": "lake"
     },
     {
       "name": "Dam\u00fcls - Uga-Express Bergstation",
       "url": "https://damuels.it-wms.com",
-      "lat": "47.299721",
-      "lng": "9.891198",
+      "lat": 47.299721,
+      "lng": 9.891198,
       "iframesrc": "s",
       "type": "mountain"
     },
     {
       "name": "Delino GmbH",
       "url": "https://delino.panocloud.webcam",
-      "lat": "47.626167",
-      "lng": "13.175111",
+      "lat": 47.626167,
+      "lng": 13.175111,
       "iframesrc": "s",
       "type": "city"
     },
     {
       "name": "Diemelsee \u2013 Heringhausen \u2013 Strandbad mit Seepromenade",
       "url": "https://diemelsee.panocloud.webcam",
-      "lat": "51.361736",
-      "lng": "8.719181",
+      "lat": 51.361736,
+      "lng": 8.719181,
       "iframesrc": "s",
       "type": "lake"
     },
     {
       "name": "Diex - Karawanken",
       "url": "https://diex1.it-wms.com",
-      "lat": "46.751774",
-      "lng": "14.617775",
+      "lat": 46.751774,
+      "lng": 14.617775,
       "iframesrc": "s",
       "type": "country"
     },
     {
       "name": "Diex - Wandergebiet",
       "url": "https://diex2.it-wms.com",
-      "lat": "46.736374",
-      "lng": "14.599678",
+      "lat": 46.736374,
+      "lng": 14.599678,
       "iframesrc": "s",
       "type": "country"
     },
     {
       "name": "D\u00f6briach am Millst\u00e4tter See",
       "url": "https://doebriach.panocloud.webcam",
-      "lat": "46.77734",
-      "lng": "13.673458",
+      "lat": 46.77734,
+      "lng": 13.673458,
       "iframesrc": "s",
       "type": "lake"
     },
     {
       "name": "Abinea Dolomiti Romantic Spa Hotel - Kastelruth",
       "url": "https://dolomiten-webcam-kastelruth.it-wms.com",
-      "lat": "46.568779",
-      "lng": "11.565194",
+      "lat": 46.568779,
+      "lng": 11.565194,
       "iframesrc": "s",
       "type": "lake"
     },
     {
       "name": "Dolomitenhof - Sexten",
       "url": "https://dolomitenhof.it-wms.com",
-      "lat": "46.665508",
-      "lng": "12.35419",
+      "lat": 46.665508,
+      "lng": 12.35419,
       "iframesrc": "s",
       "type": "mountain"
     },
     {
       "name": "Dreil\u00e4ndereck - Panoramakamera",
       "url": "https://dreilaendereck.it-wms.com",
-      "lat": "46.524776",
-      "lng": "13.726277",
+      "lat": 46.524776,
+      "lng": 13.726277,
       "iframesrc": "s",
       "type": "mountain"
     },
     {
       "name": "Dreil\u00e4ndereck - Bergrestaurant",
       "url": "https://dreilaendereck2.it-wms.com",
-      "lat": "46.524502",
-      "lng": "13.726442",
+      "lat": 46.524502,
+      "lng": 13.726442,
       "iframesrc": "s",
       "type": "mountain"
     },
     {
       "name": "Ferienhotel Nagglerhof - Wei\u00dfensee",
       "url": "https://easy16.it-wms.com",
-      "lat": "46.705906",
-      "lng": "13.325388",
+      "lat": 46.705906,
+      "lng": 13.325388,
       "iframesrc": "s",
       "type": "lake"
     },
     {
       "name": "Eberstein - Steinerh\u00fctte\/Saualpe",
       "url": "https://eberstein.it-wms.com",
-      "lat": "46.82951",
-      "lng": "14.634008",
+      "lat": 46.82951,
+      "lng": 14.634008,
       "iframesrc": "s",
       "type": "mountain"
     },
     {
       "name": "Edersee Rehbach",
       "url": "https://edersee-rehbach.it-wms.com",
-      "lat": "51.182281",
-      "lng": "9.021194",
+      "lat": 51.182281,
+      "lng": 9.021194,
       "iframesrc": "s",
       "type": "lake"
     },
     {
       "name": "Eggental \u2013 Titschenwarte",
       "url": "https://eggental1.it-wms.com",
-      "lat": "46.467705",
-      "lng": "11.381941",
+      "lat": 46.467705,
+      "lng": 11.381941,
       "iframesrc": "s",
       "type": "mountain"
     },
     {
       "name": "Eggental \u2013 Heinzenalm",
       "url": "https://eggental2.it-wms.com",
-      "lat": "46.431637",
-      "lng": "11.578669",
+      "lat": 46.431637,
+      "lng": 11.578669,
       "iframesrc": "s",
       "type": "mountain"
     },
     {
       "name": "Deutschnofen",
       "url": "https://eggental3.it-wms.com",
-      "lat": "46.419384",
-      "lng": "11.427655",
+      "lat": 46.419384,
+      "lng": 11.427655,
       "iframesrc": "s",
       "type": "mountain"
+    },
+    {
+      "name": "Ehrwald - Sonnenhangbahn Bergstation",
+      "url": "https://ehrwald.panocloud.webcam",
+      "lat": 47.402817,
+      "lng": 10.941606,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Embergeralm",
+      "url": "https://embergeralm.it-wms.com",
+      "lat": 46.773319,
+      "lng": 13.156122,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Faakersee",
+      "url": "https://faakersee.it-wms.com",
+      "lat": 46.586723,
+      "lng": 13.926973,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Falkensteiner Schlosshotel Velden",
+      "url": "https://falkensteiner-schlosshotel-velden.panocloud.webcam",
+      "lat": 46.612099,
+      "lng": 14.043293,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Heiligenhafen, Ferienhaus UTKIEK im Strand Resort (Ostsee)",
+      "url": "https://ferienhaus-utkiek-heiligenhafen.it-wms.com",
+      "lat": 54.379883,
+      "lng": 10.982003,
+      "iframesrc": "s",
+      "type": "sea"
+    },
+    {
+      "name": "Ferlach",
+      "url": "https://ferlach.it-wms.com",
+      "lat": 46.526714,
+      "lng": 14.301244,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Fichtelberg Schwebebahn - Oberwiesenthal",
+      "url": "https://fichtelberg.panocloud.webcam",
+      "lat": 50.422737,
+      "lng": 12.959064,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "H\u00f6henluftkurort Fischbach",
+      "url": "https://fischbach.panocloud.webcam",
+      "lat": 47.439438,
+      "lng": 15.653123,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Flensburger Flughafen",
+      "url": "https://flugplatz-flensburg.it-wms.com",
+      "lat": 54.774662,
+      "lng": 9.382383,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Frohnleiten",
+      "url": "https://frohnleiten-cam.it-wms.com",
+      "lat": 47.269299,
+      "lng": 15.326666,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Nassfeld - Gartnerkofel",
+      "url": "https://gartnerkofel.it-wms.com",
+      "lat": 46.568756,
+      "lng": 13.300568,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Gerlitzen",
+      "url": "https://gerlitzen.it-wms.com",
+      "lat": 46.695381,
+      "lng": 13.913618,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Gersfeld",
+      "url": "https://gersfeld.it-wms.com",
+      "lat": 50.450459,
+      "lng": 9.919757,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Gitschtal - Schigebiet Wei\u00dfbriach",
+      "url": "https://gitschtal.panocloud.webcam",
+      "lat": 46.68558,
+      "lng": 13.231457,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Gleinst\u00e4tten - Panoramasteg Sausal",
+      "url": "https://gleinstaetten.panocloud.webcam",
+      "lat": 46.776711,
+      "lng": 15.413013,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Gl\u00f6dnitz - Hirnkopfh\u00fctte",
+      "url": "https://gloednitz.it-wms.com",
+      "lat": 46.933823,
+      "lng": 14.011193,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "G\u00f6tzis - Am Garnmarkt",
+      "url": "https://goetzis.it-wms.com",
+      "lat": 47.335987,
+      "lng": 9.646366,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Goldeck Gipfel",
+      "url": "https://goldeck.it-wms.com",
+      "lat": 46.759163,
+      "lng": 13.458397,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Goldeck - Kinderland",
+      "url": "https://goldeck2.it-wms.com",
+      "lat": 46.769951,
+      "lng": 13.454535,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Golfclub Luftenberg",
+      "url": "https://golfclub-luftenberg.it-wms.com",
+      "lat": 48.270115,
+      "lng": 14.413678,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Graz - Rathaus",
+      "url": "https://graz-rathaus.panocloud.webcam",
+      "lat": 47.070731,
+      "lng": 15.438409,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Graz Rathausturm",
+      "url": "https://graz-rathausturm.it-wms.com",
+      "lat": 47.070676,
+      "lng": 15.438481,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Graz - Schlo\u00dfberg",
+      "url": "https://graz.it-wms.com",
+      "lat": 47.074875,
+      "lng": 15.437032,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Badesee Greifenburg",
+      "url": "https://greifenburg2.it-wms.com",
+      "lat": 46.748161,
+      "lng": 13.195328,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Grossarl",
+      "url": "https://grossarl.it-wms.com",
+      "lat": 47.228897,
+      "lng": 13.288699,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "V\u00f6ran",
+      "url": "https://hafling.it-wms.com",
+      "lat": 46.603485,
+      "lng": 11.230213,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Hafling",
+      "url": "https://hafling2.it-wms.com",
+      "lat": 46.646099,
+      "lng": 11.226538,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Korneuburg Bisamberg - Florian Berndl Bad",
+      "url": "https://hallenbad-korneuburg-bisamberg.it-wms.com",
+      "lat": 48.33593,
+      "lng": 16.344353,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Panoramahotel Hauserhof",
+      "url": "https://hauserhof.it-wms.com",
+      "lat": 46.630371,
+      "lng": 13.343861,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Hollenthon - Blick nach Westen",
+      "url": "https://hollenthon1.panocloud.webcam",
+      "lat": 47.587917,
+      "lng": 16.256884,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Hotel Sommer - F\u00fcssen",
+      "url": "https://hotel-sommer.it-wms.com",
+      "lat": 47.579605,
+      "lng": 10.710336,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Hotel Talj\u00f6rgele - Ridnaun",
+      "url": "https://hotel-taljoergele.panocloud.webcam",
+      "lat": 46.899807,
+      "lng": 11.316047,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Hotel Waldesruh - Viums",
+      "url": "https://hotel-waldesruh.panocloud.webcam",
+      "lat": 46.764198,
+      "lng": 11.685355,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Hotel Alexander - Z\u00fcrich",
+      "url": "https://hotelalexander.it-wms.com",
+      "lat": 47.374523,
+      "lng": 8.543921,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Toblachersee - Laggo di Dobbiaco",
+      "url": "https://hotelbaur.panocloud.webcam",
+      "lat": 46.705971,
+      "lng": 12.219968,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Ritten - Sonnenplateau",
+      "url": "https://ritten1.it-wms.com",
+      "lat": 46.546303,
+      "lng": 11.444844,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Rittner Horn",
+      "url": "https://rittnerhorn.it-wms.com",
+      "lat": 46.59584,
+      "lng": 11.452581,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Hotel Br\u00f6tz - Niederrasen",
+      "url": "https://hotelbroetz.it-wms.com",
+      "lat": 46.779556,
+      "lng": 12.048284,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Vals",
+      "url": "https://hotelhuber.it-wms.com",
+      "lat": 46.838924,
+      "lng": 11.627236,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Velden am W\u00f6rthersee",
+      "url": "https://hotelpostwrann.it-wms.com",
+      "lat": 46.616356,
+      "lng": 14.043979,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "St. Christina in Gr\u00f6den",
+      "url": "https://jaegerheim.it-wms.com",
+      "lat": 46.564251,
+      "lng": 11.735954,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "P\u00f6rtschach - Jilly Beach",
+      "url": "https://jillybeach.it-wms.com",
+      "lat": 46.632736,
+      "lng": 14.143296,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Jungholz - Skigebiet",
+      "url": "https://jungholz.it-wms.com",
+      "lat": 47.56908,
+      "lng": 10.451161,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Just - Walzenhausen",
+      "url": "https://just-walzenhausen.it-wms.com",
+      "lat": 47.452019,
+      "lng": 9.602534,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Kalser Glocknerstra\u00dfe - Glocknerwinkel",
+      "url": "https://kals.it-wms.com",
+      "lat": 47.021362,
+      "lng": 12.689179,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Karkogel - Karkogelh\u00fctte",
+      "url": "https://karkogel.it-wms.com",
+      "lat": 47.545418,
+      "lng": 13.358825,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Karwendel \u2013 Bergstation Karwendelbahn",
+      "url": "https://karwendelbahn.panocloud.webcam",
+      "lat": 47.43026,
+      "lng": 11.295826,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Kastelruth - Dorfplatz",
+      "url": "https://kastelruth-dorfplatz.it-wms.com",
+      "lat": 46.567951,
+      "lng": 11.559406,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Kastelruth",
+      "url": "https://kastelruth.it-wms.com",
+      "lat": 46.559559,
+      "lng": 11.576506,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Berghof Kinker, Ro\u00dfhaupten im Allg\u00e4u",
+      "url": "https://kinker.it-wms.com",
+      "lat": 47.636375,
+      "lng": 10.711486,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Kitzb\u00fchel - Hahnenkamm Bergstation - Blickrichtung NW",
+      "url": "https://kitz01.panocloud.webcam",
+      "lat": 47.427395,
+      "lng": 12.37216,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Kitzb\u00fchel - Hahnenkamm Bergstation - Blickrichtung NO",
+      "url": "https://kitz02.panocloud.webcam",
+      "lat": 47.427773,
+      "lng": 12.37262,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Kitzeck S\u00fcdsteiermark - Blick vom Kirchturm",
+      "url": "https://kitzeck.panocloud.webcam",
+      "lat": 46.781033,
+      "lng": 15.45392,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Klagenfurt am W\u00f6rthersee - Sternwarte",
+      "url": "https://klagenfurt-sternwarte.panocloud.webcam",
+      "lat": 46.629242,
+      "lng": 14.289317,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Klagenfurt am W\u00f6rthersee - Neuer Platz",
+      "url": "https://klagenfurt.it-wms.com",
+      "lat": 46.623837,
+      "lng": 14.308021,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Klausberg - Bergstation Kabinenbahn Panorama",
+      "url": "https://klausberg.it-wms.com",
+      "lat": 46.976444,
+      "lng": 11.975449,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Klausberg - Almboden",
+      "url": "https://klausberg4.it-wms.com",
+      "lat": 46.982662,
+      "lng": 11.982763,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Koralpe - Steinschneider",
+      "url": "https://koralpe.it-wms.com",
+      "lat": 46.797112,
+      "lng": 14.948392,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Vuosseli Express",
+      "url": "https://ruka1.panocloud.webcam",
+      "lat": 66.168472,
+      "lng": 29.173483,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Vuosseli",
+      "url": "https://ruka10.panocloud.webcam",
+      "lat": 66.166183,
+      "lng": 29.16058,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Pessari Yl\u00e4asema - Revontulikamera",
+      "url": "https://ruka3.panocloud.webcam",
+      "lat": 66.171349,
+      "lng": 29.15057,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Eturinne",
+      "url": "https://ruka5.panocloud.webcam",
+      "lat": 66.167267,
+      "lng": 29.141226,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Rukan Huippu",
+      "url": "https://ruka7.panocloud.webcam",
+      "lat": 66.165482,
+      "lng": 29.151937,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Krimmler Wasserf\u00e4lle",
+      "url": "https://krimmlerwasserfall.it-wms.com",
+      "lat": 47.209545,
+      "lng": 12.168409,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Latsch",
+      "url": "https://latsch.it-wms.com",
+      "lat": 46.606819,
+      "lng": 10.879061,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Latsch Martelltal - Ebenes J\u00f6chl",
+      "url": "https://latsch2.it-wms.com",
+      "lat": 46.515659,
+      "lng": 10.754,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Bodental - Familie Lausegger",
+      "url": "https://lausegger.it-wms.com",
+      "lat": 46.486294,
+      "lng": 14.229738,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Leibnitz S\u00fcdsteiermark - Hauptplatz",
+      "url": "https://leibnitz1.panocloud.webcam",
+      "lat": 46.781384,
+      "lng": 15.53784,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Leibnitz S\u00fcdsteiermark, Kogelbergwarte",
+      "url": "https://leibnitz3.panocloud.webcam",
+      "lat": 46.788998,
+      "lng": 15.513525,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Zettersfeld - Bergstation Steinermandl - 2.214m",
+      "url": "https://lienzer-bergbahnen2.panocloud.webcam",
+      "lat": 46.874863,
+      "lng": 12.789125,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Mondsee - Zentrum",
+      "url": "https://mondsee1.it-wms.com",
+      "lat": 47.855919,
+      "lng": 13.349758,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Alpenseebad Mondsee",
+      "url": "https://mondsee2.it-wms.com",
+      "lat": 47.850227,
+      "lng": 13.34842,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Schloss Loretto - Klagenfurt am W\u00f6rthersee",
+      "url": "https://loretto.it-wms.com",
+      "lat": 46.615421,
+      "lng": 14.250208,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Linz",
+      "url": "https://linz.it-wms.com",
+      "lat": 48.307335,
+      "lng": 14.287284,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "LKH-Laas",
+      "url": "https://lkh-laas.it-wms.com",
+      "lat": 46.699566,
+      "lng": 12.98817,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Strandbad St. Urban \/ Urbansee",
+      "url": "https://st-urban.panocloud.webcam",
+      "lat": 46.744883,
+      "lng": 14.165208,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Lofer Skigebiet",
+      "url": "https://lofer.it-wms.com",
+      "lat": 47.607952,
+      "lng": 12.654246,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Bauer-Albert-Blick - Loipenpark",
+      "url": "https://loipenpark.it-wms.com",
+      "lat": 50.4674,
+      "lng": 9.928051,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Therme Loipersdorf",
+      "url": "https://loipersdorf.panocloud.webcam",
+      "lat": 46.984566,
+      "lng": 16.112202,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Magdalensberg",
+      "url": "https://magdalensberg.it-wms.com",
+      "lat": 46.727699,
+      "lng": 14.429191,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Millstatt am See",
+      "url": "https://millstattamsee.panocloud.webcam",
+      "lat": 46.806511,
+      "lng": 13.568268,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Millst\u00e4tter Schifffahrt",
+      "url": "https://millstattamsee2.panocloud.webcam",
+      "lat": 46.801991,
+      "lng": 13.569663,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Prenzlau - Steintorturm (Sternwarte)",
+      "url": "https://prenzlau.panocloud.webcam",
+      "lat": 53.310051,
+      "lng": 13.862146,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Presseggersee",
+      "url": "https://presseggersee.it-wms.com",
+      "lat": 46.627182,
+      "lng": 13.447047,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Nassfeld - Sonnleitn",
+      "url": "https://nassfeld1.it-wms.com",
+      "lat": 46.58456,
+      "lng": 13.258893,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Nassfeld - Rudnigsattel",
+      "url": "https://nassfeld7.it-wms.com",
+      "lat": 46.560783,
+      "lng": 13.229797,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Naturns - Unterschwarzplatzhof",
+      "url": "https://naturns.panocloud.webcam",
+      "lat": 46.633846,
+      "lng": 11.004487,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "N\u00fcegg - Zwischenfl\u00fch",
+      "url": "https://nueegg.panocloud.webcam",
+      "lat": 46.602215,
+      "lng": 7.538647,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Obdach",
+      "url": "https://obdach2.it-wms.com",
+      "lat": 47.062447,
+      "lng": 14.694654,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Ossiachersee",
+      "url": "https://ossiachschifffahrt.it-wms.com",
+      "lat": 46.668877,
+      "lng": 13.960486,
+      "iframesrc": "s",
+      "type": "lake"
     }
+
 
   ]
 }
