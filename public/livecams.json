@@ -17790,6 +17790,677 @@
       "lng": 13.960486,
       "iframesrc": "s",
       "type": "lake"
+    },
+    {
+      "name": "Oberdrauburg - Marktplatz",
+      "url": "https://oberdrauburg.it-wms.com",
+      "lat": 46.748367,
+      "lng": 12.970064,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Hotel Ortlerspitz",
+      "url": "https://ortlerspitz.it-wms.com",
+      "lat": 46.763767,
+      "lng": 10.533259,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Ossiach - Ossiachersee",
+      "url": "https://ossiach.it-wms.com",
+      "lat": 46.674694,
+      "lng": 13.981606,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Alpinhotel Pacheiner",
+      "url": "https://pacheiner.it-wms.com",
+      "lat": 46.695465,
+      "lng": 13.911478,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Schachinger",
+      "url": "https://panoramahotel-schachinger.panocloud.webcam",
+      "lat": 46.563438,
+      "lng": 13.924317,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Burg Parsberg",
+      "url": "https://parsberg.panocloud.webcam",
+      "lat": 49.160366,
+      "lng": 11.720728,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Passeiertal",
+      "url": "https://passeiertal.it-wms.com",
+      "lat": 46.821938,
+      "lng": 11.251872,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Petzen",
+      "url": "https://petzen2.it-wms.com",
+      "lat": 46.518044,
+      "lng": 14.771793,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Pf\u00e4nderbahn",
+      "url": "https://pfaenderbahn.it-wms.com",
+      "lat": 47.506001,
+      "lng": 9.779135,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Pfelders",
+      "url": "https://pfelders.it-wms.com",
+      "lat": 46.796883,
+      "lng": 11.083864,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Pillersee",
+      "url": "https://pillersee.it-wms.com",
+      "lat": 47.500629,
+      "lng": 12.571611,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Pillersee - Jakobskreuz",
+      "url": "https://pillerseejakobskreuz.panocloud.webcam",
+      "lat": 47.484423,
+      "lng": 12.580113,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Pl\u00f6schenberg - K\u00f6ttmannsdorf",
+      "url": "https://ploeschenberg.it-wms.com",
+      "lat": 46.57188,
+      "lng": 14.239011,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "P\u00f6rtschach",
+      "url": "https://poertschach.it-wms.com",
+      "lat": 46.632004,
+      "lng": 14.144066,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "P\u00f6stlingberg Schl\u00f6ssl",
+      "url": "https://poestlingberg.it-wms.com",
+      "lat": 48.323231,
+      "lng": 14.257841,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Prad am Stilfserjoch",
+      "url": "https://prad.it-wms.com",
+      "lat": 46.623226,
+      "lng": 10.590693,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Puchenstuben - Blick zum \u00d6tscher",
+      "url": "https://puchenstuben2.it-wms.com",
+      "lat": 47.909405,
+      "lng": 15.285533,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Pyh\u00e4Express",
+      "url": "https://pyha1.panocloud.webcam",
+      "lat": 67.024163,
+      "lng": 27.225092,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Pohjoisrinteet",
+      "url": "https://pyha2.panocloud.webcam",
+      "lat": 67.024314,
+      "lng": 27.223709,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Eturinne",
+      "url": "https://pyha3.panocloud.webcam",
+      "lat": 67.02179,
+      "lng": 27.251286,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Perherinne",
+      "url": "https://pyha4.panocloud.webcam",
+      "lat": 67.017616,
+      "lng": 27.243916,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Rostock",
+      "url": "https://radissonblu-rostock.panocloud.webcam",
+      "lat": 54.089408,
+      "lng": 12.129319,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Ridnauntal",
+      "url": "https://ratschings.it-wms.com",
+      "lat": 46.90863,
+      "lng": 11.317313,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Rieseralm",
+      "url": "https://rieseralm.it-wms.com",
+      "lat": 47.094662,
+      "lng": 14.611676,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Rottal Terme \/ Thermenwelt - Bad Birnbach",
+      "url": "https://rottal-terme-tw.panocloud.webcam",
+      "lat": 48.439887,
+      "lng": 13.082294,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "St. Christina in Gr\u00f6den",
+      "url": "https://s-cristina.it-wms.com",
+      "lat": 46.560593,
+      "lng": 11.72566,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Scheibbs",
+      "url": "https://scheibbs.it-wms.com",
+      "lat": 48.002663,
+      "lng": 15.137307,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Schenna",
+      "url": "https://schenna.it-wms.com",
+      "lat": 46.689976,
+      "lng": 11.164031,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Dorfzentrum Schenna",
+      "url": "https://schenna2.it-wms.com",
+      "lat": 46.690186,
+      "lng": 11.186971,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Sch\u00f6ckl",
+      "url": "https://schoeckl.it-wms.com",
+      "lat": 47.19862,
+      "lng": 15.467081,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Sch\u00f6neben - Jochbahn",
+      "url": "https://schoeneben2.it-wms.com",
+      "lat": 46.795417,
+      "lng": 10.493113,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Sch\u00f6neben",
+      "url": "https://schoeneben3.it-wms.com",
+      "lat": 46.821598,
+      "lng": 10.508918,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Sch\u00f6neben Bergstation",
+      "url": "https://schoeneben4.it-wms.com",
+      "lat": 46.804504,
+      "lng": 10.491053,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Bergstation Rojensesselbahn",
+      "url": "https://schoeneben5.it-wms.com",
+      "lat": 46.793945,
+      "lng": 10.489859,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Sch\u00f6neben - Zentralstation-H\u00f6llental",
+      "url": "https://schoeneben6.it-wms.com",
+      "lat": 46.801235,
+      "lng": 10.510654,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Sch\u00f6neben - Haideralm Bahn-Bergstation",
+      "url": "https://schoeneben7.it-wms.com",
+      "lat": 46.801235,
+      "lng": 10.510654,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Seebad Breitenbrunn",
+      "url": "https://seebad-breitenbrunn.it-wms.com",
+      "lat": 47.917248,
+      "lng": 16.765987,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Seeboden \/ Millst\u00e4tter See",
+      "url": "https://seeboden.it-wms.com",
+      "lat": 46.810551,
+      "lng": 13.512942,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Reschen",
+      "url": "https://seehotel.panocloud.webcam",
+      "lat": 46.828749,
+      "lng": 10.518317,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Hotel Seerose - Bodensdorf",
+      "url": "https://seerosen-cam.it-wms.com",
+      "lat": 46.677902,
+      "lng": 13.97056,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Seis am Schlern",
+      "url": "https://seisamschlern.it-wms.com",
+      "lat": 46.549011,
+      "lng": 11.554437,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Seiser Alm Goldknopf",
+      "url": "https://seiseralmgoldknopf.it-wms.com",
+      "lat": 46.519478,
+      "lng": 11.639128,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Simonh\u00f6he - Panoramakamera",
+      "url": "https://simonhoehe.it-wms.com",
+      "lat": 46.77758,
+      "lng": 14.173994,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "St. Kathrein am Offenegg",
+      "url": "https://st-kathrein.it-wms.com",
+      "lat": 47.299126,
+      "lng": 15.57892,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "St. Moritz \/ Piz Nair Bergstation",
+      "url": "https://st-moritz.it-wms.com",
+      "lat": 46.505402,
+      "lng": 9.787787,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "St. Ulrich in Gr\u00f6den",
+      "url": "https://st-ulrich.it-wms.com",
+      "lat": 46.579105,
+      "lng": 11.667432,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Sterzing - Stadtplatz",
+      "url": "https://sterzing.it-wms.com",
+      "lat": 46.897879,
+      "lng": 11.431703,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Strandbad Stockenboi - Wei\u00dfensee Ostufer",
+      "url": "https://stockenboi.it-wms.com",
+      "lat": 46.702667,
+      "lng": 13.41266,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "St. Ulrich in Gr\u00f6den - Seiseralm",
+      "url": "https://stulrich-seiseralm.it-wms.com",
+      "lat": 46.558796,
+      "lng": 11.67049,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Graz",
+      "url": "https://styria-media-center.panocloud.webcam",
+      "lat": 47.057056,
+      "lng": 15.446173,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Teichalm",
+      "url": "https://teichalm.it-wms.com",
+      "lat": 47.350216,
+      "lng": 15.459986,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Tisens - Prissian",
+      "url": "https://tisens-prissian.panocloud.webcam",
+      "lat": 46.553523,
+      "lng": 11.17267,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Titlis",
+      "url": "https://titlis1.panocloud.webcam",
+      "lat": 46.770229,
+      "lng": 8.424607,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Tr\u00fcbsee",
+      "url": "https://titlis2.panocloud.webcam",
+      "lat": 46.790979,
+      "lng": 8.393087,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "St. Moritz \/ Trais Fluors Bergstation",
+      "url": "https://trais-fluors.it-wms.com",
+      "lat": 46.528858,
+      "lng": 9.816029,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Nassfeld - Tressdorfer H\u00f6he",
+      "url": "https://tressdorferhoehe.it-wms.com",
+      "lat": 46.566124,
+      "lng": 13.254988,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Erlebnishof Tschabitscher - Wei\u00dfensee",
+      "url": "https://tschabitscher.it-wms.com",
+      "lat": 46.733051,
+      "lng": 13.248295,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Velden Kurpark \/ Karawankenplatz",
+      "url": "https://velden2.it-wms.com",
+      "lat": 46.61356,
+      "lng": 14.041932,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Velden - Strandpark",
+      "url": "https://velden3.it-wms.com",
+      "lat": 46.611084,
+      "lng": 14.044142,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Bootswerft Schmalzl - Velden",
+      "url": "https://velden4.it-wms.com",
+      "lat": 46.61018,
+      "lng": 14.04951,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Venter Seibahn",
+      "url": "https://vent.it-wms.com",
+      "lat": 46.863697,
+      "lng": 10.904783,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Vent",
+      "url": "https://vent3.it-wms.com",
+      "lat": 46.872589,
+      "lng": 10.920883,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Villach - Draubr\u00fccke",
+      "url": "https://villach.it-wms.com",
+      "lat": 46.615967,
+      "lng": 13.848457,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "V\u00f6lkermarkt - Strutzikogel",
+      "url": "https://voelkermarkt.panocloud.webcam",
+      "lat": 46.668968,
+      "lng": 14.630165,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "V\u00f6ls am Schlern",
+      "url": "https://voels.it-wms.com",
+      "lat": 46.517654,
+      "lng": 11.502306,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Plantapatschh\u00fctte am Watles",
+      "url": "https://watles.it-wms.com",
+      "lat": 46.707729,
+      "lng": 10.493025,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Swarovski Kristallwelten, Wattens",
+      "url": "https://wattens.it-wms.com",
+      "lat": 47.294903,
+      "lng": 11.601033,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Weissensee - Kirchturm",
+      "url": "https://weissensee.it-wms.com",
+      "lat": 46.718379,
+      "lng": 13.290182,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Weissensee - Br\u00fccke: Blickrichtung West",
+      "url": "https://weissensee2.it-wms.com",
+      "lat": 46.715652,
+      "lng": 13.294346,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Weissensee - Br\u00fccke: Blickrichtung Ost",
+      "url": "https://weissensee3.it-wms.com",
+      "lat": 46.715652,
+      "lng": 13.294346,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Wei\u00dfensee - Tschatscheleria",
+      "url": "https://weissensee4.it-wms.com",
+      "lat": 46.713928,
+      "lng": 13.284592,
+      "iframesrc": "s",
+      "type": "lake"
+    },
+    {
+      "name": "Bergbahnen Weissensee - Bergstation",
+      "url": "https://weissensee5.it-wms.com",
+      "lat": 46.701157,
+      "lng": 13.306353,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Allg\u00e4uhaus Wertach",
+      "url": "https://wertach.it-wms.com",
+      "lat": 47.615211,
+      "lng": 10.431242,
+      "iframesrc": "s",
+      "type": "country"
+    },
+    {
+      "name": "Willinger Brauhaus",
+      "url": "https://willingen-webcam.it-wms.com",
+      "lat": 51.294662,
+      "lng": 8.604902,
+      "iframesrc": "s",
+      "type": "city"
+    },
+    {
+      "name": "Wiriehorn - Zwischenfl\u00fch",
+      "url": "https://wiriehorn.panocloud.webcam",
+      "lat": 46.599808,
+      "lng": 7.535611,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "name": "Wolkenstein in Gr\u00f6den",
+      "url": "https://wolkenstein.it-wms.com",
+      "lat": 46.563374,
+      "lng": 11.743158,
+      "iframesrc": "s",
+      "type": "mountain"
+    },
+    {
+      "id": "2212",
+      "iframesrcdesktop": "s",
+      "lat": 60.49945,
+      "lng": 22.068745,
+      "name": "Aurinko Golf Naantali",
+      "type": "country",
+      "url": "https://flycam.panomax.com/aurinkogolf"
+    },
+    {
+      "id": "1723",
+      "iframesrcdesktop": "s",
+      "lat": 46.522833,
+      "lng": 11.769163,
+      "name": "Valgardena Sassolungo",
+      "type": "mountain",
+      "url": "https://valgardena.panomax.com/sassolungo"
+    },
+    {
+      "id": "1599",
+      "iframesrcdesktop": "s",
+      "lat": 47.294523,
+      "lng": 13.453264,
+      "name": "Rosskopf",
+      "type": "mountain",
+      "url": "https://zauchensee2.panomax.com/"
+    },
+    {
+      "id": "1759",
+      "iframesrcdesktop": "s",
+      "lat": 47.068617,
+      "lng": 10.960494,
+      "name": "Längenfeld Mast",
+      "type": "mountain",
+      "url": "https://laengenfeld.panomax.com/"
+    },
+    {
+      "id": "1813",
+      "iframesrcdesktop": "s",
+      "lat": 47.719629,
+      "lng": 13.291075,
+      "name": "Hintersee Sonnberg",
+      "type": "mountain",
+      "url": "https://fuschlseeregion.panomax.com/hintersee"
+    },
+    {
+      "id": "1586",
+      "iframesrcdesktop": "s",
+      "lat": 47.137738,
+      "lng": 10.155081,
+      "name": "Stuben",
+      "type": "mountain",
+      "url": "https://stuben.panomax.com/"
+    },
+    {
+      "id": "1806",
+      "iframesrcdesktop": "s",
+      "lat": 46.641211,
+      "lng": 14.94224,
+      "name": "Lavamünd Gemeindeamt",
+      "type": "city",
+      "url": "https://lavamuend.panomax.com/"
     }
 
 
