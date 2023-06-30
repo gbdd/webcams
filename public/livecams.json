@@ -18551,6 +18551,22 @@
         "name": "Aschau",
         "lng": 12.35611,
         "lat": 47.754
+      },
+      {
+        "name": "Kristiansund",
+        "per": "yt",
+        "id": "JJuaHGhd8g8",
+        "type": "sea",
+        "lng": 7.732462787363848,
+        "lat": 63.12066643868977
+      },
+      {
+        "name": "Geiranger",
+        "per": "yt",
+        "id": "yMSc-qqW3To",
+        "type": "sea",
+        "lng": 7.204970092647641,
+        "lat": 62.10224348400285
       }
 
   ]
