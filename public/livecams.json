@@ -18067,7 +18067,7 @@
       "name": "Sch\u00f6neben - Zentralstation-H\u00f6llental",
       "url": "https://schoeneben6.it-wms.com",
       "lat": 46.801235,
-      "lng": 10.510654,
+      "lng": 10.5105,
       "iframesrc": "s",
       "type": "mountain"
     },
@@ -18339,7 +18339,7 @@
       "name": "Weissensee - Br\u00fccke: Blickrichtung West",
       "url": "https://weissensee2.it-wms.com",
       "lat": 46.715652,
-      "lng": 13.294346,
+      "lng": 13.2943,
       "iframesrc": "s",
       "type": "lake"
     },
@@ -18347,7 +18347,7 @@
       "name": "Weissensee - Br\u00fccke: Blickrichtung Ost",
       "url": "https://weissensee3.it-wms.com",
       "lat": 46.715652,
-      "lng": 13.294346,
+      "lng": 13.29445,
       "iframesrc": "s",
       "type": "lake"
     },
