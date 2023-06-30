@@ -18461,8 +18461,97 @@
       "name": "Lavamünd Gemeindeamt",
       "type": "city",
       "url": "https://lavamuend.panomax.com/"
-    }
-
+    },
+    {
+      "per": "frtl",
+      "id": "3251",
+      "type": "sea",
+      "iframesrc": "s",
+      "name": "Hooksiel - Nordsee",
+      "lng": 8.081139,
+      "lat": 53.641694
+    },
+    {
+      "per": "frtl",
+      "id": "3253",
+      "type": "sea",
+      "iframesrc": "s",
+      "name": "Horumersiel - Nordsee - Strand",
+      "lng": 8.023011166012783,
+      "lat": 53.68823440903472
+    },
+    {
+      "per": "frtl",
+      "id": "3252",
+      "type": "city",
+      "iframesrc": "s",
+      "name": "Horumersiel - Nordsee",
+      "lng": 8.013119,
+      "lat": 53.68545
+    },
+    {
+      "per": "frtl",
+      "id": "3269",
+      "type": "lake",
+      "iframesrc": "s",
+      "name": "Wunstorf - Insel Wilhelmstein",
+      "lng": 9.307858,
+      "lat": 52.460549
+    },
+    {
+      "per": "frtl",
+      "id": "3260",
+      "type": "sea",
+      "iframesrc": "s",
+      "name": "Langeoog",
+      "lng": 7.496218,
+      "lat": 53.727997
+    },
+    {
+      "per": "frtl",
+      "id": "3261",
+      "type": "sea",
+      "iframesrc": "s",
+      "name": "Langeoog",
+      "lng": 7.477011407241175,
+      "lat": 53.750176127117676
+    },
+    {
+      "per": "frtl",
+      "id": "3250",
+      "type": "sea",
+      "iframesrc": "s",
+      "name": "Schillig - Nordsee",
+      "lng": 8.026028,
+      "lat": 53.703556
+    },
+    {
+      "per": "frtl",
+      "id": "3246",
+      "type": "country",
+      "iframesrc": "s",
+      "name": "St. Andreasberg - Harz",
+      "lng": 10.526567,
+      "lat": 51.760438
+    },
+    {
+      "per": "frtl",
+      "id": "3005",
+      "type": "country",
+      "iframesrc": "s",
+      "name": "Rupertiwinkel Högl",
+      "lng": 12.904356,
+      "lat": 47.805814
+      },
+      {
+        "per": "frtl",
+        "id": "3010",
+        "type": "mountain",
+        "iframesrc": "s",
+        "name": "Aschau",
+        "lng": 12.35611,
+        "lat": 47.754
+      }
 
   ]
 }
