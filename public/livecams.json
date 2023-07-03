@@ -5346,9 +5346,10 @@
     {
       "id": "1419",
       "url": "https://ascona-locarno.roundshot.com/tenero/",
-      "name": "Ascona Locarno - Tenero - ",
+      "alturls": ["https://campofelice.roundshot.com/"],
+      "name": "Tenero-Contra - Ascona Locarno",
       "iframesrc": "s",
-      "type": "mountain",
+      "type": "lake",
       "lng": 8.85651,
       "lat": 46.1699
     },
@@ -7011,7 +7012,8 @@
     },
     {
       "id": "1002",
-      "url": "https://pizzomatro.roundshot.com/",
+      "url": "https://matro.roundshot.com/",
+      "alturls": ["https://pizzomatro.roundshot.com/"],
       "name": "Ruag Schweiz - Pizzo Matro",
       "iframesrc": "s",
       "type": "mountain",
@@ -7057,6 +7059,7 @@
     {
       "id": "1006",
       "url": "https://guttetfeschel.roundshot.com/",
+      "alturls": ["https://guttet-feschel.roundshot.com/"],
       "name": "Guttet Feschel",
       "iframesrc": "s",
       "type": "mountain",
@@ -7219,7 +7222,7 @@
     {
       "id": "576",
       "url": "https://coppet.roundshot.com/",
-      "name": "Coppet Commune",
+      "name": "Coppet",
       "iframesrc": "s",
       "type": "lake",
       "lng": 6.193533,
@@ -7988,8 +7991,9 @@
     },
     {
       "id": "467",
-      "url": "https://laf.roundshot.com/",
-      "name": "Adliswil",
+      "url": "https://felsenegg.roundshot.com/",
+      "alturls": ["https://laf.roundshot.com/"],
+      "name": "Adliswil - Felsenegg",
       "iframesrc": "s",
       "type": "lake",
       "lng": 8.50748,
@@ -8436,7 +8440,8 @@
     },
     {
       "id": "1134",
-      "url": "https://engadin.roundshot.com/tarasp/",
+      "url": "https://tarasp.roundshot.com/",
+      "alturls": ["https://engadin.roundshot.com/tarasp/"],
       "name": "Tarasp",
       "iframesrc": "s",
       "type": "mountain",
@@ -8454,7 +8459,8 @@
     },
     {
       "id": "741",
-      "url": "https://berntourismus.roundshot.com/gurten/",
+      "url": "https://gurtenpark.roundshot.com/",
+      "atlurls": ["https://berntourismus.roundshot.com/gurten/"],
       "name": "Bern - Gurten",
       "iframesrc": "s",
       "type": "city",
@@ -8528,6 +8534,7 @@
     {
       "id": "986",
       "url": "https://blatten.roundshot.com/fafleralp/",
+      "alturls": ["https://dieloetschentaler.roundshot.com/"],
       "name": "Blatten",
       "iframesrc": "s",
       "type": "mountain",
@@ -8555,6 +8562,7 @@
     {
       "id": "965",
       "url": "https://ga-weissenstein.roundshot.com/hafen/",
+      "alturls": ["https://solothurntourismus.roundshot.com/hafen"],
       "name": "Solothurn - Hafen",
       "iframesrc": "s",
       "type": "lake",
@@ -9732,7 +9740,8 @@
     },
     {
       "id": "3f43d703172868cc5068fdfa7ef67892",
-      "url": "https://zermatt.roundshot.com/randa/",
+      "url": "https://randa.roundshot.com/",
+      "alturls": ["https://zermatt.roundshot.com/randa/"],
       "name": "Randa",
       "iframesrc": "s",
       "type": "city",
@@ -9741,7 +9750,8 @@
     },
     {
       "id": "db525e5462a2414abd7500e07aa08d51",
-      "url": "https://zermatt.roundshot.com/taesch/",
+      "url": "https://taesch.roundshot.com/",
+      "alturls": ["https://zermatt.roundshot.com/taesch/"],
       "name": "T\u00e4sch Dorf",
       "iframesrc": "s",
       "type": "mountain",
@@ -10180,7 +10190,7 @@
     {
       "id": "260",
       "url": "https://palisadestahoe.roundshot.com/silverado/",
-      "alturl": "https://squawalpine.roundshot.com/squaw/",
+      "alturls": ["https://squawalpine.roundshot.com/squaw/"],
       "name": "Silverado",
       "iframesrc": "s",
       "type": "mountain",
@@ -13349,7 +13359,8 @@
     },
     {
       "name": "Aubenas - 300m",
-      "url": "https://ardeche.roundshot.com/aubenas",
+      "url": "https://aubenas.roundshot.com",
+      "alturls": ["https://ardeche.roundshot.com/aubenas"],
       "type": "city",
       "iframesrc": "s",
       "lng": 4.387716,
@@ -18567,8 +18578,182 @@
         "type": "sea",
         "lng": 7.204970092647641,
         "lat": 62.10224348400285
+      },
+      {
+        "name": "Offenburg",
+        "url": "https://guidogegg.roundshot.com/",
+        "iframesrc": "s",
+        "type": "city",
+        "lng": 7.9396,
+        "lat": 48.478653
+      },
+      {
+        "name": "Näfels",
+        "url": "https://konditoreimueller.roundshot.com/",
+        "iframesrc": "s",
+        "type": "city",
+        "lng": 9.06514,
+        "lat": 47.09964
+      },
+      {
+        "name": "Füssen - Hopfensee",
+        "url": "https://hoteleggensberger.roundshot.com/",
+        "iframesrc": "s",
+        "type": "lake",
+        "lng": 10.68214,
+        "lat": 47.60907
+      },
+      {
+        "name": "Ofterschwang - Sonnenalp",
+        "url": "https://soalp.roundshot.com/",
+        "iframesrc": "s",
+        "type": "mountain",
+        "lng": 10.256579,
+        "lat": 47.489648
+      },
+      {
+        "name": "Mount Buller",
+        "url": "https://mtbuller.roundshot.com/pendergast-hut/",
+        "iframesrc": "s",
+        "type": "mountain",
+        "lng": 146.4309658,
+        "lat": -37.1467396
+      },
+      {
+        "name": "Jahorina",
+        "url": "https://jahorina.roundshot.com/",
+        "iframesrc": "s",
+        "type": "mountain",
+        "lng": 18.56787,
+        "lat": 43.734818
+      },
+      {
+        "name": "Heiligenschwendi",
+        "url": "https://rehabern.roundshot.com/",
+        "iframesrc": "s",
+        "type": "lake",
+        "lng": 7.693407,
+        "lat": 46.749611
+      },
+      {
+        "name": "Flughafen St. Gallen - Altenrhein",
+        "url": "https://lszr.roundshot.com/",
+        "iframesrc": "s",
+        "type": "city",
+        "lng": 9.551886,
+        "lat": 47.484427
+      },
+      {
+        "name": "Абрау-Дюрсо",
+        "url": "https://abrau.roundshot.com/",
+        "iframesrc": "s",
+        "type": "country",
+        "lng": 37.60081999494759,
+        "lat": 44.71093344699333
+      },
+      {
+        "name": "Stellenbosch",
+        "url": "https://granddomaine.roundshot.com/",
+        "iframesrc": "s",
+        "type": "country",
+        "lng": 18.8065,
+        "lat": -33.900005
+      },
+      {
+        "name": "Oberdorf - Hotel Weissenstein",
+        "url": "https://hotelweissenstein.roundshot.com/",
+        "iframesrc": "s",
+        "type": "country",
+        "lng": 7.50867,
+        "lat": 47.2517
+      },
+      {
+        "name": "Arosa - Maran - Golf",
+        "url": "https://hofmaranhotel.roundshot.com/",
+        "iframesrc": "s",
+        "type": "mountain",
+        "lng": 9.68155,
+        "lat": 46.7930084
+      },
+      {
+        "name": "Brienz Rothorn",
+        "url": "https://brienzrothorn.roundshot.com/",
+        "iframesrc": "s",
+        "type": "mountain",
+        "lng": 8.04163,
+        "lat": 46.78761
+      },
+      {
+        "name": "Chur",
+        "url": "https://churtourismus.roundshot.com/",
+        "iframesrc": "s",
+        "type": "city",
+        "lng": 9.541719,
+        "lat": 46.861134
+      },
+      {
+        "url": "https://leukerbad.roundshot.com/thermalbad/",
+        "name": "Leukerbad",
+        "iframesrc": "s",
+        "type": "city",
+        "lng": 7.6255,
+        "lat": 46.37776
+      },
+      {
+        "url": "https://tarabellahotel.roundshot.com/",
+        "name": "Forte dei Marmi",
+        "iframesrc": "s",
+        "type": "city",
+        "lng": 10.16149,
+        "lat": 43.967626
+      },
+      {
+        "url": "https://hotel-hubertus.roundshot.com/",
+        "name": "Balderschwang",
+        "iframesrc": "s",
+        "type": "mountain",
+        "lng": 10.105126,
+        "lat": 47.465106
+      },
+      {
+        "url": "https://esb.roundshot.com/",
+        "name": "Bienne",
+        "iframesrc": "s",
+        "type": "city",
+        "lng": 7.262396,
+        "lat": 47.142846
+      },
+      {
+        "url": "https://bergkristall.roundshot.com/",
+        "name": "Oberstaufen - Berg Kristall",
+        "iframesrc": "s",
+        "type": "country",
+        "lng": 10.002918610396891,
+        "lat": 47.54543097766877
+      },
+      {
+        "url": "https://gryon.roundshot.com/",
+        "name": "Gryon - Frience",
+        "iframesrc": "s",
+        "type": "mountain",
+        "lng": 7.103464,
+        "lat": 46.287915
+      },
+      {
+        "url": "https://zbag.roundshot.com/sunnegga/",
+        "name": "Zermatt - Sunnega - Matterhorn",
+        "iframesrc": "s",
+        "type": "mountain",
+        "lng": 7.770068,
+        "lat": 46.017246
+      },
+      {
+        "name": "Portland Headlight - Casco Bay",
+        "per": "yt",
+        "id": "1MnHRJyUgC8",
+        "type": "sea",
+        "lng": -70.20815607384228,
+        "lat": 43.62311723953521
       }
-
   ]
 }
-
