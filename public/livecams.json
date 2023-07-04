@@ -216,7 +216,7 @@
       "name": "Larche",
       "url": "https://pv.viewsurf.com/1930/Larche?i=NzE2NDp1bmRlZmluZWQ",
       "iframesrc": "s",
-      "type": "mountain",
+      "type": "road",
       "lng": 6.8483432,
       "lat": 44.450096
     },
@@ -18553,207 +18553,289 @@
       "name": "Rupertiwinkel Högl",
       "lng": 12.904356,
       "lat": 47.805814
-      },
-      {
-        "per": "frtl",
-        "id": "3010",
-        "type": "mountain",
-        "iframesrc": "s",
-        "name": "Aschau",
-        "lng": 12.35611,
-        "lat": 47.754
-      },
-      {
-        "name": "Kristiansund",
-        "per": "yt",
-        "id": "JJuaHGhd8g8",
-        "type": "sea",
-        "lng": 7.732462787363848,
-        "lat": 63.12066643868977
-      },
-      {
-        "name": "Geiranger",
-        "per": "yt",
-        "id": "yMSc-qqW3To",
-        "type": "sea",
-        "lng": 7.204970092647641,
-        "lat": 62.10224348400285
-      },
-      {
-        "name": "Offenburg",
-        "url": "https://guidogegg.roundshot.com/",
-        "iframesrc": "s",
-        "type": "city",
-        "lng": 7.9396,
-        "lat": 48.478653
-      },
-      {
-        "name": "Näfels",
-        "url": "https://konditoreimueller.roundshot.com/",
-        "iframesrc": "s",
-        "type": "city",
-        "lng": 9.06514,
-        "lat": 47.09964
-      },
-      {
-        "name": "Füssen - Hopfensee",
-        "url": "https://hoteleggensberger.roundshot.com/",
-        "iframesrc": "s",
-        "type": "lake",
-        "lng": 10.68214,
-        "lat": 47.60907
-      },
-      {
-        "name": "Ofterschwang - Sonnenalp",
-        "url": "https://soalp.roundshot.com/",
-        "iframesrc": "s",
-        "type": "mountain",
-        "lng": 10.256579,
-        "lat": 47.489648
-      },
-      {
-        "name": "Mount Buller",
-        "url": "https://mtbuller.roundshot.com/pendergast-hut/",
-        "iframesrc": "s",
-        "type": "mountain",
-        "lng": 146.4309658,
-        "lat": -37.1467396
-      },
-      {
-        "name": "Jahorina",
-        "url": "https://jahorina.roundshot.com/",
-        "iframesrc": "s",
-        "type": "mountain",
-        "lng": 18.56787,
-        "lat": 43.734818
-      },
-      {
-        "name": "Heiligenschwendi",
-        "url": "https://rehabern.roundshot.com/",
-        "iframesrc": "s",
-        "type": "lake",
-        "lng": 7.693407,
-        "lat": 46.749611
-      },
-      {
-        "name": "Flughafen St. Gallen - Altenrhein",
-        "url": "https://lszr.roundshot.com/",
-        "iframesrc": "s",
-        "type": "city",
-        "lng": 9.551886,
-        "lat": 47.484427
-      },
-      {
-        "name": "Абрау-Дюрсо",
-        "url": "https://abrau.roundshot.com/",
-        "iframesrc": "s",
-        "type": "country",
-        "lng": 37.60081999494759,
-        "lat": 44.71093344699333
-      },
-      {
-        "name": "Stellenbosch",
-        "url": "https://granddomaine.roundshot.com/",
-        "iframesrc": "s",
-        "type": "country",
-        "lng": 18.8065,
-        "lat": -33.900005
-      },
-      {
-        "name": "Oberdorf - Hotel Weissenstein",
-        "url": "https://hotelweissenstein.roundshot.com/",
-        "iframesrc": "s",
-        "type": "country",
-        "lng": 7.50867,
-        "lat": 47.2517
-      },
-      {
-        "name": "Arosa - Maran - Golf",
-        "url": "https://hofmaranhotel.roundshot.com/",
-        "iframesrc": "s",
-        "type": "mountain",
-        "lng": 9.68155,
-        "lat": 46.7930084
-      },
-      {
-        "name": "Brienz Rothorn",
-        "url": "https://brienzrothorn.roundshot.com/",
-        "iframesrc": "s",
-        "type": "mountain",
-        "lng": 8.04163,
-        "lat": 46.78761
-      },
-      {
-        "name": "Chur",
-        "url": "https://churtourismus.roundshot.com/",
-        "iframesrc": "s",
-        "type": "city",
-        "lng": 9.541719,
-        "lat": 46.861134
-      },
-      {
-        "url": "https://leukerbad.roundshot.com/thermalbad/",
-        "name": "Leukerbad",
-        "iframesrc": "s",
-        "type": "city",
-        "lng": 7.6255,
-        "lat": 46.37776
-      },
-      {
-        "url": "https://tarabellahotel.roundshot.com/",
-        "name": "Forte dei Marmi",
-        "iframesrc": "s",
-        "type": "city",
-        "lng": 10.16149,
-        "lat": 43.967626
-      },
-      {
-        "url": "https://hotel-hubertus.roundshot.com/",
-        "name": "Balderschwang",
-        "iframesrc": "s",
-        "type": "mountain",
-        "lng": 10.105126,
-        "lat": 47.465106
-      },
-      {
-        "url": "https://esb.roundshot.com/",
-        "name": "Bienne",
-        "iframesrc": "s",
-        "type": "city",
-        "lng": 7.262396,
-        "lat": 47.142846
-      },
-      {
-        "url": "https://bergkristall.roundshot.com/",
-        "name": "Oberstaufen - Berg Kristall",
-        "iframesrc": "s",
-        "type": "country",
-        "lng": 10.002918610396891,
-        "lat": 47.54543097766877
-      },
-      {
-        "url": "https://gryon.roundshot.com/",
-        "name": "Gryon - Frience",
-        "iframesrc": "s",
-        "type": "mountain",
-        "lng": 7.103464,
-        "lat": 46.287915
-      },
-      {
-        "url": "https://zbag.roundshot.com/sunnegga/",
-        "name": "Zermatt - Sunnega - Matterhorn",
-        "iframesrc": "s",
-        "type": "mountain",
-        "lng": 7.770068,
-        "lat": 46.017246
-      },
-      {
-        "name": "Portland Headlight - Casco Bay",
-        "per": "yt",
-        "id": "1MnHRJyUgC8",
-        "type": "sea",
-        "lng": -70.20815607384228,
-        "lat": 43.62311723953521
-      }
+    },
+    {
+      "per": "frtl",
+      "id": "3010",
+      "type": "mountain",
+      "iframesrc": "s",
+      "name": "Aschau",
+      "lng": 12.35611,
+      "lat": 47.754
+    },
+    {
+      "name": "Kristiansund",
+      "per": "yt",
+      "id": "JJuaHGhd8g8",
+      "type": "sea",
+      "lng": 7.732462787363848,
+      "lat": 63.12066643868977
+    },
+    {
+      "name": "Geiranger",
+      "per": "yt",
+      "id": "yMSc-qqW3To",
+      "type": "sea",
+      "lng": 7.204970092647641,
+      "lat": 62.10224348400285
+    },
+    {
+      "name": "Offenburg",
+      "url": "https://guidogegg.roundshot.com/",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.9396,
+      "lat": 48.478653
+    },
+    {
+      "name": "Näfels",
+      "url": "https://konditoreimueller.roundshot.com/",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.06514,
+      "lat": 47.09964
+    },
+    {
+      "name": "Füssen - Hopfensee",
+      "url": "https://hoteleggensberger.roundshot.com/",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 10.68214,
+      "lat": 47.60907
+    },
+    {
+      "name": "Ofterschwang - Sonnenalp",
+      "url": "https://soalp.roundshot.com/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 10.256579,
+      "lat": 47.489648
+    },
+    {
+      "name": "Mount Buller",
+      "url": "https://mtbuller.roundshot.com/pendergast-hut/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 146.4309658,
+      "lat": -37.1467396
+    },
+    {
+      "name": "Jahorina",
+      "url": "https://jahorina.roundshot.com/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 18.56787,
+      "lat": 43.734818
+    },
+    {
+      "name": "Heiligenschwendi",
+      "url": "https://rehabern.roundshot.com/",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 7.693407,
+      "lat": 46.749611
+    },
+    {
+      "name": "Flughafen St. Gallen - Altenrhein",
+      "url": "https://lszr.roundshot.com/",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.551886,
+      "lat": 47.484427
+    },
+    {
+      "name": "Абрау-Дюрсо",
+      "url": "https://abrau.roundshot.com/",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 37.60081999494759,
+      "lat": 44.71093344699333
+    },
+    {
+      "name": "Stellenbosch",
+      "url": "https://granddomaine.roundshot.com/",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 18.8065,
+      "lat": -33.900005
+    },
+    {
+      "name": "Oberdorf - Hotel Weissenstein",
+      "url": "https://hotelweissenstein.roundshot.com/",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 7.50867,
+      "lat": 47.2517
+    },
+    {
+      "name": "Arosa - Maran - Golf",
+      "url": "https://hofmaranhotel.roundshot.com/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.68155,
+      "lat": 46.7930084
+    },
+    {
+      "name": "Brienz Rothorn",
+      "url": "https://brienzrothorn.roundshot.com/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.04163,
+      "lat": 46.78761
+    },
+    {
+      "name": "Chur",
+      "url": "https://churtourismus.roundshot.com/",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.541719,
+      "lat": 46.861134
+    },
+    {
+      "url": "https://leukerbad.roundshot.com/thermalbad/",
+      "name": "Leukerbad",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.6255,
+      "lat": 46.37776
+    },
+    {
+      "url": "https://tarabellahotel.roundshot.com/",
+      "name": "Forte dei Marmi",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 10.16149,
+      "lat": 43.967626
+    },
+    {
+      "url": "https://hotel-hubertus.roundshot.com/",
+      "name": "Balderschwang",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 10.105126,
+      "lat": 47.465106
+    },
+    {
+      "url": "https://esb.roundshot.com/",
+      "name": "Bienne",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 7.262396,
+      "lat": 47.142846
+    },
+    {
+      "url": "https://bergkristall.roundshot.com/",
+      "name": "Oberstaufen - Berg Kristall",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 10.002918610396891,
+      "lat": 47.54543097766877
+    },
+    {
+      "url": "https://gryon.roundshot.com/",
+      "name": "Gryon - Frience",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.103464,
+      "lat": 46.287915
+    },
+    {
+      "url": "https://zbag.roundshot.com/sunnegga/",
+      "name": "Zermatt - Sunnega - Matterhorn",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.770068,
+      "lat": 46.017246
+    },
+    {
+      "name": "Portland Headlight - Casco Bay",
+      "per": "yt",
+      "id": "1MnHRJyUgC8",
+      "type": "sea",
+      "lng": -70.20815607384228,
+      "lat": 43.62311723953521
+    },
+    {
+      "url": "https://www.astraservizi.it/viabilita/",
+      "name": "Col de Larche - Colle della Maddalena",
+      "iframesrcdesktop": "s",
+      "type": "road",
+      "lng": 6.924632391191086,
+      "lat": 44.402740279687826
+    },
+    {
+      "url": "https://www.limoges-webcam.com/live-webcam-limoges.htm",
+      "name": "Limoges",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 1.2532697795946397,
+      "lat": 45.837160377981654
+    },
+    {
+      "per": "frtl",
+      "id": "3040",
+      "type": "lake",
+      "iframesrc": "s",
+      "name": "Bad Endorf",
+      "lng": 12.29826,
+      "lat": 47.901021
+    },
+    {
+      "per": "frtl",
+      "id": "3051",
+      "type": "mountain",
+      "iframesrc": "s",
+      "name": "Oberjoch - Bad Hindelang",
+      "lng": 10.394094,
+      "lat": 47.517702
+    },
+    {
+      "per": "frtl",
+      "id": "3085",
+      "type": "mountain",
+      "iframesrc": "s",
+      "name": "Bad Reichenhall - Rupertus Therme",
+      "lng": 12.875926,
+      "lat": 47.731854
+    },
+    {
+      "per": "frtl",
+      "id": "3180",
+      "type": "mountain",
+      "iframesrc": "s",
+      "name": "Bad Reichenhall - Predigtstuhl",
+      "lng": 12.879024,
+      "lat": 47.69647
+    },
+    {
+      "per": "frtl",
+      "id": "3075",
+      "type": "lake",
+      "iframesrc": "s",
+      "name": "Bad Staffelstein - Oberfranken",
+      "lng": 10.989316,
+      "lat": 50.108638
+    },
+    {
+      "per": "frtl",
+      "id": "3280",
+      "type": "city",
+      "iframesrc": "s",
+      "name": "Bad Wörishofen",
+      "lng": 10.595761985852235,
+      "lat": 48.00365002284313
+    },
+    {
+      "per": "frtl",
+      "id": "3185",
+      "type": "mountain",
+      "iframesrc": "s",
+      "name": "Bayrischzell - Wendelstein",
+      "lng": 12.035118,
+      "lat": 47.663236
+    }
   ]
 }
+
+
+
