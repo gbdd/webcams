@@ -8071,15 +8071,6 @@
       "lat": 47.321296
     },
     {
-      "id": "151",
-      "url": "https://ksgr.roundshot.com/",
-      "name": "Chur",
-      "iframesrc": "s",
-      "type": "city",
-      "lng": 9.541719,
-      "lat": 46.861134
-    },
-    {
       "id": "57",
       "url": "https://lhm.roundshot.com/",
       "name": "Montana - Luzerner Höhenklinik",
@@ -8581,6 +8572,7 @@
     {
       "id": "726",
       "url": "https://ga-weissenstein.roundshot.com/weissenstein/",
+      "alturls": ["https://hotelweissenstein.roundshot.com/"],
       "name": "Weissenstein",
       "iframesrc": "s",
       "type": "country",
@@ -9815,7 +9807,8 @@
     {
       "id": "587",
       "url": "https://brambruesch.roundshot.com/",
-      "name": "Chur Bergbahnen",
+      "alturls": ["https://ksgr.roundshot.com/"],
+      "name": "Chur",
       "iframesrc": "s",
       "type": "mountain",
       "lng": 9.50279,
@@ -18660,14 +18653,6 @@
       "lat": -33.900005
     },
     {
-      "name": "Oberdorf - Hotel Weissenstein",
-      "url": "https://hotelweissenstein.roundshot.com/",
-      "iframesrc": "s",
-      "type": "country",
-      "lng": 7.50867,
-      "lat": 47.2517
-    },
-    {
       "name": "Arosa - Maran - Golf",
       "url": "https://hofmaranhotel.roundshot.com/",
       "iframesrc": "s",
@@ -18833,9 +18818,89 @@
       "name": "Bayrischzell - Wendelstein",
       "lng": 12.035118,
       "lat": 47.663236
+    },
+    {
+      "per": "frtl",
+      "id": "3007",
+      "type": "mountain",
+      "iframesrc": "s",
+      "name": "Berchtesgaden - Lockstein",
+      "lng": 13.04426,
+      "lat": 47.61041
+    },
+    {
+      "per": "frtl",
+      "id": "3345",
+      "type": "mountain",
+      "iframesrc": "s",
+      "name": "Bischofswiesen",
+      "lng": 12.937227,
+      "lat": 47.648145
+    },
+    {
+      "per": "frtl",
+      "id": "3088",
+      "type": "mountain",
+      "iframesrc": "s",
+      "name": "Bodenmais - Bayerischer Wald",
+      "lng": 13.156787,
+      "lat": 49.074113
+    },
+    {
+      "per": "frtl",
+      "id": "3236",
+      "type": "mountain",
+      "iframesrc": "s",
+      "name": "Bolsterlang Hörnerdörfer - Weiherkopf",
+      "lng": 10.201382,
+      "lat": 47.465261
+    },
+    {
+      "per": "frtl",
+      "id": "3024",
+      "type": "lake",
+      "iframesrc": "s",
+      "name": "Büchlberg",
+      "lng": 13.513419,
+      "lat": 48.670401
+    },
+    {
+      "per": "frtl",
+      "id": "3049",
+      "type": "mountain",
+      "iframesrc": "s",
+      "name": "Burgberg im Allgäu - Grüntengipfel",
+      "lng": 10.317145,
+      "lat": 47.553388
+    },
+    {
+      "per": "frtl",
+      "id": "3395",
+      "type": "city",
+      "iframesrc": "s",
+      "name": "Coburg - Stadtkirche St. Moriz",
+      "lng": 10.966187,
+      "lat": 50.257221
+    },
+    {
+      "per": "frtl",
+      "id": "3400",
+      "type": "city",
+      "iframesrc": "s",
+      "name": "Donauwörth",
+      "lng": 10.777375,
+      "lat": 48.71925
+    },
+    {
+      "per": "frtl",
+      "id": "3102",
+      "type": "country",
+      "iframesrc": "s",
+      "name": "Fichtelberg - Ochsenkopf",
+      "lng": 11.808469,
+      "lat": 50.030005
     }
   ]
 }
-
 
 
