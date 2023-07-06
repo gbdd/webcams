@@ -16419,8 +16419,9 @@
       "lat": 70.99259679931228
     },
     {
-      "name": "Longyearbyen",
+      "name": "Longyearbyen - Port",
       "url": "https://portlongyear.kystnor.no/",
+      "alturls": ["https://weathercam.kystnor.no/port-of-longyear"],
       "iframesrc": "s",
       "type": "sea",
       "lng": 15.59739511773163,
@@ -16429,6 +16430,7 @@
     {
       "name": "Vettre - Leangbukten Båtforening",
       "url": "https://leangbukten.kystnor.no/",
+      "alturls": ["https://weathercam.kystnor.no/leangbukten/"],
       "iframesrc": "s",
       "type": "sea",
       "lng": 10.478388198679108,
@@ -18899,8 +18901,72 @@
       "name": "Fichtelberg - Ochsenkopf",
       "lng": 11.808469,
       "lat": 50.030005
+    },
+    {
+      "name": "Amsterdam",
+      "per": "yt",
+      "id": "R3YNscjcJOk",
+      "type": "city",
+      "lng": 4.894110465631255,
+      "lat": 52.372522760299006
+    },
+    {
+      "name": "Scheveningen - Den Haag",
+      "per": "yt",
+      "id": "sAItdwyTk2w",
+      "type": "sea",
+      "lng": 4.261488587891411,
+      "lat": 52.09932506708813
+    },
+    {
+      "name": "Longyearbyen",
+      "url": "https://lns-spitsbergen.kystnor.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 15.614039653576498,
+      "lat": 78.22488313783023
+    },
+    {
+      "name": "Bryne",
+      "url": "https://bryne.kystnor.no",
+      "alturls": ["https://weathercam.kystnor.no/bryne"],
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 5.650925335780055,
+      "lat": 58.734371534641895
+    },
+    {
+      "name": "Tromso - Lufthavn",
+      "url": "https://weathercam.kystnor.no/tromso-lufthavn/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 18.9085893597191,
+      "lat": 69.6788646678759
+    },
+    {
+      "name": "Svea",
+      "url": "https://weathercam.kystnor.no/svea-tower",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 16.73840914459838,
+      "lat": 77.89714204276524
+    },
+    {
+      "name": "Honningsvåg",
+      "url": "https://weathercam.kystnor.no/repvag-kraft",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 25.972943591235875,
+      "lat": 70.98176689173657
+    },
+    {
+      "name": "Kapp Amsterdam",
+      "url": "https://weathercam.kystnor.no/kapp-amsterdam/360",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 16.469794555498567,
+      "lat": 77.85553890769964
     }
   ]
 }
-
 
