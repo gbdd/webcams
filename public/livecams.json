@@ -18966,7 +18966,296 @@
       "type": "sea",
       "lng": 16.469794555498567,
       "lat": 77.85553890769964
+    },
+
+    {
+      "name": "Ny-Ålesund",
+      "url": "https://data.npolar.no/_file/zeppelin/camera/Latest/zeppCam2.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 11.8889,
+      "lat": 78.906756
+    },
+    {
+      "name": "Longyearbyen - Sentrum",
+      "url": "http://www.svein-nordahl.com/svalbard/webcam/webcam_LYB.php",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 15.665606,
+      "lat": 78.218197
+    },
+    {
+      "name": "Skarsvåg - Sentrum",
+      "per": "yt",
+      "id": "c4kpeZHcke8",
+      "type": "sea",
+      "lng": 25.81769,
+      "lat": 71.11049
+    },
+    {
+      "name": "Honningsvåg - Kamøyvær",
+      "per": "yt",
+      "id": "iXLaEkB3J0I",
+      "type": "sea",
+      "lng": 25.90575,
+      "lat": 71.04804
+    },
+    {
+      "name": "Mehamn - Oversikt",
+      "per": "yt",
+      "id": "mcO3I-8n42U",
+      "type": "sea",
+      "lng": 27.85391,
+      "lat": 71.03889
+    },
+    {
+      "name": "Kjøllefjord",
+      "url": "http://webcam.hotelnordkyn.no/",
+      "type": "sea",
+      "lng": 27.35331,
+      "lat": 70.94832
+    },
+    {
+      "name": "Hammerfest - Havna",
+      "per": "yt",
+      "id": "5VoO4DGb3K4",
+      "type": "sea",
+      "lng": 23.69003,
+      "lat": 70.66463
+    },
+    {
+      "name": "Båtsfjord - Neptunbukta",
+      "url": "https://weathercam.kystnor.no/neptunbukta",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 29.70722,
+      "lat": 70.62751
+    },
+    {
+      "name": "Talvik",
+      "per": "yt",
+      "id": "5AYG2upRvJY",
+      "type": "sea",
+      "lng": 22.93966,
+      "lat": 70.04476
+    },
+    {
+      "name": "Kirkenes - Fra Lyngberget",
+      "per": "yt",
+      "id": "FViNYIkDVog",
+      "type": "sea",
+      "lng": 30.11466,
+      "lat": 69.75075
+    },
+    {
+      "name": "Kirkenes - Sentrum",
+      "per": "yt",
+      "id": "69qgs-4i1T8",
+      "type": "city",
+      "lng": 30.04489,
+      "lat": 69.72828
+    },
+    {
+      "name": "Kirkenes - Fjorden",
+      "per": "yt",
+      "id": "UE4MDRNwGU8",
+      "type": "sea",
+      "lng": 30.04508,
+      "lat": 69.72827
+    },
+    {
+      "name": "Kirkenes - Fra Prestefjellet",
+      "per": "yt",
+      "id": "AlmEAcZ0Crc",
+      "type": "sea",
+      "lng": 30.04758,
+      "lat": 69.71711
+    },
+    {
+      "name": "Tromsø - Fra universitetet",
+      "url": "http://weather.cs.uit.no/panorama/",
+      "iframesrcdesktop": "s",
+      "type": "sea",
+      "lng": 18.97780,
+      "lat": 69.68185
+    },
+    {
+      "name": "Tromsø - Vervet",
+      "per": "yt",
+      "id": "zKpPfH8u3GI",
+      "type": "sea",
+      "lng": 18.96288,
+      "lat": 69.64990
+    },
+    {
+      "name": "Lyngseidet",
+      "url": "https://embed.metnet.no/?dash=NsotHtu32M",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 20.22397,
+      "lat": 69.57106
+    },
+    {
+      "name": "Skorovatn",
+      "url": "https://embed.metnet.no/?dash=d6SYnlYUSZ",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 13.099043204902548,
+      "lat": 64.6460108758107
+    },
+    {
+      "name": "Skaland",
+      "url": "https://www.senjavista.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 17.23783,
+      "lat": 69.41268
+    },
+    {
+      "name": "Grunnfarnes",
+      "url": "https://grunnfarnes.no/kamera/",
+      "iframesrc": "https://open.ivideon.com/embed/v3/?server=100-Nrh4R5YoIrb8R3CR3st5hR&camera=131072",
+      "type": "sea",
+      "lng": 17.02783,
+      "lat": 69.30727
+    },
+    {
+      "name": "Пятигорск - Piatigorsk",
+      "url": "https://kanatkakmw.ru/",
+      "iframesrc": "https://open.ivideon.com/embed/v3/?server=100-3d215c9c51446d689ca1dd3b20f192ec&camera=0",
+      "type": "city",
+      "lng": 43.08150597866344,
+      "lat": 44.04436565859863
+    },
+    {
+      "name": "Finnsnes",
+      "url": "https://embed.metnet.no/?dash=PrRhUhtDuX",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 18.09647,
+      "lat": 69.23179
+    },
+    {
+      "name": "Målselv - Fjellandsby Toppskaret",
+      "url": "http://193.90.139.222:33450/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 18.72515,
+      "lat": 69.07945
+    },
+    {
+      "name": "Skrolsvik havn - Nord",
+      "url": "https://skrolsvika.no/____impro/1/tuborgen.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 16.81162,
+      "lat": 69.06761
+    },
+    {
+      "name": "Skrolsvik havn - Sør",
+      "url": "https://skrolsvika.no/____impro/1/haagen.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 16.81666,
+      "lat": 69.06444
+    },
+    {
+      "name": "Risøyhamn",
+      "url": "http://78.26.2.196:8092/cgi-bin/viewer/video.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 15.63702,
+      "lat": 68.96816
+    },
+    {
+      "name": "Harstad - Sollifjellet",
+      "url": "http://fonn-bygg.no//Sollifjell/Klimastasjon.htm",
+      "iframesrcdesktop": "s",
+      "type": "country",
+      "lng": 16.37646,
+      "lat": 68.80598
+    },
+    {
+      "name": "Harstad - Havnepromenaden",
+      "per": "yt",
+      "id": "fGE4zmYnU30",
+      "type": "sea",
+      "lng": 16.54796,
+      "lat": 68.80365
+    },
+    {
+      "name": "Harstad - Kanebogen",
+      "url": "https://www.kattebakken.no/utsikt/",
+      "iframesrc": "https://www.kattebakken.no/webcam/kvs_cam.php",
+      "type": "sea",
+      "lng": 16.54963,
+      "lat": 68.77311
+    },
+    {
+      "name": "Bø - Eidet",
+      "url": "http://linkativ.com/webcam/",
+      "iframesrcdesktop": "s",
+      "type": "sea",
+      "lng": 14.58158,
+      "lat": 68.73953
+    },
+    {
+      "name": "Bø - Fjærvoll",
+      "url": "https://fjærvollan.no/template/indexFull.php?block=webcam",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 14.43769,
+      "lat": 68.64653
+    },
+    {
+      "name": "Bø - Skagan",
+      "url": "https://obs-view.met.no/obswebcam/site_1_webcam_bovesteralen.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 14.43476,
+      "lat": 68.60728
+    },
+    {
+      "name": "Stokmarknes - Fra Nordlandssykehuset",
+      "url": "http://fondevik.no/stsh/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 14.911880,
+      "lat": 68.560211
+    },
+    {
+      "name": "Narvik - Fra Rådhuset",
+      "per": "yt",
+      "id": "Gz6hzqy_nUI",
+      "type": "city",
+      "lng": 17.42761,
+      "lat": 68.43893
+    },
+    {
+      "name": "Laukvik - Gjersvoll",
+      "url": "https://visitdreamcatcherretreat.com/webcam",
+      "iframesrcdesktop": "s",
+      "type": "sea",
+      "lng": 14.47704,
+      "lat": 68.39287
+    },
+    {
+      "name": "Laukvik - Havna",
+      "url": "http://laukvikcabins.no/webcamera-from-laukvik-lofoten-norway/",
+      "iframesrcdesktop": "s",
+      "type": "sea",
+      "lng": 14.41268,
+      "lat": 68.38571
+    },
+    {
+      "name": "Drag - Havna",
+      "per": "yt",
+      "id": "zwwBmLaNzOU",
+      "type": "sea",
+      "lng": 16.07527,
+      "lat": 68.04629
     }
+
   ]
 }
 
