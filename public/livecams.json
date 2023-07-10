@@ -11051,7 +11051,7 @@
     },
     {
       "name": "Canet en Roussillon - Le Port",
-      "url": "http://pv.viewsurf.com/382/Canet-en-Roussillon?i=MzI4ODp1bmRlZmluZWQ",
+      "url": "https://pv.viewsurf.com/382/Canet-en-Roussillon?i=MzI4ODp1bmRlZmluZWQ",
       "iframesrc": "s",
       "type": "sea",
       "lng": 3.0381034883170717,
@@ -16775,7 +16775,7 @@
     },
     {
       "name": "Seyne - Col du Fanget",
-      "url": "http://pv.viewsurf.com/352/HASF-16-Seyne-Col-du-Fanget?i=NjkxMjp1bmRlZmluZWQ",
+      "url": "https://pv.viewsurf.com/352/HASF-16-Seyne-Col-du-Fanget?i=NjkxMjp1bmRlZmluZWQ",
       "iframesrc": "s",
       "type": "mountain",
       "lng": 6.327078166410022,
@@ -16839,7 +16839,7 @@
     },
     {
       "name": "Buchlechenhof",
-      "url": "http://algund.panocloud.webcam/",
+      "url": "https://algund.panocloud.webcam/",
       "iframesrc": "s",
       "type": "country",
       "lng": 11.118926,
@@ -18978,7 +18978,7 @@
     },
     {
       "name": "Longyearbyen - Sentrum",
-      "url": "http://www.svein-nordahl.com/svalbard/webcam/webcam_LYB.php",
+      "url": "https://www.svein-nordahl.com/svalbard/webcam/webcam_LYB.php",
       "iframesrc": "s",
       "type": "sea",
       "lng": 15.665606,
@@ -19010,7 +19010,7 @@
     },
     {
       "name": "Kjøllefjord",
-      "url": "http://webcam.hotelnordkyn.no/",
+      "url": "https://webcam.hotelnordkyn.no/",
       "type": "sea",
       "lng": 27.35331,
       "lat": 70.94832
@@ -19073,7 +19073,7 @@
     },
     {
       "name": "Tromsø - Fra universitetet",
-      "url": "http://weather.cs.uit.no/panorama/",
+      "url": "https://weather.cs.uit.no/panorama/",
       "iframesrcdesktop": "s",
       "type": "sea",
       "lng": 18.97780,
@@ -19137,7 +19137,7 @@
     },
     {
       "name": "Målselv - Fjellandsby Toppskaret",
-      "url": "http://193.90.139.222:33450/",
+      "url": "https://193.90.139.222:33450/",
       "iframesrc": "s",
       "type": "mountain",
       "lng": 18.72515,
@@ -19160,16 +19160,8 @@
       "lat": 69.06444
     },
     {
-      "name": "Risøyhamn",
-      "url": "http://78.26.2.196:8092/cgi-bin/viewer/video.jpg",
-      "iframesrc": "s",
-      "type": "sea",
-      "lng": 15.63702,
-      "lat": 68.96816
-    },
-    {
       "name": "Harstad - Sollifjellet",
-      "url": "http://fonn-bygg.no//Sollifjell/Klimastasjon.htm",
+      "url": "https://fonn-bygg.no/Sollifjell/Klimastasjon.htm",
       "iframesrcdesktop": "s",
       "type": "country",
       "lng": 16.37646,
@@ -19193,7 +19185,7 @@
     },
     {
       "name": "Bø - Eidet",
-      "url": "http://linkativ.com/webcam/",
+      "url": "https://linkativ.com/webcam/",
       "iframesrcdesktop": "s",
       "type": "sea",
       "lng": 14.58158,
@@ -19216,14 +19208,6 @@
       "lat": 68.60728
     },
     {
-      "name": "Stokmarknes - Fra Nordlandssykehuset",
-      "url": "http://fondevik.no/stsh/",
-      "iframesrc": "s",
-      "type": "sea",
-      "lng": 14.911880,
-      "lat": 68.560211
-    },
-    {
       "name": "Narvik - Fra Rådhuset",
       "per": "yt",
       "id": "Gz6hzqy_nUI",
@@ -19241,7 +19225,7 @@
     },
     {
       "name": "Laukvik - Havna",
-      "url": "http://laukvikcabins.no/webcamera-from-laukvik-lofoten-norway/",
+      "url": "https://laukvikcabins.no/webcamera-from-laukvik-lofoten-norway/",
       "iframesrcdesktop": "s",
       "type": "sea",
       "lng": 14.41268,
