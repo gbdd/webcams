@@ -40,6 +40,7 @@ export const WebcamPopup: FC<PopupProps> = ({lc, setPreferred}): ReactElement =>
   
   const setPopupContentSize = (_mapWidth:number, _mapHeight:number) => {
     if ((typeof lc.iframesrc !== 'undefined')
+     || (LC.isYtLc(lc))
      || (!IS_MOBILE && (typeof lc.iframesrcdesktop !== "undefined"))) {
       if (typeof _mapWidth !== 'undefined') {
         setContentWidth(_mapWidth * 80 / 100);
