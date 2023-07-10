@@ -19238,7 +19238,242 @@
       "type": "sea",
       "lng": 16.07527,
       "lat": 68.04629
+    },
+    {
+      "name": "Svolvær - Hjellskjæret",
+      "url": "https://www.sveiseindustrien.no/?page_id=652",
+      "thumburl": "https://sveiseindustrien.norge.cam/image.jpg",
+      "type": "sea",
+      "lng": 14.57918,
+      "lat": 68.23961
+    },
+    {
+      "name": "Bodø - Bodøterminalen",
+      "per": "yt",
+      "id": "NjgJoPHFbCQ",
+      "type": "sea",
+      "lng": 14.39697,
+      "lat": 67.28945
+    },
+    {
+      "name": "Bodø - Fra Sjøgata 1",
+      "per": "yt",
+      "id": "04jMCyigPQM",
+      "type": "sea",
+      "lng": 14.37266,
+      "lat": 67.28324
+    },
+    {
+      "name": "Bodø - Fra Molostua",
+      "per": "yt",
+      "id": "ZbKYp5ulmCM",
+      "type": "sea",
+      "lng": 14.36944,
+      "lat": 67.28018
+    },
+    {
+      "name": "Saltstraumen - Fra brua",
+      "per": "yt",
+      "id": "aEvudWsEbC4",
+      "type": "sea",
+      "lng": 14.61481,
+      "lat": 67.23178
+    },
+    {
+      "name": "Rødøy - Ytre Esvågen",
+      "url": "https://www.sniffnet.no/gjeroy/Gjeroy.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 13.02346,
+      "lat": 66.64143
+    },
+    {
+      "name": "Mosjøen - Forneset",
+      "url": "https://webcam.haugstad.com/",
+      "iframesrc": "https://webcam.haugstad.com/image.php",
+      "type": "sea",
+      "lng": 13.13595,
+      "lat": 65.92060
+    },
+    {
+      "name": "Horn",
+      "url": "https://banett.herokuapp.com/horn",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 12.30226,
+      "lat": 65.58196
+    },
+    {
+      "name": "Brønnøysund",
+      "url": "https://banett.herokuapp.com/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 12.19894,
+      "lat": 65.47327
+    },
+    {
+      "name": "Vennesund",
+      "url": "https://banett.herokuapp.com/vennesund",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 12.03922,
+      "lat": 65.21739
+    },
+    {
+      "name": "Velfjord",
+      "url": "https://velfjordferie.no/webkamera/kamera_vf.php",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 12.55517,
+      "lat": 65.40496
+    },
+    {
+      "name": "Overhalla",
+      "url": "https://www.overhalla.net/namsen/namsen.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 11.94631,
+      "lat": 64.49128
+    },
+    {
+      "name": "Osen - Ramsøyvika",
+      "url": "https://ramsoy.skorstad.name/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.41619,
+      "lat": 64.33031
+    },
+    {
+      "name": "Bessaker",
+      "url": "https://bessakermarina.no/webkamera/",
+      "iframesrc": "https://bessakermarina.no/kamera1.php",
+      "type": "sea",
+      "lng": 10.33451,
+      "lat": 64.25599
+    },
+    {
+      "name": "Holden",
+      "url": "https://holdenhf.no/cam/000M.jpg",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 11.05161,
+      "lat": 64.05360
+    },
+    {
+      "name": "Sparbu - Kringla",
+      "url": "https://weather.dyndns.org/www_docs/recent2.html",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 11.43415,
+      "lat": 63.95297
+    },
+    {
+      "name": "Frøya - Sula",
+      "url": "https://www.videoavisa.net/bilde2/kamera1000M.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 8.46257,
+      "lat": 63.84603
+    },
+    {
+      "name": "Frøya - Stabben fort",
+      "url": "https://www.videoavisa.com/KameraA/BildeA000M.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 8.31133,
+      "lat": 63.66363
+    },
+    {
+      "name": "Rissa - Hasselvika",
+      "url": "https://hbf.tlscam.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 9.82564,
+      "lat": 63.63337
+    },
+    {
+      "name": "Røysa småbåtshavn",
+      "url": "https://www.roysa.no/web-kamera-for-roysa",
+      "iframesrc": "https://www.roysa.no/wordpress/wp-content/uploads/camnord.jpg",
+      "type": "sea",
+      "lng": 9.60271,
+      "lat": 63.62015
+    },
+    {
+      "name": "Smøla - Havfiskesenter",
+      "per": "yt",
+      "id": "tz5u7zWL8Xo",
+      "type": "sea",
+      "lng": 8.06216,
+      "lat": 63.46090
+    },
+    {
+      "name": "Trondheim - Pirbadet",
+      "per": "yt",
+      "id": "cZa9JzbbZ3k",
+      "type": "sea",
+      "lng": 10.40243,
+      "lat": 63.44178
+    },
+    {
+      "name": "Kristiansund - Fra Grand",
+      "per": "yt",
+      "id": "HBR9vLAtLzc",
+      "type": "sea",
+      "lng": 7.73180,
+      "lat": 63.11001
+    },
+    {
+      "name": "Kristiansund - Fra Nordlandet",
+      "per": "yt",
+      "id": "fheGBQ9hQPw",
+      "type": "sea",
+      "lng": 7.75141,
+      "lat": 63.10984
+    },
+    {
+      "name": "Bud",
+      "per": "yt",
+      "id": "XcftFX_Cwy4",
+      "type": "sea",
+      "lng": 6.90733,
+      "lat": 62.90853
+    },
+    {
+      "name": "Eide",
+      "per": "yt",
+      "id": "DAZtQKreSl4",
+      "type": "mountain",
+      "lng": 7.432975172996521,
+      "lat": 62.91355311065967
+    },
+    {
+      "name": "Molde - Fra Molde Mølle",
+      "per": "yt",
+      "id": "m0dTtGEcPEg",
+      "type": "sea",
+      "lng": 7.18245,
+      "lat": 62.73640
+    },
+    {
+      "name": "Jørpeland - Vågen",
+      "per": "yt",
+      "id": "OHqNIOuH9c0",
+      "type": "sea",
+      "lng": 6.04119,
+      "lat": 59.01896
+    },
+    {
+      "name": "Stavanger - Tjuvholmen",
+      "per": "yt",
+      "id": "RA6Jm7sv_F4",
+      "type": "sea",
+      "lng": 5.72121,
+      "lat": 58.98188
     }
+
+  
+  
 
   ]
 }
