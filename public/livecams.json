@@ -19470,10 +19470,221 @@
       "type": "sea",
       "lng": 5.72121,
       "lat": 58.98188
+    },
+    {
+      "name": "Trondheim - Kanalen",
+      "url": "https://tsftp.no/Trondheim/cam82_1.jpg",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 10.39815,
+      "lat": 63.43499
+    },
+    {
+      "name": "Trondheim - Skansen småbåthavn",
+      "url": "https://tsftp.no/Trondheim/cam63_1.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.36666,
+      "lat": 63.43260
+    },
+    {
+      "name": "Meldal - Oversikt",
+      "url": "https://svorka.no/webcam/meldal/meldal000M.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.71305,
+      "lat": 63.05289
+    },
+    {
+      "name": "Duvåsen",
+      "url": "https://svorka.no/webcam/duvasen/duvasen1000M.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.13245,
+      "lat": 63.02560
+    },
+    {
+      "name": "Atlanterhavsveien - Sjøstuer",
+      "url": "https://g0.ipcamlive.com/player/player.php?alias=5ab3bb3ff0e8c&autoplay=1",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 7.42863,
+      "lat": 63.01218
+    },
+    {
+      "name": "Nedalshytta",
+      "url": "https://embed.metnet.no/?dash=W8ekncjFyL",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 12.10186,
+      "lat": 62.97847
+    },
+    {
+      "name": "Batnfjordsøra - Harstadfjellet",
+      "url": "https://batnfjord.no/wp-content/uploads/webcam01/k-2.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 7.69876,
+      "lat": 62.89983
+    },
+    {
+      "name": "Batnfjordsøra - Batnfjord Småbåthavn",
+      "url": "https://batnfjord.no/wp-content/uploads/webcam01/K-1.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 7.69183,
+      "lat": 62.89667
+    },
+    {
+      "name": "Molde - Kringsjå",
+      "url": "https://moldewebcams.net/webcam2/001M.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 7.14612,
+      "lat": 62.74452
+    },
+    {
+      "name": "Gjevillvasshytta",
+      "url": "https://embed.metnet.no/?dash=JmvEGZS58n",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.41978,
+      "lat": 62.69859
+    },
+    {
+      "name": "Oppdal",
+      "url": "https://moldewebcams.net/oppdal/002.jpg",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.69302,
+      "lat": 62.59298
+    },
+    {
+      "name": "Eikesdal - Hasselbo camping",
+      "url": "https://moldewebcams.net/camhasselbo/000.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 8.18338,
+      "lat": 62.55254
+    },
+    {
+      "name": "Ålesund - Hjelsetgården bobilparkering 2",
+      "url": "https://azpstasftp01.blob.core.windows.net/131061-01-parkcam/Hjelset_pano_hires.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.16032,
+      "lat": 62.47660
+    },
+    {
+      "name": "Ålesund - Hjelsetgården bobilparkering 1",
+      "url": "https://azpstasftp01.blob.core.windows.net/131061-01-parkcam/Hjelsethgaarden_hires.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.15779,
+      "lat": 62.47620
+    },
+    {
+      "name": "Ålesund - Hessa mot Sula",
+      "url": "https://www.sunnmore.info/hessa_kamera.php",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.144619,
+      "lat": 62.457737
+    },
+    {
+      "name": "Herøy - Runde Fyr",
+      "per": "yt",
+      "id": "wyeclXVpH90",
+      "type": "sea",
+      "lng": 5.587155749090018,
+      "lat": 62.41251441793265
+    },
+    {
+      "name": "Ulstein - Vikemarka",
+      "per": "yt",
+      "id": "V5hGdzshyfE",
+      "type": "sea",
+      "lng": 5.86202,
+      "lat": 62.34706
+    },
+    {
+      "name": "Norddal - Fra Muritunet",
+      "per": "yt",
+      "id": "4q9GsesAvVY",
+      "type": "sea",
+      "lng": 7.25395,
+      "lat": 62.29684
+    },
+    {
+      "name": "Sæbø",
+      "per": "yt",
+      "id": "SWZ5duigwIY",
+      "type": "sea",
+      "lng": 6.49818,
+      "lat": 62.20676
+    },
+    {
+      "name": "Vestkapp",
+      "type": "sea",
+      "lng": 5.12632,
+      "lat": 62.18652
+    },
+    {
+      "name": "Hellesylt - Sentrum",
+      "per": "yt",
+      "id": "ndhYKVzCIs8",
+      "type": "sea",
+      "lng": 6.86488,
+      "lat": 62.08533
+    },
+    {
+      "name": "Hellesylt - Cruisekaia",
+      "per": "yt",
+      "id": "S4aJlRY39fo",
+      "type": "sea",
+      "lng": 6.87462,
+      "lat": 62.08495
+    },
+    {
+      "name": "Kråkenes fyr",
+      "per": "yt",
+      "id": "okxd7RbQJ8s",
+      "type": "sea",
+      "lng": 4.98631,
+      "lat": 62.03409
+    },
+    {
+      "name": "Nave Hjortefarm",
+      "per": "yt",
+      "id": "0fTmFyQCxqc",
+      "type": "lake",
+      "lng": 5.49451,
+      "lat": 61.96278
+    },
+    {
+      "name": "Måløy - Havna",
+      "per": "yt",
+      "id": "-VxViCUlZVk",
+      "type": "sea",
+      "lng": 5.12770,
+      "lat": 61.93068
+    },
+    {
+      "name": "Nordfjordeid - Fjorden",
+      "per": "yt",
+      "id": "atjCv4LYjTI",
+      "type": "sea",
+      "lng": 5.98096,
+      "lat": 61.90967
+    },
+    {
+      "name": "Nordfjordeid - Turistskipskaia",
+      "per": "yt",
+      "id": "9CqfkbWgWEE",
+      "type": "sea",
+      "lng": 5.98704,
+      "lat": 61.90471
     }
-
-  
-  
 
   ]
 }
