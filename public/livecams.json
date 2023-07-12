@@ -19684,7 +19684,174 @@
       "type": "sea",
       "lng": 5.98704,
       "lat": 61.90471
+    },
+    {
+      "name": "Stordal - Overøye",
+      "per": "yt",
+      "id": "qwuLtrsOf3U",
+      "type": "mountain",
+      "lng": 7.21230,
+      "lat": 62.40891
+    },
+    {
+      "name": "Fjellsetra - Parkhytta",
+      "url": "https://embed.metnet.no/?dash=5dxOmmUwal",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.75892,
+      "lat": 62.34111
+    },
+    {
+      "name": "Fjellsetra - Bunn",
+      "url": "https://webcam.xi.no/image.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.76601,
+      "lat": 62.33662
+    },
+    {
+      "name": "Strandafjellet - Botnområdet Furset",
+      "url": "https://camera.strandafjellet.no:8444/axis-cgi/mjpg/video.cgi",
+      "type": "mountain",
+      "lng": 6.84098,
+      "lat": 62.29046
+    },
+    {
+      "name": "Strandafjellet - Topp Fursetheisa",
+      "url": "https://camera.strandafjellet.no:8442/axis-cgi/mjpg/video.cgi",
+      "type": "mountain",
+      "lng": 6.82210,
+      "lat": 62.28508
+    },
+    {
+      "name": "Bjorli - Skisenteret Topp Nortel",
+      "url": "https://assets2.webcam.io/w/z2k74M/latest_hd.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.22693,
+      "lat": 62.28059
+    },
+    {
+      "name": "Ørsta - Liadal",
+      "url": "https://liadal.info/Bilder/gl2web.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 5.99531,
+      "lat": 62.24200
+    },
+    {
+      "name": "Larsnes",
+      "url": "https://www.seljeseth.com/larsnes/webcam/index2.html",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 5.57237,
+      "lat": 62.20496
+    },
+    {
+      "name": "Norddal - Eidsvatnet",
+      "per": "yt",
+      "id": "xwlqkAniIhA",
+      "type": "lake",
+      "lng": 7.15161,
+      "lat": 62.19502
+    },
+    {
+      "name": "Volda - Skisenter bunn",
+      "url": "https://ftp.voldaskisenter.no/ftp/public_html/webcam.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.15190,
+      "lat": 62.15466
+    },
+    {
+      "name": "Bondalen - Skisenter hovudtrase",
+      "url": "https://www.orstaskisenter.no/img/webkamera/hovudtrase.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.28656,
+      "lat": 62.15079
+    },
+    {
+      "name": "Volda - Sentrum",
+      "url": "https://voldatannklinikk.no/webkamera2022/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.07047,
+      "lat": 62.14349
+    },
+    {
+      "name": "Skår",
+      "url": "https://www.sunnmore.info/skaar_kamera.php",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 5.69702,
+      "lat": 62.12998
+    },
+    {
+      "name": "Geiranger - Geiranger Camping",
+      "url": "https://www.geirangercamping.no/Bilde_10min/image.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 7.20725,
+      "lat": 62.09946
+    },
+    {
+      "name": "Syvde",
+      "url": "https://www.sunnmore.info/syvde_kamera.php",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 5.74043,
+      "lat": 62.07821
+    },
+    {
+      "name": "Dalsnibba",
+      "url": "https://www.dalsnibba.no/bildegalleri/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.27003,
+      "lat": 62.04911
+    },
+    {
+      "name": "Hornindal - Skisenter Topp",
+      "url": "https://webcam.rbt.no/hornindalski-avstigning/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.53556,
+      "lat": 62.01260
+    },
+    {
+      "name": "Hornindal - Skisenter Nedfart",
+      "url": "https://webcam.rbt.no/hornindalski-nedfart/",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.53780,
+      "lat": 62.01227
+    },
+    {
+      "name": "Hornindal - Hornindalsvatnet",
+      "url": "https://webcam.rbt.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.52795,
+      "lat": 61.97560
+    },
+    {
+      "name": "Harpefossen - Skileikområdet",
+      "url": "https://embed.metnet.no/?dash=q8N5LZhU4n",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 5.93224,
+      "lat": 61.95810
+    },
+    {
+      "name": "Veslebygda",
+      "url": "https://www.sunnmore.info/veslebygda_kamera.php",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.94128,
+      "lat": 61.93991
     }
+  
 
   ]
 }
