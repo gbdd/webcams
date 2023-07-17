@@ -19850,6 +19850,21 @@
       "type": "lake",
       "lng": 6.94128,
       "lat": 61.93991
+    },
+    {
+      "name": "Grundarfjordur",
+      "url": "https://rtsp.me/embed/DfNsRNZ8/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": -23.25540531511405,
+      "lat": 64.92557974868527 
+    },
+    {
+      "name": "Stykkisholmur",
+      "url": "https://livefromiceland.is/webcams/stykkisholmur",
+      "type": "sea",
+      "lng": -22.728492829159816,
+      "lat": 65.07730470205102
     }
   
 
