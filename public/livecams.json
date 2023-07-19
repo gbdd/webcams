@@ -2720,14 +2720,18 @@
     },
     {
       "name": "Gullfoss",
-      "url": "https://livefromiceland.is/webcams/gullfoss",
+      "alturls": ["https://livefromiceland.is/webcams/gullfoss"],
+      "per": "yt",
+      "id": "uoMYHfQGd10",
       "type": "lake",
       "lng": -20.125953490954288,
       "lat": 64.32490043819796
     },
     {
       "name": "Jökulsarlon - Glacier lagoon",
-      "url": "https://livefromiceland.is/webcams/jokulsarlon",
+      "alturls": ["https://livefromiceland.is/webcams/jokulsarlon"],
+      "per": "yt",
+      "id": "Flb8X7QQQKI",
       "type": "lake",
       "lng": -16.1803768227904,
       "lat": 64.04809134696416
@@ -16516,7 +16520,7 @@
       "lat": 61.885195735167656,
       "lng": 6.833312781492156,
       "name": "Loen Skylift - Hoven",
-      "type": "mountain",
+      "type": "sea",
       "url": "https://loenskylift.panomax.com/mt-hoven"
     },
     {
@@ -19865,9 +19869,90 @@
       "type": "sea",
       "lng": -22.728492829159816,
       "lat": 65.07730470205102
+    },
+    {
+      "name": "Tjörnin - Reykjavik",
+      "alturls": ["https://livefromiceland.is/webcams/reykjavikurtjorn"],
+      "per": "yt",
+      "id": "fLb8aYJkl3k",
+      "type": "lake",
+      "lng": -21.939836720245133,
+      "lat": 64.14567023455564
+    },
+    {
+      "name": "Húsavík",
+      "alturls": ["https://livefromiceland.is/webcams/husavik2"],
+      "per": "yt",
+      "id": "3-4P4wSEOW8",
+      "type": "sea",
+      "lng": -17.34320650150441,
+      "lat": 66.04659580296416
+    },
+    {
+      "name": "Reykjavik",
+      "per": "yt",
+      "id": "s1FNA6FSqjo",
+      "type": "city",
+      "lng": -21.91919501075366,
+      "lat": 64.12941410940174
+    },
+    {
+      "name": "Stryn - Fra Veten",
+      "url": "https://webcam.sicodata.no/cam/ftp_Vinsrygg/Vinsrygg000M.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.66580,
+      "lat": 61.90178
+    },
+    {
+      "name": "Høvringen - Rondeheim",
+      "url": "https://webinareksperten.no/images/rondeheim/live/000M.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.47230,
+      "lat": 61.88980
+    },
+    {
+      "name": "Høvringen - Smuksjøseter Fjellstue",
+      "url": "https://kamera.smuksjoseter.no/Snapshot000M.jpg",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 9.57427,
+      "lat": 61.88737
+    },
+    {
+      "name": "Vågå - Sentrum",
+      "url": "https://webfile.regiondata.no/vaga/webcam/sentrum.jpg",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.09597,
+      "lat": 61.87549
+    },
+    {
+      "name": "Olden",
+      "url": "https://webcam.sicodata.no/cam/ftp_olden/Olden000M.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.80470,
+      "lat": 61.83554
+    },
+    {
+      "name": "Galdhøpiggen  Sommerskisenter",
+      "url": "https://www.gpss.no/foto/image.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.36394,
+      "lat": 61.66504
+    },
+    {
+      "name": "Venabygdsfjell - Gunnarbu",
+      "url": "https://www.gunnarbu.com/var/cam.html",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 10.10032,
+      "lat": 61.62411
     }
   
-
   ]
 }
 
