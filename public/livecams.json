@@ -19951,6 +19951,206 @@
       "type": "country",
       "lng": 10.10032,
       "lat": 61.62411
+    },
+    {
+      "name": "Skeikampen - Topp Ole-express",
+      "url": "https://iframe.dacast.com/live/0fb3dfc2-27c0-5805-88be-bfae6ddf04f1/3c16203d-ff02-4935-b42a-28577365050d",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 10.08725,
+      "lat": 61.35033
+    },
+    {
+      "name": "Skeikampen - Mot toppen",
+      "url": "https://tdolillehammer.no/skeikampen/fjellet.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 10.08452,
+      "lat": 61.33808
+    },
+    {
+      "name": "Trysil - Toppekspressen Fageråsen",
+      "url": "https://www.skistar.com/no/vare-skisteder/trysil/vinter-i-trysil/var-og-bakker/webcams-trysil/WebCam/?webcamId=110",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 12.17669,
+      "lat": 61.30915
+    },
+    {
+      "name": "Trysil - Turistsenteret",
+      "url": "https://www.skistar.com/no/vare-skisteder/trysil/vinter-i-trysil/var-og-bakker/webcams-trysil/WebCam/?webcamId=39",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 12.24261,
+      "lat": 61.30696
+    },
+    {
+      "name": "Trysil - Skihytta",
+      "url": "https://www.skistar.com/no/vare-skisteder/trysil/vinter-i-trysil/var-og-bakker/webcams-trysil/WebCam/?webcamId=37",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 12.19416,
+      "lat": 61.30275
+    },
+    {
+      "name": "Hafjell - Mosetertoppen",
+      "per": "yt",
+      "id": "Hbzx_kQo9EQ",
+      "type": "mountain",
+      "lng": 10.49103,
+      "lat": 61.24413
+    },
+    {
+      "name": "Grønolen",
+      "url": "https://webcam.digital.as/oystre-slidre/beitostolen/gronolen/cam1/IMG-Now.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 8.83999,
+      "lat": 61.24074
+    },
+    {
+      "name": "Filefjell - Børrenøsheisen",
+      "url": "https://tyinfilefjell.no/kamera/video1.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.21754,
+      "lat": 61.18869
+    },
+    {
+      "name": "Arendal - lufthavn",
+      "url": "https://kamera.gullknapp.no/",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 8.70757,
+      "lat": 58.51943
+    },
+    {
+      "name": "Eikedalen skisenter - Vera/Tobiasheisen",
+      "per": "yt",
+      "id": "PzIBDB3eLw4",
+      "type": "mountain",
+      "lng": 5.91617,
+      "lat": 60.40662
+    },
+    {
+      "name": "Eikedalen skisenter - Bunn Tvillingtrekkene",
+      "per": "yt",
+      "id": "WAObs4KEsWI",
+      "type": "mountain",
+      "lng": 5.91587,
+      "lat": 60.40402
+    },
+    {
+      "name": "Halsnøy - Sæbøvik oversikt",
+      "per": "yt",
+      "id": "G84oDxGqoPQ",
+      "type": "sea",
+      "lng": 5.72190,
+      "lat": 59.79451
+    },
+    {
+      "name": "Vrådal - Vrådal Panorama fra toppen",
+      "per": "yt",
+      "id": "dxJ9swI8AOY",
+      "type": "mountain",
+      "lng": 8.43172,
+      "lat": 59.30043
+    },
+    {
+      "name": "Vrådal - Vrådal Panorama toppstasjon",
+      "per": "yt",
+      "id": "f20HVZTtTqQ",
+      "type": "mountain",
+      "lng": 8.43217,
+      "lat": 59.30014
+    },
+    {
+      "name": "Vik i Sogn - Fra Storesvingen",
+      "url": "https://www.vikjavev.no/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.56770,
+      "lat": 61.05795
+    },
+    {
+      "name": "Kragerø - Bærøfjorden",
+      "url": "https://www.ipcamlive.com/60a40104e6dfa",
+      "iframesrc": "https://g0.ipcamlive.com/player/player.php?alias=60a40104e6dfa",
+      "type": "sea",
+      "lng": 9.41378,
+      "lat": 58.87346
+    },
+    {
+      "name": "Gaustabanen - Toppen",
+      "url": "https://g0.ipcamlive.com/player/snapshot.php?alias=gabakontortopp",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.65626,
+      "lat": 59.84971
+    },
+    {
+      "name": "Rauland - Vierli barnebakken",
+      "url": "https://g0.ipcamlive.com/player/player.php?alias=vierlibarnebakke",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 8.16979,
+      "lat": 59.74663
+    },
+    {
+      "name": "Rauland - Rauland skisenter Holtar bunn",
+      "url": "https://g0.ipcamlive.com/player/player.php?alias=holtarbunnstasjon",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.14788,
+      "lat": 59.71653
+    },
+    {
+      "name": "Brokke skisenter - Toppen",
+      "url": "https://g0.ipcamlive.com/player/player.php?alias=oppe",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.45568,
+      "lat": 59.08643
+    },
+    {
+      "name": "Valdres alpinsenter - Topp Fjellstøl",
+      "url": "https://www.valdresalpin.com/ftp/valdres1.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.44294,
+      "lat": 60.93852
+    },
+    {
+      "name": "Valdres alpinsenter - Topp Turisten",
+      "url": "https://www.valdresalpin.com/ftp/valdres2.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.44333,
+      "lat": 60.93809
+    },
+    {
+      "name": "Valdres alpinsenter - Barnebakken",
+      "url": "https://www.valdresalpin.com/ftp/valdres.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.41946,
+      "lat": 60.93558
+    },
+    {
+      "name": "Hervik",
+      "url": "https://www.hervikcamping.no/webkamera/",
+      "iframesrc": "https://rtsp.me/embed/kriY4fE9/",
+      "type": "sea",
+      "lng": 5.60442,
+      "lat": 59.32598
+    },
+    {
+      "name": "Kristiansand - Torget",
+      "url": "https://www.sor.tv/tv/livekamera-torvet-kristiansand_a79a97ace.html",
+      "iframesrc": "https://mm.aftenposten.no/video/embed/?vendor=fvn&id=1004748@fvn",
+      "type": "city",
+      "lng": 7.99414,
+      "lat": 58.14569
     }
   
   ]
