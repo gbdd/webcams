@@ -20151,7 +20151,96 @@
       "type": "city",
       "lng": 7.99414,
       "lat": 58.14569
+    },
+    {
+      "name": "Leikanger",
+      "url": "https://leikangerfjordhotel.no/film/film000.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.79821,
+      "lat": 61.18347
+    },
+    {
+      "name": "Sjusjøen - Kvarstadsæter",
+      "url": "https://hwiig.no/birken/kvarstad/image.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 10.89440,
+      "lat": 61.17245
+    },
+    {
+      "name": "Rena - Sorknes Golfklubb",
+      "url": "https://g0.ipcamlive.com/player/player.php?alias=61ad2330dec4e",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 11.33435,
+      "lat": 61.16642
+    },
+    {
+      "name": "Lillehammer - Lysgårdsbakken topp",
+      "url": "https://hwiig.no/lov/1/image.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 10.49137,
+      "lat": 61.12648
+    },
+    {
+      "name": "Vang",
+      "url": "https://www.titodesign.no/live-24-7webcam.html",
+      "iframesrc": "https://rtsp.me/embed/KNr23i2T/",
+      "type": "lake",
+      "lng": 8.57021,
+      "lat": 61.12210
+    },
+    {
+      "name": "Vaset - Øvre Høyset",
+      "url": "https://www.hoyset.no/vaer-og-webkamera/",
+      "iframesrc": "https://www.hoyset.no/Umbraco/Surface/CameraSurface/Get",
+      "type": "country",
+      "lng": 8.94607,
+      "lat": 61.02527
+    },
+    {
+      "name": "Biristrand",
+      "url": "https://k1.grandalen.net/",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 10.45620,
+      "lat": 61.00515
+    },
+    {
+      "name": "Fagernes - Skiferplassen",
+      "url": "https://webcam.digital.as/nord-aurdal/fagernes/skiferplassen/IMG-Now.jpg",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 9.23738,
+      "lat": 60.98587
+    },
+    {
+      "name": "Fagernes - Fra Kviteberget",
+      "url": "http://webcam.digital.as/nord-aurdal/fagernes/kviteberg/4mm/IMG-Now.jpg",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 9.22063,
+      "lat": 60.98062
+    },
+    {
+      "name": "Fagernes - Fra Fejordet",
+      "url": "https://valdresprat.no/webcam/",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 9.27279,
+      "lat": 60.97967
+    },
+    {
+      "name": "Oslo - Oslo Golfklubb",
+      "url": "https://oslogk.no/webcam/000M.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 10.63947,
+      "lat": 59.96271
     }
+  
   
   ]
 }
