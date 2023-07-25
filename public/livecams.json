@@ -20239,8 +20239,223 @@
       "type": "country",
       "lng": 10.63947,
       "lat": 59.96271
+    },
+    {
+      "name": "Oslo - Fra rådhuset",
+      "url": "https://www.oslohavn.no/no/meny/webkamera/",
+      "iframesrc": "https://www.oslohavn.no/webcam/raadhusintranett.jpg",
+      "type": "sea",
+      "lng": 10.73302,
+      "lat": 59.91181
+    },
+    {
+      "name": "Fitjar",
+      "url": "https://embed.metnet.no/?dash=Q6SqPSEUju",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 5.37423,
+      "lat": 59.90860
+    },
+    {
+      "name": "Røldal - Skisenter Topp expressheis",
+      "url": "https://roldal.net/topp_ekspress.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.72966,
+      "lat": 59.82649
+    },
+    {
+      "name": "Røldal - Skisenter Mot toppen",
+      "url": "https://kamera.kamerakartet.no/0870a6f9ddaa999b83d941389c379958fbcc",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 6.73664,
+      "lat": 59.82711
+    },
+    {
+      "name": "Leirvik - Hamna indre",
+      "url": "https://www.stordbrannservice.no/kamera/J32/kamera.html",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 5.50110,
+      "lat": 59.77834
+    },
+    {
+      "name": "Blefjell - Blestølen",
+      "url": "https://glimmertoppen.no/blefjell.html",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.445192515850069,
+      "lat": 59.77100004666905
+    },
+    {
+      "name": "Drammen - Bragernes",
+      "url": "https://glimmertoppen.no/drammen.html",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 10.20985,
+      "lat": 59.74774
+    },
+    {
+      "name": "Horten - Oppstillingsplass ferge",
+      "url": "https://nettkamera.cid.no/hortenFergeHavn/current.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.48755,
+      "lat": 59.41293
+    },
+    {
+      "name": "Østre Bolæren - Gjestehavn syd",
+      "url": "https://www.bolaerne.no/wp-content/webcam/bolaerensyd.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.57002,
+      "lat": 59.20067
+    },
+    {
+      "name": "Hvaler - Skjærhalden Gjestehavn",
+      "url": "https://kamera.kamerakartet.no/1257b40d524e21f4e0be0fa1c0cf6bbbf285",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 11.03820,
+      "lat": 59.02524
+    },
+    {
+      "name": "Bortelid - Skisenter Dammen",
+      "url": "https://server.bortelid.no/cam/hd_webcam_4.jpg?fw=300",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.47239,
+      "lat": 58.82462
+    },
+    {
+      "name": "Flekkefjord - Tollbodbrygga",
+      "url": "https://www.avisenagder.no/static/local/webcam/000.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.65999,
+      "lat": 58.29461
+    },
+    {
+      "name": "Lindesnes - Lussevika",
+      "url": "https://kamera.kamerakartet.no/1973fba60aa7128d13c7050fd215dfc3e65a",
+      "iframesrc": "https://www.lussevika.com/Webcam3.jpg",
+      "type": "sea",
+      "lng": 7.20643,
+      "lat": 58.04120
+    },
+    {
+      "name": "Kristiansand - Korsvik Marina",
+      "url": "https://www.repvik.no/image2000M.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 8.07199,
+      "lat": 58.14206
+    },
+    {
+      "name": "Kristiansand - Gjestehavna Indre",
+      "url": "https://bilder.krsgjestehavn.no/oversikt.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 8.00297,
+      "lat": 58.14418
+    },
+    {
+      "name": "Sola - Solastranden Golfbane",
+      "url": "https://www.solagk.no/wp-content/uploads/webcamera/webcam_solastranden.html",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 5.61240,
+      "lat": 58.87659
+    },
+    {
+      "name": "Haglebu - Hamarberget",
+      "url": "https://www.eke.no/webcam/Hamarberget000M.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.1833308,
+      "lat": 60.3531454
+    },
+    {
+      "name": "Norheimsund - Framnes vidaregåande",
+      "url": "https://www.framnes.vgs.no/transfer/hegrehaugen.png",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.17976,
+      "lat": 60.34620
+    },
+    {
+      "name": "Skibyen",
+      "url": "https://skifilm.com/skibyen.no/webcam/skibyen.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 8.02205,
+      "lat": 60.65025
+    },
+    {
+      "name": "Danebu",
+      "url": "https://www.danebu.no/kongsgaarden/webkamera/",
+      "iframesrc": "https://video.nest.com/embedded/live/LlgmxrXNkI?autoplay=1",
+      "type": "country",
+      "lng": 9.43739,
+      "lat": 60.94320
+    },
+    {
+      "name": "Bergsjøområdet - Rødungstøl Høyfjellshotell",
+      "url": "https://www.webkamerahallingdal.no/rodungstolen/bilde000.jpg",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.25746,
+      "lat": 60.70911
+    },
+    {
+      "name": "Halden - Fra Halden sykehjem",
+      "url": "https://kunde.webkamera.no/?bAqKZM6VynSBemExP46WSlAmQJyogVFmOpKDJZV2IdgqrOW",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 11.37493,
+      "lat": 59.12806
+    },
+    {
+      "name": "Tjøme - Verdens ende",
+      "url": "https://www.tb.no/static/local/webkamera/VerdensEnde.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.40716,
+      "lat": 59.05827
+    },
+    {
+      "name": "Hønefoss - Eggemoen flyplass",
+      "url": "https://www.eggemoen.no/no/panorama",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 10.31715,
+      "lat": 60.21109
+    },
+    {
+      "name": "Hakadal - Varingskollen Skisenter",
+      "url": "https://www.skiforeningen.no/api/imageproxy/?contentId=8128",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 10.83686,
+      "lat": 60.10412
+    },
+    {
+      "name": "Aurlandsvangen",
+      "url": "https://www.norwaysbest.com/information/webcam/aurland-webcam/",
+      "iframesrc": "https://webcam.flam.no/Kjetil/aurland_web.jpg",
+      "type": "sea",
+      "lng": 7.1936400,
+      "lat": 60.9080200
+    },
+    {
+      "name": "Aurdal",
+      "url": "https://www.nettverkskamera.no/aurdalcamp.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.39218,
+      "lat": 60.91593
     }
-  
   
   ]
 }
