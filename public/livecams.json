@@ -20455,6 +20455,415 @@
       "type": "country",
       "lng": 9.39218,
       "lat": 60.91593
+    },
+    {
+      "name": "Flåm",
+      "url": "https://www.norwaysbest.com/information/webcam/flam-webcam/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 7.11317,
+      "lat": 60.86264
+    },
+    {
+      "name": "Vatnahalsen Høyfjellshotell",
+      "url": "https://vertigo.velero.no/vhh/vhh-bilde-vest.html",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 7.13155,
+      "lat": 60.74361
+    },
+    {
+      "name": "Ål - Skøytingset",
+      "url": "https://www.ishest.no/webcam2.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 8.70860,
+      "lat": 60.73764
+    },
+    {
+      "name": "Sauda",
+      "url": "https://www.saudambf.no/webcam/webcam1.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.33838,
+      "lat": 59.64444
+    },
+    {
+      "name": "Hurum - Storsand Båthavn ytre",
+      "url": "https://www.storsandbaathavn.no/webcam/indrehavn000M.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.60181,
+      "lat": 59.65703
+    },
+    {
+      "name": "Upsete",
+      "url": "https://upseteveret.no/Webkamera.htm",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 7.02004,
+      "lat": 60.72559
+    },
+    {
+      "name": "Bergsjøområdet - Gjetaberget",
+      "url": "https://www.tronrud.no/assets/webcam/www/bergsjo/image00001.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 8.27686,
+      "lat": 60.70142
+    },
+    {
+      "name": "Buvasstølan",
+      "url": "https://www.buvatn.no/vaer-og-fore/webkamera/#content",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.30091,
+      "lat": 60.66737
+    },
+    {
+      "name": "Geilo - Havsdalen Arneløypa",
+      "url": "https://webcam.infotec.no/Arneloypa.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.19741,
+      "lat": 60.54638
+    },
+    {
+      "name": "Geilo - Trollklubben",
+      "url": "https://webcam.infotec.no/GeiloHolidayVestlia.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 8.20026,
+      "lat": 60.52164
+    },
+    {
+      "name": "Bergen - Fløyen",
+      "url": "https://btweb.vosskom.no/bt_floyen_vest.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 5.34301,
+      "lat": 60.39470
+    },
+    {
+      "name": "Haglebu - Kollenseter",
+      "url": "https://www.eke.no/webcam/Kollenseter000M.jpg",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 9.2190126,
+      "lat": 60.3905848
+    },
+    {
+      "name": "Kinsarvik",
+      "url": "https://kreateo.com/webcam.php",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.72318,
+      "lat": 60.37683
+    },
+    {
+      "name": "Haglebu - Skisenter i bakken",
+      "url": "https://www.eke.no/webcam/Haglebu_heis000M.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 9.20377,
+      "lat": 60.34556
+    },
+    {
+      "name": "Jevnaker",
+      "url": "https://www.wenchebo.no/Weather/video/cam01/latest.jpg",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 10.34267,
+      "lat": 60.32829
+    },
+    {
+      "name": "Høgevarde - Fjellseterhaugen",
+      "url": "https://www.eke.no/webcam/HV3.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 9.48379,
+      "lat": 60.31660
+    },
+    {
+      "name": "Vikersund - Hvalknatten",
+      "url": "https://www.eke.no/webcam/Vikersund.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 10.04873,
+      "lat": 59.96740
+    },
+    {
+      "name": "Haslumseter",
+      "url": "https://www.haslumseter.no/webcam/lastimage.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 10.54294,
+      "lat": 59.97429
+    },
+    {
+      "name": "Seljestad - Korlevoll skistadion",
+      "url": "https://sorls.net/bilde000M.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 6.66226,
+      "lat": 59.88123
+    },
+    {
+      "name": "Halsnøy - Koløys Hytteutleie",
+      "url": "https://koloy.no/webkamera/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 5.74596,
+      "lat": 59.76823
+    },
+    {
+      "name": "Horten - Indre havn",
+      "url": "https://nettkamera.cid.no/hortenIndreHavn/current.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.48465,
+      "lat": 59.42299
+    },
+    {
+      "name": "Vrådal - Vrådal hyttegrend",
+      "url": "https://www.hyttepark.no/webcam/image.jpg",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 8.52071,
+      "lat": 59.30568
+    },
+    {
+      "name": "Østre Bolæren - Gjestehavn nord",
+      "url": "https://www.bolaerne.no/wp-content/webcam/bolaerennord.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.57003,
+      "lat": 59.20135
+    },
+    {
+      "name": "Skjeberg Marinesenter",
+      "url": "view-source:http://webcam.coresecurity.no/skjebergskilen-1.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 11.15733,
+      "lat": 59.17783
+    },
+    {
+      "name": "Fulehuk",
+      "url": "https://www.tenvik.info/webcam/fulehuknord.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.59921,
+      "lat": 59.17535
+    },
+    {
+      "name": "Hvaler - Kjerringholmen",
+      "url": "https://www.kjerringholmen.com/webcampictures/kjerringholmen_stor.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.98280,
+      "lat": 59.06230
+    },
+    {
+      "name": "Svenner fyr",
+      "url": "https://web.selarvik.no/svennerfyr/svenner.jpg",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 10.14792,
+      "lat": 58.96905
+    },
+    {
+      "name": "Forsand",
+      "url": "https://lysefjorden.no/webkamera/",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 6.09789,
+      "lat": 58.90557
+    },
+    {
+      "name": "Kragerø - Innseilingen",
+      "url": "https://g0.ipcamlive.com/player/player.php?alias=kragerosiden",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 9.40331,
+      "lat": 58.86580
+    },
+    {
+      "name": "Sandøya - Tvedestrand - Vestegårdkilen",
+      "per": "yt",
+      "id": "lOyMKnd2kKQ",
+      "type": "sea",
+      "lng": 9.03864,
+      "lat": 58.58333
+    },
+    {
+      "name": "Vennesla - Ålefjær",
+      "url": "https://weathercam.vennesla-ock.no/image.jpg",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": 7.98773,
+      "lat": 58.25284
+    },
+    {
+      "name": "Lindesnes - Lindesnes fyr",
+      "url": "https://cdn.stream.schibsted.media/embed/latest/iframe.html?id=1006588&provider=fvn&noads=true",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 7.04764,
+      "lat": 57.98233
+    },
+    {
+      "id": "1593",
+      "iframesrcdesktop": "s",
+      "lat": 46.64288,
+      "lng": 11.521032,
+      "name": "Sambergerhof",
+      "type": "mountain",
+      "url": "https://webcam.sambergerhof.com/"
+    },
+    {
+      "id": "1641",
+      "iframesrcdesktop": "s",
+      "lat": 47.280534,
+      "lng": 12.280884,
+      "name": "Wildkogel Arena - Wildkogel Bergstation",
+      "type": "mountain",
+      "url": "https://wildkogel-arena.panomax.com/wildkogelbahn-berg"
+    },
+    {
+      "id": "1670",
+      "iframesrcdesktop": "s",
+      "lat": 47.415348,
+      "lng": 13.479073,
+      "name": "Radstädter Hütte am Rossbrand",
+      "type": "mountain",
+      "url": "https://radstadt.panomax.com/rossbrand"
+    },
+    {
+      "id": "1694",
+      "iframesrcdesktop": "s",
+      "lat": 46.167423,
+      "lng": 10.80639,
+      "name": "Pinzolo",
+      "type": "mountain",
+      "url": "https://pinzolo.panomax.com/"
+    },
+    {
+      "id": "1699",
+      "iframesrcdesktop": "s",
+      "lat": 46.611097,
+      "lng": 7.943075,
+      "name": "Bergbahnen Männlichen 2",
+      "type": "mountain",
+      "url": "https://panocam.skiline.cc/maennlichen2"
+    },
+    {
+      "id": "1718",
+      "iframesrcdesktop": "s",
+      "lat": 47.644377,
+      "lng": 11.054922,
+      "name": "Hörnlebahn",
+      "type": "country",
+      "url": "https://oberammergau.panomax.com/hoernlebahn"
+    },
+    {
+      "id": "1719",
+      "iframesrcdesktop": "s",
+      "lat": 47.609838,
+      "lng": 11.024126,
+      "name": "Steckenberg",
+      "type": "mountain",
+      "url": "https://oberammergau.panomax.com/steckenberg"
+    },
+    {
+      "id": "1720",
+      "iframesrcdesktop": "s",
+      "lat": 47.590456,
+      "lng": 11.02677,
+      "name": "Kolbensattel",
+      "type": "mountain",
+      "url": "https://oberammergau.panomax.com/kolbensattel"
+    },
+    {
+      "id": "1731",
+      "iframesrcdesktop": "s",
+      "lat": 48.048469,
+      "lng": 10.877803,
+      "name": "Landsberg am Lech",
+      "type": "city",
+      "url": "https://landsberg.panomax.com/"
+    },
+    {
+      "id": "1752",
+      "iframesrcdesktop": "s",
+      "lat": 47.173527,
+      "lng": 11.85915,
+      "name": "Mayrhofen Zillertal - Gasthof Zimmereben",
+      "type": "mountain",
+      "url": "https://mayrhofen.panomax.com/zimmereben"
+    },
+    {
+      "id": "1753",
+      "iframesrcdesktop": "s",
+      "lat": 47.15606,
+      "lng": 11.862222,
+      "name": "Ortsblick Wiesenhof",
+      "type": "mountain",
+      "url": "https://mayrhofen.panomax.com/talblick"
+    },
+    {
+      "id": "1761",
+      "iframesrcdesktop": "s",
+      "lat": 48.529349,
+      "lng": 13.648778,
+      "name": "Untergriesbach",
+      "type": "country",
+      "url": "https://untergriesbach.panomax.com/"
+    },
+    {
+      "id": "1766",
+      "iframesrcdesktop": "s",
+      "lat": 47.226181,
+      "lng": 11.010953,
+      "name": "Kaiserbahn",
+      "type": "mountain",
+      "url": "https://kuehtai.panomax.com/kaiserbahn-winter"
+    },
+    {
+      "id": "1769",
+      "iframesrcdesktop": "s",
+      "lat": 47.209638,
+      "lng": 11.029519,
+      "name": "Wiesbergbahn",
+      "type": "mountain",
+      "url": "https://kuehtai.panomax.com/wiesbergbahn-winter"
+    },
+    {
+      "id": "1776",
+      "iframesrcdesktop": "s",
+      "lat": 47.660579,
+      "lng": 13.786368,
+      "name": "Loser Alm",
+      "type": "mountain",
+      "url": "https://loser.panomax.com/loser-alm"
+    },
+    {
+      "id": "1791",
+      "iframesrcdesktop": "s",
+      "lat": 47.598236,
+      "lng": 10.504169,
+      "name": "Nesselwang - Sportheim Böck",
+      "type": "mountain",
+      "url": "https://sportheim-boeck.panomax.com/"
+    },
+    {
+      "id": "1812",
+      "iframesrcdesktop": "s",
+      "lat": 47.794522,
+      "lng": 13.290866,
+      "name": "Fuschl Wesenauer",
+      "type": "lake",
+      "url": "https://fuschlseeregion.panomax.com/fuschl"
     }
   
   ]
