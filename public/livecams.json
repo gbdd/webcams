@@ -20864,6 +20864,294 @@
       "name": "Fuschl Wesenauer",
       "type": "lake",
       "url": "https://fuschlseeregion.panomax.com/fuschl"
+    },
+    {
+      "id": "1894",
+      "iframesrcdesktop": "s",
+      "lat": 46.561356,
+      "lng": 12.6848,
+      "name": "Sappada",
+      "type": "mountain",
+      "url": "https://sappada.panomax.com/"
+    },
+    {
+      "id": "1913",
+      "iframesrcdesktop": "s",
+      "lat": 46.678217,
+      "lng": 11.165088,
+      "name": "Vinea Tirol",
+      "type": "mountain",
+      "url": "https://vinea.panomax.com/"
+    },
+    {
+      "id": "1934",
+      "iframesrcdesktop": "s",
+      "lat": 46.96996,
+      "lng": 10.366263,
+      "name": "Alp Trida Sattel",
+      "type": "mountain",
+      "url": "https://samnaun.panomax.com/"
+    },
+    {
+      "id": "1945",
+      "iframesrcdesktop": "s",
+      "lat": 47.774068,
+      "lng": 13.352815,
+      "name": "St. Gilgen",
+      "type": "lake",
+      "url": "https://st-gilgen.panomax.com/"
+    },
+    {
+      "id": "1981",
+      "iframesrcdesktop": "s",
+      "lat": 46.097001,
+      "lng": 12.506446,
+      "name": "Piancavallo Sauc",
+      "type": "mountain",
+      "url": "https://piancavallo.panomax.com/"
+    },
+    {
+      "id": "2010",
+      "iframesrcdesktop": "s",
+      "lat": 47.919989,
+      "lng": 11.421646,
+      "name": "Weidachmühle",
+      "type": "city",
+      "url": "https://wolfratshausen.panomax.com/"
+    },
+    {
+      "id": "2028",
+      "iframesrcdesktop": "s",
+      "lat": 47.474516,
+      "lng": 11.187825,
+      "name": "Elmauer Alm",
+      "type": "mountain",
+      "url": "https://schloss-elmau.panomax.com/alm"
+    },
+    {
+      "id": "2052",
+      "iframesrcdesktop": "s",
+      "lat": 46.411817,
+      "lng": 12.044643,
+      "name": "Pezze",
+      "type": "mountain",
+      "url": "https://alleghe.panomax.com/pianidipezze"
+    },
+    {
+      "id": "2202",
+      "iframesrcdesktop": "s",
+      "lat": 48.422693,
+      "lng": 13.876926,
+      "name": "Donauschlinge Schlögen",
+      "type": "lake",
+      "url": "https://donauschlinge.panomax.com/"
+    },
+    {
+      "id": "2226",
+      "iframesrcdesktop": "s",
+      "lat": 47.302732,
+      "lng": 10.856975,
+      "name": "Imst-Nassereith",
+      "type": "mountain",
+      "url": "https://imst-nassereith.panomax.com/"
+    },
+    {
+      "id": "2398",
+      "iframesrcdesktop": "s",
+      "lat": 48.326059,
+      "lng": 14.070394,
+      "name": "Feldkirchen Badeseen",
+      "type": "lake",
+      "url": "https://feldkirchen.panomax.com/"
+    },
+    {
+      "id": "2403",
+      "iframesrcdesktop": "s",
+      "lat": 47.144112,
+      "lng": 10.929808,
+      "name": "Umhausen Vivea",
+      "type": "mountain",
+      "url": "https://umhausen.panomax.com/"
+    },
+    {
+      "id": "2412",
+      "iframesrcdesktop": "s",
+      "lat": 47.346575,
+      "lng": 11.128474,
+      "name": "Leutasch Moos",
+      "type": "country",
+      "url": "https://leutasch.panomax.com/rotmoos-moos"
+    },
+    {
+      "id": "2418",
+      "iframesrcdesktop": "s",
+      "lat": 47.378611,
+      "lng": 10.241187,
+      "name": "Oberstdorf Schrattenwang Berg",
+      "type": "mountain",
+      "url": "https://oberstdorf.panomax.com/schrattenwang"
+    },
+    {
+      "id": "2420",
+      "iframesrcdesktop": "s",
+      "lat": 47.503019,
+      "lng": 14.16547,
+      "name": "Thonnerhof Aigen im Ennstal",
+      "type": "mountain",
+      "url": "https://grimming.panomax.com"
+    },
+    {
+      "id": "2472",
+      "iframesrcdesktop": "s",
+      "lat": 48.369128,
+      "lng": 14.033075,
+      "name": "Aschach Faustschlössl",
+      "type": "lake",
+      "url": "https://aschach.panomax.com/"
+    },
+    {
+      "id": "2474",
+      "iframesrcdesktop": "s",
+      "lat": 47.055095,
+      "lng": 10.660231,
+      "name": "Ried im Oberinntal",
+      "type": "mountain",
+      "url": "https://tiroler-oberland.panomax.com/"
+    },
+    {
+      "id": "2491",
+      "iframesrcdesktop": "s",
+      "lat": 47.383601,
+      "lng": 14.121647,
+      "name": "Donnersbachwald",
+      "type": "mountain",
+      "url": "https://donnersbachwald.panomax.com/"
+    },
+    {
+      "id": "2649",
+      "iframesrcdesktop": "s",
+      "lat": 46.76912,
+      "lng": 10.799428,
+      "name": "Schnalstal Grawand",
+      "type": "mountain",
+      "url": "https://valsenales.panomax.com/grawand"
+    },
+    {
+      "id": "2693",
+      "iframesrcdesktop": "s",
+      "lat": 46.890164,
+      "lng": 13.794146,
+      "name": "Glockenhütte Nockalm",
+      "type": "mountain",
+      "url": "https://glockenhuette.panomax.com/"
+    },
+    {
+      "id": "2782",
+      "iframesrcdesktop": "s",
+      "lat": 47.374767,
+      "lng": 11.960705,
+      "name": "Inneralpbach Hotel Galtenberg",
+      "type": "mountain",
+      "url": "https://alpbach.panomax.com/galtenberg"
+    },
+    {
+      "id": "2850",
+      "iframesrcdesktop": "s",
+      "lat": 47.426061,
+      "lng": 10.941625,
+      "name": "Tiroler Zugspitzbahn Talstation",
+      "type": "mountain",
+      "url": "https://zugspitz-resort.panomax.com/"
+    },
+    {
+      "id": "2868",
+      "iframesrcdesktop": "s",
+      "lat": 47.545636,
+      "lng": 10.558912,
+      "name": "Hochalpbahn - Breitenbergbahn",
+      "type": "mountain",
+      "url": "https://pfronten.panomax.com/breitenbergbahn"
+    },
+    {
+      "id": "2871",
+      "iframesrcdesktop": "s",
+      "lat": 47.580898,
+      "lng": 10.57075,
+      "name": "Pfronten Alpenbad",
+      "type": "city",
+      "url": "https://pfronten.panomax.com/alpenbad"
+    },
+    {
+      "id": "2874",
+      "iframesrcdesktop": "s",
+      "lat": 47.558355,
+      "lng": 10.021738,
+      "name": "Rosenalp Oberstaufen",
+      "type": "city",
+      "url": "https://rosenalp.panomax.com/"
+    },
+    {
+      "id": "2895",
+      "iframesrcdesktop": "s",
+      "lat": 48.601676,
+      "lng": 13.779328,
+      "name": "Wegscheid",
+      "type": "city",
+      "url": "https://wegscheid.panomax.com/"
+    },
+    {
+      "id": "2929",
+      "iframesrcdesktop": "s",
+      "lat": 47.40254,
+      "lng": 12.250166,
+      "name": "Westendorf Fleiding",
+      "type": "mountain",
+      "url": "https://westendorf.panomax.com/fleiding"
+    },
+    {
+      "id": "2932",
+      "iframesrcdesktop": "s",
+      "lat": 46.698011,
+      "lng": 11.911944,
+      "name": "Piz de Plaies",
+      "type": "mountain",
+      "url": "https://pizdeplaies.panomax.com/"
+    },
+    {
+      "id": "2959",
+      "iframesrcdesktop": "s",
+      "lat": 46.724334,
+      "lng": 15.569641,
+      "name": "Gamlitz Wasserturm",
+      "type": "city",
+      "url": "https://gamlitz.panomax.com/"
+    },
+    {
+      "id": "3019",
+      "iframesrcdesktop": "s",
+      "lat": 48.684974,
+      "lng": 13.657766,
+      "name": "Aussichtsturm Oberfrauenwald",
+      "type": "country",
+      "url": "https://waldkirchen.panomax.com/aussichtsturm"
+    },
+    {
+      "id": "3042",
+      "iframesrcdesktop": "s",
+      "lat": 46.59305,
+      "lng": 13.712191,
+      "name": "Villacher Alpenstraße - Rosstratte",
+      "type": "mountain",
+      "url": "https://villacher-alpenstrasse.panomax.com/"
+    },
+    {
+      "id": "3063",
+      "iframesrcdesktop": "s",
+      "lat": 47.656001,
+      "lng": 11.517494,
+      "name": "Bayernhütte am Brauneck",
+      "type": "mountain",
+      "url": "https://bayernhuette.panomax.com/"
     }
   
   ]
