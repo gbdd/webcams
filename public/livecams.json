@@ -21152,8 +21152,63 @@
       "name": "Bayernhütte am Brauneck",
       "type": "mountain",
       "url": "https://bayernhuette.panomax.com/"
+    },
+    {
+      "name": "Le Sacré Cœur - Monmartre",
+      "per": "yt",
+      "id": "PnjX0u6B1yA",
+      "type": "city",
+      "lng": 2.3458528403321637,
+      "lat": 48.884075305157246
+    },
+    {
+      "name": "Brooklin Bridge - NYC",
+      "per": "yt",
+      "id": "KGuCGd726RA",
+      "type": "city",
+      "lng": -73.99416743112226,
+      "lat": 40.698365404356416
+    },
+    {
+      "name": "Lower Manhattan - NYC",
+      "per": "yt",
+      "id": "Vj0XKu6AoOw",
+      "type": "city",
+      "lng": -73.99434746321053,
+      "lat": 40.697999922469855
+    },
+    {
+      "name": "Akureyri",
+      "per": "yt",
+      "id": "aofZxPM0l58",
+      "type": "sea",
+      "lng": -18.04221581249057,
+      "lat": 65.6841203976782
+    },
+    {
+      "name": "Saguenay",
+      "per": "yt",
+      "id": "QhoS7vbuAWg",
+      "type": "lake",
+      "lng": -70.88297851920173,
+      "lat": 48.343989125873975
+    },
+    {
+      "name": "Chateau Frontenac",
+      "per": "yt",
+      "id": "0gYWLREFA3Y",
+      "type": "city",
+      "lng": -71.20510061645574,
+      "lat": 46.81475069393242
+    },
+    {
+      "name": "Port Huron",
+      "per": "yt",
+      "id": "6F1ABQXtCmI",
+      "type": "lake",
+      "lng": -82.42601198369422,
+      "lat": 42.99865437396889
     }
-  
   ]
 }
 
