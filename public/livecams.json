@@ -21208,7 +21208,24 @@
       "type": "lake",
       "lng": -82.42601198369422,
       "lat": 42.99865437396889
+    },
+    {
+      "url": "https://www.skaping.com/noumea/le-meridien-en",
+      "lng": 166.44928497648323,
+      "lat": -22.310883748990054,
+      "type": "sea",
+      "name": "Nouméa",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/mont-adstock/sommet",
+      "lng": -71.1981320839099,
+      "lat": 46.0310510157155,
+      "type": "country",
+      "name": "Mont Adstock",
+      "iframesrc": "s"
     }
+
   ]
 }
 
