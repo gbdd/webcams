@@ -21187,8 +21187,8 @@
     },
     {
       "name": "Saguenay",
-      "per": "yt",
-      "id": "QhoS7vbuAWg",
+      "url": "https://destination.saguenay.ca/fr/camera/",
+      "iframesrc": "s",
       "type": "lake",
       "lng": -70.88297851920173,
       "lat": 48.343989125873975
@@ -21224,6 +21224,57 @@
       "type": "country",
       "name": "Mont Adstock",
       "iframesrc": "s"
+    },
+    {
+      "url": "https://www.heidelberg-webcam.de/",
+      "lng": 8.70372110696039,
+      "lat": 49.41463021720577,
+      "type": "lake",
+      "name": "heidelberg",
+      "iframesrc": "s"
+    },
+    {
+      "name": "Heiligenblut - Großglockner",
+      "per": "frtl",
+      "id": "5230",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 12.85853,
+      "lat": 47.06362
+    },
+    {
+      "name": "Serfaus - FlyingCam",
+      "per": "frtl",
+      "id": "75680",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 10.581673410705845,
+      "lat": 47.03462964811686 
+    },
+    {
+      "name": "Lugano",
+      "url": "https://player.infomaniak.com/?channel=2155&player=1194",
+      "type": "lake",
+      "iframesrc": "s",
+      "lng": 8.94665335597807,
+      "lat": 45.9934380966334 
+    },
+    {
+      "name": "Nice - Plage",
+      "url": "https://pv.viewsurf.com/2040/Nice-plages-de-nice",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 7.279221485441313,
+      "lat": 43.69395472497453
+    },
+    {
+      "url": "http://webcam.csvts.cz/webcam-karluv-most.jpeg",
+      "iframesrcdesktop": "s",
+      "id": "4516",
+      "name": "Prague - Karlův most - Pont Charles",
+      "type": "city",
+      "lat": 50.085955951827835,
+      "lng": 14.41354842763394
     }
 
   ]
