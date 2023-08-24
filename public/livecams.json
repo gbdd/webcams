@@ -21269,7 +21269,7 @@
     },
     {
       "url": "http://webcam.csvts.cz/webcam-karluv-most.jpeg",
-      "iframesrcdesktop": "s",
+      "iframesrc": "s",
       "id": "4516",
       "name": "Prague - Karlův most - Pont Charles",
       "type": "city",
