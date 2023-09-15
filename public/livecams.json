@@ -21275,7 +21275,16 @@
       "type": "city",
       "lat": 50.085955951827835,
       "lng": 14.41354842763394
+    },
+    {
+      "url": "https://www.skaping.com/verdun-sur-le-doubs",
+      "lat": 46.8961850337512,
+      "lng": 5.025375939086461,
+      "type": "lake",
+      "name": "Verdun sur le doubs",
+      "iframesrc": "s"
     }
+
 
   ]
 }
