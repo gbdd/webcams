@@ -2720,18 +2720,14 @@
     },
     {
       "name": "Gullfoss",
-      "alturls": ["https://livefromiceland.is/webcams/gullfoss"],
-      "per": "yt",
-      "id": "uoMYHfQGd10",
+      "url": "https://livefromiceland.is/webcams/gullfoss",
       "type": "lake",
       "lng": -20.125953490954288,
       "lat": 64.32490043819796
     },
     {
       "name": "Jökulsarlon - Glacier lagoon",
-      "alturls": ["https://livefromiceland.is/webcams/jokulsarlon"],
-      "per": "yt",
-      "id": "Flb8X7QQQKI",
+      "url": "https://livefromiceland.is/webcams/jokulsarlon",
       "type": "lake",
       "lng": -16.1803768227904,
       "lat": 64.04809134696416
@@ -19872,18 +19868,14 @@
     },
     {
       "name": "Tjörnin - Reykjavik",
-      "alturls": ["https://livefromiceland.is/webcams/reykjavikurtjorn"],
-      "per": "yt",
-      "id": "fLb8aYJkl3k",
+      "url": "https://livefromiceland.is/webcams/reykjavikurtjorn",
       "type": "lake",
       "lng": -21.939836720245133,
       "lat": 64.14567023455564
     },
     {
       "name": "Húsavík",
-      "alturls": ["https://livefromiceland.is/webcams/husavik2"],
-      "per": "yt",
-      "id": "3-4P4wSEOW8",
+      "url": "https://livefromiceland.is/webcams/husavik2",
       "type": "sea",
       "lng": -17.34320650150441,
       "lat": 66.04659580296416
