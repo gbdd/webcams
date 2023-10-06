@@ -21275,9 +21275,15 @@
       "type": "lake",
       "name": "Verdun sur le doubs",
       "iframesrc": "s"
+    },
+    {
+      "name": "Baie de Morlaix - Ile aux Dames",
+      "url": "https://www.skaping.com/morlaix/ile-aux-dames",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": -3.883957,
+      "lat": 48.686201
     }
-
-
   ]
 }
 
