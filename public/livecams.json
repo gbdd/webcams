@@ -21283,6 +21283,38 @@
       "type": "sea",
       "lng": -3.883957,
       "lat": 48.686201
+    },
+    {
+      "name": "Ski Saint-Bruno | Forêt enchantée",
+      "url": "https://www.skaping.com/ski-saint-bruno/foret-enchantee",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": -73.33364609128107,
+      "lat": 45.55604880924722 
+    },
+    {
+      "name": "Ski Saint-Bruno | Sommet",
+      "url": "https://www.skaping.com/ski-saint-bruno/sommet",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": -73.32975019725139,
+      "lat": 45.554823495936596
+    },
+    {
+      "name": "Mont Rigaud - Front de neige",
+      "url": "https://www.skaping.com/mont-rigaud/base-montagne",
+      "iframesrc": "s",
+      "type": "country",
+      "lng": -74.33885415333755,
+      "lat": 45.46802384755532
+    },
+    {
+      "name": "Téléphérique du Salève",
+      "url": "https://www.skaping.com/telepherique-du-saleve",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 6.193171640924832,
+      "lat": 46.15447862042202
     }
   ]
 }
