@@ -21315,6 +21315,14 @@
       "type": "lake",
       "lng": 6.193171640924832,
       "lat": 46.15447862042202
+    },
+    {
+      "name": "Ovronnaz - Petit Pré",
+      "url": "https://www.ovronnaz.ch/_webcams/_webcams/petit_pre.jpg",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 7.125159141945487,
+      "lat": 46.2017515643669
     }
   ]
 }
