@@ -5209,15 +5209,6 @@
       "lat": 46.602292
     },
     {
-      "id": "3",
-      "url": "https://anzere.roundshot.com/pistes/",
-      "name": "Anz\u00e8re - Pas de Maimbr\u00e9",
-      "iframesrc": "s",
-      "type": "mountain",
-      "lng": 7.386036,
-      "lat": 46.312079
-    },
-    {
       "id": "681",
       "url": "https://hoernliberg.roundshot.com/",
       "name": "Arosa Bergbahnen - Hörnli",
@@ -21323,7 +21314,89 @@
       "type": "mountain",
       "lng": 7.125159141945487,
       "lat": 46.2017515643669
+    },
+    {
+      "name": "Zernez",
+      "url": "https://my.tikee.io/",
+      "iframesrc": "https://my.tikee.io/projects/188960/timelapse",
+      "type": "city",
+      "lng": 10.095079121364261,
+      "lat": 46.70162821795977
+    },
+    {
+      "name": "Massif de Charlevoix - Camp Boule",
+      "url": "https://www.skaping.com/massif-de-charlevoix/camp-boule",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -70.61558529599722,
+      "lat": 47.28228901323811
+    },
+    {
+      "name": "Mont Grand Fonds - Sommet",
+      "url": "https://www.skaping.com/mont-grand-fonds/sommet",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -70.08528648126735,
+      "lat": 47.77074494552832
+    },
+    {
+      "name": "Mont Grand Fonds - Base",
+      "url": "https://www.skaping.com/mont-grand-fonds/base",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": -70.10239131728389,
+      "lat": 47.77126544327701
+    },
+    {
+      "name": "Gaspé - Cap du bois brulé",
+      "url": "https://www.skaping.com/chalets-nautika",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": -64.2687721623801,
+      "lat": 48.70795245394507
+    },
+    {
+      "name": "Lac de Payolle",
+      "url": "https://www.skaping.com/campan/lac-de-payolle",
+      "iframesrc": "s",
+      "type": "lake",
+      "lng": 0.299006077166083,
+      "lat": 42.93561208112179
+    },
+    {
+      "name": "Anz\u00e8re - Pas de Maimbr\u00e9",
+      "url": "https://www.skaping.com/anzere/pas-de-maimbre",
+      "iframesrc": "s",
+      "type": "sea",
+      "lng": 7.385670492023639,
+      "lat": 46.31212108075694
+    },
+    {
+      "name": "Aubagne",
+      "url": "https://www.skaping.com/aubagne/centre",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 5.570292691479798,
+      "lat": 43.293475111127655
+    },
+    {
+      "name": "Savona - Isola di Bergeggi",
+      "url": "https://isolabergeggi.panomax.com/",
+      "iframesrcdesktop": "s",
+      "type": "sea",
+      "lng": 8.444752949512624,
+      "lat": 44.23404766451316
+    },
+    {
+      "url": "https://cortina.panomax.com/5torri",
+      "iframesrcdesktop": "s",
+      "id": "6192",
+      "name": "Cortina d'Ampezzo - 5 Torri",
+      "type": "mountain",
+      "lat": 46.508046595988844,
+      "lng": 12.046644620394025
     }
   ]
 }
+
 
