@@ -1438,6 +1438,14 @@
       "lat": 45.241869739306686
     },
     {
+      "url": "https://www.skaping.com/les-sybelles/saint-sorlin-d-arves/le-rouet",
+      "lng": 6.18279219,
+      "lat": 45.20911852,
+      "type": "mountain",
+      "name": "Saint-Sorlin-d'Arves - Les 3 Lacs",
+      "iframesrc": "s"
+    },
+    {
       "name": "Les Sybelles - Pierre du Turc",
       "url": "https://www.skaping.com/latoussuire/pierre-du-turc",
       "iframesrc": "s",
@@ -2111,6 +2119,38 @@
       "lat": 42.816759958746154
     },
     {
+      "url": "https://www.skaping.com/saint-lary/les-merlans/live/",
+      "lng": 0.22058487,
+      "lat": 42.82837815,
+      "type": "mountain",
+      "name": "Saint-Lary - Les Merlans",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/saint-lary/pla-adet/live/",
+      "lng": 0.29245734,
+      "lat": 42.81178928,
+      "type": "mountain",
+      "name": "Saint-Lary - Pla d'Adet",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/saint-lary/bouleaux/live",
+      "lng": 0.26519537,
+      "lat": 42.81369006,
+      "type": "mountain",
+      "name": "Saint Lary - Bouleaux",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/saint-lary/tourette/live/",
+      "lng": 0.23747206,
+      "lat": 42.82880292,
+      "type": "mountain",
+      "name": "Saint Lary - Tourette",
+      "iframesrc": "s"
+    },
+    {
       "name": "Lac d'Orédon",
       "url": "https://www.skaping.com/neouvielle/lac-oredon",
       "iframesrc": "s",
@@ -2189,6 +2229,14 @@
       "type": "mountain",
       "lng": 0.07872258719590502,
       "lat": 42.8947854201246
+    },
+    {
+      "url": "https://www.skaping.com/grandtourmalet/lamongie4termes",
+      "lng": 0.16460900,
+      "lat": 42.89494600,
+      "type": "mountain",
+      "name": "La Mongie 4 Termes 2250M",
+      "iframesrc": "s"
     },
     {
       "name": "Cauterets - Village",
@@ -2631,6 +2679,22 @@
       "lat": 48.03707650942661
     },
     {
+      "url": "https://www.skaping.com/la-bresse/haut-de-vologne",
+      "lng": 6.98800100,
+      "lat": 48.03404600,
+      "type": "mountain",
+      "name": "La Bresse - Haut de Vologne",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/la-bresse/hohneck",
+      "lng": 6.99861200,
+      "lat": 48.03276000,
+      "type": "mountain",
+      "name": "La Bresse - Sommet Chitelet",
+      "iframesrc": "s"
+    },
+    {
       "name": "La Bresse - Haut de Vologne",
       "url": "https://www.skaping.com/la-bresse/haut-de-vologne",
       "iframesrc": "s",
@@ -2813,14 +2877,6 @@
       "type": "city",
       "lng": 4.035539329942621,
       "lat": 49.226808050664715
-    },
-    {
-      "name": "Saint Lary - Merlans",
-      "url": "https://saintlary.roundshot.com/",
-      "iframesrc": "s",
-      "type": "mountain",
-      "lng": 0.2204495117145913,
-      "lat": 42.8277885405628
     },
     {
       "name": "Ascona Locarno",
@@ -7439,6 +7495,14 @@
       "iframesrc": "s"
     },
     {
+      "url": "https://www.skaping.com/saint-malo/port-des-sablons/le-mole/video",
+      "lng": -2.02744900,
+      "lat": 48.63828800,
+      "type": "sea",
+      "name": "Port des Sablons - Le Môle",
+      "iframesrc": "s"
+    },
+    {
       "url": "https://www.skaping.com/tournon/cave-de-tain",
       "lat": 45.06965600,
       "lng": 4.82716100,
@@ -7508,6 +7572,14 @@
       "lng": -2.49517500,
       "type": "sea",
       "name": "Batz-sur-Mer - Plage Valentin",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/batz-sur-mer/la-govelle",
+      "lng": -2.45394200,
+      "lat": 47.26655700,
+      "type": "sea",
+      "name": "Batz sur mer - La Govelle",
       "iframesrc": "s"
     },
     {
@@ -8813,15 +8885,6 @@
       "type": "lake",
       "lng": 6.144040767952195,
       "lat": 45.85956060151086
-    },
-    {
-      "name": "Col du Prorel",
-      "url": "https://app.webcam-hd.com/serrechevalier/col-du-prorel",
-      "thumburl": "https://www.trinum.com/ibox/ftpcam/small_serre-chevalier_col-du-prorel.jpg",
-      "iframesrc": "s",
-      "type": "mountain",
-      "lng": 6.575015975850366,
-      "lat": 44.90402912281556
     },
     {
       "name": "La Rosière",
@@ -21395,7 +21458,216 @@
       "type": "mountain",
       "lat": 46.508046595988844,
       "lng": 12.046644620394025
+    },
+    {
+      "name": "Briancon",
+      "url": "https://www.skaping.com/serre-chevalier/briancon",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 6.644262268771416,
+      "lat": 44.89998580764851
+    },
+    {
+      "url": "https://www.skaping.com/golf-du-gouverneur",
+      "lng": 4.93294716,
+      "lat": 45.96698011,
+      "type": "country",
+      "name": "Monthieux - Golf du Gouverneur",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/cluny-equivallee/carriere-de-l-abbaye",
+      "lng": 4.66231300,
+      "lat": 46.43680400,
+      "type": "city",
+      "name": "Cluny - Carrière de l'Abbaye",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/cluny-equivallee/carriere-de-la-tour-ronde",
+      "lng": 4.661878351877203,
+      "lat": 46.43637861416479,
+      "type": "city",
+      "name": "Cluny Equivallée - Carrière de la Tour Ronde",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/yacht-club-la-baule/video",
+      "lng": -2.42412284,
+      "lat": 47.27469259,
+      "type": "sea",
+      "name": "Yacht Club La Baule - Vidéo",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/granville-terre-mer/la-haye-pesnel",
+      "lng": -1.39701300,
+      "lat": 48.79651300,
+      "type": "city",
+      "name": "La Haye-Pesnel",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/granville-terre-mer/coudeville-sur-mer",
+      "lng": -1.57142000,
+      "lat": 48.88817200,
+      "type": "sea",
+      "name": "Coudeville-sur-Mer - Plage",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/granville-terre-mer/jullouville",
+      "lng": -1.57056300,
+      "lat": 48.76790400,
+      "type": "sea",
+      "name": "Jullouville - Plage des Plaisanciers",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/granville-terre-mer/saint-pair-sur-mer",
+      "lng": -1.57246800,
+      "lat": 48.81434500,
+      "type": "sea",
+      "name": "Saint-Pair-sur-Mer",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/granville-terre-mer/donville-les-bains/",
+      "lng": -1.59103700,
+      "lat": 48.84493400,
+      "type": "sea",
+      "name": "Donville-les-Bains",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/bastides-gorges-aveyron/villeneuve",
+      "lng": 2.03349531,
+      "lat": 44.43770593,
+      "type": "city",
+      "name": "Villeneuve",
+      "iframesrc": "s"
+    },
+    {
+      "name": "Toulouse",
+      "url": "https://www.vision-environnement.com/live/player/toulouse0.php",
+      "type": "lake",
+      "lng": 1.4321835041559534,
+      "lat": 43.603980527535384,
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/kerguelen/centre-nautique",
+      "lng": -3.40972100,
+      "lat": 47.70305100,
+      "type": "sea",
+      "name": "Larmor Plage - Kerguelen - Centre Nautique",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/camping-pen-er-malo-guidel",
+      "lng": -3.50339800,
+      "lat": 47.74644000,
+      "type": "sea",
+      "name": "Guidel - Pen Er Malo",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/pleneuf-val-andre/casino/",
+      "lng": -2.55301400,
+      "lat": 48.59088700,
+      "type": "sea",
+      "name": "Pléneuf - Le Val-André",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://skaping.com/beauvais/plan-d-eau-du-canada/live/",
+      "lng": 2.05739881,
+      "lat": 49.45405903,
+      "type": "lake",
+      "name": "Beauvais - Plan d'eau du Canada",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/angers/lac-de-maine",
+      "lng": -0.59257507,
+      "lat": 47.45912854,
+      "type": "lake",
+      "name": "Angers - Lac de Maine",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/port-de-plaisance/port-louis",
+      "lng": -3.35671900,
+      "lat": 47.71136800,
+      "type": "sea",
+      "name": "Port de plaisance - Port Louis",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/lampaul-plouarzel/la-corniche",
+      "lng": -4.76956844,
+      "lat": 48.46184878,
+      "type": "sea",
+      "name": "Lampaul Plouarzel - La Corniche",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/lampaul-plouarzel/porspaul",
+      "lng": -4.77688100,
+      "lat": 48.44586400,
+      "type": "sea",
+      "name": "Lampaul Plouarzel - Porspaul",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/le-barcares/dosses",
+      "lng": 3.02343965,
+      "lat": 42.83733193,
+      "type": "lake",
+      "name": "Le Barcarès - Les Dosses",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/saone-et-loire/vallee-des-maranges",
+      "lng": 4.65964615,
+      "lat": 46.91405911,
+      "type": "country",
+      "name": "Vallée des Maranges",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/chamonix/les-houches",
+      "lng": 6.79843600,
+      "lat": 45.88989700,
+      "type": "city",
+      "name": "Les Houches village ",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/chamonix/tete-de-balme",
+      "lng": 6.96245500,
+      "lat": 46.03042300,
+      "type": "mountain",
+      "name": "Le Tour - Tête de Balme",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/saint-brevin-les-pins/serpent-d-ocean",
+      "lng": -2.17019500,
+      "lat": 47.26785400,
+      "type": "sea",
+      "name": "Saint Brevin les Pins - Serpent d'Océan",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/les-sables-d-olonne/quai-dingler",
+      "lng": -1.79303000,
+      "lat": 46.49328300,
+      "type": "sea",
+      "name": "Les Sables d'Olonne - Quai Dingler",
+      "iframesrc": "s"
     }
+    
   ]
 }
 
