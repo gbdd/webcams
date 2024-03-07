@@ -838,6 +838,14 @@
       "lat": 46.15038238093593
     },
     {
+      "url": "https://www.skaping.com/morzine/office-de-tourisme",
+      "lng": 6.70358598,
+      "lat": 46.18144239,
+      "type": "city",
+      "name": "Morzine - Office de tourisme",
+      "iframesrc": "s"
+    },
+    {
       "name": "Salers",
       "url": "https://pv.viewsurf.com/2106/Salers",
       "iframesrc": "s",
@@ -967,7 +975,7 @@
     },
     {
       "name": "Nancy - Place Stanislas",
-      "url": "https://pv.viewsurf.com/1744/Nancy-Place-Stanislas-MBA?i=Njc2MDp1bmRlZmluZWQ",
+      "url": "https://www.skaping.com/nancy/place-stanislas/",
       "iframesrc": "s",
       "type": "city",
       "lng": 6.18249063039803,
@@ -980,6 +988,14 @@
       "type": "city",
       "lng": 6.183928591761523,
       "lat": 48.693243671652894
+    },
+    {
+      "url": "https://www.skaping.com/nancy/place-carriere",
+      "lng": 6.18106484,
+      "lat": 48.69671799,
+      "type": "city",
+      "name": "Nancy - Place de la Carrière",
+      "iframesrc": "s"
     },
     {
       "name": "Viaduc de Millau",
@@ -1262,6 +1278,22 @@
       "lat": 45.43073246736249
     },
     {
+      "url": "https://www.skaping.com/valdisere/fornet",
+      "lng": 7.01766000,
+      "lat": 45.44262000,
+      "type": "mountain",
+      "name": "Val d'Isère - Fornet",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/valdisere/pisaillas",
+      "lng": 7.04027295,
+      "lat": 45.42200218,
+      "type": "mountain",
+      "name": "Val d'Isère - Pisaillas",
+      "iframesrc": "s"
+    },
+    {
       "name": "Val d'Isère - Solaise",
       "url": "https://www.skaping.com/valdisere/solaise",
       "iframesrc": "s",
@@ -1462,6 +1494,14 @@
       "lat": 45.26635650035253
     },
     {
+      "url": "https://www.skaping.com/la-toussuire/front-de-neige",
+      "lng": 6.25595748,
+      "lat": 45.25569500,
+      "type": "mountain",
+      "name": "La Toussuire - Front de Neige",
+      "iframesrc": "s"
+    },
+    {
       "name": "Valloire - Poingt Ravier",
       "url": "https://www.skaping.com/valloire/poingt_ravier",
       "iframesrc": "s",
@@ -1519,7 +1559,7 @@
     },
     {
       "name": "Valfréjus - Punta Bagna",
-      "url": "https://www.skaping.com/valfrejus/puntabagna-location-valfrejus",
+      "url": "https://www.skaping.com/valfrejus/puntabagna",
       "iframesrc": "s",
       "type": "mountain",
       "lng": 6.670597548582063,
@@ -1734,6 +1774,14 @@
       "lat": 44.93161277267842
     },
     {
+      "url": "https://www.skaping.com/serre-chevalier/saint-chaffrey",
+      "lng": 6.58740342,
+      "lat": 44.93341916,
+      "type": "city",
+      "name": "Saint Chaffrey - Place du téléphérique",
+      "iframesrc": "s"
+    },
+    {
       "name": "Orcières - Plateau de Rocherousse",
       "url": "https://www.skaping.com/orcieres/plateau-de-rocherousse",
       "iframesrc": "s",
@@ -1853,6 +1901,14 @@
       "type": "mountain",
       "lng": 6.699155347196442,
       "lat": 44.57551301817934
+    },
+    {
+      "url": "https://www.skaping.com/vars/mayt",
+      "lng": 6.65314436,
+      "lat": 44.58705943,
+      "type": "mountain",
+      "name": "Vars - La Mayt",
+      "iframesrc": "s"
     },
     {
       "name": "Gréolières - Front de neige",
@@ -1999,6 +2055,14 @@
       "lat": 43.14944445156628
     },
     {
+      "url": "https://www.skaping.com/toulon/chalucet",
+      "lng": 5.92641800,
+      "lat": 43.12720400,
+      "type": "city",
+      "name": "Toulon - Chalucet",
+      "iframesrc": "s"
+    },
+    {
       "name": "Saint-Cyr-Sur-Mer / Les Lecques",
       "url": "https://www.skaping.com/saint-cyr-sur-mer",
       "iframesrc": "s",
@@ -2101,6 +2165,14 @@
       "type": "mountain",
       "lng": 0.44829371717466376,
       "lat": 42.78972635334286
+    },
+    {
+      "url": "https://www.skaping.com/peyragudes/belvedere",
+      "lng": 0.45630813,
+      "lat": 42.77449511,
+      "type": "mountain",
+      "name": "Peyragudes - Belvédère",
+      "iframesrc": "s"
     },
     {
       "name": "Loudenvielle - Tour de Génos",
@@ -2383,6 +2455,14 @@
       "lat": 47.02578754964671
     },
     {
+      "url": "https://www.skaping.com/noirmoutier/plage-de-barbatre",
+      "lng": -2.18084800,
+      "lat": 46.93720800,
+      "type": "sea",
+      "name": "Noirmoutier - Plage de Barbâtre",
+      "iframesrc": "s"
+    },
+    {
       "name": "Port du Bec",
       "url": "https://www.skaping.com/port-du-bec",
       "iframesrc": "s",
@@ -2415,12 +2495,28 @@
       "iframesrc": "s"
     },
     {
+      "url": "https://www.skaping.com/lorient/port-kernevel/",
+      "lng": -3.36905100,
+      "lat": 47.71888100,
+      "type": "sea",
+      "name": "Port du Kernével",
+      "iframesrc": "s"
+    },
+    {
       "name": "Lorient - Le Peristyle",
       "url": "https://www.skaping.com/lorient/maison-de-l-agglomeration",
       "iframesrc": "s",
       "type": "sea",
       "lng": -3.3510858002791157,
       "lat": 47.74404952616406
+    },
+    {
+      "url": "https://www.skaping.com/lorient/port-de-plaisance",
+      "lng": -3.35523200,
+      "lat": 47.74319000,
+      "type": "sea",
+      "name": "Port de Lorient",
+      "iframesrc": "s"
     },
     {
       "name": "Guidel - Plage du Loch",
@@ -7495,9 +7591,9 @@
       "iframesrc": "s"
     },
     {
-      "url": "https://www.skaping.com/saint-malo/port-des-sablons/le-mole/video",
-      "lng": -2.02744900,
-      "lat": 48.63828800,
+      "url": "https://www.skaping.com/saint-malo/port-des-sablons/mole",
+      "lng": -2.02824347484444563828800,
+      "lat": 48.64027536133022,
       "type": "sea",
       "name": "Port des Sablons - Le Môle",
       "iframesrc": "s"
@@ -11794,15 +11890,6 @@
       "lat": 46.293816
     },
     {
-      "name": "Dome des petites Rousses - 2807m",
-      "url": "https://app.webcam-hd.com/vaujany/sommet-28002800",
-      "thumburl": "https://srv01.trinum.com/ibox/ftpcam/small_vaujany_sommet-2800.jpg",
-      "iframesrc": "s",
-      "type": "mountain",
-      "lng": 6.106226,
-      "lat": 45.128317
-    },
-    {
       "name": "Flumet - 1027m",
       "url": "https://app.webcam-hd.com/val-d-arly/front-de-neige",
       "thumburl": "https://srv06.trinum.com/ibox/ftpcam/small_val-d-arly_front-de-neige.jpg",
@@ -13118,12 +13205,12 @@
       "lat": 47.724741
     },
     {
-      "name": "Luz-Adiden - Aulian - 1715m",
-      "url": "https://pv.viewsurf.com/1088/Luz-Ardiden-Front-de-Neige?i=NDk0NDp1bmRlZmluZWQ",
+      "url": "https://www.skaping.com/luz-ardiden/pourtere/",
+      "lng": -0.06093979,
+      "lat": 42.88464161,
       "type": "mountain",
-      "iframesrc": "s",
-      "lng": -0.060956,
-      "lat": 42.884911
+      "name": "LUZ ARDIDEN - POURTERE - 1950M",
+      "iframesrc": "s"
     },
     {
       "name": "Menton - Port de Garavan",
@@ -13142,11 +13229,12 @@
       "lat": 43.776677
     },
     {
-      "name": "Merlimont",
-      "url": "https://pv.viewsurf.com/1604/Merlimont-Plage?i=NjI1ODp1bmRlZmluZWQ",
+      "url": "https://www.skaping.com/merlimont",
+      "lng": 1.57253087,
+      "lat": 50.46291343,
       "type": "sea",
-      "lng": 1.572469,
-      "lat": 50.462946
+      "name": "Merlimont",
+      "iframesrc": "s"
     },
     {
       "name": "Neufchâtel-Hardelot",
@@ -13213,12 +13301,12 @@
       "lat": 47.110323
     },
     {
-      "name": "Pornichet",
-      "url": "https://pv.viewsurf.com/998/Pornichet?i=NDcyNjp1bmRlZmluZWQ",
+      "url": "https://www.skaping.com/pornichet/plage",
+      "lng": -2.34487100,
+      "lat": 47.26447300,
       "type": "sea",
-      "iframesrc": "s",
-      "lng": -2.344886,
-      "lat": 47.264469
+      "name": "Pornichet",
+      "iframesrc": "s"
     },
     {
       "name": "Port de Vilh",
@@ -13255,7 +13343,7 @@
     {
       "name": "Royan - Plage de Pontaillac",
       "url": "https://pv.viewsurf.com/1660/Royan-Plage-de-Pontaillac?i=NjQxNDp1bmRlZmluZWQ",
-      "type": "mountain",
+      "type": "sea",
       "iframesrc": "s",
       "lng": -1.052721,
       "lat": 45.627
@@ -13263,7 +13351,7 @@
     {
       "name": "Royan",
       "url": "https://pv.viewsurf.com/1828/Royan-Port?i=Njk0MDp1bmRlZmluZWQ",
-      "type": "mountain",
+      "type": "sea",
       "iframesrc": "s",
       "lng": -1.025755,
       "lat": 45.621221
@@ -21548,6 +21636,14 @@
       "iframesrc": "s"
     },
     {
+      "url": "https://www.skaping.com/bastides-gorges-aveyron/najac",
+      "lng": 1.97623570,
+      "lat": 44.21889550,
+      "type": "country",
+      "name": "Najac",
+      "iframesrc": "s"
+    },
+    {
       "name": "Toulouse",
       "url": "https://www.vision-environnement.com/live/player/toulouse0.php",
       "type": "lake",
@@ -21569,6 +21665,14 @@
       "lat": 47.74644000,
       "type": "sea",
       "name": "Guidel - Pen Er Malo",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/guidel/port-de-plaisance",
+      "lng": -3.52852200,
+      "lat": 47.77240100,
+      "type": "sea",
+      "name": "Port de Guidel",
       "iframesrc": "s"
     },
     {
@@ -21665,6 +21769,30 @@
       "lat": 46.49328300,
       "type": "sea",
       "name": "Les Sables d'Olonne - Quai Dingler",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/snsm/port-manech",
+      "lng": -3.73809200,
+      "lat": 47.80022200,
+      "type": "sea",
+      "name": "Port Manec'h",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/oz-en-oisans/station/",
+      "lng": 6.07061384,
+      "lat": 45.12633500,
+      "type": "mountain",
+      "name": "Oz-en-Oisans - Station",
+      "iframesrc": "s"
+    },
+    {
+      "url": "https://www.skaping.com/esparron-de-verdon",
+      "lng": 5.97337200,
+      "lat": 43.73090600,
+      "type": "lake",
+      "name": "Esparron-de-Verdon",
       "iframesrc": "s"
     }
     
