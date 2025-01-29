@@ -294,7 +294,7 @@
     {
       "name": "Vannes - le port",
       "per": "yt",
-      "id": "98w_URlftXA",
+      "id": "dXckWr5B8f8",
       "type": "city",
       "lng": -2.7587077,
       "lat": 47.6514481
@@ -318,7 +318,7 @@
     },
     {
       "name": "Port Navalo",
-      "url": "https://pv.viewsurf.com/628/Port-Navalo?i=MzcxMjp1bmRlZmluZWQ",
+      "url": "https://www.skaping.com/arzon/port-navalo/",
       "iframesrc": "s",
       "type": "sea",
       "lng": -2.9181018,
@@ -358,7 +358,7 @@
     },
     {
       "name": "Arzon - Port du Crouesty",
-      "url": "https://pv.viewsurf.com/1642/Port-du-Crouesty?i=NjM2MDp1bmRlZmluZWQ",
+      "url": "https://www.skaping.com/arzon/port-du-crouesty/panoramique",
       "iframesrc": "s",
       "type": "sea",
       "lng": -2.895077839803171,
@@ -366,7 +366,7 @@
     },
     {
       "name": "Arradon",
-      "url": "https://pv.viewsurf.com/2124/Port-d-Arradon-Mairie?i=NzY2ODp1bmRlZmluZWQ",
+      "url": "https://www.skaping.com/port-arradon/panoramique",
       "iframesrc": "s",
       "type": "sea",
       "lng": -2.8276164,
@@ -12877,6 +12877,14 @@
       "lat": 44.795545
     },
     {
+      "name": "Arvieux",
+      "url": "https://live.neos360.com/queyras/arvieux/index.php?view=krpano",
+      "type": "mountain",
+      "iframesrc": "s",
+      "lng": 6.755736860709153,
+      "lat": 44.77736326195045795545
+    },
+    {
       "name": "Auch",
       "url": "https://pv.viewsurf.com/1392/Auch?i=NTY2NDp1bmRlZmluZWQ",
       "type": "city",
@@ -21794,9 +21802,32 @@
       "type": "lake",
       "name": "Esparron-de-Verdon",
       "iframesrc": "s"
+    },
+    {
+      "name": "Refuge Durier",
+      "url": "https://my.tikee.io/projects/179811/timelapse",
+      "iframesrc": "https://my.tikee.io/iframe/6b573c38-6ff0-4431-8169-a675ec36b39a/gallery/9b38b455-4116-4b4a-98f9-da0f8b3de9ea?lang=en&image_size=hd&default_tab=single&allowed_viewer_types=single,compare,immersive,video&font_color=c4c4c4&primary_color=59554a&secondary_color=6f6a5d&highlight_font_color=ffffff",
+      "type": "mountain",
+      "lng": 6.796609730139028,
+      "lat": 45.83282379838855
+    },
+    {
+      "name": "Refuge de Tete Rousse",
+      "url": "https://my.tikee.io/projects/179811/timelapse",
+      "iframesrc": "https://my.tikee.io/iframe/5ba952b0-902b-4d85-a061-7a52bb72fa3a/gallery/c64fe41f-06f6-47d7-aa31-e5034e91f06c?lang=en&image_size=hd&default_tab=single&allowed_viewer_types=single,compare,immersive,video&font_color=c4c4c4&primary_color=59554a&secondary_color=6f6a5d&highlight_font_color=ffffff",
+      "type": "mountain",
+      "lng": 6.817457631636983,
+      "lat": 45.85495096111434
+    },
+    {
+      "name": "Guzet",
+      "url": "https://live.neos360.com/guzet/picou/index.php?view=krpano",
+      "iframesrc": "s",
+      "type": "mountain",
+      "lng": 1.30795755978284,
+      "lat": 42.7724717792963
     }
     
   ]
 }
-
 
