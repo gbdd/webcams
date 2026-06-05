@@ -21826,8 +21826,15 @@
       "type": "mountain",
       "lng": 1.30795755978284,
       "lat": 42.7724717792963
+    },
+    {
+      "name": "Mont Cindre",
+      "url": "https://app.webcam-hd.com/netsyst/mont-cindre",
+      "iframesrc": "s",
+      "type": "city",
+      "lng": 4.820161066437094,
+      "lat": 45.823128622075906
     }
-    
   ]
 }
 
